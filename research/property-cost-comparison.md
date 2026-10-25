@@ -61,6 +61,11 @@ The HTML total-expense column and CSV total_expenses fields use the broader owne
 | P43 | [37-20460 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20460+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $615,999 | $2,077 | $399 | $2,669 | $2,698 | $3,305 | $3,305 | not modelled |
 | P44 | [107-2228 Welcher Avenue](https://www.google.com/maps/search/?api=1&query=107-2228+Welcher+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | $564,900 | $1,787 | unknown | unknown | unknown | unknown | unknown | not modelled |
 | P45 | [4-12070 207a Street](https://www.google.com/maps/search/?api=1&query=4-12070+207a+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $599,900 | $1,986 | $400 | $4,192 | $2,735 | $3,335 | $3,335 | not modelled |
+| P46 | [231 Balmoral Place](https://www.google.com/maps/search/?api=1&query=231+Balmoral+Place%2C+Port+Moody%2C+BC%2C+Canada) | $748,000 | $2,826 | $375 | $4,132 | $3,546 | $4,207 | $4,207 | not modelled |
+| P47 | [461 Carlsen Place](https://www.google.com/maps/search/?api=1&query=461+Carlsen+Place%2C+Port+Moody%2C+BC%2C+Canada) | $880,000 | $3,575 | $562 | $3,600 | $4,437 | $5,153 | $5,153 | not modelled |
+| P48 | [520 Cardiff Way](https://www.google.com/maps/search/?api=1&query=520+Cardiff+Way%2C+Port+Moody%2C+BC%2C+Canada) | $824,800 | $3,262 | unknown | unknown | unknown | unknown | unknown | not modelled |
+| P49 | [23-15 Forest Park Way](https://www.google.com/maps/search/?api=1&query=23-15+Forest+Park+Way%2C+Port+Moody%2C+BC%2C+Canada) | $799,900 | $3,120 | unknown | unknown | unknown | unknown | unknown | not modelled |
+| P50 | [57-65 Foxwood Drive](https://www.google.com/maps/search/?api=1&query=57-65+Foxwood+Drive%2C+Port+Moody%2C+BC%2C+Canada) | $879,000 | $3,569 | unknown | unknown | unknown | unknown | unknown | not modelled |
 
 ## Mortgage sensitivity
 

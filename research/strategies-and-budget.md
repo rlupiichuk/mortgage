@@ -31,7 +31,7 @@ Initial research bands proposed by the assistant, not selected by the user:
 
 ## Renting instead
 
-See [rent vs buy](rent-vs-buy.md): renting an apartment at $2,700/month versus buying one of these homes, $250,000 down at 4.75% / 25 years, home values growing 2% a year, the $250,000 and the monthly surplus invested at 5% a year if renting, 5% selling costs on exit. At those assumptions renting leaves the household wealthier for 40 of the 41 homes with a known total at 5 years; only the cheapest home (P23, $479,900) breaks even by year 10. Most townhouses need 3.6–4.3% annual price growth to break even over 5 years. Buying in this sample is a lifestyle and stability decision — a yard, a school catchment, control over the home — not the wealth-maximizing one at 2% appreciation.
+See [rent vs buy](rent-vs-buy.md): renting an apartment at $2,700/month versus buying one of these homes, $250,000 down at 4.75% / 25 years, home values growing 2% a year, the $250,000 and the monthly surplus invested at 5% a year if renting, 5% selling costs on exit. At those assumptions renting leaves the household wealthier for 43 of the 43 homes with a known total at 5 years; only the cheapest home (P23, $479,900) breaks even by year 10. Most townhouses need 3.6–4.3% annual price growth to break even over 5 years. Buying in this sample is a lifestyle and stability decision — a yard, a school catchment, control over the home — not the wealth-maximizing one at 2% appreciation.
 
 ## Strategy comparison
 

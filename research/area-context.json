@@ -921,6 +921,109 @@
       "status": "Official park lead; public entrance and crossings unverified",
       "checked_on": "2026-10-25",
       "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P46": {
+      "name": "Noons Creek Park",
+      "address": null,
+      "url": "https://www.mypacer.com/parks/269118/noons-creek-park-port-moody",
+      "features": [
+        "Trails",
+        "Creek",
+        "Waterfront",
+        "Playground",
+        "Spray park"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        12,
+        35
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P47": {
+      "name": "Bert Flinn Park",
+      "address": null,
+      "url": "http://www.portmoody.ca/index.aspx?page=251",
+      "features": [
+        "Forest trails",
+        "Off-leash dog trail",
+        "Playgrounds on Heritage Mountain Blvd"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        18
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P48": {
+      "name": "Westhill Park",
+      "address": null,
+      "url": "https://www.portmoody.ca/en/recreation-parks-and-environment/off-leash-dog-parks.aspx",
+      "features": [
+        "Playground",
+        "Off-leash area",
+        "Waterfront",
+        "Trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        12,
+        40
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P49": {
+      "name": "Bert Flinn Park",
+      "address": null,
+      "url": "http://www.portmoody.ca/index.aspx?page=251",
+      "features": [
+        "Forest trails",
+        "Off-leash dog trail",
+        "Playgrounds on Heritage Mountain Blvd"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        8,
+        15
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P50": {
+      "name": "Bert Flinn Park",
+      "address": null,
+      "url": "http://www.portmoody.ca/index.aspx?page=251",
+      "features": [
+        "Forest trails",
+        "Off-leash dog trail",
+        "Playgrounds on Heritage Mountain Blvd"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        18
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",

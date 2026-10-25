@@ -53,6 +53,11 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [37-20460 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20460+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | Listing/nearby lead; verify | Not needed |
 | [107-2228 Welcher Avenue](https://www.google.com/maps/search/?api=1&query=107-2228+Welcher+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | [Central Community Elementary](https://www.sd43.bc.ca/central) → [Terry Fox Secondary](https://www.sd43.bc.ca/terryfox) | None established | Listing/nearby lead; verify | Not needed |
 | [4-12070 207a Street](https://www.google.com/maps/search/?api=1&query=4-12070+207a+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | [Fairview Elementary](https://elementary.sd42.ca/fairview/) → [Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/) | None established | Listing/nearby lead; verify | Not needed |
+| [231 Balmoral Place](https://www.google.com/maps/search/?api=1&query=231+Balmoral+Place%2C+Port+Moody%2C+BC%2C+Canada) | [Baker Drive Elementary](https://www.sd43.bc.ca/bakerdrive) → [Gleneagle Secondary](https://www.sd43.bc.ca/gleneagle) | None established | Listing/nearby lead; verify | Not needed |
+| [461 Carlsen Place](https://www.google.com/maps/search/?api=1&query=461+Carlsen+Place%2C+Port+Moody%2C+BC%2C+Canada) | [Eagle Ridge Elementary](https://www.sd43.bc.ca/eagleridge) → [Gleneagle Secondary](https://www.sd43.bc.ca/gleneagle) | None established | Listing/nearby lead; verify | Not needed |
+| [520 Cardiff Way](https://www.google.com/maps/search/?api=1&query=520+Cardiff+Way%2C+Port+Moody%2C+BC%2C+Canada) | [Seaview Community School](https://www.sd43.bc.ca/seaview) → [Port Moody Secondary School](https://www.sd43.bc.ca/portmoody/) | None established | Listing/nearby lead; verify | Not needed |
+| [23-15 Forest Park Way](https://www.google.com/maps/search/?api=1&query=23-15+Forest+Park+Way%2C+Port+Moody%2C+BC%2C+Canada) | [Aspenwood Elementary](https://www.sd43.bc.ca/aspenwood) → [Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods) | None established | Listing/nearby lead; verify | Not needed |
+| [57-65 Foxwood Drive](https://www.google.com/maps/search/?api=1&query=57-65+Foxwood+Drive%2C+Port+Moody%2C+BC%2C+Canada) | [Heritage Mountain Elementary](https://www.sd43.bc.ca/heritagemountain) → [Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -325,3 +330,33 @@ Official school identity pages verified; public listing/nearby leads only. No di
 Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit, with a correction: Zolo's nearby-school text names a 'Westview' elementary, but no Westview Elementary exists in SD42 — Fairview Elementary is used as the lead and Westview Secondary as the secondary. Verify via the SD42 locator.
 
 [Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/12070-207a-street/4) · [Official school identity: Fairview Elementary](https://elementary.sd42.ca/fairview/) · [Official school identity: Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/)
+
+### P46 — 231 Balmoral Place
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Baker Drive Elementary; Gleneagle Secondary). Other nearby leads: Moody Elementary, Dr. Charles Best Secondary, St Michaels (independent).
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-moody-real-estate/231-balmoral-place) · [Official school identity: Baker Drive Elementary](https://www.sd43.bc.ca/bakerdrive) · [Official school identity: Gleneagle Secondary](https://www.sd43.bc.ca/gleneagle)
+
+### P47 — 461 Carlsen Place
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Eagle Ridge Elementary; Gleneagle Secondary). Other nearby leads: Mountain Meadows Elementary, Dr. Charles Best Secondary, Archbishop Carney (independent), St Michaels (independent).
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-moody-real-estate/461-carlsen-place) · [Official school identity: Eagle Ridge Elementary](https://www.sd43.bc.ca/eagleridge) · [Official school identity: Gleneagle Secondary](https://www.sd43.bc.ca/gleneagle)
+
+### P48 — 520 Cardiff Way
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the neighbouring Easthill listing for 526 Cardiff Way ("10min walk to Seaview Elem., 15min to PM Secondary") — not this unit's own page.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/) · [Official school identity: Seaview Community School](https://www.sd43.bc.ca/seaview) · [Official school identity: Port Moody Secondary School](https://www.sd43.bc.ca/portmoody/)
+
+### P49 — 23-15 Forest Park Way
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads are the named Heritage Woods neighbourhood schools (Aspenwood Elementary; Heritage Woods Secondary); Eagle Mountain Middle is the area middle school.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/) · [Official school identity: Aspenwood Elementary](https://www.sd43.bc.ca/aspenwood) · [Official school identity: Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods)
+
+### P50 — 57-65 Foxwood Drive
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Heritage Mountain listing for 9-181 Ravine Drive ("directly across from Heritage Mountain Elementary School and within a 5-minute walk to both middle and high schools").
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/) · [Official school identity: Heritage Mountain Elementary](https://www.sd43.bc.ca/heritagemountain) · [Official school identity: Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods)

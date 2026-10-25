@@ -4519,6 +4519,506 @@
         "status": "Advertised; dimensions/rights unverified",
         "notes": "Single carport; 1 total parking space recorded."
       }
+    },
+    {
+      "id": "P46",
+      "address": "231 Balmoral Place",
+      "city": "Port Moody",
+      "neighbourhood": "North Shore Pt Moody",
+      "mls": "R3172688",
+      "strategy": "Resale townhouse",
+      "asking_price": 748000,
+      "beds_total": 3,
+      "baths_total": 2,
+      "interior_sqft": 1287,
+      "year_built": 2007,
+      "strata_monthly": 375.39,
+      "annual_tax": 4132.02,
+      "tax_year": 2025,
+      "yard": "Private yard; Fencing: Fenced; end unit; size/rights unverified",
+      "suite_status": "No rental suite modelled",
+      "rent_model": null,
+      "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
+      "transit": "Approximate weekday morning planning range; see route basis — bus + SkyTrain via Moody Centre Station.",
+      "school": "Preliminary listing/nearby school leads; not district-confirmed",
+      "next_gate": "Verify SD43 catchment via locator, confirm strata documents, yard exclusivity, why 241 days on market, and current availability before offer.",
+      "source": "https://www.zolo.ca/port-moody-real-estate/231-balmoral-place",
+      "secondary_source": "https://www.strawhomes.com/mls/port-moody/",
+      "parks_nearby": {
+        "status": "Park lead researched; route not audited",
+        "park_names": [
+          "Noons Creek Park",
+          "Rocky Point Park"
+        ],
+        "walking_minutes": null,
+        "walking_range_minutes": [
+          12,
+          35
+        ],
+        "walking_method": "Rough geocoded proximity estimate at family pace; not a network route",
+        "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking.",
+        "features": [
+          "Trails",
+          "Creek",
+          "Waterfront",
+          "Playground",
+          "Spray park"
+        ],
+        "source": "https://www.mypacer.com/parks/269118/noons-creek-park-port-moody",
+        "verified_on": "2026-10-25"
+      },
+      "street_setting": {
+        "status": "Desktop lead; unit exposure unresolved",
+        "major_road_frontage_or_rear_exposure": null,
+        "unit_position": null,
+        "traffic_and_noise": "Balmoral Place is a residential cul-de-sac off Noons Creek Drive; listing describes a quiet area — unit exposure and traffic/noise unverified.",
+        "school_park_route_crossings": "Crossings, sidewalks and public access not audited.",
+        "source": "https://www.zolo.ca/port-moody-real-estate/231-balmoral-place",
+        "verified_on": "2026-10-25",
+        "direct_busy_road_exposure_front_rear_or_side": null,
+        "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Added school lead research; no district-confirmed lookup.",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": "Weekday morning; no fixed arrival",
+        "observed_on": "2026-10-25",
+        "status": "Rough planning estimates; no new timed itinerary or road-network baseline",
+        "drive_range_minutes": [
+          35,
+          55
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": null,
+        "drive_estimate_basis": "Broad geography-based weekday range, not a traffic forecast; parking excluded.",
+        "transit_range_minutes": [
+          50,
+          70
+        ],
+        "transit_all_day_range_minutes": [
+          50,
+          80
+        ],
+        "transit_estimate_basis": "Bus to Moody Centre Station, then Millennium Line to Waterfront Station; listing states a 5-min walk to SkyTrain — unverified, likely Moody Centre/Inlet Centre via bus. No timed itinerary.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps"
+        ]
+      },
+      "tax_source": "https://www.zolo.ca/port-moody-real-estate/231-balmoral-place",
+      "parking_storage": {
+        "garage": "Tandem garage",
+        "covered_spaces": 2,
+        "total_spaces": 3,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.zolo.ca/port-moody-real-estate/231-balmoral-place",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; dimensions/rights unverified",
+        "notes": "Zolo structured data: 3 total spaces / 2 covered, tandem, garage yes; end unit."
+      }
+    },
+    {
+      "id": "P47",
+      "address": "461 Carlsen Place",
+      "city": "Port Moody",
+      "neighbourhood": "North Shore Pt Moody",
+      "mls": "R3149832",
+      "strategy": "Resale townhouse",
+      "asking_price": 880000,
+      "beds_total": 4,
+      "baths_total": 3,
+      "interior_sqft": 1662,
+      "year_built": 1979,
+      "strata_monthly": 561.74,
+      "annual_tax": 3600.24,
+      "tax_year": 2025,
+      "yard": "Garden, Balcony, Private Yard; size/rights unverified",
+      "suite_status": "No rental suite modelled",
+      "rent_model": null,
+      "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
+      "transit": "Approximate weekday morning planning range; see route basis — bus + SkyTrain via Inlet Centre/Moody Centre Station.",
+      "school": "Preliminary listing/nearby school leads; not district-confirmed",
+      "next_gate": "Verify SD43 catchment via locator, resolve covered-parking count conflict, confirm strata documents and depreciation report, yard exclusivity, and current availability before offer.",
+      "source": "https://www.zolo.ca/port-moody-real-estate/461-carlsen-place",
+      "secondary_source": "https://www.strawhomes.com/mls/port-moody/",
+      "parks_nearby": {
+        "status": "Park lead researched; route not audited",
+        "park_names": [
+          "Bert Flinn Park"
+        ],
+        "walking_minutes": null,
+        "walking_range_minutes": [
+          10,
+          18
+        ],
+        "walking_method": "Rough geocoded proximity estimate at family pace; not a network route",
+        "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking.",
+        "features": [
+          "Forest trails",
+          "Off-leash dog trail",
+          "Playgrounds on Heritage Mountain Blvd"
+        ],
+        "source": "http://www.portmoody.ca/index.aspx?page=251",
+        "verified_on": "2026-10-25"
+      },
+      "street_setting": {
+        "status": "Desktop lead; unit exposure unresolved",
+        "major_road_frontage_or_rear_exposure": null,
+        "unit_position": null,
+        "traffic_and_noise": "Carlsen Place is a residential cul-de-sac in North Shore Port Moody; unit exposure and traffic/noise unverified.",
+        "school_park_route_crossings": "Crossings, sidewalks and public access not audited.",
+        "source": "https://www.zolo.ca/port-moody-real-estate/461-carlsen-place",
+        "verified_on": "2026-10-25",
+        "direct_busy_road_exposure_front_rear_or_side": null,
+        "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Added school lead research; no district-confirmed lookup.",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": "Weekday morning; no fixed arrival",
+        "observed_on": "2026-10-25",
+        "status": "Rough planning estimates; no new timed itinerary or road-network baseline",
+        "drive_range_minutes": [
+          35,
+          55
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": null,
+        "drive_estimate_basis": "Broad geography-based weekday range, not a traffic forecast; parking excluded.",
+        "transit_range_minutes": [
+          55,
+          75
+        ],
+        "transit_all_day_range_minutes": [
+          55,
+          85
+        ],
+        "transit_estimate_basis": "Bus to Inlet Centre Station, then Millennium Line to Waterfront Station. No timed itinerary.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps"
+        ]
+      },
+      "tax_source": "https://www.zolo.ca/port-moody-real-estate/461-carlsen-place",
+      "parking_storage": {
+        "garage": "Tandem garage",
+        "covered_spaces": 1,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.zolo.ca/port-moody-real-estate/461-carlsen-place",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; dimensions/rights unverified",
+        "notes": "Zolo structured data conflicts within itself: 'Covered Spaces: 1' vs 'Covered Parking Places: 2'. Tandem, garage yes. Confirm with strata docs."
+      }
+    },
+    {
+      "id": "P48",
+      "address": "520 Cardiff Way",
+      "city": "Port Moody",
+      "neighbourhood": "College Park PM",
+      "mls": "R3168166",
+      "strategy": "Resale townhouse",
+      "asking_price": 824800,
+      "beds_total": 3,
+      "baths_total": 2,
+      "interior_sqft": 1802,
+      "year_built": null,
+      "strata_monthly": null,
+      "annual_tax": null,
+      "tax_year": null,
+      "yard": "Fully fenced yard; size/rights unverified",
+      "suite_status": "No rental suite modelled",
+      "rent_model": null,
+      "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
+      "transit": "Approximate weekday morning planning range; see route basis — bus + SkyTrain via Moody Centre Station.",
+      "school": "Preliminary listing/nearby school leads; not district-confirmed",
+      "next_gate": "Obtain strata fee, annual tax and year built for this unit (none found publicly), verify SD43 catchment via locator, confirm yard exclusivity and current availability before offer.",
+      "source": "https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/",
+      "secondary_source": "https://www.strawhomes.com/mls/port-moody/",
+      "parks_nearby": {
+        "status": "Park lead researched; route not audited",
+        "park_names": [
+          "Westhill Park",
+          "Rocky Point Park"
+        ],
+        "walking_minutes": null,
+        "walking_range_minutes": [
+          12,
+          40
+        ],
+        "walking_method": "Rough geocoded proximity estimate at family pace; not a network route",
+        "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking.",
+        "features": [
+          "Playground",
+          "Off-leash area",
+          "Waterfront",
+          "Trails"
+        ],
+        "source": "https://www.portmoody.ca/en/recreation-parks-and-environment/off-leash-dog-parks.aspx",
+        "verified_on": "2026-10-25"
+      },
+      "street_setting": {
+        "status": "Desktop lead; unit exposure unresolved",
+        "major_road_frontage_or_rear_exposure": null,
+        "unit_position": null,
+        "traffic_and_noise": "520 Cardiff Way sits inside the Easthill complex on a residential street in College Park; unit exposure and traffic/noise unverified.",
+        "school_park_route_crossings": "Crossings, sidewalks and public access not audited.",
+        "source": "https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/",
+        "verified_on": "2026-10-25",
+        "direct_busy_road_exposure_front_rear_or_side": null,
+        "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Added school lead research; no district-confirmed lookup.",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": "Weekday morning; no fixed arrival",
+        "observed_on": "2026-10-25",
+        "status": "Rough planning estimates; no new timed itinerary or road-network baseline",
+        "drive_range_minutes": [
+          35,
+          55
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": null,
+        "drive_estimate_basis": "Broad geography-based weekday range, not a traffic forecast; parking excluded.",
+        "transit_range_minutes": [
+          50,
+          70
+        ],
+        "transit_all_day_range_minutes": [
+          50,
+          80
+        ],
+        "transit_estimate_basis": "Bus to Moody Centre Station, then Millennium Line to Waterfront Station. No timed itinerary.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps"
+        ]
+      },
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Single carport + open pad; no enclosed garage stated",
+        "covered_spaces": 1,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; dimensions/rights unverified",
+        "notes": "Index states 2-car parking (carport + pad). Easthill complex has indoor pool, sauna and clubhouse. Year built, strata and tax not found publicly — neighbouring unit 526's figures are a different unit and must not be used."
+      }
+    },
+    {
+      "id": "P49",
+      "address": "23-15 Forest Park Way",
+      "city": "Port Moody",
+      "neighbourhood": "Heritage Woods",
+      "mls": "R3162285",
+      "strategy": "Resale townhouse",
+      "asking_price": 799900,
+      "beds_total": 2,
+      "baths_total": 2,
+      "interior_sqft": 1111,
+      "year_built": null,
+      "strata_monthly": null,
+      "annual_tax": null,
+      "tax_year": null,
+      "yard": "2 private patios & fenced yard; size/rights unverified",
+      "suite_status": "No rental suite modelled",
+      "rent_model": null,
+      "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
+      "transit": "Approximate weekday morning planning range; see route basis — bus + SkyTrain via Inlet Centre Station.",
+      "school": "Preliminary listing/nearby school leads; not district-confirmed",
+      "next_gate": "Obtain strata fee, annual tax and year built for this unit (none found publicly), verify SD43 catchment via locator, confirm yard exclusivity and current availability before offer.",
+      "source": "https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/",
+      "secondary_source": "https://www.strawhomes.com/mls/port-moody/",
+      "parks_nearby": {
+        "status": "Park lead researched; route not audited",
+        "park_names": [
+          "Bert Flinn Park"
+        ],
+        "walking_minutes": null,
+        "walking_range_minutes": [
+          8,
+          15
+        ],
+        "walking_method": "Rough geocoded proximity estimate at family pace; not a network route",
+        "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking.",
+        "features": [
+          "Forest trails",
+          "Off-leash dog trail",
+          "Playgrounds on Heritage Mountain Blvd"
+        ],
+        "source": "http://www.portmoody.ca/index.aspx?page=251",
+        "verified_on": "2026-10-25"
+      },
+      "street_setting": {
+        "status": "Desktop lead; unit exposure unresolved",
+        "major_road_frontage_or_rear_exposure": null,
+        "unit_position": null,
+        "traffic_and_noise": "Forest Park Way is a residential street in Heritage Woods; corner townhome in the Discovery Ridge complex — unit exposure and traffic/noise unverified.",
+        "school_park_route_crossings": "Crossings, sidewalks and public access not audited.",
+        "source": "https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/",
+        "verified_on": "2026-10-25",
+        "direct_busy_road_exposure_front_rear_or_side": null,
+        "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Added school lead research; no district-confirmed lookup.",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": "Weekday morning; no fixed arrival",
+        "observed_on": "2026-10-25",
+        "status": "Rough planning estimates; no new timed itinerary or road-network baseline",
+        "drive_range_minutes": [
+          40,
+          60
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": null,
+        "drive_estimate_basis": "Broad geography-based weekday range, not a traffic forecast; parking excluded.",
+        "transit_range_minutes": [
+          55,
+          75
+        ],
+        "transit_all_day_range_minutes": [
+          55,
+          85
+        ],
+        "transit_estimate_basis": "Bus to Inlet Centre Station, then Millennium Line to Waterfront Station; listing states minutes to SkyTrain. No timed itinerary.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps"
+        ]
+      },
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Single garage",
+        "covered_spaces": 1,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; dimensions/rights unverified",
+        "notes": "Index states 'Single garage + 2nd parking incl.' Complex has a playground and basketball court. Year built, strata and tax not found publicly."
+      }
+    },
+    {
+      "id": "P50",
+      "address": "57-65 Foxwood Drive",
+      "city": "Port Moody",
+      "neighbourhood": "Heritage Mountain",
+      "mls": "R3172640",
+      "strategy": "Resale townhouse",
+      "asking_price": 879000,
+      "beds_total": 3,
+      "baths_total": 3,
+      "interior_sqft": 1374,
+      "year_built": 1994,
+      "strata_monthly": null,
+      "annual_tax": null,
+      "tax_year": null,
+      "yard": "Private patio off the kitchen; no fenced yard stated — patio only, yard criterion not met; size/rights unverified",
+      "suite_status": "No rental suite modelled",
+      "rent_model": null,
+      "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
+      "transit": "Approximate weekday morning planning range; see route basis — bus + SkyTrain via Inlet Centre Station.",
+      "school": "Preliminary listing/nearby school leads; not district-confirmed",
+      "next_gate": "Obtain strata fee, annual tax and year built for this unit (none found publicly), verify SD43 catchment via locator, confirm whether any private yard exists beyond the patio, and current availability before offer.",
+      "source": "https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/",
+      "secondary_source": "https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/",
+      "parks_nearby": {
+        "status": "Park lead researched; route not audited",
+        "park_names": [
+          "Bert Flinn Park"
+        ],
+        "walking_minutes": null,
+        "walking_range_minutes": [
+          10,
+          18
+        ],
+        "walking_method": "Rough geocoded proximity estimate at family pace; not a network route",
+        "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking.",
+        "features": [
+          "Forest trails",
+          "Off-leash dog trail",
+          "Playgrounds on Heritage Mountain Blvd"
+        ],
+        "source": "http://www.portmoody.ca/index.aspx?page=251",
+        "verified_on": "2026-10-25"
+      },
+      "street_setting": {
+        "status": "Desktop lead; unit exposure unresolved",
+        "major_road_frontage_or_rear_exposure": null,
+        "unit_position": null,
+        "traffic_and_noise": "65 Foxwood Drive is a residential street in Heritage Mountain inside the Forest Hill complex; unit exposure and traffic/noise unverified.",
+        "school_park_route_crossings": "Crossings, sidewalks and public access not audited.",
+        "source": "https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/",
+        "verified_on": "2026-10-25",
+        "direct_busy_road_exposure_front_rear_or_side": null,
+        "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Added school lead research; no district-confirmed lookup.",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": "Weekday morning; no fixed arrival",
+        "observed_on": "2026-10-25",
+        "status": "Rough planning estimates; no new timed itinerary or road-network baseline",
+        "drive_range_minutes": [
+          40,
+          60
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": null,
+        "drive_estimate_basis": "Broad geography-based weekday range, not a traffic forecast; parking excluded.",
+        "transit_range_minutes": [
+          55,
+          75
+        ],
+        "transit_all_day_range_minutes": [
+          55,
+          85
+        ],
+        "transit_estimate_basis": "Bus down David Ave to Inlet Centre Station, then Millennium Line to Waterfront Station. No timed itinerary.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps"
+        ]
+      },
+      "tax_source": null,
+      "parking_storage": {
+        "garage": null,
+        "covered_spaces": null,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": "Storage locker",
+        "locker": null,
+        "source": "https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; dimensions/rights unverified",
+        "notes": "Index states 2 side-by-side parking and a storage locker. Covered/garage status not stated. The Zolo page for '57 Foxwood Drive' is a different property — a $2,368,000 detached house (R3166671) — do not use its figures. Year built, strata and tax not found publicly."
+      }
     }
   ],
   "rent_observations": [

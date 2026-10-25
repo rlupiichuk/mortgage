@@ -67,13 +67,40 @@ All added homes have source links, preliminary school/nearby leads, parking/stor
 
 ## Follow-up priorities
 
-- P36 Maple Ridge: lowest price in the batch at $699,900, with mortgage + strata + tax ~$3,222/mo — below the $3,500 target; confirm the $80,000 Oct 13 cut reason.
+- P36 Maple Ridge: lowest price in the batch at $699,900, with total monthly planning estimate ~$3,863/mo — within the $5,000 total target; confirm the $80,000 Oct 13 cut reason.
 - P31 Coquitlam West: 7.0 fit with the shortest transit range in its batch (45–60 min); confirm catchment and yard.
 - P40 Clayton: 7.0 fit with Clayton Park 4–8 min; catchment confirmed Regent Road Elementary / École Salish Secondary via Baragar, Oct 25, 2026.
 - P41/P42: detached-plus-suite comparators; verify suite permits and rent before counting any income.
-- P29 Murrayville: lowest verified carrying cost in the Langley batch (~$3,543/mo); confirm the catchment secondary (Langley Fundamental is a choice school, not a catchment secondary).
+- P29 Murrayville: lowest verified carrying cost in the Langley batch (total ~$4,213/mo); confirm the catchment secondary (Langley Fundamental is a choice school, not a catchment secondary).
 - P28 Walnut Grove: strongest elementary lead in the batch (Gordon Greenwood 7.3); verify unit 32's own strata fee and tax.
 
 ## Scope limits
 
 No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added to route-observations.json for P26–P45. School grades for new entries follow each district's published grade structure (SD35 K–5/K–7 as verified per school; SD42 K–7/8–12; SD43 K–5; SD36 K–7/8–12). District-confirmed assignments, school safety, suite permits and live availability remain unverified for all 20 additions.
+
+# Third expansion: Port Moody (P46–P50)
+
+Added P46–P50 on 2026-10-25. Five resale townhouses in Port Moody (SD43), the new municipality in scope. Four have a private yard; P50 has a patio only and is flagged. No candidate scores above 6.0; no new fit leaders. Market-fit median for the Port Moody group is $581/sqft (n=5).
+
+| ID | Address | Asking | Note |
+|---|---|---:|---|
+| P46 | [231 Balmoral Place](https://www.zolo.ca/port-moody-real-estate/231-balmoral-place) · North Shore Pt Moody | $748,000 | Fenced yard, end unit; 241 days, $30,000 cut Oct 14; total ~$4,207/mo, within the $5,000 total target |
+| P47 | [461 Carlsen Place](https://www.zolo.ca/port-moody-real-estate/461-carlsen-place) · North Shore Pt Moody | $880,000 | 4-bed, yard; 90 days, $15,000 cut Oct 15; total ~$5,153/mo, above the $5,000 total target |
+| P48 | [520 Cardiff Way](https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/) · College Park PM | $824,800 | Largest floor area (1,802 sqft); strata/tax/year built not found publicly |
+| P49 | [23-15 Forest Park Way](https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/) · Heritage Woods | $799,900 | 2-bed corner, fenced yard; $720/sqft, highest in the batch; strata/tax/year built not found publicly |
+| P50 | [57-65 Foxwood Drive](https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/) · Heritage Mountain | $879,000 | 3-bed; patio only — does not meet the private-yard criterion; strata/tax not found publicly |
+
+Rejected: 17 listings above the $900,000 ceiling (including the $2,368,000 detached house at 57 Foxwood Drive, a different property from P50); 2 below the $650,000 floor; 4 with no private yard verified (balcony/patio only); 3 stale (March–April 2026 data only); 1 sold (402 Cardiff Way, closed $880,000). No fully-qualified 5th yard-bearing alternate was found — the nearest alternates (428 Lehman Place, unverified; R3162643, address unproven; 55-15 Forest Park Way, yard ambiguous) could not be verified, so P50 was included flagged instead of dropping to 4.
+
+## Port Moody follow-up priorities
+
+- P46 Balmoral Place: 241 days on market — ask why it has not sold; verify SD43 catchment via locator and yard exclusivity.
+- P47 Carlsen Place: resolve the covered-parking conflict inside Zolo's own data (1 vs 2 covered spaces); confirm strata documents and depreciation report for a 1979 build.
+- P48 Cardiff Way: obtain strata fee, annual tax and year built from the listing agent or strata docs — neighbouring unit 526's figures are a different unit and must not be used.
+- P49 Forest Park Way: obtain strata fee, annual tax and year built; confirm yard exclusivity.
+- P50 Foxwood Drive: decide whether the patio-only unit stays in the sample; confirm whether any private yard exists beyond the patio.
+- Port Moody schools: no Fraser Institute rating on file for any Port Moody school; catchments are listing/nearby leads only — verify via the SD43 locator. Note: the SD43 page for Port Moody Secondary is https://www.sd43.bc.ca/portmoody/ (the /pmss slug 404s), and the `pmss` key in the schools dict is Pitt Meadows Secondary (SD42) — Port Moody Secondary uses the key `portmoodysecondary`.
+
+## Scope limits
+
+No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P46–P50.

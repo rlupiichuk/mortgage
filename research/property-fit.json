@@ -703,6 +703,85 @@
       "market_fit_tier": "In line with comparable asking prices",
       "market_fit_basis": "Maple Ridge resale townhouses (n=6)",
       "market_fit_note": "Asking $510/sqft vs $480/sqft median for Maple Ridge resale townhouses (n=6, +6.3%)."
+    },
+    "P46": {
+      "score": 6.0,
+      "label": "Promising research candidate — yard + transit, 2-bed",
+      "strengths": "Fenced private yard, end unit, pets OK; strata ($375.39/mo) and tax ($4,132.02, 2025) verified; 3 parking spaces (2 covered tandem garage); 241 days on market with a $30,000 cut Oct 14; Noons Creek Park roughly 12-20 min walk, Rocky Point Park 25-35 min; listing states a 5-min walk to SkyTrain.",
+      "concerns": "Only 2 beds / 1,287 sqft for a family of three; total monthly planning estimate ~$4,207/mo, within the $5,000 total target; 241 days on market — ask why it has not sold; catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "confidence": "Low",
+      "important_notes": [
+        "Mortgage-only ~$2,826/mo; total monthly planning estimate ~$4,207/mo.",
+        "Asking price is not a sale price.",
+        "2 bedrooms — below the 3-bed preference; benchmark-grade size."
+      ],
+      "market_fit_pct": 0.0,
+      "market_fit_tier": "In line with comparable asking prices",
+      "market_fit_basis": "Port Moody resale townhouses (n=5)",
+      "market_fit_note": "Asking $581/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, +0.0%)."
+    },
+    "P47": {
+      "score": 6.0,
+      "label": "Promising research candidate — 4-bed with yard",
+      "strengths": "4 beds / 3 baths, 1,662 sqft, private yard + garden, pets OK (max 2); strata ($561.74/mo) and tax ($3,600.24, 2025) verified; 90 days on market with a $15,000 cut Oct 15; complex has outdoor pool, sauna and playground; Bert Flinn Park roughly 10-18 min walk.",
+      "concerns": "Total monthly planning estimate ~$5,153/mo — above the $5,000 total target; strata $561.74/mo is high; 1979 build, the oldest in the batch; baseboard heat; covered-parking count conflicts within Zolo's own data ('Covered Spaces: 1' vs 'Covered Parking Places: 2'); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "confidence": "Low",
+      "important_notes": [
+        "Mortgage-only ~$3,575/mo; total monthly planning estimate ~$5,153/mo.",
+        "Asking price is not a sale price.",
+        "Covered-parking count conflicts within Zolo's own data — confirm with strata docs."
+      ],
+      "market_fit_pct": -8.9,
+      "market_fit_tier": "In line with comparable asking prices",
+      "market_fit_basis": "Port Moody resale townhouses (n=5)",
+      "market_fit_note": "Asking $529/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, -8.9%)."
+    },
+    "P48": {
+      "score": 6.0,
+      "label": "Promising research candidate — largest floor area, fees unverified",
+      "strengths": "3 beds, 1,802 sqft — the largest in the batch; fenced yard; indoor pool, sauna and clubhouse in the Easthill complex; 2-car parking (carport + pad); $458/sqft — the lowest in the batch; mortgage-only ~$3,262/mo; total unknowable until strata/tax are found.",
+      "concerns": "Strata, tax, tax year and year built are all null — total monthly cost is unknowable from public pages; Easthill is a large 252-unit complex from the 1977-78 era; catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "confidence": "Low",
+      "important_notes": [
+        "Mortgage-only ~$3,262/mo; strata and tax unknown — total will be higher.",
+        "Asking price is not a sale price.",
+        "Do not use neighbouring unit 526's $595.69/mo strata or $3,720.01 tax — different unit."
+      ],
+      "market_fit_pct": -21.2,
+      "market_fit_tier": "Below comparable asking prices",
+      "market_fit_basis": "Port Moody resale townhouses (n=5)",
+      "market_fit_note": "Asking $458/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, -21.2%)."
+    },
+    "P49": {
+      "score": 5.5,
+      "label": "Conditional fit — yard + corner, 2-bed",
+      "strengths": "Fenced yard + 2 private patios, corner townhome, single garage + 2nd parking, updated throughout; complex playground and basketball court; steps to Bert Flinn Park and Eagle Mountain trailheads; $799,900.",
+      "concerns": "Only 2 beds / 1,111 sqft — the smallest in the batch; strata, tax and year built are all null; $720/sqft — the highest in the batch (+23.9% vs batch median); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "confidence": "Low",
+      "important_notes": [
+        "Mortgage-only ~$3,120/mo; strata and tax unknown.",
+        "Asking price is not a sale price."
+      ],
+      "market_fit_pct": 23.9,
+      "market_fit_tier": "Above comparable asking prices",
+      "market_fit_basis": "Port Moody resale townhouses (n=5)",
+      "market_fit_note": "Asking $720/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, +23.9%)."
+    },
+    "P50": {
+      "score": 5.5,
+      "label": "Conditional fit — 3-bed Heritage Mountain, patio not yard",
+      "strengths": "3 beds / 3 baths, 1,374 sqft, 1994, Heritage Mountain; 2 side-by-side parking + storage locker; 20 days on market; close to Bert Flinn Park and Heritage Mountain Elementary.",
+      "concerns": "No private yard confirmed — listing states a private patio only, so the yard criterion is NOT met; strata, tax and year built are all null; $640/sqft (+10.1% vs batch median); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "confidence": "Low",
+      "important_notes": [
+        "Mortgage-only ~$3,569/mo; strata and tax unknown.",
+        "Asking price is not a sale price.",
+        "Patio only — does not meet the private-yard criterion; included as the closest 5th candidate, drop if a strict yard filter is applied."
+      ],
+      "market_fit_pct": 10.1,
+      "market_fit_tier": "Above comparable asking prices",
+      "market_fit_basis": "Port Moody resale townhouses (n=5)",
+      "market_fit_note": "Asking $640/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, +10.1%)."
     }
   }
 }

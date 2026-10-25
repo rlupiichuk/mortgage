@@ -361,6 +361,48 @@
       "grades": "8–12",
       "url": "https://www.surreyschools.ca/salish",
       "level": "secondary"
+    },
+    "eagleridge": {
+      "name": "Eagle Ridge Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/eagleridge",
+      "level": "elementary"
+    },
+    "gleneagle": {
+      "name": "Gleneagle Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/gleneagle",
+      "level": "secondary"
+    },
+    "seaview": {
+      "name": "Seaview Community School",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/seaview",
+      "level": "elementary"
+    },
+    "aspenwood": {
+      "name": "Aspenwood Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/aspenwood",
+      "level": "elementary"
+    },
+    "heritagewoods": {
+      "name": "Heritage Woods Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/heritagewoods",
+      "level": "secondary"
+    },
+    "heritagemountain": {
+      "name": "Heritage Mountain Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/heritagemountain",
+      "level": "elementary"
+    },
+    "portmoodysecondary": {
+      "name": "Port Moody Secondary School",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/portmoody/",
+      "level": "secondary"
     }
   },
   "properties": {
@@ -1791,6 +1833,166 @@
         "status": "No comparable school-level safety outcome established",
         "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
         "url": "https://elementary.sd42.ca/fairview/"
+      },
+      "nearest_fallback": {}
+    },
+    "P46": {
+      "district": "SD43",
+      "current": [
+        "bakerdrive",
+        "gleneagle"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Baker Drive Elementary; Gleneagle Secondary). Other nearby leads: Moody Elementary, Dr. Charles Best Secondary, St Michaels (independent).",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/port-moody-real-estate/231-balmoral-place"
+        },
+        {
+          "label": "Official school identity: Baker Drive Elementary",
+          "url": "https://www.sd43.bc.ca/bakerdrive"
+        },
+        {
+          "label": "Official school identity: Gleneagle Secondary",
+          "url": "https://www.sd43.bc.ca/gleneagle"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/bakerdrive"
+      },
+      "nearest_fallback": {}
+    },
+    "P47": {
+      "district": "SD43",
+      "current": [
+        "eagleridge",
+        "gleneagle"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Eagle Ridge Elementary; Gleneagle Secondary). Other nearby leads: Mountain Meadows Elementary, Dr. Charles Best Secondary, Archbishop Carney (independent), St Michaels (independent).",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/port-moody-real-estate/461-carlsen-place"
+        },
+        {
+          "label": "Official school identity: Eagle Ridge Elementary",
+          "url": "https://www.sd43.bc.ca/eagleridge"
+        },
+        {
+          "label": "Official school identity: Gleneagle Secondary",
+          "url": "https://www.sd43.bc.ca/gleneagle"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/eagleridge"
+      },
+      "nearest_fallback": {}
+    },
+    "P48": {
+      "district": "SD43",
+      "current": [
+        "seaview",
+        "portmoodysecondary"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the neighbouring Easthill listing for 526 Cardiff Way (\"10min walk to Seaview Elem., 15min to PM Secondary\") — not this unit's own page.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/"
+        },
+        {
+          "label": "Official school identity: Seaview Community School",
+          "url": "https://www.sd43.bc.ca/seaview"
+        },
+        {
+          "label": "Official school identity: Port Moody Secondary School",
+          "url": "https://www.sd43.bc.ca/portmoody/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/seaview"
+      },
+      "nearest_fallback": {}
+    },
+    "P49": {
+      "district": "SD43",
+      "current": [
+        "aspenwood",
+        "heritagewoods"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads are the named Heritage Woods neighbourhood schools (Aspenwood Elementary; Heritage Woods Secondary); Eagle Mountain Middle is the area middle school.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/"
+        },
+        {
+          "label": "Official school identity: Aspenwood Elementary",
+          "url": "https://www.sd43.bc.ca/aspenwood"
+        },
+        {
+          "label": "Official school identity: Heritage Woods Secondary",
+          "url": "https://www.sd43.bc.ca/heritagewoods"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/aspenwood"
+      },
+      "nearest_fallback": {}
+    },
+    "P50": {
+      "district": "SD43",
+      "current": [
+        "heritagemountain",
+        "heritagewoods"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Heritage Mountain listing for 9-181 Ravine Drive (\"directly across from Heritage Mountain Elementary School and within a 5-minute walk to both middle and high schools\").",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/"
+        },
+        {
+          "label": "Official school identity: Heritage Mountain Elementary",
+          "url": "https://www.sd43.bc.ca/heritagemountain"
+        },
+        {
+          "label": "Official school identity: Heritage Woods Secondary",
+          "url": "https://www.sd43.bc.ca/heritagewoods"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/heritagemountain"
       },
       "nearest_fallback": {}
     }

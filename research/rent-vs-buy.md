@@ -29,7 +29,7 @@ Both sides invest at the same return and face the same rent growth, so the compa
 
 ## Headline findings (base case: 2% appreciation, 5% investment return)
 
-- Renting wins for **40 of the 41** homes with a known total at 5 years, and 40 of 41 at 10 years. The only exception is P23 (Langley City, $479,900, total $2,536/month — cheaper than rent), which breaks even by year 10 (+$20,793) but is still −$5,158 at year 5.
+- Renting wins for **43 of the 43** homes with a known total at 5 years, and 42 of 43 at 10 years. The only exception is P23 (Langley City, $479,900, total $2,536/month — cheaper than rent), which breaks even by year 10 (+$20,793) but is still −$5,158 at year 5.
 - The three fit leaders are all behind renting at 5 years: P36 −$58,791, P40 −$74,041, P31 −$103,129. At 10 years: P36 −$92,520, P40 −$123,900, P31 −$185,651.
 - The cheapest total costs lose least: P43 −$34,620 and P45 −$39,686 at 5 years.
 - The detached-with-suite homes lose most, because their totals run $6,000–$7,400/month: P07–P09 −$136,060 to −$144,061 at 5 years, P41 −$206,617, P42 −$210,475.
@@ -77,6 +77,7 @@ Three forces, in order:
 | P39 | 26-15850 85 Avenue, Surrey | $775,000 | $4,230 | $350,061 | $421,039 | −$70,978 | −$116,586 | 3.7% |
 | P16 | 114-21928 48th Avenue, Township of Langley | $749,000 | $4,200 | $345,711 | $419,356 | −$73,645 | −$124,695 | 3.8% |
 | P40 | 14-6945 185 Street, Surrey | $775,000 | $4,273 | $350,061 | $424,102 | −$74,041 | −$123,900 | 3.8% |
+| P46 | 231 Balmoral Place, Port Moody | $748,000 | $4,207 | $345,544 | $419,871 | −$74,327 | −$126,392 | 3.9% |
 | P14 | 42-19141 124 Avenue, Pitt Meadows | $734,000 | $4,208 | $343,201 | $420,134 | −$76,933 | −$133,549 | 4.0% |
 | P37 | 30-13260 236 Street, Maple Ridge | $750,000 | $4,258 | $345,878 | $423,432 | −$77,554 | −$133,960 | 3.9% |
 | P21 | 11-23986 104 Avenue, Maple Ridge | $749,900 | $4,265 | $345,862 | $423,930 | −$78,068 | −$135,197 | 3.9% |
@@ -97,6 +98,7 @@ Three forces, in order:
 | P03 | 1-19236 119 Avenue, Pitt Meadows | $849,800 | $4,907 | $362,577 | $467,759 | −$105,182 | −$193,239 | 4.3% |
 | P20 | 2-2990 Mariner Way, Coquitlam | $849,000 | $4,906 | $362,443 | $467,709 | −$105,266 | −$193,493 | 4.3% |
 | P17 | 35-2450 Lobb Avenue, Port Coquitlam | $849,900 | $4,909 | $362,593 | $467,902 | −$105,309 | −$193,533 | 4.3% |
+| P47 | 461 Carlsen Place, Port Moody | $880,000 | $5,153 | $367,630 | $484,730 | −$117,100 | −$219,670 | 4.5% |
 | P09 | 6926 190 Street, Surrey | $1,099,000 | $5,987 | $404,272 | $540,332 | −$136,060 | −$250,268 | 4.3% |
 | P08 | 12326 Aurora Street, Maple Ridge | $1,099,000 | $6,048 | $404,272 | $544,680 | −$140,408 | −$260,650 | 4.4% |
 | P07 | 24222 103 Avenue, Maple Ridge | $1,089,000 | $6,074 | $402,599 | $546,660 | −$144,061 | −$270,041 | 4.5% |
@@ -106,4 +108,4 @@ Three forces, in order:
 | P42 | 2663 275a Street, Township of Langley | $1,198,888 | $7,298 | $420,985 | $631,460 | −$210,475 | −$421,241 | 5.2% |
 | P11 | 20030 48 Avenue, Langley City | $1,199,000 | $7,423 | $421,004 | $640,303 | −$219,299 | −$442,301 | 5.3% |
 
-Four homes have no comparison: P26, P28, P35, P44 (strata or tax unknown, so no total). P41 and P42 now use $0 strata (detached, no strata — fixed 2026-10-25).
+Seven homes have no comparison: P26, P28, P35, P44, P48, P49, P50 (strata or tax unknown, so no total). P41 and P42 now use $0 strata (detached, no strata — fixed 2026-10-25).

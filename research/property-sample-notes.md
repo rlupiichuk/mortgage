@@ -5,7 +5,7 @@ Observed 2026-10-25. This is an exploratory sample across strategies and locatio
 ## Artifacts
 
 - [Cost comparison](property-cost-comparison.md): monthly mortgage, known tax/strata subtotal, rent sensitivity and rate/amortization alternatives.
-- [Spreadsheet](property-comparison.csv): 45 examples with sources, MLS identifiers, yard/suite claims, uncertainty and next checks.
+- [Spreadsheet](property-comparison.csv): 50 examples with sources, MLS identifiers, yard/suite claims, uncertainty and next checks.
 - [Source data and rental observations](property-sample.json): update this and run `python3 research/build_property_comparison.py` to regenerate both outputs.
 - [Initial school and transit notes](school-and-transit-screen.md).
 
@@ -71,6 +71,6 @@ Exact address-level school assignments, comparative safety/academic outcomes, mu
 
 ## Expansion
 
-The original P01–P12 screen below is retained as research history. The active comparison now has 45 examples; see [sample expansion](sample-expansion.md), [fit assessments](property-fit.md) and the CSV for P13–P45. Added properties include lower-cost family-yard benchmarks and Murrayville options; this broadens the earlier $750k–$850k townhouse search band rather than treating it as a minimum.
+The original P01–P12 screen below is retained as research history. The active comparison now has 50 examples; see [sample expansion](sample-expansion.md), [fit assessments](property-fit.md) and the CSV for P13–P45. Added properties include lower-cost family-yard benchmarks and Murrayville options; this broadens the earlier $750k–$850k townhouse search band rather than treating it as a minimum.
 
 The second expansion (P26–P45, 2026-10-25) adds fifteen more townhouses, two detached houses with existing suites and three lower-cost benchmarks. New fit leaders at 7.0/10 are P31 Coquitlam West (transit-strong), P36 Maple Ridge ($699,900; mortgage + strata + tax ~$3,222/mo, below the $3,500 target) and P40 Clayton (Clayton Park 4–8 min). No property scores above 7.0; all new scores are low confidence. P04 remains the only still-active home among the four first-priority candidates from the earlier set (P05 and P02 pending, P16 removed).
