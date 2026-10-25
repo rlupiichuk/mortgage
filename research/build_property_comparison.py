@@ -24,6 +24,7 @@ def build():
     a = data["assumptions"]
     catchments = json.loads((ROOT / "school-catchments.json").read_text())
     estimates = json.loads((ROOT / "cost-estimates.json").read_text())
+    fit = json.loads((ROOT / "property-fit.json").read_text())
     rows = []
     summary = [
         "# First property sample: cost comparison",
@@ -55,6 +56,8 @@ def build():
         required = max(0, payment - a["personal_mortgage_target"]) / a["rent_counted_fraction"]
         row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
         cost = ownership_cost_plan(p, a, estimates)
+        row["overall_fit_score"] = fit["properties"][p["id"]]["score"]
+        row["overall_fit_assessment"] = json.dumps(fit["properties"][p["id"]], ensure_ascii=False)
         row["ownership_cost_plan"] = json.dumps(cost, ensure_ascii=False)
         row["total_expenses_after_rent_low"] = None if cost["low"] is None else round(cost["low"])
         row["total_expenses_after_rent_high"] = None if cost["high"] is None else round(cost["high"])

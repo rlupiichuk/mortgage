@@ -103,3 +103,7 @@ Moved property examples first; added expandable comparison rows, address/directi
 ## 2026-10-25 — Follow up unresearched blocks
 
 Researched all 12 park/street/commute records. Added 12 family walking estimates (six network distances), 12 drive/transit planning ranges (five driving map baselines), street-specific notes and arterial flags, school policy evidence and the Burke Mountain Fall 2027 schedule correction. Retained unavailable routing outcomes explicitly. Added a sourced three-comparable $0 strata estimate for P06; located the three missing advertised tax figures and refreshed P07’s relisting/price while preserving history. Centralized total ownership calculations shared by HTML and CSV. See address-research.md for methods and remaining verification.
+
+## 2026-10-25 — Personal fit estimates
+
+Added low-confidence editorial fit estimates for all 12 examples, with strengths, tradeoffs and explicit priority order. Scores distinguish the $3,500 mortgage-only goal from broader ownership expenses and do not imply school safety clearance. P05 leads the next-research list; P04 is conditional on unit buffering from 208 Street. Kept expand button first and moved rating to second. Source assessments are stored in property-fit.json/markdown and compiled into HTML/CSV.

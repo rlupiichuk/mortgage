@@ -39,6 +39,7 @@ def build():
     catchments = json.loads((ROOT / "school-catchments.json").read_text())
     ratings = json.loads((ROOT / "school-ratings.json").read_text())
     context = json.loads((ROOT / "area-context.json").read_text())
+    fit = json.loads((ROOT / "property-fit.json").read_text())
     estimates = json.loads((ROOT / "cost-estimates.json").read_text())
     school_notes = [
         "# Property school catchment research", "", f"Researched {catchments['researched_on']}.", "", catchments["method"], "",
@@ -50,6 +51,7 @@ def build():
         origin = f"{p['address']}, {p['city']}, BC, Canada"
         p["drive_directions_url"] = "https://www.google.com/maps/dir/?" + urlencode({"api": "1", "origin": origin, "destination": "Waterfront Station, Vancouver, BC, Canada", "travelmode": "driving"})
         p["transit_directions_url"] = "https://www.google.com/maps/dir/?" + urlencode({"api": "1", "origin": origin, "destination": "Waterfront Station, Vancouver, BC, Canada", "travelmode": "transit"})
+        p["fit_assessment"] = fit["properties"][p["id"]]
         p["ownership_cost_plan"] = ownership_cost_plan(p, sample["assumptions"], estimates)
         p["school_catchment"] = catchments["properties"][p["id"]]
         c = p["school_catchment"]
@@ -67,7 +69,7 @@ def build():
             cells = [v.strip() for v in line.strip("|").split("|")]
             if len(cells) == 2:
                 criteria.append({"label": cells[0], "value": cells[1]})
-    payload = {"sample": sample, "trends": trends, "criteria": criteria, "catchments": catchments, "ratings": ratings, "context": context}
+    payload = {"sample": sample, "trends": trends, "criteria": criteria, "catchments": catchments, "ratings": ratings, "context": context, "fit": fit}
     template = (ROOT / "summary.template.html").read_text()
     # Escape HTML-sensitive characters so source text cannot close the JSON script.
     encoded = json.dumps(payload, ensure_ascii=False).replace("&", "\\u0026").replace("<", "\\u003c").replace(">", "\\u003e")
