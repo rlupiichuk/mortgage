@@ -31,9 +31,9 @@ No reliable address-specific public-school assignment obtained. An aggregator la
 
 ### P02 — 27-1338 Hames Crescent
 
-REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed.
+REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed. Follow-up 2026-10-25: SD43 capital-project page lists Burke Mountain Secondary completion for Fall 2027, superseding older 2026 marketing. This does not establish this property’s assignment; new-school transition/catchment must be confirmed.
 
-[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [REW catchment labels](https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc) · [Older nearby-school marketing](https://vopenhouse.ca/video/25199_Farrington/)
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [REW catchment labels](https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc) · [Older nearby-school marketing](https://vopenhouse.ca/video/25199_Farrington/) · [SD43 capital projects: current completion schedule](https://www.sd43.bc.ca/capital-projects)
 
 ### P03 — 1-19236 119 Avenue
 

@@ -4,6 +4,8 @@ Run: python3 research/build_summary.py
 No network calls or dependencies. Updates the compiled HTML, not historical data.
 """
 
+from ownership_costs import ownership_cost_plan
+
 import csv
 import html
 import json
@@ -37,6 +39,7 @@ def build():
     catchments = json.loads((ROOT / "school-catchments.json").read_text())
     ratings = json.loads((ROOT / "school-ratings.json").read_text())
     context = json.loads((ROOT / "area-context.json").read_text())
+    estimates = json.loads((ROOT / "cost-estimates.json").read_text())
     school_notes = [
         "# Property school catchment research", "", f"Researched {catchments['researched_on']}.", "", catchments["method"], "",
         "Current means the proposed neighbourhood pathway for the current research year. Labels below retain their evidence status. No assignment is a district-confirmed address lookup or a guarantee of enrolment, capacity, safety or academic quality.", "",
@@ -47,6 +50,7 @@ def build():
         origin = f"{p['address']}, {p['city']}, BC, Canada"
         p["drive_directions_url"] = "https://www.google.com/maps/dir/?" + urlencode({"api": "1", "origin": origin, "destination": "Waterfront Station, Vancouver, BC, Canada", "travelmode": "driving"})
         p["transit_directions_url"] = "https://www.google.com/maps/dir/?" + urlencode({"api": "1", "origin": origin, "destination": "Waterfront Station, Vancouver, BC, Canada", "travelmode": "transit"})
+        p["ownership_cost_plan"] = ownership_cost_plan(p, sample["assumptions"], estimates)
         p["school_catchment"] = catchments["properties"][p["id"]]
         c = p["school_catchment"]
         def school_path(keys):

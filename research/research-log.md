@@ -99,3 +99,7 @@ Next focus: confirm availability of P02–P05; establish official school assignm
 ## 2026-10-25 — Property comparison workbench
 
 Moved property examples first; added expandable comparison rows, address/direction links, preliminary official school pathways and future catchment changes. Added sourced elementary academic scores (2023/24 data, 2025 report), jurisdiction crime context and park leads. Park preference clarified as a 20–30 minute walk; routes/crossings remain unverified. Size now follows home type. Overall fit remains provisional while school safety and street exposure are unresolved. Replaced mortgage-only table amount with ownership planning estimates including tax, strata, reserves and conservative rent offsets. These placeholders are not quotes or an individual rental tax calculation.
+
+## 2026-10-25 — Follow up unresearched blocks
+
+Researched all 12 park/street/commute records. Added 12 family walking estimates (six network distances), 12 drive/transit planning ranges (five driving map baselines), street-specific notes and arterial flags, school policy evidence and the Burke Mountain Fall 2027 schedule correction. Retained unavailable routing outcomes explicitly. Added a sourced three-comparable $0 strata estimate for P06; located the three missing advertised tax figures and refreshed P07’s relisting/price while preserving history. Centralized total ownership calculations shared by HTML and CSV. See address-research.md for methods and remaining verification.

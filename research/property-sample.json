@@ -35,22 +35,33 @@
       "source": "https://www.zolo.ca/port-coquitlam-real-estate/3363-sefton-street",
       "secondary_source": "https://www.rew.ca/properties/3363-sefton-street-port-coquitlam-bc",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
-        "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "McLean Park"
+        ],
+        "walking_minutes": 9,
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Playground",
+          "sports fields",
+          "washroom"
+        ],
+        "source": "https://prod.portcoquitlam.ca/recreation-parks/parks-trails/parks-directory/mclean-park",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          10,
+          18
+        ],
+        "walking_method": "Network-modelled walking distance; estimated family pace"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "Townhouse parcel geocode and route access do not identify the actual yard side. Check Sefton frontage, rear/side boundaries and any shortcut traffic.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.zolo.ca/port-coquitlam-real-estate/3363-sefton-street",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -59,10 +70,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          40,
+          80
+        ],
+        "drive_model_minutes": 40.2,
+        "drive_model_distance_m": 34556,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.7580398,49.2731109;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          60,
+          85
+        ],
+        "transit_all_day_range_minutes": [
+          80,
+          105
+        ],
+        "transit_estimate_basis": "Local bus to Port Coquitlam WCE; 36-minute scheduled rail leg. Access/wait allowance 24\u201349 min. All-day alternative bus + SkyTrain.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P02",
@@ -84,27 +119,37 @@
       "rent_model": null,
       "status": "REW listing page advertises for sale; September update/open-house references may be stale",
       "transit": "Bus connection to SkyTrain/Coquitlam Central; advertised five-minute drive to rail is not a public-transit commute",
-      "school": "Conflicting evidence: Leigh Elementary → Terry Fox Secondary",
+      "school": "Conflicting evidence: Leigh Elementary \u2192 Terry Fox Secondary",
       "next_gate": "Confirm active status, address-level school pathway and bus commute",
       "source": "https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc",
       "secondary_source": "https://www.estateblock.com/coquitlam/27-1338-hames-cres-1172562",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
-        "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Galloway Park"
+        ],
+        "walking_minutes": 2,
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Playground",
+          "seasonal spray park"
+        ],
+        "source": "https://coquitlam.ca/facilities/facility/details/gallowaypark-39",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          4,
+          9
+        ],
+        "walking_method": "Network-modelled walking distance; estimated family pace"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "Hames Crescent site; nearby Galloway/David routes and school construction/event traffic require a unit-level check. Listing views of sports fields are not proof of quiet.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -113,10 +158,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          45,
+          85
+        ],
+        "drive_model_minutes": 42.6,
+        "drive_model_distance_m": 30287,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.7545228,49.2939064;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          75,
+          105
+        ],
+        "transit_all_day_range_minutes": [
+          75,
+          105
+        ],
+        "transit_estimate_basis": "Local bus down Burke Mountain to existing SkyTrain, transfers and walking; mountain access and frequency dominate.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P03",
@@ -138,27 +207,38 @@
       "rent_model": null,
       "status": "REW page opened and advertises for sale; September open house reference means availability still needs recheck",
       "transit": "Investigate walk/bus to Pitt Meadows WCE; weekday peak-direction restrictions apply",
-      "school": "Listing-labelled; verify: Davie Jones Elementary → Pitt Meadows Secondary",
+      "school": "Listing-labelled; verify: Davie Jones Elementary \u2192 Pitt Meadows Secondary",
       "next_gate": "Confirm listing, strata records/yard rights, flood exposure and exact school assignment",
       "source": "https://www.rew.ca/properties/1-19236-119-avenue-pitt-meadows-bc",
       "secondary_source": "https://www.bccondosandhomes.com/building/willow-park-19236-119-ave",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
-        "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Hoffmann Park"
+        ],
+        "walking_minutes": 14,
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Trails",
+          "fitness equipment",
+          "off-leash area"
+        ],
+        "source": "https://www.pittmeadows.ca/parks-recreation/parks-fields-facilities/parks-list/hoffmann-park",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          16,
+          27
+        ],
+        "walking_method": "Network-modelled walking distance; estimated family pace"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "119 Avenue site; actual end-unit orientation, Harris Road buffering and crossings need checking. No low-traffic claim established.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.rew.ca/properties/1-19236-119-avenue-pitt-meadows-bc",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -167,10 +247,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          45,
+          90
+        ],
+        "drive_model_minutes": 43.6,
+        "drive_model_distance_m": 38320,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6889707,49.2185214;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          65,
+          85
+        ],
+        "transit_all_day_range_minutes": [
+          90,
+          120
+        ],
+        "transit_estimate_basis": "Walk/bus to Pitt Meadows WCE; scheduled rail leg 46 minutes. Allow 19\u201339 minutes for access/wait. All-day bus + SkyTrain takes longer.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P04",
@@ -192,39 +296,74 @@
       "rent_model": null,
       "status": "REALTOR.ca advertisement includes Oct 24/25 open houses; availability still needs confirmation",
       "transit": "Investigate connection to Carvolth and 555/Lougheed/SkyTrain; no verified one-hour trip",
-      "school": "Map-supported; verify: Gordon Greenwood Elementary → Walnut Grove Secondary",
+      "school": "Map-supported; verify: Gordon Greenwood Elementary \u2192 Walnut Grove Secondary",
       "next_gate": "Confirm catchment, school evidence, yard size and current strata fee; sources differ on floor area (1686 vs 1695)",
       "source": "https://www.realtor.ca/real-estate/30385491/9-8968-208-street-langley",
       "secondary_source": "https://www.bccondosandhomes.com/building/cambridge-court-8968-208-street?prompt=login",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
-        "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "McClughan Park"
+        ],
+        "walking_minutes": 11,
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Play area",
+          "trails",
+          "picnic shelter"
+        ],
+        "source": "https://facilities.tol.ca/Home/Detail?Id=94049915-2fd6-486e-a536-9f9e7f7df727",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          13,
+          23
+        ],
+        "walking_method": "Network-modelled walking distance; estimated family pace"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Arterial-site flag; unit position unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "208 Street is an arterial corridor. Complex address alone does not establish whether unit 9 or its yard directly faces the road. Obtain a strata/site plan before advancing.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.tol.ca/en/services/resources/bylaw-services/bylaws/Neighbourhood-Plan-Bylaws/Carvolth-Neighbourhood-Plan-%28No.-4995%29.pdf",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
-      "school_initial_note": "Listing names nearby Gordon Greenwood, James Kennedy and Walnut Grove Secondary; no catchment confirmation. Nearby elementaries are K–7, so separate middle school cannot be assumed.",
+      "school_initial_note": "Listing names nearby Gordon Greenwood, James Kennedy and Walnut Grove Secondary; no catchment confirmation. Nearby elementaries are K\u20137, so separate middle school cannot be assumed.",
       "commute": {
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          45,
+          85
+        ],
+        "drive_model_minutes": 43.6,
+        "drive_model_distance_m": 41561,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6450511,49.1651695;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          80,
+          110
+        ],
+        "transit_all_day_range_minutes": [
+          80,
+          110
+        ],
+        "transit_estimate_basis": "Local access to Carvolth, 555 to Lougheed, then existing SkyTrain and transfers.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P05",
@@ -246,27 +385,39 @@
       "rent_model": null,
       "status": "REW listing page opened; advertises for sale, active status not independently confirmed",
       "transit": "Investigate local connection to Carvolth/555 or other downtown routes",
-      "school": "Map-supported + future change: Willoughby Elementary → Yorkson Creek Middle → R.E. Mountain Secondary",
+      "school": "Map-supported + future change: Willoughby Elementary \u2192 Yorkson Creek Middle \u2192 R.E. Mountain Secondary",
       "next_gate": "Confirm active status and school pathway; obtain depreciation report and fee inclusions",
       "source": "https://www.rew.ca/properties/94-8068-207-street-langley-bc",
       "secondary_source": "https://sothebysrealty.ca/en/property/british-columbia/region-fraser-valley/langley-real-estate/3658562/8068-207-street-94/",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Yorkson Community Park"
+        ],
         "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Play area",
+          "pump track",
+          "sports fields",
+          "spray park"
+        ],
+        "source": "https://facilities.tol.ca/Home/Detail?Id=67a3675f-bad8-439f-93d8-58289780ab3c",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          6,
+          15
+        ],
+        "walking_method": "Rough distance/pacing estimate; network route unavailable"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "207 Street complex near 80 Avenue/208 Street corridor. Check unit 94 perimeter, 80 Avenue exposure and park-route crossing controls.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.rew.ca/properties/94-8068-207-street-langley-bc",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -275,10 +426,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          50,
+          90
+        ],
+        "drive_model_minutes": 45.5,
+        "drive_model_distance_m": 42979,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.647414,49.1493289;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          85,
+          115
+        ],
+        "transit_all_day_range_minutes": [
+          85,
+          115
+        ],
+        "transit_estimate_basis": "Local access to Carvolth, 555 to Lougheed, then existing SkyTrain and transfers.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P06",
@@ -300,27 +475,34 @@
       "rent_model": null,
       "status": "Advertisement says listed Oct 21, 2026",
       "transit": "Longer-commute comparator; investigate bus to Canada Line or other route; no one-hour claim",
-      "school": "Listing-labelled; verify: Jessie Lee Elementary → Earl Marriott Secondary",
+      "school": "Listing-labelled; verify: Jessie Lee Elementary \u2192 Earl Marriott Secondary",
       "next_gate": "Only two bedrooms; verify title/shared obligations and no-maintenance-fee claim. No fee is not proof of no shared costs.",
       "source": "https://www.bccondosandhomes.com/listing/r3177494-15669-20-avenue-surrey-bc-v4a-2a7",
       "secondary_source": null,
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Jessie Lee Park"
+        ],
         "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [],
+        "source": "https://www.cylex-canada.ca/company/jessie-lee-park-24863447.html",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          8,
+          18
+        ],
+        "walking_method": "Rough distance/pacing estimate; network route unavailable"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Frontage/access check required",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "20 Avenue address near 156 Street; no current traffic count or reliable quiet-street classification established. Inspect front/side boundaries and pedestrian crossings.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.bccondosandhomes.com/listing/r3177494-15669-20-avenue-surrey-bc-v4a-2a7",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -329,26 +511,50 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          45,
+          95
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.7880846,49.0385064;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          85,
+          120
+        ],
+        "transit_all_day_range_minutes": [
+          85,
+          120
+        ],
+        "transit_estimate_basis": "Local access to 351/Bridgeport and Canada Line, or another existing bus/rail connection. Access and highway traffic vary.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P07",
       "address": "24222 103 Avenue",
       "city": "Maple Ridge",
       "neighbourhood": "Albion",
-      "mls": "R3143716",
+      "mls": "R3171788",
       "strategy": "Detached with advertised existing suite",
-      "asking_price": 1099000,
+      "asking_price": 1089000,
       "beds_total": 4,
       "baths_total": 4,
       "interior_sqft": 2258,
       "year_built": 2005,
       "strata_monthly": 0,
-      "annual_tax": null,
-      "tax_year": null,
+      "annual_tax": 6970.5,
+      "tax_year": 2025,
       "yard": "Advertised south-facing fenced yard; approximately 2409 sqft lot limits size",
       "suite_status": "Advertised self-contained one-bedroom suite with separate entry; legality/permits and occupancy unverified",
       "rent_model": {
@@ -356,29 +562,41 @@
         "high": 1650,
         "basis": "Exploratory one-bedroom asking-rent sensitivity, not valuation of this suite; R01 and R02"
       },
-      "status": "Listing page found; September open-house references require availability recheck",
+      "status": "Refreshed 2026-10-25: Zolo shows Oct 2 relisting R3171788 at $1,089,000; earlier sample R3143716 at $1,099,000 preserved in history. Advertised active, not independently MLS-confirmed.",
       "transit": "Albion access to rail/rapid bus must be measured; do not equate Maple Ridge with western station areas",
-      "school": "Listing-labelled; verify: Albion Elementary → Samuel Robertson Technical Secondary",
+      "school": "Listing-labelled; verify: Albion Elementary \u2192 Samuel Robertson Technical Secondary",
       "next_gate": "Verify permit/tenancy, suite rent and usable yard; conservative rent scenario exceeds target",
       "source": "https://sothebysrealty.ca/en/property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3484293/24222-103-avenue/",
       "secondary_source": "https://a2-ws-realtor-pr.realtor.ca/real-estate/30002329/24222-103-avenue-maple-ridge",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Albion Park"
+        ],
         "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Playground",
+          "trails",
+          "bike skills",
+          "washrooms"
+        ],
+        "source": "https://www.mapleridge.ca/parks-recreation/recreation-facilities/albion-park",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          10,
+          24
+        ],
+        "walking_method": "Rough distance/pacing estimate; network route unavailable"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "103 Avenue parcel; school/park trips can encounter Jackson Road and 104 Avenue. No rear/side major-road adjacency cleared by desk research. New listing describes quiet street/greenbelt; this remains a seller claim.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://sothebysrealty.ca/en/property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3484293/24222-103-avenue/",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -387,10 +605,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          60,
+          110
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.5508955,49.1893913;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          90,
+          125
+        ],
+        "transit_all_day_range_minutes": [
+          110,
+          145
+        ],
+        "transit_estimate_basis": "Local bus to Port Haney WCE; scheduled rail leg 56 minutes plus 34\u201369 minutes access/wait. All-day bus + rail is longer.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": "https://www.zolo.ca/maple-ridge-real-estate/24222-103-avenue"
     },
     {
       "id": "P08",
@@ -405,8 +647,8 @@
       "interior_sqft": 2400,
       "year_built": 1988,
       "strata_monthly": 0,
-      "annual_tax": null,
-      "tax_year": null,
+      "annual_tax": 5878.64,
+      "tax_year": 2024,
       "yard": "Advertised large flat backyard; 5974 sqft lot",
       "suite_status": "Advertised self-contained one-bedroom suite; municipal legality and lease unverified",
       "rent_model": {
@@ -416,27 +658,37 @@
       },
       "status": "Advertised for sale; source update not independently confirmed",
       "transit": "Investigate local access to R3/rail and total trip",
-      "school": "Listing-labelled; verify: Harry Hooge Elementary → Thomas Haney Secondary",
+      "school": "Listing-labelled; verify: Harry Hooge Elementary \u2192 Thomas Haney Secondary",
       "next_gate": "Check permits, tenancy, maintenance and rental shortfall before school assessment",
       "source": "https://sothebysrealty.ca/en/mls-property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3487529/12326-aurora-street/",
       "secondary_source": "https://resider.ca/bc/maple-ridge/east-central/12326-aurora-street/008620725",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
-        "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Harry Hooge Park"
+        ],
+        "walking_minutes": 14,
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Playground",
+          "walking paths"
+        ],
+        "source": "https://www.mapleridge.ca/parks-recreation/recreation-facilities/harry-hooge-park",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          15,
+          26
+        ],
+        "walking_method": "Network-modelled walking distance; estimated family pace"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "Aurora Street parcel; map walking route uses Aurora Street and 123 Avenue. Check access, rear lot edges and cut-through traffic on a visit.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://sothebysrealty.ca/en/mls-property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3487529/12326-aurora-street/",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -445,10 +697,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          55,
+          105
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.5772829,49.2260437;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          80,
+          110
+        ],
+        "transit_all_day_range_minutes": [
+          100,
+          135
+        ],
+        "transit_estimate_basis": "Local bus to Port Haney WCE; scheduled rail leg 56 minutes plus 24\u201354 minutes access/wait. All-day bus + rail is longer.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": "https://www.zolo.ca/maple-ridge-real-estate/12326-aurora-street"
     },
     {
       "id": "P09",
@@ -474,27 +750,37 @@
       },
       "status": "REW page advertises for sale; October listing sources found",
       "transit": "Existing bus to Expo Line to be checked; future SkyTrain excluded from current travel time",
-      "school": "Listing-labelled; verify: Hazelgrove Elementary → Clayton Heights Secondary",
+      "school": "Listing-labelled; verify: Hazelgrove Elementary \u2192 Clayton Heights Secondary",
       "next_gate": "Verify suite status/rent, yard fit and school assignment; conservative rent scenario exceeds target",
       "source": "https://www.rew.ca/properties/6926-190-street-surrey-bc",
       "secondary_source": "https://realtylink.org/en/house~for-sale~surrey/263198181",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Hazelgrove Park"
+        ],
         "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Playground",
+          "parkour"
+        ],
+        "source": "https://www.surrey.ca/parks-recreation/parks/hazelgrove-park",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          6,
+          16
+        ],
+        "walking_method": "Rough distance/pacing estimate; network route unavailable"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "190 Street route reaches Hazelgrove Park. School/park activity and traffic on nearby 192 Street/72 Avenue need a site check; no quiet-street guarantee.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.rew.ca/properties/6926-190-street-surrey-bc",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -503,10 +789,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          50,
+          100
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6960231,49.1288624;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          85,
+          115
+        ],
+        "transit_all_day_range_minutes": [
+          85,
+          115
+        ],
+        "transit_estimate_basis": "Local bus connection to existing Expo Line; transfer/wait and access included as allowances.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P10",
@@ -521,34 +831,45 @@
       "interior_sqft": 3470,
       "year_built": 1987,
       "strata_monthly": 0,
-      "annual_tax": null,
-      "tax_year": null,
+      "annual_tax": 4260,
+      "tax_year": 2025,
       "yard": "Advertised large backyard/workshop; approximately 9460 sqft lot",
       "suite_status": "Advertisement says two mortgage helpers; two-bedroom unit unfinished and described as future legal suite. No permit/completion verification.",
       "rent_model": null,
       "status": "Advertised for sale; sources conflict on 2929 vs 3470 sqft and four vs five bathrooms",
       "transit": "Farther-out comparator; downtown one-hour goal not established",
-      "school": "Map/feeder-supported; verify: Shortreed Community Elementary → Betty Gilbert Middle → Aldergrove Community Secondary",
+      "school": "Map/feeder-supported; verify: Shortreed Community Elementary \u2192 Betty Gilbert Middle \u2192 Aldergrove Community Secondary",
       "next_gate": "Hold: unfinished suite, inconsistent measurements and unverified rental claims. Marketing $900/month ownership and $3600 rent not adopted.",
       "source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc",
       "secondary_source": "https://www.claudiotonella.com/langley-condo/l/listing.r3147707-27191-28a-avenue-langley-v4w-3a4.109360788",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Philip Jackman Park"
+        ],
         "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Play area",
+          "open lawn",
+          "seasonal spray park"
+        ],
+        "source": "https://facilities.tol.ca/Home/Detail?Id=5ac13514-6ed2-4673-912a-7e9d08c4d3d7",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          16,
+          36
+        ],
+        "walking_method": "Rough distance/pacing estimate; network route unavailable"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Desktop screen; exposure unresolved",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "28A Avenue site; park trip toward 32 Avenue requires crossing review. Large lot does not establish buffering or low traffic.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -557,10 +878,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          65,
+          120
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.4710064,49.0541395;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          120,
+          160
+        ],
+        "transit_all_day_range_minutes": [
+          120,
+          160
+        ],
+        "transit_estimate_basis": "503 from Aldergrove toward Langley/Surrey Central, then existing Expo Line; long bus access leg.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc"
     },
     {
       "id": "P11",
@@ -582,27 +927,38 @@
       "rent_model": null,
       "status": "REW advertisement; listed Oct 22 with Oct 24/25 open houses",
       "transit": "Investigate local bus to existing rail; future Langley SkyTrain not current service",
-      "school": "Map/feeder-supported; verify: Simonds Elementary → H.D. Stafford Middle → Langley Secondary",
+      "school": "Map/feeder-supported; verify: Simonds Elementary \u2192 H.D. Stafford Middle \u2192 Langley Secondary",
       "next_gate": "Hold as conversion-cost comparator: no rent counted before permits, capital budget and completion",
       "source": "https://www.rew.ca/properties/20030-48-avenue-langley-bc",
       "secondary_source": "https://tuckermcclean.com/listing/r3177701/",
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
-        "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Sendall Gardens"
+        ],
+        "walking_minutes": 10,
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Garden trails",
+          "picnic tables",
+          "washrooms"
+        ],
+        "source": "https://www.langleycity.ca/parks-recreation/parks-trails/sendall-gardens",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          12,
+          21
+        ],
+        "walking_method": "Network-modelled walking distance; estimated family pace"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Junction proximity flag",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "48 Avenue frontage near 200 Street. Verify turning traffic, actual frontage noise and pedestrian access; one street away is acceptable but direct exposure remains the concern.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.rew.ca/properties/20030-48-avenue-langley-bc",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -611,10 +967,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          55,
+          105
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6674907,49.0893386;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          95,
+          130
+        ],
+        "transit_all_day_range_minutes": [
+          95,
+          130
+        ],
+        "transit_estimate_basis": "Local access to Langley Centre, bus toward existing Expo Line, then downtown.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     },
     {
       "id": "P12",
@@ -636,27 +1016,37 @@
       "rent_model": null,
       "status": "REALTOR.ca advertises new non-strata rowhome; other sites classify inconsistently as house/townhouse",
       "transit": "Investigate local bus to existing rail; future SkyTrain excluded",
-      "school": "Map/feeder-supported; verify: Uplands Elementary & Montessori → H.D. Stafford Middle → Langley Secondary",
+      "school": "Map/feeder-supported; verify: Uplands Elementary & Montessori \u2192 H.D. Stafford Middle \u2192 Langley Secondary",
       "next_gate": "Hold: verify yard and legal rental configuration; GST inclusion/rebate eligibility and shared obligations unresolved",
       "source": "https://www.realtor.ca/real-estate/30255815/4536-208-street-langley",
       "secondary_source": null,
       "parks_nearby": {
-        "status": "Not researched",
-        "park_names": null,
+        "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+        "park_names": [
+          "Uplands Dog Off Leash Park"
+        ],
         "walking_minutes": null,
-        "route_crossings": null,
-        "features": null,
-        "source": null,
-        "verified_on": null
+        "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "features": [
+          "Off-leash dog area",
+          "trail connections"
+        ],
+        "source": "https://www.langleycity.ca/parks-recreation/parks-trails/uplands-dog-leash-park",
+        "verified_on": "2026-10-25",
+        "walking_range_minutes": [
+          10,
+          22
+        ],
+        "walking_method": "Rough distance/pacing estimate; network route unavailable"
       },
       "street_setting": {
-        "status": "Not assessed",
+        "status": "Arterial frontage flag",
         "major_road_frontage_or_rear_exposure": null,
         "unit_position": null,
-        "traffic_and_noise": null,
-        "school_park_route_crossings": null,
-        "source": null,
-        "verified_on": null,
+        "traffic_and_noise": "208 Street address on a city arterial corridor. High-priority frontage/yard exposure check; do not treat the new rowhome as meeting the quiet-street preference.",
+        "school_park_route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit.",
+        "source": "https://www.langleycity.ca/media/file/langley-city-transportation-2050-final-draftpdf",
+        "verified_on": "2026-10-25",
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
       },
@@ -665,10 +1055,34 @@
         "downtown_reference": "Waterfront Station, Vancouver, BC",
         "drive_minutes": null,
         "transit_door_to_door_minutes": null,
-        "departure_or_arrival_time": null,
-        "observed_on": null,
-        "status": "Not measured; route links supplied. No one-hour commute claim."
-      }
+        "departure_or_arrival_time": "Weekday morning toward Waterfront; exact arrival not fixed",
+        "observed_on": "2026-10-25",
+        "status": "Researched: approximate door-to-door ranges; routing baseline where available, transit access/wait allowances not a timed itinerary",
+        "drive_range_minutes": [
+          55,
+          110
+        ],
+        "drive_model_minutes": null,
+        "drive_model_distance_m": null,
+        "drive_model_source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6466822,49.084194;-123.1112509,49.2855107?overview=false&steps=true",
+        "drive_estimate_basis": "Broad weekday planning range, not traffic forecast; excludes parking. Network baseline shown separately where obtained.",
+        "transit_range_minutes": [
+          100,
+          135
+        ],
+        "transit_all_day_range_minutes": [
+          100,
+          135
+        ],
+        "transit_estimate_basis": "Local access to Langley Centre, bus toward existing Expo Line, then downtown.",
+        "sources": [
+          "https://www.translink.ca/translink/schedules-and-maps/west-coast-express",
+          "https://www.translink.ca/schedules-and-maps/route/555/direction/0/schedule?page=1",
+          "https://www.translink.ca/schedules-and-maps/route/351/direction/0/map",
+          "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
+        ]
+      },
+      "tax_source": null
     }
   ],
   "rent_observations": [

@@ -1,0 +1,33 @@
+{
+  "researched_on": "2026-10-25",
+  "method": "Use advertised amount where known; otherwise a labelled mean of matched nearby advertisements, not an asserted neighbourhood-wide average. Never substitute zero silently. Maintain a repair reserve even where no monthly strata collection is advertised.",
+  "properties": {
+    "P06": {
+      "strata_monthly": {
+        "estimate": 0.0,
+        "sample_size": 3,
+        "geography": "King George Corridor, Surrey",
+        "home_type": "Half duplex",
+        "basis": "Mean of three advertisements explicitly claiming no strata fees; mixed ages and sizes, not verified strata budgets. Subject marketing also claims no maintenance fee. Actual shared insurance/repair liabilities remain unknown.",
+        "comparables": [
+          {
+            "address": "101-16042 9A Avenue",
+            "strata_monthly": 0,
+            "source": "https://jaredgibbons.ca/king-george-corridor-guide.html"
+          },
+          {
+            "address": "102-16058 9A Avenue",
+            "strata_monthly": 0,
+            "source": "https://www.northshorerealty.ca/listing/r3169649-16058-9a-avenue-102-surrey-bc-v4a-4w5/"
+          },
+          {
+            "address": "1825 160 Street",
+            "strata_monthly": 0,
+            "source": "https://realestatewhiterock.com/half-duplex-1825-160-street-surrey-bc-v4a-4x5-surrey-king-george-corridor"
+          }
+        ]
+      },
+      "legal_structure_source": "https://www.surrey.ca/sites/default/files/corporate-reports/RPT_2006_R025.pdf"
+    }
+  }
+}

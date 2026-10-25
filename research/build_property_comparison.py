@@ -10,6 +10,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 
 from mortgage_scenarios import monthly_payment
+from ownership_costs import ownership_cost_plan
 
 ROOT = Path(__file__).resolve().parent
 
@@ -22,6 +23,7 @@ def build():
     data = json.loads((ROOT / "property-sample.json").read_text())
     a = data["assumptions"]
     catchments = json.loads((ROOT / "school-catchments.json").read_text())
+    estimates = json.loads((ROOT / "cost-estimates.json").read_text())
     rows = []
     summary = [
         "# First property sample: cost comparison",
@@ -33,6 +35,8 @@ def build():
         "The known-cost subtotal includes mortgage, advertised strata fees and advertised tax/12 ONLY where both are available. It excludes insurance, utilities, owner maintenance, special levies and rental tax. Historical tax years and advertised strata fees need refreshing. Unknown is not zero.",
         "",
         "After-rent figures count 75% of exploratory asking rent; this allowance is not an itemized expense/tax model. They cover mortgage only. No rent is counted for unfinished, merely potential or wet-bar configurations.",
+        "",
+        "The HTML total-expense column and CSV total_expenses fields use the broader ownership model: mortgage + property tax + strata + maintenance + insurance + utilities, minus 50% of modelled gross rent. Missing inputs use a labelled matched-advertisement mean from cost-estimates.json where available. The older mortgage-only sensitivity table below retains its separate 75% rent allowance.",
         "",
         "| ID | Address | Asking | Mortgage/month | Strata/month | Tax/year | Known-cost subtotal/month | Mortgage after rental allowance |",
         "|---|---|---:|---:|---:|---:|---:|---|",
@@ -50,6 +54,12 @@ def build():
             after_high = payment - a["rent_counted_fraction"] * rent["low"]
         required = max(0, payment - a["personal_mortgage_target"]) / a["rent_counted_fraction"]
         row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
+        cost = ownership_cost_plan(p, a, estimates)
+        row["ownership_cost_plan"] = json.dumps(cost, ensure_ascii=False)
+        row["total_expenses_after_rent_low"] = None if cost["low"] is None else round(cost["low"])
+        row["total_expenses_after_rent_high"] = None if cost["high"] is None else round(cost["high"])
+        row["drive_range_minutes"] = json.dumps(p["commute"]["drive_range_minutes"])
+        row["transit_range_minutes"] = json.dumps(p["commute"]["transit_range_minutes"])
         row.update(observed_on=data["observed_on"], mortgage_monthly=round(payment),
                    known_cost_subtotal_monthly=None if known is None else round(known),
                    required_gross_rent=round(required),

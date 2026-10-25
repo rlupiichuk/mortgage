@@ -1,0 +1,544 @@
+{
+  "researched_on": "2026-10-25",
+  "geocoder": "https://geocoder.api.gov.bc.ca/",
+  "router": "https://routing.openstreetmap.de/",
+  "method": "BC address geocoder coordinates; OSRM/OpenStreetMap network routes where returned successfully. Router times are model estimates, not observed trips, live traffic, accessibility audits or confirmed public access. Parcel points and block/intersection destinations can snap to another street or side of a park. Walking ranges use distance at 3\u20134.5 km/h, with 2\u20135 minutes access allowance. When routing failed, a separate rough range uses straight-line distance times 1.3\u20131.8, not a measured route.",
+  "properties": {
+    "P01": {
+      "origin": {
+        "address": "3363 Sefton St, Port Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7580398,
+          49.2731109
+        ]
+      },
+      "park_destination": {
+        "address": "3155 Wellington St, Port Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7619603,
+          49.2695168
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Map-modelled route",
+          "distance_m": 647,
+          "model_minutes": 8.6,
+          "snap_distance_m": [
+            19,
+            24
+          ],
+          "street_names": [
+            "Vincent Street",
+            "Wellington Street"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.7580398,49.2731109;-122.7619603,49.2695168?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Map-modelled route",
+          "distance_m": 34556,
+          "model_minutes": 40.2,
+          "snap_distance_m": [
+            19,
+            6
+          ],
+          "street_names": [
+            "Dorset Avenue",
+            "Coast Meridian Road",
+            "Broadway Street",
+            "Mary Hill Bypass",
+            "Trans-Canada Highway",
+            "Willingdon Avenue",
+            "Grandview Highway",
+            "East 1st Avenue",
+            "Grandview Viaduct",
+            "Terminal Avenue",
+            "Quebec Street",
+            "Expo Boulevard",
+            "Abbott Street",
+            "West Pender Street",
+            "Cambie Street",
+            "West Cordova Street"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.7580398,49.2731109;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P02": {
+      "origin": {
+        "address": "1338 Hames Cres, Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7545228,
+          49.2939064
+        ]
+      },
+      "park_destination": {
+        "address": "3404 Galloway Ave, Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7534997,
+          49.2943801
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Map-modelled route",
+          "distance_m": 179,
+          "model_minutes": 2.4,
+          "snap_distance_m": [
+            5,
+            8
+          ],
+          "street_names": [],
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.7545228,49.2939064;-122.7534997,49.2943801?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Map-modelled route",
+          "distance_m": 30287,
+          "model_minutes": 42.6,
+          "snap_distance_m": [
+            5,
+            6
+          ],
+          "street_names": [
+            "Hames Crescent",
+            "Galloway Avenue",
+            "Coast Meridian Road",
+            "David Avenue",
+            "Pipeline Road",
+            "Guildford Way",
+            "Pinetree Way",
+            "Barnet Highway",
+            "Saint Johns Street",
+            "Barnet Road",
+            "Inlet Drive",
+            "Hastings Street",
+            "East Hastings Street",
+            "Clark Drive",
+            "Powell Street",
+            "Water Street",
+            "Abbott Street",
+            "West Cordova Street"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.7545228,49.2939064;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P03": {
+      "origin": {
+        "address": "19236 119 Ave, Pitt Meadows, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6889707,
+          49.2185214
+        ]
+      },
+      "park_destination": {
+        "address": "19130 Advent Rd, Pitt Meadows, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.6914269,
+          49.2261045
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Map-modelled route",
+          "distance_m": 1055,
+          "model_minutes": 14.1,
+          "snap_distance_m": [
+            19,
+            3
+          ],
+          "street_names": [],
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.6889707,49.2185214;-122.6914269,49.2261045?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Map-modelled route",
+          "distance_m": 38320,
+          "model_minutes": 43.6,
+          "snap_distance_m": [
+            19,
+            6
+          ],
+          "street_names": [
+            "119 Avenue",
+            "Harris Road",
+            "Lougheed Highway",
+            "Pitt River Bridge",
+            "Mary Hill Bypass",
+            "Trans-Canada Highway",
+            "Willingdon Avenue",
+            "Grandview Highway",
+            "East 1st Avenue",
+            "Grandview Viaduct",
+            "Terminal Avenue",
+            "Quebec Street",
+            "Expo Boulevard",
+            "Abbott Street",
+            "West Pender Street",
+            "Cambie Street",
+            "West Cordova Street"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6889707,49.2185214;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P04": {
+      "origin": {
+        "address": "8968 208 St, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6450511,
+          49.1651695
+        ]
+      },
+      "park_destination": {
+        "address": "9085 206 St, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6527585,
+          49.1678245
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Map-modelled route",
+          "distance_m": 888,
+          "model_minutes": 10.9,
+          "snap_distance_m": [
+            33,
+            51
+          ],
+          "street_names": [
+            "West Munday Creek Trail",
+            "Walnut Grove Trail"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.6450511,49.1651695;-122.6527585,49.1678245?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Map-modelled route",
+          "distance_m": 41561,
+          "model_minutes": 43.6,
+          "snap_distance_m": [
+            19,
+            6
+          ],
+          "street_names": [
+            "208 Street",
+            "88 Avenue",
+            "Trans-Canada Highway",
+            "Willingdon Avenue",
+            "Grandview Highway",
+            "East 1st Avenue",
+            "Grandview Viaduct",
+            "Terminal Avenue",
+            "Quebec Street",
+            "Expo Boulevard",
+            "Abbott Street",
+            "West Pender Street",
+            "Cambie Street",
+            "West Cordova Street"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6450511,49.1651695;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P05": {
+      "origin": {
+        "address": "8068 207 St, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.647414,
+          49.1493289
+        ]
+      },
+      "park_destination": {
+        "address": "20656 82 Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6502594,
+          49.1507422
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.647414,49.1493289;-122.6502594,49.1507422?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Map-modelled route",
+          "distance_m": 42979,
+          "model_minutes": 45.5,
+          "snap_distance_m": [
+            26,
+            6
+          ],
+          "street_names": [
+            "207 Street",
+            "80 Avenue",
+            "200 Street",
+            "88 Avenue East",
+            "Trans-Canada Highway",
+            "Willingdon Avenue",
+            "Grandview Highway",
+            "East 1st Avenue",
+            "Grandview Viaduct",
+            "Terminal Avenue",
+            "Quebec Street",
+            "Expo Boulevard",
+            "Abbott Street",
+            "West Pender Street",
+            "Cambie Street",
+            "West Cordova Street"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.647414,49.1493289;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P06": {
+      "origin": {
+        "address": "15669 20 Ave, Surrey, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7880846,
+          49.0385064
+        ]
+      },
+      "park_destination": {
+        "address": "2041 155 St, Surrey, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7928168,
+          49.0390895
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.7880846,49.0385064;-122.7928168,49.0390895?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.7880846,49.0385064;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P07": {
+      "origin": {
+        "address": "24222 103 Ave, Maple Ridge, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.5508955,
+          49.1893913
+        ]
+      },
+      "park_destination": {
+        "address": "24460 104 Ave, Maple Ridge, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.5444869,
+          49.1912727
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.5508955,49.1893913;-122.5444869,49.1912727?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.5508955,49.1893913;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P08": {
+      "origin": {
+        "address": "12326 Aurora St, Maple Ridge, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.5772829,
+          49.2260437
+        ]
+      },
+      "park_destination": {
+        "address": "12290 230 St, Maple Ridge, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.5847225,
+          49.2257357
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Map-modelled route",
+          "distance_m": 1015,
+          "model_minutes": 13.6,
+          "snap_distance_m": [
+            28,
+            2
+          ],
+          "street_names": [
+            "Aurora Street",
+            "Aurora Place",
+            "124 Avenue"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.5772829,49.2260437;-122.5847225,49.2257357?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.5772829,49.2260437;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P09": {
+      "origin": {
+        "address": "6926 190 St, Surrey, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6960231,
+          49.1288624
+        ]
+      },
+      "park_destination": {
+        "address": "7080 190 St, Surrey, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.6961583,
+          49.13138
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.6960231,49.1288624;-122.6961583,49.13138?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6960231,49.1288624;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P10": {
+      "origin": {
+        "address": "27191 28A Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.4710064,
+          49.0541395
+        ]
+      },
+      "park_destination": {
+        "address": "27155 32 Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.4732333,
+          49.061595
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.4710064,49.0541395;-122.4732333,49.061595?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.4710064,49.0541395;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P11": {
+      "origin": {
+        "address": "20030 48 Ave, Langley, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6674907,
+          49.0893386
+        ]
+      },
+      "park_destination": {
+        "address": "201A St and 50 Ave, Langley, BC",
+        "score": 100,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6642931,
+          49.0935561
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Map-modelled route",
+          "distance_m": 765,
+          "model_minutes": 10.2,
+          "snap_distance_m": [
+            16,
+            2
+          ],
+          "street_names": [
+            "201A Street",
+            "50 Avenue"
+          ],
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.6674907,49.0893386;-122.6642931,49.0935561?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6674907,49.0893386;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P12": {
+      "origin": {
+        "address": "4536 208 St, Langley, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6466822,
+          49.084194
+        ]
+      },
+      "park_destination": {
+        "address": "206 St and 44A Ave, Langley, BC",
+        "score": 100,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6527385,
+          49.0829138
+        ]
+      },
+      "routes": {
+        "foot": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/-122.6466822,49.084194;-122.6527385,49.0829138?overview=false&steps=true"
+        },
+        "car": {
+          "status": "Router unavailable; rough estimate used",
+          "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6466822,49.084194;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    }
+  }
+}

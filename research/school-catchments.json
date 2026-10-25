@@ -4,151 +4,151 @@
   "schools": {
     "leigh": {
       "name": "Leigh Elementary",
-      "grades": "K–5",
+      "grades": "K\u20135",
       "url": "https://www.sd43.bc.ca/leigh",
       "level": "elementary"
     },
     "terryfox": {
       "name": "Terry Fox Secondary",
-      "grades": "9–12",
+      "grades": "9\u201312",
       "url": "https://www.sd43.bc.ca/terryfox",
       "level": "secondary"
     },
     "daviejones": {
       "name": "Davie Jones Elementary",
-      "grades": "K–7",
+      "grades": "K\u20137",
       "url": "https://elementary.sd42.ca/daviejones/",
       "level": "elementary"
     },
     "pmss": {
       "name": "Pitt Meadows Secondary",
-      "grades": "8–12",
+      "grades": "8\u201312",
       "url": "https://secondary.sd42.ca/pmss/",
       "level": "secondary"
     },
     "greenwood": {
       "name": "Gordon Greenwood Elementary",
-      "grades": "K–7",
+      "grades": "K\u20137",
       "url": "https://www.sd35.bc.ca/gordongreenwood",
       "level": "elementary"
     },
     "wgss": {
       "name": "Walnut Grove Secondary",
-      "grades": "8–12",
+      "grades": "8\u201312",
       "url": "https://www.sd35.bc.ca/wgss",
       "level": "secondary"
     },
     "willoughby": {
       "name": "Willoughby Elementary",
-      "grades": "K–5",
+      "grades": "K\u20135",
       "url": "https://www.sd35.bc.ca/willoughby",
       "level": "elementary"
     },
     "yorkson": {
       "name": "Yorkson Creek Middle",
-      "grades": "6–8",
+      "grades": "6\u20138",
       "url": "https://www.sd35.bc.ca/ycms",
       "level": "middle"
     },
     "remss": {
       "name": "R.E. Mountain Secondary",
-      "grades": "9–12",
+      "grades": "9\u201312",
       "url": "https://www.sd35.bc.ca/remss",
       "level": "secondary"
     },
     "edss": {
       "name": "Emery Dosdall Secondary",
-      "grades": "9–12 (planned)",
+      "grades": "9\u201312 (planned)",
       "url": "https://www.sd35.bc.ca/edss",
       "level": "secondary"
     },
     "jessie": {
       "name": "Jessie Lee Elementary",
-      "grades": "K–7",
+      "grades": "K\u20137",
       "url": "https://www.surreyschools.ca/jessie",
       "level": "elementary"
     },
     "earl": {
       "name": "Earl Marriott Secondary",
-      "grades": "8–12",
+      "grades": "8\u201312",
       "url": "https://www.surreyschools.ca/earlmarriott",
       "level": "secondary"
     },
     "albion": {
       "name": "Albion Elementary",
-      "grades": "K–7",
+      "grades": "K\u20137",
       "url": "https://elementary.sd42.ca/albion/",
       "level": "elementary"
     },
     "srt": {
       "name": "Samuel Robertson Technical Secondary",
-      "grades": "8–12",
+      "grades": "8\u201312",
       "url": "https://secondary.sd42.ca/srt/",
       "level": "secondary"
     },
     "harry": {
       "name": "Harry Hooge Elementary",
-      "grades": "K–7",
+      "grades": "K\u20137",
       "url": "https://elementary.sd42.ca/harryhooge/",
       "level": "elementary"
     },
     "thss": {
       "name": "Thomas Haney Secondary",
-      "grades": "8–12",
+      "grades": "8\u201312",
       "url": "https://secondary.sd42.ca/thss/",
       "level": "secondary"
     },
     "hazel": {
       "name": "Hazelgrove Elementary",
-      "grades": "K–7",
+      "grades": "K\u20137",
       "url": "https://www.surreyschools.ca/hazelgrove",
       "level": "elementary"
     },
     "clayton": {
       "name": "Clayton Heights Secondary",
-      "grades": "8–12",
+      "grades": "8\u201312",
       "url": "https://www.surreyschools.ca/clyhts",
       "level": "secondary"
     },
     "shortreed": {
       "name": "Shortreed Community Elementary",
-      "grades": "K–5",
+      "grades": "K\u20135",
       "url": "https://www.sd35.bc.ca/shortreed",
       "level": "elementary"
     },
     "betty": {
       "name": "Betty Gilbert Middle",
-      "grades": "6–8",
+      "grades": "6\u20138",
       "url": "https://www.sd35.bc.ca/bgms",
       "level": "middle"
     },
     "acss": {
       "name": "Aldergrove Community Secondary",
-      "grades": "9–12",
+      "grades": "9\u201312",
       "url": "https://www.sd35.bc.ca/acss",
       "level": "secondary"
     },
     "simonds": {
       "name": "Simonds Elementary",
-      "grades": "K–5",
+      "grades": "K\u20135",
       "url": "https://www.sd35.bc.ca/simonds-uconnect",
       "level": "elementary"
     },
     "stafford": {
       "name": "H.D. Stafford Middle",
-      "grades": "6–8",
+      "grades": "6\u20138",
       "url": "https://www.sd35.bc.ca/hdsms",
       "level": "middle"
     },
     "lss": {
       "name": "Langley Secondary",
-      "grades": "9–12",
+      "grades": "9\u201312",
       "url": "https://www.sd35.bc.ca/lss",
       "level": "secondary"
     },
     "uplands": {
       "name": "Uplands Elementary & Montessori",
-      "grades": "K–5 neighbourhood program",
+      "grades": "K\u20135 neighbourhood program",
       "url": "https://www.sd35.bc.ca/uplands",
       "level": "elementary"
     }
@@ -166,7 +166,12 @@
           "label": "Property school-data issue",
           "url": "https://www.estateblock.com/port-coquitlam/3363-sefton-st-1954718"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "Public evidence insufficient for school safety comparison",
+        "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
+        "url": "https://sd43.bc.ca/cross-catchment"
+      }
     },
     "P02": {
       "district": "SD43",
@@ -176,7 +181,7 @@
         "terryfox"
       ],
       "future": [],
-      "notes": "REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed.",
+      "notes": "REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed. Follow-up 2026-10-25: SD43 capital-project page lists Burke Mountain Secondary completion for Fall 2027, superseding older 2026 marketing. This does not establish this property\u2019s assignment; new-school transition/catchment must be confirmed.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
@@ -186,8 +191,17 @@
         {
           "label": "Older nearby-school marketing",
           "url": "https://vopenhouse.ca/video/25199_Farrington/"
+        },
+        {
+          "label": "SD43 capital projects: current completion schedule",
+          "url": "https://www.sd43.bc.ca/capital-projects"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "Older Leigh policy located; assignment and current policy require confirmation",
+        "notes": "Leigh 2022\u201323 code discusses monitoring repeated violations. This older document cannot establish the current school safety situation, and elementary assignment remains contested.",
+        "url": "https://www.sd43.bc.ca/school/leigh/About/COC/Documents/Leigh%20Code%20of%20Conduct%202022-2023.pdf"
+      }
     },
     "P03": {
       "district": "SD42",
@@ -197,7 +211,7 @@
         "pmss"
       ],
       "future": [],
-      "notes": "REW labels Davie Jones and Pitt Meadows Secondary as in catchment. This differs from the earlier nearby-school lead of Pitt Meadows Elementary. No separate middle school in this proposed K–7 / 8–12 pathway. District locator and capacity confirmation pending.",
+      "notes": "REW labels Davie Jones and Pitt Meadows Secondary as in catchment. This differs from the earlier nearby-school lead of Pitt Meadows Elementary. No separate middle school in this proposed K\u20137 / 8\u201312 pathway. District locator and capacity confirmation pending.",
       "locator_url": "https://www.sd42.ca/school-locator/",
       "sources": [
         {
@@ -208,7 +222,12 @@
           "label": "Official school directories",
           "url": "https://www.sd42.ca/schools/elementary-schools/"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "School conduct policy reviewed; outcome evidence not established",
+        "notes": "Davie Jones policy addresses bullying, weapons/substances, restorative interventions, repeat incidents and prevention of retaliation. No comparable incident rates or effectiveness result established.",
+        "url": "https://elementary.sd42.ca/daviejones/about-us/code-of-conduct/"
+      }
     },
     "P04": {
       "district": "SD35",
@@ -218,7 +237,7 @@
         "wgss"
       ],
       "future": [],
-      "notes": "REW names Gordon Greenwood and Walnut Grove Secondary. Greenwood's district map was inspected, but its version is May 2014; treat it as historical corroboration. No separate middle school in the K–7 / 8–12 pathway. District address-level confirmation remains pending.",
+      "notes": "REW names Gordon Greenwood and Walnut Grove Secondary. Greenwood's district map was inspected, but its version is May 2014; treat it as historical corroboration. No separate middle school in the K\u20137 / 8\u201312 pathway. District address-level confirmation remains pending.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -233,7 +252,12 @@
           "label": "District school families",
           "url": "https://www.sd35.bc.ca/action-plans-for-learning-apfl"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "District conduct framework located; school incident/outcome comparison unavailable",
+        "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
+        "url": "https://www.sd35.bc.ca/administrative-procedures"
+      }
     },
     "P05": {
       "district": "SD35",
@@ -249,7 +273,7 @@
         "edss"
       ],
       "future_effective": "September 2027",
-      "notes": "The February 2025 district elementary map supports Willoughby for the 80xx block at 207 Street. REW also lists Betty Gilbert Middle 16.48 km away: rejected as conflicting data, not another guaranteed choice. SD35's May 2026 notice gives Willoughby → Yorkson Creek → Emery Dosdall from September 2027, conditional on address. Confirm the unit and school year with the district.",
+      "notes": "The February 2025 district elementary map supports Willoughby for the 80xx block at 207 Street. REW also lists Betty Gilbert Middle 16.48 km away: rejected as conflicting data, not another guaranteed choice. SD35's May 2026 notice gives Willoughby \u2192 Yorkson Creek \u2192 Emery Dosdall from September 2027, conditional on address. Confirm the unit and school year with the district.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -264,7 +288,12 @@
           "label": "Approved September 2027 transitions",
           "url": "https://sd35.bc.ca/willoughby-slope-catchment-boundary-changes.21343"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "District conduct framework located; school incident/outcome comparison unavailable",
+        "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
+        "url": "https://www.sd35.bc.ca/administrative-procedures"
+      }
     },
     "P06": {
       "district": "SD36",
@@ -274,14 +303,19 @@
         "earl"
       ],
       "future": [],
-      "notes": "REW labels Jessie Lee and Earl Marriott as in catchment. School homepages verified; district address lookup/placement pending. K–7 / 8–12 pathway, no separate middle school assumed.",
+      "notes": "REW labels Jessie Lee and Earl Marriott as in catchment. School homepages verified; district address lookup/placement pending. K\u20137 / 8\u201312 pathway, no separate middle school assumed.",
       "locator_url": "https://www.surreyschools.ca/capital-plan",
       "sources": [
         {
           "label": "REW catchment labels",
           "url": "https://www.rew.ca/properties/15669-20-avenue-surrey-bc"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "Public evidence insufficient for school safety comparison",
+        "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
+        "url": "https://www.surreyschools.ca/capital-plan"
+      }
     },
     "P07": {
       "district": "SD42",
@@ -298,7 +332,12 @@
           "label": "REW catchment labels",
           "url": "https://www.rew.ca/properties/24222-103-avenue-maple-ridge-bc"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "Public evidence insufficient for school safety comparison",
+        "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
+        "url": "https://www.sd42.ca/school-locator/"
+      }
     },
     "P08": {
       "district": "SD42",
@@ -315,7 +354,12 @@
           "label": "REW catchment labels",
           "url": "https://www.rew.ca/properties/12326-aurora-street-maple-ridge-bc"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "Public evidence insufficient for school safety comparison",
+        "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
+        "url": "https://www.sd42.ca/school-locator/"
+      }
     },
     "P09": {
       "district": "SD36",
@@ -325,14 +369,19 @@
         "clayton"
       ],
       "future": [],
-      "notes": "Both listing description and REW school panel name Hazelgrove / Clayton Heights. This is not independent district confirmation. School links verified. K–7 / 8–12 pathway, with no separate middle school assumed.",
+      "notes": "Both listing description and REW school panel name Hazelgrove / Clayton Heights. This is not independent district confirmation. School links verified. K\u20137 / 8\u201312 pathway, with no separate middle school assumed.",
       "locator_url": "https://www.surreyschools.ca/capital-plan",
       "sources": [
         {
           "label": "Listing and catchment labels",
           "url": "https://www.rew.ca/properties/6926-190-street-surrey-bc"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "School conduct policy located; no comparable incident rates",
+        "notes": "Hazelgrove policy covers bullying, substances and reporting/restorative procedures. File dating needs confirmation; written rules alone do not measure safety.",
+        "url": "https://media.surreyschools.ca/media/Default/medialib/code-of-conduct-2024-2025-final.258682172840.pdf"
+      }
     },
     "P10": {
       "district": "SD35",
@@ -358,7 +407,12 @@
           "label": "Official middle-school feeder explanation",
           "url": "https://www.sd35.bc.ca/bgms/about-middle-school"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "District conduct framework located; school incident/outcome comparison unavailable",
+        "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
+        "url": "https://www.sd35.bc.ca/administrative-procedures"
+      }
     },
     "P11": {
       "district": "SD35",
@@ -384,7 +438,12 @@
           "label": "Official school pathway",
           "url": "https://www.sd35.bc.ca/simonds-uconnect/about-us"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "District conduct framework located; school incident/outcome comparison unavailable",
+        "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
+        "url": "https://www.sd35.bc.ca/administrative-procedures"
+      }
     },
     "P12": {
       "district": "SD35",
@@ -395,7 +454,7 @@
         "lss"
       ],
       "future": [],
-      "notes": "June 2024 district map visually supports the 45xx block of 208 Street in Uplands. Stafford's official page names Uplands as feeder and Langley Secondary as the next school. REW's K–6 Uplands label conflicts with district K–5 information; use district grade structure. Montessori/Fundamental admission not assumed.",
+      "notes": "June 2024 district map visually supports the 45xx block of 208 Street in Uplands. Stafford's official page names Uplands as feeder and Langley Secondary as the next school. REW's K\u20136 Uplands label conflicts with district K\u20135 information; use district grade structure. Montessori/Fundamental admission not assumed.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -410,7 +469,12 @@
           "label": "Official middle-school feeders",
           "url": "https://www.sd35.bc.ca/hdsms/action-plan-for-learning-document"
         }
-      ]
+      ],
+      "safety_research": {
+        "status": "District conduct framework located; school incident/outcome comparison unavailable",
+        "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
+        "url": "https://www.sd35.bc.ca/administrative-procedures"
+      }
     }
   }
 }

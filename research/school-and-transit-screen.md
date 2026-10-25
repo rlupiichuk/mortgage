@@ -1,6 +1,6 @@
 # Initial school and transit screening
 
-Updated 2026-10-25. Preliminary desk research accompanying the property sample. No school safety or academic ranking established; no address is cleared for purchase on school grounds.
+Updated 2026-10-25. Preliminary desk research accompanying the property sample. School safety not established; academic indicator scores are now separately sourced; no address is cleared for purchase on school grounds.
 
 ## Follow-up catchment investigation
 
@@ -8,7 +8,7 @@ The newer [property-by-property school research](school-catchments.md) supersede
 
 Important changes: P03's listing-labelled elementary is Davie Jones rather than the earlier nearby-school lead of Pitt Meadows Elementary. P05's map-supported Willoughby pathway changes from the current R.E. Mountain secondary lead to Emery Dosdall Secondary under SD35's approved September 2027 transition notice. P02's elementary evidence conflicts, and its middle school remains unresolved. P01 remains unresolved. These are research findings, not enrolment guarantees.
 
-The HTML workbench now has separate driving/transit columns using Waterfront Station as a consistent downtown reference. All actual travel times remain unmeasured; links open route directions. No new commute performance claim is made.
+The HTML workbench now has separate driving/transit columns using Waterfront Station as a consistent downtown reference. The newer [address follow-up](address-research.md) supplies approximate commute ranges and five map-modelled driving baselines. These are not observed trips or live-traffic forecasts.
 
 ## School leads for the next detailed pass
 

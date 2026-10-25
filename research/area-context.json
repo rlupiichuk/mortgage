@@ -8,32 +8,240 @@
     "P02": {
       "name": "Galloway Park",
       "url": "https://coquitlam.ca/facilities/facility/details/gallowaypark-39",
-      "walk_minutes": null,
-      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+      "walk_minutes": 2,
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "address": "3404 Galloway Avenue, Coquitlam, BC",
+      "features": [
+        "Playground",
+        "seasonal spray park"
+      ],
+      "distance_m": 179,
+      "walk_range_minutes": [
+        4,
+        9
+      ],
+      "walk_method": "Network-modelled walking distance; estimated family pace",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
     },
     "P03": {
       "name": "Hoffmann Park",
       "url": "https://www.pittmeadows.ca/parks-recreation/parks-fields-facilities/parks-list/hoffmann-park",
-      "walk_minutes": null,
-      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+      "walk_minutes": 14,
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "address": "19130 Advent Road, Pitt Meadows, BC",
+      "features": [
+        "Trails",
+        "fitness equipment",
+        "off-leash area"
+      ],
+      "distance_m": 1055,
+      "walk_range_minutes": [
+        16,
+        27
+      ],
+      "walk_method": "Network-modelled walking distance; estimated family pace",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
     },
     "P05": {
       "name": "Yorkson Community Park",
       "url": "https://facilities.tol.ca/Home/Detail?Id=67a3675f-bad8-439f-93d8-58289780ab3c",
       "walk_minutes": null,
-      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "address": "20656 82 Avenue, Langley, BC",
+      "features": [
+        "Play area",
+        "pump track",
+        "sports fields",
+        "spray park"
+      ],
+      "distance_m": null,
+      "walk_range_minutes": [
+        6,
+        15
+      ],
+      "walk_method": "Rough distance/pacing estimate; network route unavailable",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
     },
     "P09": {
       "name": "Hazelgrove Park",
       "url": "https://www.surrey.ca/parks-recreation/parks/hazelgrove-park",
       "walk_minutes": null,
-      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "address": "7080 190 Street, Surrey, BC",
+      "features": [
+        "Playground",
+        "parkour"
+      ],
+      "distance_m": null,
+      "walk_range_minutes": [
+        6,
+        16
+      ],
+      "walk_method": "Rough distance/pacing estimate; network route unavailable",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
     },
     "P12": {
       "name": "Uplands Dog Off Leash Park",
       "url": "https://www.langleycity.ca/parks-recreation/parks-trails/uplands-dog-leash-park",
       "walk_minutes": null,
-      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "address": "206 Street and 44A Avenue, Langley City, BC",
+      "features": [
+        "Off-leash dog area",
+        "trail connections"
+      ],
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        22
+      ],
+      "walk_method": "Rough distance/pacing estimate; network route unavailable",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P01": {
+      "name": "McLean Park",
+      "address": "3155 Wellington Street, Port Coquitlam, BC",
+      "url": "https://prod.portcoquitlam.ca/recreation-parks/parks-trails/parks-directory/mclean-park",
+      "features": [
+        "Playground",
+        "sports fields",
+        "washroom"
+      ],
+      "walk_minutes": 9,
+      "distance_m": 647,
+      "walk_range_minutes": [
+        10,
+        18
+      ],
+      "walk_method": "Network-modelled walking distance; estimated family pace",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P04": {
+      "name": "McClughan Park",
+      "address": "9085 206 Street, Langley, BC",
+      "url": "https://facilities.tol.ca/Home/Detail?Id=94049915-2fd6-486e-a536-9f9e7f7df727",
+      "features": [
+        "Play area",
+        "trails",
+        "picnic shelter"
+      ],
+      "walk_minutes": 11,
+      "distance_m": 888,
+      "walk_range_minutes": [
+        13,
+        23
+      ],
+      "walk_method": "Network-modelled walking distance; estimated family pace",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P06": {
+      "name": "Jessie Lee Park",
+      "address": "2041 155 Street, Surrey, BC",
+      "url": "https://www.cylex-canada.ca/company/jessie-lee-park-24863447.html",
+      "features": [],
+      "additional_sources": [
+        "https://www.surrey.ca/sites/default/files/planning-reports/PLR_7924-0178-00.pdf"
+      ],
+      "source_note": "City planning report names Jessie Lee Park; address from a third-party directory. Entrance requires confirmation.",
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        8,
+        18
+      ],
+      "walk_method": "Rough distance/pacing estimate; network route unavailable",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P07": {
+      "name": "Albion Park",
+      "address": "24460 104 Avenue, Maple Ridge, BC",
+      "url": "https://www.mapleridge.ca/parks-recreation/recreation-facilities/albion-park",
+      "features": [
+        "Playground",
+        "trails",
+        "bike skills",
+        "washrooms"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        24
+      ],
+      "walk_method": "Rough distance/pacing estimate; network route unavailable",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P08": {
+      "name": "Harry Hooge Park",
+      "address": "12290 230 Street, Maple Ridge, BC",
+      "url": "https://www.mapleridge.ca/parks-recreation/recreation-facilities/harry-hooge-park",
+      "features": [
+        "Playground",
+        "walking paths"
+      ],
+      "walk_minutes": 14,
+      "distance_m": 1015,
+      "walk_range_minutes": [
+        15,
+        26
+      ],
+      "walk_method": "Network-modelled walking distance; estimated family pace",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P10": {
+      "name": "Philip Jackman Park",
+      "address": "27155 32 Avenue, Langley, BC",
+      "url": "https://facilities.tol.ca/Home/Detail?Id=5ac13514-6ed2-4673-912a-7e9d08c4d3d7",
+      "features": [
+        "Play area",
+        "open lawn",
+        "seasonal spray park"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        16,
+        36
+      ],
+      "walk_method": "Rough distance/pacing estimate; network route unavailable",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
+    },
+    "P11": {
+      "name": "Sendall Gardens",
+      "address": "201A Street and 50 Avenue, Langley City, BC",
+      "url": "https://www.langleycity.ca/parks-recreation/parks-trails/sendall-gardens",
+      "features": [
+        "Garden trails",
+        "picnic tables",
+        "washrooms"
+      ],
+      "walk_minutes": 10,
+      "distance_m": 765,
+      "walk_range_minutes": [
+        12,
+        21
+      ],
+      "walk_method": "Network-modelled walking distance; estimated family pace",
+      "status": "Desktop researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossing signals, sidewalk continuity and child suitability not verified. Route is not a safety audit."
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",
@@ -139,5 +347,6 @@
         "Violent crime severity index": null
       }
     }
-  }
+  },
+  "route_method": "BC address geocoder coordinates; OSRM/OpenStreetMap network routes where returned successfully. Router times are model estimates, not observed trips, live traffic, accessibility audits or confirmed public access. Parcel points and block/intersection destinations can snap to another street or side of a park. Walking ranges use distance at 3\u20134.5 km/h, with 2\u20135 minutes access allowance. When routing failed, a separate rough range uses straight-line distance times 1.3\u20131.8, not a measured route."
 }

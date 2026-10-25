@@ -8,6 +8,8 @@ The known-cost subtotal includes mortgage, advertised strata fees and advertised
 
 After-rent figures count 75% of exploratory asking rent; this allowance is not an itemized expense/tax model. They cover mortgage only. No rent is counted for unfinished, merely potential or wet-bar configurations.
 
+The HTML total-expense column and CSV total_expenses fields use the broader ownership model: mortgage + property tax + strata + maintenance + insurance + utilities, minus 50% of modelled gross rent. Missing inputs use a labelled matched-advertisement mean from cost-estimates.json where available. The older mortgage-only sensitivity table below retains its separate 75% rent allowance.
+
 | ID | Address | Asking | Mortgage/month | Strata/month | Tax/year | Known-cost subtotal/month | Mortgage after rental allowance |
 |---|---|---:|---:|---:|---:|---:|---|
 | P01 | [3363 Sefton Street](https://www.google.com/maps/search/?api=1&query=3363+Sefton+Street%2C+Port+Coquitlam%2C+BC%2C+Canada) | $739,000 | $2,775 | $370 | $2,991 | $3,394 | not modelled |
@@ -16,10 +18,10 @@ After-rent figures count 75% of exploratory asking rent; this allowance is not a
 | P04 | [9-8968 208 Street](https://www.google.com/maps/search/?api=1&query=9-8968+208+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $799,900 | $3,120 | $481 | $2,912 | $3,844 | not modelled |
 | P05 | [94-8068 207 Street](https://www.google.com/maps/search/?api=1&query=94-8068+207+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $799,800 | $3,120 | $400 | $3,092 | $3,778 | not modelled |
 | P06 | [15669 20 Avenue](https://www.google.com/maps/search/?api=1&query=15669+20+Avenue%2C+Surrey%2C+BC%2C+Canada) | $799,000 | $3,115 | unknown | $3,483 | unknown | not modelled |
-| P07 | [24222 103 Avenue](https://www.google.com/maps/search/?api=1&query=24222+103+Avenue%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | unknown | unknown | $3,580–$3,880 |
-| P08 | [12326 Aurora Street](https://www.google.com/maps/search/?api=1&query=12326+Aurora+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | unknown | unknown | $3,580–$3,880 |
+| P07 | [24222 103 Avenue](https://www.google.com/maps/search/?api=1&query=24222+103+Avenue%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,089,000 | $4,761 | $0 | $6,970 | $5,342 | $3,523–$3,823 |
+| P08 | [12326 Aurora Street](https://www.google.com/maps/search/?api=1&query=12326+Aurora+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $5,879 | $5,308 | $3,580–$3,880 |
 | P09 | [6926 190 Street](https://www.google.com/maps/search/?api=1&query=6926+190+Street%2C+Surrey%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $5,065 | $5,240 | $3,711–$3,768 |
-| P10 | [27191 28A Avenue](https://www.google.com/maps/search/?api=1&query=27191+28A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $1,199,000 | $5,385 | $0 | unknown | unknown | not modelled |
+| P10 | [27191 28A Avenue](https://www.google.com/maps/search/?api=1&query=27191+28A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $1,199,000 | $5,385 | $0 | $4,260 | $5,740 | not modelled |
 | P11 | [20030 48 Avenue](https://www.google.com/maps/search/?api=1&query=20030+48+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $1,199,000 | $5,385 | $0 | $5,867 | $5,874 | not modelled |
 | P12 | [4536 208 Street](https://www.google.com/maps/search/?api=1&query=4536+208+Street%2C+Langley+City%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $5,336 | $5,262 | not modelled |
 

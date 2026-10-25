@@ -40,3 +40,7 @@ No closed-comparable-sale analysis, neighbourhood crime analysis, comparative sc
 - [Fraser elementary report 2025](https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf): 2023/24 academic indicator data; exact school identities matched. No safety inference. Albion score and comparable middle/secondary scores not verified.
 - [Statistics Canada table 35-10-0063-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301): 2024/2025 police jurisdiction CSI observations retained in area-context.json. Surrey police transition series kept separate; no combined index.
 - Official park pages linked per lead in area-context.json. Existence checked; no measured walking time, crossings or guarantee of access within 30 minutes.
+
+## Address and cost follow-up
+
+See [address research](address-research.md), [route observations](route-observations.json) and [cost estimates](cost-estimates.json) for linked source records. BC address geocoder and OSRM/OpenStreetMap routes provide modelled geography, not live travel or audited child-safe routes. Park references, school safety policy evidence and street corridor plans are linked in those artifacts and expanded property rows.
