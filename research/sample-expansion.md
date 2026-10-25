@@ -52,13 +52,13 @@ All added homes have source links, preliminary school/nearby leads, parking/stor
 | P31 | [13-621 Langside Avenue](https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13) · Coquitlam West | $889,900 | Transit-strong; shortest transit range in batch |
 | P32 | [112-1225 Mitchell Street](https://www.zolo.ca/coquitlam-real-estate/1225-mitchell-street/112) · Burke Mountain | $899,000 | Newest build (2021); bath-count discrepancy |
 | P33 | [17-2560 Pitt River Road](https://www.zolo.ca/port-coquitlam-real-estate/2560-pitt-river-road/17) · Citadel PQ | $879,000 | Low strata; Pitt River Road exposure unresolved |
-| P34 | [40-1355 Citadel Drive](https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40) · Citadel PQ | $879,000 | 4 bedrooms, 1,917 sqft; catchment ambiguous |
+| P34 | [40-1355 Citadel Drive](https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40) · Citadel PQ | $879,000 | 4 bedrooms, 1,917 sqft; catchment confirmed Hazel Trembath / Citadel Middle / Riverside (Baragar, Oct 25, 2026) |
 | P35 | [21-12268 189a Street](https://www.strawhomes.com/mls/pitt-meadows-townhouses/) · Central Meadows | $809,700 | Hoffmann Park 3–8 min; WCE mornings |
 | P36 | [23-12018 237 Street](https://www.zolo.ca/maple-ridge-real-estate/12018-237-street/23) · East Central | $699,900 | Lowest price in batch; $80k cut Oct 13 |
 | P37 | [30-13260 236 Street](https://www.zolo.ca/maple-ridge-real-estate/13260-236-street/30) · Silver Valley | $750,000 | 4 bedrooms; Maple Ridge Park 7–11 min |
 | P38 | [4-11282 Cottonwood Drive](https://www.zolo.ca/maple-ridge-real-estate/11282-cottonwood-drive/4) · Cottonwood | $799,900 | Largest floor area (2,199 sqft); highest carrying cost |
 | P39 | [26-15850 85 Avenue](https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26) · Fleetwood Tynehead | $775,000 | Low strata; 88 days on market |
-| P40 | [14-6945 185 Street](https://www.zolo.ca/surrey-real-estate/6945-185-street/14) · Clayton | $775,000 | Clayton Park 4–8 min; secondary catchment unresolved |
+| P40 | [14-6945 185 Street](https://www.zolo.ca/surrey-real-estate/6945-185-street/14) · Clayton | $775,000 | Clayton Park 4–8 min; catchment confirmed Regent Road / École Salish (Baragar, Oct 25, 2026) |
 | P41 | [11382 240 Street](https://www.estateblock.com/maple-ridge/11382-240-st-1929754) · Cottonwood MR | $1,099,999 | Detached with advertised suite; busy-road frontage |
 | P42 | [2663 275a Street](https://www.estateblock.com/langley/2663-275a-st-1947836) · Aldergrove Langley | $1,198,888 | Detached with suite; availability confirmed Active Oct 25, 2026 |
 | P43 | [37-20460 66 Avenue](https://www.zolo.ca/langley-real-estate/20460-66-avenue/37) · Willoughby Heights | $615,999 | 2-bed townhouse benchmark; below target |
@@ -69,7 +69,7 @@ All added homes have source links, preliminary school/nearby leads, parking/stor
 
 - P36 Maple Ridge: lowest price in the batch at $699,900, with mortgage + strata + tax ~$3,222/mo — below the $3,500 target; confirm the $80,000 Oct 13 cut reason.
 - P31 Coquitlam West: 7.0 fit with the shortest transit range in its batch (45–60 min); confirm catchment and yard.
-- P40 Clayton: 7.0 fit with Clayton Park 4–8 min; resolve the secondary catchment (Clayton Heights vs École Salish).
+- P40 Clayton: 7.0 fit with Clayton Park 4–8 min; catchment confirmed Regent Road Elementary / École Salish Secondary via Baragar, Oct 25, 2026.
 - P41/P42: detached-plus-suite comparators; verify suite permits and rent before counting any income.
 - P29 Murrayville: lowest verified carrying cost in the Langley batch (~$3,543/mo); confirm the catchment secondary (Langley Fundamental is a choice school, not a catchment secondary).
 - P28 Walnut Grove: strongest elementary lead in the batch (Gordon Greenwood 7.3); verify unit 32's own strata fee and tax.

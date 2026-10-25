@@ -337,6 +337,30 @@
       "grades": "8–12",
       "url": "https://www.sd42.ca/secondary-school/westview-secondary/",
       "level": "secondary"
+    },
+    "hazeltrembath": {
+      "name": "Hazel Trembath Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/hazeltrembath/",
+      "level": "elementary"
+    },
+    "citadel": {
+      "name": "École Citadel Middle School",
+      "grades": "6–8",
+      "url": "https://www.sd43.bc.ca/citadel/",
+      "level": "middle"
+    },
+    "regentroad": {
+      "name": "Regent Road Elementary",
+      "grades": "K–7",
+      "url": "https://www.surreyschools.ca/regentroad",
+      "level": "elementary"
+    },
+    "salish": {
+      "name": "École Salish Secondary",
+      "grades": "8–12",
+      "url": "https://www.surreyschools.ca/salish",
+      "level": "secondary"
     }
   },
   "properties": {
@@ -1385,22 +1409,22 @@
     "P34": {
       "district": "SD43",
       "current": [
-        "castlepark",
+        "hazeltrembath",
         "riverside"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area. Zolo's nearby-schools list names Hazel Trembath and Kilmer (not Castle Park) — supporting evidence only, not a catchment confirmation. A district-confirmed lookup via the Baragar tool is in progress (the tool is an interactive form).",
+      "status": "District-confirmed via Baragar School Locator, checked 2026-10-25",
+      "notes": "District-confirmed via the SD43 Baragar School Locator for 1355 Citadel Drive, checked Oct 25, 2026: Hazel Trembath Elementary (K–5), École Citadel Middle (6–8), École Riverside Secondary (9–12). Castle Park is not the catchment elementary. Early French Immersion pathway (École Kilmer Elementary / École Pitt River Middle / École Riverside Secondary) requires application through the Program of Choice. No capacity or school safety conclusion. The Hazel Trembath replacement school is under construction (not expected until December 2027); the current school site is 1100 Winslow Avenue, Coquitlam.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
-          "label": "Property advertisement / school leads",
-          "url": "https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40"
+          "label": "District-confirmed catchment (Baragar School Locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=bc43"
         },
         {
-          "label": "Official school identity: Castle Park Elementary",
-          "url": "https://www.sd43.bc.ca/castlepark/"
+          "label": "Official school identity: Hazel Trembath Elementary",
+          "url": "https://www.sd43.bc.ca/hazeltrembath/"
         },
         {
           "label": "Official school identity: Ecole Riverside Secondary",
@@ -1581,26 +1605,26 @@
     "P40": {
       "district": "SD36",
       "current": [
-        "hillcrest",
-        "clayton"
+        "regentroad",
+        "salish"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator. A nearby Clayton Heights listing at 19593 72 Ave names 'Catchment: Ecole Salish School' — different address (~0.5 km away), not evidence for this unit. Baragar lookup in progress (interactive form).",
+      "status": "District-confirmed via Baragar School Locator, checked 2026-10-25",
+      "notes": "District-confirmed via the SD36 Baragar School Locator for 6945 185 Street, checked Oct 25, 2026: Regent Road Elementary (K–7) and École Salish Secondary (8–12). No middle school listed. Clayton Heights is not the catchment secondary; Hillcrest is not the catchment elementary. No capacity or school safety conclusion. Regent Road Elementary is the new school that replaced Clayton Elementary.",
       "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
       "sources": [
         {
-          "label": "Property advertisement / school leads",
-          "url": "https://www.zolo.ca/surrey-real-estate/6945-185-street/14"
+          "label": "District-confirmed catchment (Baragar School Locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36"
         },
         {
-          "label": "Official school identity: Hillcrest Elementary",
-          "url": "https://www.surreyschools.ca/hillcr"
+          "label": "Official school identity: Regent Road Elementary",
+          "url": "https://www.surreyschools.ca/regentroad"
         },
         {
-          "label": "Official school identity: Clayton Heights Secondary",
-          "url": "https://www.surreyschools.ca/clyhts"
+          "label": "Official school identity: Ecole Salish Secondary",
+          "url": "https://www.surreyschools.ca/salish"
         }
       ],
       "safety_research": {
