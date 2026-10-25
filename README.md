@@ -11,10 +11,10 @@ This is a living decision record for exploring whether, where, and how to buy a 
 - [Purchase strategies and budget](research/strategies-and-budget.md): comparable scenarios and calculation assumptions.
 - [Strategies from discussions and interviews](research/community-strategies.md): alternative paths, lived experiences, source caveats, and household fit.
 - [Location shortlist](research/locations.csv): places to investigate, not recommendations or safety rankings.
-- [First property sample](research/property-sample-notes.md): 25 examples, screening decisions and outstanding checks.
+- [First property sample](research/property-sample-notes.md): 45 examples, screening decisions and outstanding checks.
 - [Property cost comparison](research/property-cost-comparison.md) and [spreadsheet](research/property-comparison.csv): reproducible costs with sources and uncertainty.
 - [Initial school/transit screening](research/school-and-transit-screen.md): address-specific leads and verification gaps.
-- [School catchment research](research/school-catchments.md) and [structured school records](research/school-catchments.json): linked schools, evidence status, conflicts and future changes for the 25 examples.
+- [School catchment research](research/school-catchments.md) and [structured school records](research/school-catchments.json): linked schools, evidence status, conflicts and future changes for the 45 examples.
 - [Trends tracker](research/trends.md) and [historical observations](research/trends.json): initial price/inventory history, sources, coverage gaps and refresh method.
 - [Evidence register](research/sources.md): source links, dates, scope, and verification gaps.
 - [Research log and next steps](research/research-log.md): decisions, changes, and future work.
@@ -41,6 +41,6 @@ The HTML includes a compiled interpretation as well as data-driven charts: revie
 
 The property-first HTML comparison includes preliminary school links and academic ratings, police-jurisdiction crime context, park walking-route leads, provisional overall fit and a broader monthly ownership estimate. Supporting records: `research/school-ratings.json` and `research/area-context.json`. Walk target: 20–30 minutes. Expanded cost assumptions are illustrative and editable in `research/summary.template.html`; rental allowance reserves 50% of gross rent for combined tax, vacancy and expenses, not a personal tax estimate.
 
-Follow-up findings: `research/address-research.md`. All 25 examples now have approximate drive/transit ranges, park walking ranges and street-setting notes. `route-observations.json` preserves successful network-modelled baselines and unavailable results. `cost-estimates.json` preserves labelled matched advertised comparisons for missing costs; raw unknown values remain null. `ownership_costs.py` shares the full planning calculation between the HTML and CSV.
+Follow-up findings: `research/address-research.md`. All 45 examples now have approximate drive/transit ranges, park walking ranges and street-setting notes. `route-observations.json` preserves successful network-modelled baselines and unavailable results. `cost-estimates.json` preserves labelled matched advertised comparisons for missing costs; raw unknown values remain null. `ownership_costs.py` shares the full planning calculation between the HTML and CSV.
 
 Expanded sample: [25-home intake and selection notes](research/sample-expansion.md). Added P13–P25, including Murrayville, lower-priced townhouse comparisons and a yard apartment comparator. All homes have parking/storage observations, school leads, fit assessments and cost/travel estimates with evidence labels.

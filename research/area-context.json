@@ -492,6 +492,435 @@
       "status": "Official park lead; public entrance and crossings unverified",
       "checked_on": "2026-10-25",
       "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P26": {
+      "name": "Routley Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=6543d2e1-44c5-46ac-9cf9-5d7979e2f3ef",
+      "features": [
+        "Playground",
+        "Tennis court",
+        "Basketball court",
+        "Baseball diamond",
+        "Soccer field",
+        "Off-leash dog areas",
+        "Community garden"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P27": {
+      "name": "Yorkson Community Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=67a3675f-bad8-439f-93d8-58289780ab3c",
+      "features": [
+        "Playground (Township's largest accessible playground)",
+        "Spray park",
+        "Pumptrack",
+        "Sports fields",
+        "Picnic area",
+        "Washrooms"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        9,
+        18
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P28": {
+      "name": "Walnut Grove Community Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=4e997029-bc0f-40e7-91c3-57723b11f65b",
+      "features": [
+        "Playground",
+        "Picnic sites",
+        "Sports fields",
+        "Community centre with pool",
+        "Skatepark"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        14,
+        26
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P29": {
+      "name": "Murrayville Outdoor Activity Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=b45f283a-2d30-4fff-a99e-49e9adec8596",
+      "features": [
+        "Playground",
+        "Outdoor activity areas"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        14,
+        28
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P30": {
+      "name": "Douglas Park",
+      "address": null,
+      "url": "https://www.langleycity.ca/taxonomy/term/25",
+      "features": [
+        "Inclusive playground",
+        "Seasonal spray park",
+        "Sports box",
+        "Pickleball courts",
+        "Bowling green",
+        "Community gardens",
+        "Washrooms"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        8,
+        16
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P31": {
+      "name": "Burquitlam Park",
+      "address": null,
+      "url": "https://coquitlam.ca/m/NewsFlash/Home/Detail/1878",
+      "features": [
+        "Playground",
+        "Water play area",
+        "Picnic shelter",
+        "Sports field",
+        "Multi-use sport court"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        6,
+        12
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P32": {
+      "name": "Riley Park",
+      "address": null,
+      "url": "https://www.coquitlam.ca/Facilities/Facility/Details/Riley-Park-73",
+      "features": [
+        "Playground",
+        "Picnic Areas",
+        "Picnic Tables",
+        "Accessible pathway",
+        "Lookout / telescope"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        14,
+        22
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P33": {
+      "name": "Gates Park",
+      "address": null,
+      "url": "https://www.portcoquitlam.ca/park/gates-park/",
+      "features": [
+        "Playground",
+        "Sports fields",
+        "Tennis courts",
+        "Traboulay PoCo Trail",
+        "Picnic tables"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        12,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P34": {
+      "name": "Castle Park",
+      "address": null,
+      "url": "https://www.portcoquitlam.ca/park/castle-park/",
+      "features": [
+        "Playground",
+        "Splash park",
+        "Trails",
+        "Dog park"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        12,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P35": {
+      "name": "Hoffmann Park",
+      "address": null,
+      "url": "https://www.pittmeadows.ca/parks-recreation/parks-fields-facilities/parks-list/hoffmann-park",
+      "features": [
+        "Dog park",
+        "Walking trails",
+        "Mature trees / green space"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        3,
+        8
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P36": {
+      "name": "Maple Ridge Park",
+      "address": null,
+      "url": "https://www.mapleridge.ca/parks-recreation/parks/maple-ridge-park",
+      "features": [
+        "Off-leash dog area",
+        "Trails",
+        "Open green space",
+        "Picnic areas"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        14,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P37": {
+      "name": "Maple Ridge Park",
+      "address": null,
+      "url": "https://www.mapleridge.ca/parks-recreation/parks/maple-ridge-park",
+      "features": [
+        "Off-leash dog area",
+        "Trails",
+        "Open green space",
+        "Picnic areas"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        7,
+        11
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P38": {
+      "name": "Kanaka Creek Regional Park",
+      "address": null,
+      "url": "https://www.metrovancouver.org/parks-recreation/kanaka-creek-regional-park",
+      "features": [
+        "Trails",
+        "River / creek access",
+        "Wildlife viewing",
+        "Picnic areas"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        20,
+        28
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P39": {
+      "name": "Fleetwood Park",
+      "address": null,
+      "url": "https://www.surrey.ca/parks-recreation/parks/fleetwood-park",
+      "features": [
+        "Playground",
+        "Spray park",
+        "Sports fields",
+        "Walking trails",
+        "Picnic areas"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        7,
+        12
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P40": {
+      "name": "Clayton Park",
+      "address": null,
+      "url": "https://www.surrey.ca/parks-recreation/parks/clayton-park",
+      "features": [
+        "Playground",
+        "Spray park",
+        "Sports fields",
+        "Walking trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        4,
+        8
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P41": {
+      "name": "Kanaka Creek Regional Park",
+      "address": null,
+      "url": "https://www.metrovancouver.org/parks-recreation/kanaka-creek-regional-park",
+      "features": [
+        "Trails",
+        "River / creek access",
+        "Wildlife viewing",
+        "Picnic areas"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        25,
+        40
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P42": {
+      "name": "Aldergrove Regional Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=aldergrove-regional-park",
+      "features": [
+        "Off-leash dog area",
+        "Trails",
+        "Picnic areas",
+        "Playground"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        18
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P43": {
+      "name": "R.C. Garnett Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=rc-garnett-park",
+      "features": [
+        "Playground",
+        "Sports fields",
+        "Walking trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        15,
+        19
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P44": {
+      "name": "Gates Park",
+      "address": null,
+      "url": "https://www.portcoquitlam.ca/park/gates-park/",
+      "features": [
+        "Playground",
+        "Sports fields",
+        "Tennis courts",
+        "Traboulay PoCo Trail",
+        "Picnic tables"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        13
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P45": {
+      "name": "Callaghan Park",
+      "address": null,
+      "url": "https://www.mapleridge.ca/parks-recreation/parks/callaghan-park",
+      "features": [
+        "Playground",
+        "Sports fields",
+        "Walking trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        14,
+        18
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Official park lead; public entrance and crossings unverified",
+      "checked_on": "2026-10-25",
+      "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",

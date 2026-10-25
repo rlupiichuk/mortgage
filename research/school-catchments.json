@@ -241,6 +241,102 @@
       "grades": "K–7",
       "url": "https://www.surreyschools.ca/katzie",
       "level": "elementary"
+    },
+    "rcgarnett": {
+      "name": "R.C. Garnett Demonstration Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/rcgarnett",
+      "level": "elementary"
+    },
+    "alexhope": {
+      "name": "Alex Hope Elementary",
+      "grades": "K–7",
+      "url": "https://www.sd35.bc.ca/alexhope",
+      "level": "elementary"
+    },
+    "lfmss": {
+      "name": "Langley Fundamental Middle and Secondary School",
+      "grades": "6–12",
+      "url": "https://www.sd35.bc.ca/lfmss",
+      "level": "secondary"
+    },
+    "nicomekl": {
+      "name": "Nicomekl Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/nicomekl",
+      "level": "elementary"
+    },
+    "millerpark": {
+      "name": "Miller Park Community School",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/millerpark",
+      "level": "elementary"
+    },
+    "castlepark": {
+      "name": "Castle Park Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/castlepark/",
+      "level": "elementary"
+    },
+    "alexanderrobinson": {
+      "name": "Alexander Robinson Elementary",
+      "grades": "K–7",
+      "url": "http://elementary.sd42.ca/alexanderrobinson/",
+      "level": "elementary"
+    },
+    "harryhooge": {
+      "name": "Harry Hooge Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/harryhooge/",
+      "level": "elementary"
+    },
+    "kanakacreek": {
+      "name": "Kanaka Creek Elementary",
+      "grades": "K–7",
+      "url": "http://elementary.sd42.ca/kanakacreek/",
+      "level": "elementary"
+    },
+    "walnutroad": {
+      "name": "Walnut Road Elementary",
+      "grades": "K–7",
+      "url": "https://www.surreyschools.ca/walnutroad",
+      "level": "elementary"
+    },
+    "fleetwoodpark": {
+      "name": "Fleetwood Park Secondary",
+      "grades": "8–12",
+      "url": "https://www.surreyschools.ca/schools/fltsec",
+      "level": "secondary"
+    },
+    "hillcrest": {
+      "name": "Hillcrest Elementary",
+      "grades": "K–7",
+      "url": "https://www.surreyschools.ca/hillcr",
+      "level": "elementary"
+    },
+    "bluemountain": {
+      "name": "Blue Mountain Elementary School",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/bluemountain/",
+      "level": "elementary"
+    },
+    "garibaldi": {
+      "name": "Garibaldi Secondary School",
+      "grades": "8–12",
+      "url": "https://secondary.sd42.ca/gss/",
+      "level": "secondary"
+    },
+    "fairview": {
+      "name": "Fairview Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/fairview/",
+      "level": "elementary"
+    },
+    "westview": {
+      "name": "Westview Secondary",
+      "grades": "8–12",
+      "url": "https://www.sd42.ca/secondary-school/westview-secondary/",
+      "level": "secondary"
     }
   },
   "properties": {
@@ -1012,6 +1108,665 @@
         "status": "No comparable school-level safety outcome established",
         "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
         "url": "https://www.sd35.bc.ca/simonds-uconnect"
+      },
+      "nearest_fallback": {}
+    },
+    "P26": {
+      "district": "SD35",
+      "current": [
+        "rcgarnett",
+        "remss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead follows a nearby same-street listing (37-20460 66 Avenue) naming R.C. Garnett Elementary, Peter Ewart Middle School and R.E. Mountain Secondary as catchments; that claim is for a different unit and is not district-confirmed for this address. The SD35 May 2026 notice on Willoughby Elementary feeding Yorkson Creek Middle and Emery Dosdall Secondary from September 2027 is not established for this address.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://vancouvernashdom.com/langley-townhouses-for-sale-above-700000/SearchResults.form/?_pg=2"
+        },
+        {
+          "label": "Official school identity: R.C. Garnett Demonstration Elementary",
+          "url": "https://www.sd35.bc.ca/rcgarnett"
+        },
+        {
+          "label": "Official school identity: R.E. Mountain Secondary",
+          "url": "https://www.sd35.bc.ca/remss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/rcgarnett"
+      },
+      "nearest_fallback": {}
+    },
+    "P27": {
+      "district": "SD35",
+      "current": [
+        "willoughby",
+        "remss"
+      ],
+      "future": [
+        "willoughby",
+        "edss"
+      ],
+      "future_effective": "2027-09",
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead follows a nearby listing (8117 200A Street) naming Willoughby Elementary, Yorkson Creek Middle and R.E. Mountain Secondary. SD35's May 2026 notice establishes Willoughby Elementary to Yorkson Creek Middle to Emery Dosdall Secondary from September 2027, conditional on address; current secondary is R.E. Mountain.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/langley-real-estate/8120-200a-street/17"
+        },
+        {
+          "label": "Official school identity: Willoughby Elementary",
+          "url": "https://www.sd35.bc.ca/willoughby"
+        },
+        {
+          "label": "Official school identity: R.E. Mountain Secondary",
+          "url": "https://www.sd35.bc.ca/remss"
+        },
+        {
+          "label": "Official school identity: Emery Dosdall Secondary",
+          "url": "https://www.sd35.bc.ca/edss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/willoughby"
+      },
+      "nearest_fallback": {}
+    },
+    "P28": {
+      "district": "SD35",
+      "current": [
+        "greenwood",
+        "wgss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Same elementary/secondary pathway as P04 (Walnut Grove); map-supported pathway for this area, not a district-confirmed address lookup.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://vancouvernashdom.com/langley-walnut-grove-townhouses/SearchResults.form/?_pg=2"
+        },
+        {
+          "label": "Official school identity: Gordon Greenwood Elementary",
+          "url": "https://www.sd35.bc.ca/gordongreenwood"
+        },
+        {
+          "label": "Official school identity: Walnut Grove Secondary",
+          "url": "https://www.sd35.bc.ca/wgss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/gordongreenwood"
+      },
+      "nearest_fallback": {}
+    },
+    "P29": {
+      "district": "SD35",
+      "current": [
+        "alexhope",
+        "lfmss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/langley-real-estate/4967-220-street/51"
+        },
+        {
+          "label": "Official school identity: Alex Hope Elementary",
+          "url": "https://www.sd35.bc.ca/alexhope"
+        },
+        {
+          "label": "Official school identity: Langley Fundamental Middle and Secondary School",
+          "url": "https://www.sd35.bc.ca/lfmss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/alexhope"
+      },
+      "nearest_fallback": {}
+    },
+    "P30": {
+      "district": "SD35",
+      "current": [
+        "nicomekl",
+        "lss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Pathway follows a nearby school sheet for 5220 197A Street (same block area): Nicomekl Elementary (K-5), H.D. Stafford Middle (6-8), Langley Secondary (9-12). Nicomekl Elementary has a new 8-classroom modular addition opened fall 2026 and a 200-student expansion underway, per SD35 reporting.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://bryanvanhoepen.com/featured/29-5515-199a-street-langley-bc-v3a-1j7/?qir=5fDTYbfUIXGrSbsY5dOPxaVfJCHoDRYB5aX3B9s5&qenv=production"
+        },
+        {
+          "label": "Nearby school sheet (5220 197A Street)",
+          "url": "https://s.realtyninja.com/static/media/listings/11191_lad79e4c6e_Schools.pdf"
+        },
+        {
+          "label": "Official school identity: Nicomekl Elementary",
+          "url": "https://www.sd35.bc.ca/nicomekl"
+        },
+        {
+          "label": "Official school identity: Langley Secondary School",
+          "url": "https://www.sd35.bc.ca/lss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/nicomekl"
+      },
+      "nearest_fallback": {}
+    },
+    "P31": {
+      "district": "SD43",
+      "current": [
+        "millerpark",
+        "charlesbest"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Miller Park Community School; Ecole Dr. Charles Best Secondary).",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13"
+        },
+        {
+          "label": "Official school identity: Miller Park Community School",
+          "url": "https://www.sd43.bc.ca/millerpark"
+        },
+        {
+          "label": "Official school identity: Ecole Dr. Charles Best Secondary",
+          "url": "https://www.sd43.bc.ca/charlesbest"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/millerpark"
+      },
+      "nearest_fallback": {}
+    },
+    "P32": {
+      "district": "SD43",
+      "current": [
+        "leigh",
+        "terryfox"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Leigh Elementary; Terry Fox Secondary).",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/coquitlam-real-estate/1225-mitchell-street/112"
+        },
+        {
+          "label": "Official school identity: Leigh Elementary",
+          "url": "https://www.sd43.bc.ca/leigh"
+        },
+        {
+          "label": "Official school identity: Terry Fox Secondary",
+          "url": "https://www.sd43.bc.ca/terryfox"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/leigh"
+      },
+      "nearest_fallback": {}
+    },
+    "P33": {
+      "district": "SD43",
+      "current": [
+        "central",
+        "riverside"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Central Community Elementary; Ecole Riverside Secondary). Ecole Pitt River Community Middle School is the middle-years lead in the area.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/port-coquitlam-real-estate/2560-pitt-river-road/17"
+        },
+        {
+          "label": "Official school identity: Central Community Elementary",
+          "url": "https://www.sd43.bc.ca/central"
+        },
+        {
+          "label": "Official school identity: Ecole Riverside Secondary",
+          "url": "https://www.sd43.bc.ca/riverside"
+        },
+        {
+          "label": "Official school identity: Ecole Pitt River Community Middle School",
+          "url": "https://www.sd43.bc.ca/pittriver/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/central"
+      },
+      "nearest_fallback": {}
+    },
+    "P34": {
+      "district": "SD43",
+      "current": [
+        "castlepark",
+        "riverside"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40"
+        },
+        {
+          "label": "Official school identity: Castle Park Elementary",
+          "url": "https://www.sd43.bc.ca/castlepark/"
+        },
+        {
+          "label": "Official school identity: Ecole Riverside Secondary",
+          "url": "https://www.sd43.bc.ca/riverside"
+        },
+        {
+          "label": "Official school identity: Ecole Citadel Middle School",
+          "url": "https://www.sd43.bc.ca/citadel/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/castlepark/"
+      },
+      "nearest_fallback": {}
+    },
+    "P35": {
+      "district": "SD42",
+      "current": [
+        "highlandpark",
+        "pmss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Highland Park Elementary; Pitt Meadows Secondary).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.strawhomes.com/mls/pitt-meadows-townhouses/"
+        },
+        {
+          "label": "Official school identity: Highland Park Elementary",
+          "url": "https://elementary.sd42.ca/highlandpark/"
+        },
+        {
+          "label": "Official school identity: Pitt Meadows Secondary",
+          "url": "https://secondary.sd42.ca/pmss/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/highlandpark/"
+      },
+      "nearest_fallback": {}
+    },
+    "P36": {
+      "district": "SD42",
+      "current": [
+        "alexanderrobinson",
+        "thss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alexander Robinson Elementary; Thomas Haney Secondary).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/maple-ridge-real-estate/12018-237-street/23"
+        },
+        {
+          "label": "Official school identity: Alexander Robinson Elementary",
+          "url": "http://elementary.sd42.ca/alexanderrobinson/"
+        },
+        {
+          "label": "Official school identity: Thomas Haney Secondary",
+          "url": "https://secondary.sd42.ca/thss/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "http://elementary.sd42.ca/alexanderrobinson/"
+      },
+      "nearest_fallback": {}
+    },
+    "P37": {
+      "district": "SD42",
+      "current": [
+        "harryhooge",
+        "thss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Harry Hooge Elementary; Thomas Haney Secondary).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/maple-ridge-real-estate/13260-236-street/30"
+        },
+        {
+          "label": "Official school identity: Harry Hooge Elementary",
+          "url": "https://elementary.sd42.ca/harryhooge/"
+        },
+        {
+          "label": "Official school identity: Thomas Haney Secondary",
+          "url": "https://secondary.sd42.ca/thss/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/harryhooge/"
+      },
+      "nearest_fallback": {}
+    },
+    "P38": {
+      "district": "SD42",
+      "current": [
+        "kanakacreek",
+        "thss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Kanaka Creek Elementary; Thomas Haney Secondary).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/maple-ridge-real-estate/11282-cottonwood-drive/4"
+        },
+        {
+          "label": "Official school identity: Kanaka Creek Elementary",
+          "url": "http://elementary.sd42.ca/kanakacreek/"
+        },
+        {
+          "label": "Official school identity: Thomas Haney Secondary",
+          "url": "https://secondary.sd42.ca/thss/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "http://elementary.sd42.ca/kanakacreek/"
+      },
+      "nearest_fallback": {}
+    },
+    "P39": {
+      "district": "SD36",
+      "current": [
+        "walnutroad",
+        "fleetwoodpark"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Walnut Road Elementary; Fleetwood Park Secondary). Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — capacity check needed.",
+      "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26"
+        },
+        {
+          "label": "Official school identity: Walnut Road Elementary",
+          "url": "https://www.surreyschools.ca/walnutroad"
+        },
+        {
+          "label": "Official school identity: Fleetwood Park Secondary",
+          "url": "https://www.surreyschools.ca/schools/fltsec"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.surreyschools.ca/walnutroad"
+      },
+      "nearest_fallback": {}
+    },
+    "P40": {
+      "district": "SD36",
+      "current": [
+        "hillcrest",
+        "clayton"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator.",
+      "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/surrey-real-estate/6945-185-street/14"
+        },
+        {
+          "label": "Official school identity: Hillcrest Elementary",
+          "url": "https://www.surreyschools.ca/hillcr"
+        },
+        {
+          "label": "Official school identity: Clayton Heights Secondary",
+          "url": "https://www.surreyschools.ca/clyhts"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.surreyschools.ca/hillcr"
+      },
+      "nearest_fallback": {}
+    },
+    "P41": {
+      "district": "SD42",
+      "current": [
+        "bluemountain",
+        "garibaldi"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Blue Mountain Elementary; Garibaldi Secondary).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.estateblock.com/maple-ridge/11382-240-st-1929754"
+        },
+        {
+          "label": "Official school identity: Blue Mountain Elementary School",
+          "url": "https://elementary.sd42.ca/bluemountain/"
+        },
+        {
+          "label": "Official school identity: Garibaldi Secondary School",
+          "url": "https://secondary.sd42.ca/gss/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/bluemountain/"
+      },
+      "nearest_fallback": {}
+    },
+    "P42": {
+      "district": "SD35",
+      "current": [
+        "shortreed",
+        "acss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Shortreed Community Elementary; Aldergrove Community Secondary).",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.estateblock.com/langley/2663-275a-st-1947836"
+        },
+        {
+          "label": "Official school identity: Shortreed Community Elementary",
+          "url": "https://www.sd35.bc.ca/shortreed"
+        },
+        {
+          "label": "Official school identity: Aldergrove Community Secondary",
+          "url": "https://www.sd35.bc.ca/acss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/shortreed"
+      },
+      "nearest_fallback": {}
+    },
+    "P43": {
+      "district": "SD35",
+      "current": [
+        "rcgarnett",
+        "remss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (R.C. Garnett Demonstration Elementary; R.E. Mountain Secondary). The listing also names Peter Ewart Middle School.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/langley-real-estate/20460-66-avenue/37"
+        },
+        {
+          "label": "Official school identity: R.C. Garnett Demonstration Elementary",
+          "url": "https://www.sd35.bc.ca/rcgarnett"
+        },
+        {
+          "label": "Official school identity: R.E. Mountain Secondary",
+          "url": "https://www.sd35.bc.ca/remss"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/rcgarnett"
+      },
+      "nearest_fallback": {}
+    },
+    "P44": {
+      "district": "SD43",
+      "current": [
+        "central",
+        "terryfox"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Central Community Elementary; Terry Fox Secondary).",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://vancouvernashdom.com/port-coquitlam-central-port-coquitlam-apartments/SearchResults.form/?_pg=6"
+        },
+        {
+          "label": "Official school identity: Central Community Elementary",
+          "url": "https://www.sd43.bc.ca/central"
+        },
+        {
+          "label": "Official school identity: Terry Fox Secondary",
+          "url": "https://www.sd43.bc.ca/terryfox"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/central"
+      },
+      "nearest_fallback": {}
+    },
+    "P45": {
+      "district": "SD42",
+      "current": [
+        "fairview",
+        "westview"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit, with a correction: Zolo's nearby-school text names a 'Westview' elementary, but no Westview Elementary exists in SD42 — Fairview Elementary is used as the lead and Westview Secondary as the secondary. Verify via the SD42 locator.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/maple-ridge-real-estate/12070-207a-street/4"
+        },
+        {
+          "label": "Official school identity: Fairview Elementary",
+          "url": "https://elementary.sd42.ca/fairview/"
+        },
+        {
+          "label": "Official school identity: Westview Secondary",
+          "url": "https://www.sd42.ca/secondary-school/westview-secondary/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/fairview/"
       },
       "nearest_fallback": {}
     }

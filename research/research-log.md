@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-10-25 — Second expansion: sample grows from 25 to 45 homes
+
+Added 20 candidates (P26–P45) in four parallel batches: five Langley townhouses (P26–P30), five Coquitlam/Port Coquitlam/Pitt Meadows townhouses (P31–P35), five Maple Ridge/Surrey townhouses (P36–P40), and two detached houses with existing suites plus three lower-cost benchmarks (P41–P45). All were verified Active on Oct 25, 2026 from public advertisements/index snapshots, except P42, whose availability is unresolved (Active on EstateBlock and the vancouvernashdom Aldergrove list; "Recently Removed" on a Zolo sitemap list).
+
+New fit leaders at 7.0/10: P31 (Coquitlam West, transit-strong), P36 (Maple Ridge, $699,900 — mortgage + strata + tax ~$3,222/mo, below the $3,500 target) and P40 (Surrey Clayton, Clayton Park 4–8 min). No property scores above 7.0. P36's $80,000 Oct 13 price cut, P39's 88 days on market, P32's bath-count discrepancy, P34's ambiguous elementary catchment, P38's Lougheed Highway proximity and P43's parking conflict are all flagged as next gates. The two suite properties have no rent modelled and no rental income is counted for either; suite permits and tenancy remain unverified. P26, P28, P35 and P44 have unverified strata/tax, recorded as null. Two verified Fraser Institute 2023/24 ratings were already in the record (Willoughby 6.8, Gordon Greenwood 7.3); no new rating entries were added. Sixteen new school records were added (56 total); duplicate keys were unified (Thomas Haney under 'thss', Clayton Heights under 'clayton', R.C. Garnett under 'rcgarnett'). Monthly mortgage figures in fit notes were computed with the repo's own formula (4.75% nominal compounded semi-annually, 25 years, $250k down). No new geocoded route observations were added; park ranges for the 20 additions are rough proximity estimates.
+
+Next research: confirm P42's availability; verify P36's price-cut reason; resolve P40's secondary catchment (Clayton Heights vs École Salish); confirm P29's catchment secondary; verify suite permits/rents for P41/P42; fill the null strata/tax for P26, P28, P35, P44.
+
 ## 2026-10-25 — Availability re-check of top candidates
 
 Re-checked the four first-priority townhouses against live listing pages.

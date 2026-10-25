@@ -8,10 +8,26 @@ Low for every example: school safety outcomes are not established, school assign
 
 | Fit estimate | Property | Judgment |
 |---|---|---|
+| 7.0/10 | P31 — 13-621 Langside Avenue | Promising research candidate — transit-strong |
+| 7.0/10 | P36 — 23-12018 237 Street | Promising — lowest price in batch, $80k cut |
+| 7.0/10 | P40 — 14-6945 185 Street | Promising — Clayton Park at the door |
 | 6.5/10 | P05 — 94-8068 207 Street | Best current fit to investigate |
 | 6.5/10 | P16 — 114-21928 48th Avenue | Strong additional family candidate |
+| 6.5/10 | P27 — 17-8120 200a Street | Promising — newest build, fees verified, smallest floor area |
+| 6.5/10 | P32 — 112-1225 Mitchell Street | Promising — newest build, Burke Mountain |
+| 6.5/10 | P33 — 17-2560 Pitt River Road | Promising — Citadel, low strata |
+| 6.5/10 | P35 — 21-12268 189a Street | Promising — Hoffmann Park at the door, WCE mornings |
+| 6.5/10 | P37 — 30-13260 236 Street | Promising — Silver Valley, 4 bedrooms |
+| 6.5/10 | P39 — 26-15850 85 Avenue | Promising — Fleetwood, low strata |
+| 6.5/10 | P42 — 2663 275a Street | Promising — detached with suite, availability conflict |
 | 6.0/10 | P04 — 9-8968 208 Street | Promising if buffered from 208 Street |
 | 6.0/10 | P13 — 8-19240 119 Avenue | Lower-cost yard candidate |
+| 6.0/10 | P28 — 32-9525 204 Street | Promising — walk-out fenced yard, strong elementary lead, fees unverified |
+| 6.0/10 | P29 — 51-4967 220 Street | Promising — lowest verified carrying cost, smallest floor area |
+| 6.0/10 | P30 — 29-5515 199a Street | Promising — largest floor area, highest strata |
+| 6.0/10 | P34 — 40-1355 Citadel Drive | Promising — largest floor area, 4 bedrooms |
+| 6.0/10 | P38 — 4-11282 Cottonwood Drive | Promising — largest floor area, highest carrying cost |
+| 6.0/10 | P41 — 11382 240 Street | Promising but busy-road tradeoff |
 | 5.5/10 | P02 — 27-1338 Hames Crescent | Promising home; school pathway unresolved |
 | 5.5/10 | P03 — 1-19236 119 Avenue | Good outdoor/commute candidate; school tradeoff |
 | 5.5/10 | P15 — 14-22128 48A Avenue | Good garage/outdoor option if two bedrooms suffice |
@@ -21,9 +37,13 @@ Low for every example: school safety outcomes are not established, school assign
 | 5.5/10 | P21 — 11-23986 104 Avenue | Affordable yard/garage option; academic tradeoff |
 | 5.5/10 | P23 — 77-20350 53 Avenue | Low-cost family-yard benchmark |
 | 5.5/10 | P25 — 49-19760 55 Avenue | Newer yard townhouse; school/commute tradeoff |
+| 5.5/10 | P26 — 37-20449 66 Avenue | Conditional — cheapest in batch, oldest build, fees unverified |
+| 5.5/10 | P43 — 37-20460 66 Avenue | Benchmark — 2-bed townhouse comparator |
 | 5.0/10 | P06 — 15669 20 Avenue | Conditional smaller-home option |
 | 5.0/10 | P14 — 42-19141 124 Avenue | Budget/space fit; academic tradeoff |
 | 5.0/10 | P22 — 38-11851 232 Street | Newer space/garage comparator; yard unresolved |
+| 5.0/10 | P44 — 107-2228 Welcher Avenue | Benchmark — ground-floor yard apartment comparator |
+| 5.0/10 | P45 — 4-12070 207a Street | Benchmark — 2-bed end-unit comparator |
 | 4.5/10 | P01 — 3363 Sefton Street | Budget-friendly; evidence too weak to shortlist |
 | 4.5/10 | P08 — 12326 Aurora Street | Strong yard; affordability/academics tradeoff |
 | 4.5/10 | P18 — 109-550 Seaborne Place | Yard-apartment strategy comparator; status concern |
@@ -369,6 +389,289 @@ Important notes:
 
 - Listing-labelled elementary indicator 3.3/10 and school safety need close attention. Tandem parking, rooftop maintenance and actual road exposure require review; future SkyTrain is not current service.
 
+## P26 — 37-20449 66 Avenue
+
+**5.5/10 · Conditional — cheapest in batch, oldest build, fees unverified · low confidence**
+
+Lowest asking price in the batch ($734,900); mortgage-only ~$2,752/mo at 4.75%/25yr with $250k down; fenced yard; air conditioning; double tandem garage plus driveway for a 3rd vehicle; large 152-unit complex (Nature's Landing, built 2005-2006) with established grounds; Routley Park (playground, sports courts) roughly 10-20 min walk.
+
+Oldest build in the batch (2006); strata fee and annual tax unverified for this unit, so true monthly cost is unknown; 82 days on market; elementary school lead (R.C. Garnett) has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- Strata fee and annual tax are null — verify from the listing sheet before any cost comparison.
+- Year built 2006 is confirmed from the strawhomes listing index for R3152853; complex built 2005-2006.
+- Asking price is not a sale price.
+
+## P27 — 17-8120 200a Street
+
+**6.5/10 · Promising — newest build, fees verified, smallest floor area · low confidence**
+
+Newest build in the batch (2024); corner unit with air conditioning; private fenced yard and sunny deck; double side-by-side garage; strata ($336.91/mo) and tax ($3,610.34, 2025) fully verified; Willoughby Elementary has a verified Fraser Institute 2023/24 score of 6.8; Yorkson Community Park (new accessible playground, spray park, pumptrack) roughly 9-18 min walk; open house Oct 25, 2:00 pm.
+
+Highest asking price in the batch ($839,000) and smallest floor area (1,392 sqft); mortgage + strata + tax ~$3,980/mo at 4.75%/25yr with $250k down — above the ~$3,500 target; listing text once said offers to be presented Sep 15, 2026 (stale) although status remains Active; catchment and school safety unverified.
+
+Important notes:
+
+- Mortgage-only ~$3,342/mo; with verified strata and tax the carrying cost is ~$3,980/mo.
+- Asking price is not a sale price.
+
+## P28 — 32-9525 204 Street
+
+**6.0/10 · Promising — walk-out fenced yard, strong elementary lead, fees unverified · low confidence**
+
+Walk-out fenced backyard with a pathway to the complex playground; described as in the quieter part of the 106-unit TIME complex (built 2010); 1,477 sqft; Gordon Greenwood Elementary has a verified Fraser Institute 2023/24 score of 7.3, the strongest elementary lead in this batch; Walnut Grove Community Park (playground, community centre pool) roughly 14-26 min walk; listed Sep 28, 2026, 27 days on market.
+
+Strata fee and annual tax unverified for unit 32, so true monthly cost is unknown (mortgage-only ~$3,120/mo); same-complex unit 98 is pending at a $787,500 close price (Oct 7, 2026) — context only; catchment and school safety unverified.
+
+Important notes:
+
+- Unit 98's fees ($478.40/mo strata, $2,756.31 tax for 2025) belong to a different unit and must not be attributed to unit 32.
+- Asking price is not a sale price.
+
+## P29 — 51-4967 220 Street
+
+**6.0/10 · Promising — lowest verified carrying cost, smallest floor area · low confidence**
+
+Lowest verified carrying cost in the batch: strata $381.68/mo and tax $2,528.19 (2026); mortgage + strata + tax ~$3,543/mo at 4.75%/25yr with $250k down — closest to the ~$3,500 target; fenced yard off the kitchen; playground in the complex; 3 parking spaces (2 covered); east/west-facing layout; open houses Oct 31 (1-3 pm) and Nov 1 (2-4 pm); listing updated Oct 25, 2026.
+
+Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — discrepancy to note); Alex Hope Elementary has no verified Fraser Institute 2023/24 score; secondary lead (Langley Fundamental) is a choice school, so the catchment secondary is unverified; 59 days on market; catchment and school safety unverified.
+
+Important notes:
+
+- Floor-area discrepancy: Zolo data block 1,337 sqft vs listing text 1,344 sqft.
+- Mortgage-only ~$2,950/mo; with verified strata and tax ~$3,543/mo.
+- Asking price is not a sale price.
+
+## P30 — 29-5515 199a Street
+
+**6.0/10 · Promising — largest floor area, highest strata · low confidence**
+
+Largest floor area in the batch (1,710 sqft); 2020 build; end unit; fenced yard plus patio plus rooftop deck; double tandem garage; Langley City location with Douglas Park (inclusive playground, seasonal spray park) roughly 8-16 min walk; listed Oct 15, 2026.
+
+Highest strata fee in the batch ($443/mo); taxes $3,702 with the tax year unstated in the source; mortgage + strata + tax ~$3,702/mo at 4.75%/25yr with $250k down — above the ~$3,500 target; Nicomekl Elementary has no verified Fraser Institute 2023/24 score; 2 of the 4 baths are partial; catchment and school safety unverified.
+
+Important notes:
+
+- Tax year is null — the $3,702 figure's year is unstated; verify before any cost comparison.
+- Mortgage-only ~$2,950/mo; with strata and tax ~$3,702/mo.
+- Asking price is not a sale price.
+
+## P31 — 13-621 Langside Avenue
+
+**7.0/10 · Promising research candidate — transit-strong · low confidence**
+
+Strata ($371.47/mo) and tax ($3,093.03, 2025) verified; underground garage with 2 side-by-side stalls plus a storage locker; private deck and fenced backyard; Burquitlam Park and Cottonwood Park roughly 6-12 min walk; transit 45-60 min to Waterfront Station via Burquitlam SkyTrain — the shortest transit range in this batch; 2010 build.
+
+Asking $889,900 for 1,340 sqft — the highest price in the batch relative to floor area; mortgage + strata + tax ~$4,260/mo at 4.75%/25yr with $250k down, above the ~$3,500 target; Miller Park Community School has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- Mortgage-only ~$3,631/mo; with verified strata and tax ~$4,260/mo.
+- Asking price is not a sale price.
+
+## P32 — 112-1225 Mitchell Street
+
+**6.5/10 · Promising — newest build, Burke Mountain · low confidence**
+
+Newest build in the batch (2021); 3 bed / 3 bath; strata ($318.02/mo) and tax ($3,592.13, 2025) verified; private fenced backyard; double tandem garage; Riley Park (playground, lookout) roughly 14-22 min walk.
+
+Bath-count discrepancy: listing text says 2.5 bath while the Zolo header says 3 bath — recorded as 3, verify; mortgage + strata + tax ~$4,300/mo at 4.75%/25yr with $250k down, above the ~$3,500 target; transit 60-80 min to Waterfront Station via Coquitlam Central; Leigh Elementary has a verified Fraser Institute 2023/24 score of 5.9; catchment and school safety unverified.
+
+Important notes:
+
+- Bath count is unresolved: listing text 2.5 bath vs Zolo header 3 bath.
+- Mortgage-only ~$3,683/mo; with verified strata and tax ~$4,300/mo.
+- Asking price is not a sale price.
+
+## P33 — 17-2560 Pitt River Road
+
+**6.5/10 · Promising — Citadel, low strata · low confidence**
+
+Lowest strata in the batch ($295.73/mo); tax $3,199.40 (2025) verified; 2019 build; fenced yard/patio; double garage; Gates Park (playground, sports fields, Traboulay PoCo Trail) roughly 12-20 min walk; WCE/bus transit 55-80 min to Waterfront Station.
+
+Unit position relative to busy Pitt River Road is unresolved — the complex fronts the arterial; mortgage + strata + tax ~$4,132/mo at 4.75%/25yr with $250k down, above the ~$3,500 target; Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.
+
+Important notes:
+
+- Unit position relative to Pitt River Road is unresolved — check on site.
+- Mortgage-only ~$3,569/mo; with verified strata and tax ~$4,132/mo.
+- Asking price is not a sale price.
+
+## P34 — 40-1355 Citadel Drive
+
+**6.0/10 · Promising — largest floor area, 4 bedrooms · low confidence**
+
+Largest floor area in the batch (1,917 sqft); 4 bedrooms; end unit with a private yard and balcony; strata ($408.42/mo) and tax ($3,414.68, 2025) verified; double garage; Castle Park (playground, splash park, trails) roughly 12-20 min walk; open house Oct 25, 2:00-5:00 pm.
+
+Oldest build in the batch (1989); elementary catchment is genuinely ambiguous (Castle Park vs Hazel Trembath/Kilmer; Hazel Trembath replacement school not expected until December 2027); listing records pets No Cats, No Dogs — verify with strata; mortgage + strata + tax ~$4,262/mo at 4.75%/25yr with $250k down, above the ~$3,500 target; transit 60-85 min to Waterfront Station.
+
+Important notes:
+
+- Elementary catchment is ambiguous: Castle Park vs Hazel Trembath/Kilmer.
+- Listing data records pets as No Cats, No Dogs — verify with strata.
+- Mortgage-only ~$3,569/mo; with verified strata and tax ~$4,262/mo.
+- Asking price is not a sale price.
+
+## P35 — 21-12268 189a Street
+
+**6.5/10 · Promising — Hoffmann Park at the door, WCE mornings · low confidence**
+
+Private hedged rear yard and patio in Meadow Lane Estates; Hoffmann Park roughly 3-8 min walk — the closest park in the batch; double side-by-side garage; WCE weekday mornings from Pitt Meadows station (46 min on train) with a 55-75 min transit range to Waterfront Station; 1,611 sqft.
+
+Strata fee and annual tax unverified for this unit, so true monthly cost is unknown (mortgage-only ~$3,176/mo); 1993 build; Highland Park Elementary has a verified Fraser Institute 2023/24 score of 3.1; WCE runs weekday mornings only westbound — all-day bus + SkyTrain is materially longer; catchment and school safety unverified.
+
+Important notes:
+
+- Strata fee and annual tax are null — verify from the listing sheet before any cost comparison.
+- WCE runs weekday mornings only westbound; outside that window transit is materially longer.
+- Asking price is not a sale price.
+
+## P36 — 23-12018 237 Street
+
+**7.0/10 · Promising — lowest price in batch, $80k cut · low confidence**
+
+Lowest asking price in the batch ($699,900); mortgage + strata + tax ~$3,222/mo at 4.75%/25yr with $250k down — below the ~$3,500 target; 2023 build; fully fenced backyard, private patio and corner unit; double garage plus a 3rd space; strata ($324.82/mo) and tax ($4,126.16, 2025) verified; Maple Ridge Park roughly 14-20 min walk.
+
+$80,000 price cut on Oct 13 — confirm the reason with the listing agent; tax is high for the price ($4,126.16, 2025); transit 75-105 min to Waterfront Station via Maple Meadows WCE; Alexander Robinson Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- Price cut of $80,000 on Oct 13, 2026 — confirm the reason before relying on the asking price.
+- Mortgage-only ~$2,553/mo; with verified strata and tax ~$3,222/mo.
+- Asking price is not a sale price.
+
+## P37 — 30-13260 236 Street
+
+**6.5/10 · Promising — Silver Valley, 4 bedrooms · low confidence**
+
+4 bedrooms; 2017 build; fully fenced front yard and corner unit; strata ($394.60/mo) and tax ($4,365.17, 2026) verified; Maple Ridge Park roughly 7-11 min walk — the closest park in the batch; single garage plus a 2nd space.
+
+Mortgage + strata + tax ~$3,596/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; tax is high ($4,365.17, 2026); transit 80-110 min to Waterfront Station — the longest range in the batch; Harry Hooge Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- Mortgage-only ~$2,837/mo; with verified strata and tax ~$3,596/mo.
+- Asking price is not a sale price.
+
+## P38 — 4-11282 Cottonwood Drive
+
+**6.0/10 · Promising — largest floor area, highest carrying cost · low confidence**
+
+Largest floor area in the batch (2,199 sqft); covered patio and fenced yard with a walk-out lower level; end unit; double garage plus 2 driveway spaces (4 total); strata ($513.28/mo) and tax ($4,599.57, 2025) verified; Kanaka Creek Regional Park roughly 20-28 min walk.
+
+Highest strata and tax in the batch — mortgage + strata + tax ~$4,017/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; listing says 'only seconds to Lougheed Hwy' — busy-road exposure needs checking on site; 2007 build; Kanaka Creek Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- Listing says 'only seconds to Lougheed Hwy' — check busy-road exposure on site.
+- Mortgage-only ~$3,120/mo; with verified strata and tax ~$4,017/mo.
+- Asking price is not a sale price.
+
+## P39 — 26-15850 85 Avenue
+
+**6.5/10 · Promising — Fleetwood, low strata · low confidence**
+
+4 bedrooms; 2021 build; private fenced yard; lowest strata in the batch ($289.70/mo); tax $3,453.65 (2026) verified; Fleetwood Park roughly 7-12 min walk; single garage plus carport; drive 35-55 min and transit 60-85 min to Waterfront Station via Surrey Central/King George — the shortest ranges in the batch.
+
+88 days on market with a $20,000 cut on Sep 21 — confirm the reason; Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26, so capacity needs checking; mortgage + strata + tax ~$3,557/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; Walnut Road Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- 88 days on market with a $20,000 cut Sep 21, 2026 — confirm the reason.
+- Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — check capacity.
+- Mortgage-only ~$2,979/mo; with verified strata and tax ~$3,557/mo.
+- Asking price is not a sale price.
+
+## P40 — 14-6945 185 Street
+
+**7.0/10 · Promising — Clayton Park at the door · low confidence**
+
+Fully fenced sunny turf yard; oversized double side-by-side garage; strata ($316.39/mo) and tax ($3,653.77, 2026) verified; Clayton Park roughly 4-8 min walk — the closest park in the batch; 2016 build; open house Oct 25, 2-4 pm.
+
+Secondary catchment could be Clayton Heights or École Salish — confirm via the SD36 locator; mortgage + strata + tax ~$3,600/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; the future Clayton SkyTrain station is not operating, so it is not counted; Hillcrest Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- Secondary catchment is unresolved: Clayton Heights or École Salish — confirm via the SD36 locator.
+- Mortgage-only ~$2,979/mo; with verified strata and tax ~$3,600/mo.
+- Asking price is not a sale price.
+
+## P41 — 11382 240 Street
+
+**6.0/10 · Promising but busy-road tradeoff · low confidence**
+
+Detached house with an advertised legal, self-contained suite — the detached-plus-suite strategy in the sample at $1,099,999; 5 bed / 3 bath, 3,539 sqft; 2006 build; double garage plus RV/trailer parking (6 total spaces) and lane access; lot 6,005 sqft; tax $8,379 (year unverified).
+
+Direct frontage on 240 Street, a busy collector/arterial — road noise flagged, and it fails the no-direct-busy-road preference; no private/fenced yard described; original roof and furnace (2006); suite permit and tenancy status unverified and no rent modelled, so the suite cannot be counted toward the mortgage target; mortgage-only ~$4,823/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; Kanaka Creek Regional Park is 25-40 min walk; transit 80-110 min to Waterfront Station.
+
+Important notes:
+
+- Suite is advertised legal/self-contained, but permit and tenancy are unverified and no rent is modelled — do not count rental income.
+- Direct frontage on 240 Street: road noise needs an on-site check.
+- Mortgage-only ~$4,823/mo; strata is null (detached), so the full carrying cost is unknown.
+- Asking price is not a sale price.
+
+## P42 — 2663 275a Street
+
+**6.5/10 · Promising — detached with suite, availability conflict · low confidence**
+
+Detached house with an existing suite — the detached-plus-suite strategy at $1,198,888; 5 bed / 4 bath, 2,952 sqft; 2017 build; double garage (4 total spaces); Bertrand Creek views; Bertrand Creek Dog Park / Aldergrove Regional Park roughly 10-18 min walk; Shortreed Community Elementary has a verified Fraser Institute 2023/24 score of 6.4.
+
+Availability conflict: EstateBlock and the vancouvernashdom Aldergrove list show Active, while a Zolo sitemap 'Recently Removed' list also names 2663 275a Street — confirm directly before proceeding; suite permit and tenancy status unverified and no rent modelled; mortgage-only ~$5,385/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; transit 95-130 min to Waterfront Station — the longest range in the sample; no private yard described; catchment and school safety unverified.
+
+Important notes:
+
+- Availability is unresolved: Active on two sources, 'Recently Removed' on a Zolo sitemap list — confirm with the listing agent.
+- Suite permit and tenancy are unverified and no rent is modelled — do not count rental income.
+- Mortgage-only ~$5,385/mo; strata is null (detached), so the full carrying cost is unknown.
+- Asking price is not a sale price.
+
+## P43 — 37-20460 66 Avenue
+
+**5.5/10 · Benchmark — 2-bed townhouse comparator · low confidence**
+
+Lowest asking price among the townhouses in this expansion ($615,999); mortgage + strata + tax ~$2,698/mo at 4.75%/25yr with $250k down — below the ~$3,500 target; ground-floor spacious fenced back yard and south-facing balcony; strata ($398.63/mo) and tax ($2,669.26, 2026) verified; R.C. Garnett Park roughly 15-19 min walk.
+
+2 bedrooms only — a benchmark/comparator, not a family candidate at the 3-bedroom target; single garage and only 1 total parking space, with the listing data conflicting (1 space vs 2 covered places); 2004 build; R.C. Garnett Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- 2-bedroom benchmark/comparator only — not scored as a family candidate.
+- Parking fields conflict: 1 total space vs 2 covered places listed — verify.
+- Mortgage-only ~$2,077/mo; with verified strata and tax ~$2,698/mo.
+- Asking price is not a sale price.
+
+## P44 — 107-2228 Welcher Avenue
+
+**5.0/10 · Benchmark — ground-floor yard apartment comparator · low confidence**
+
+Lowest asking price in the whole expansion ($564,900); large fully fenced private yard with private front/back entries — the yard is the point of this comparator; Gates Park roughly 10-13 min walk; drive 35-50 min and transit 55-80 min to Waterfront Station via Port Coquitlam WCE; 2009 build.
+
+2 bedrooms and 990 sqft — a benchmark/comparator, not a family candidate at the 3-bedroom target; ground-floor apartment, not a townhouse; strata fee, annual tax and parking all unverified (null), so true monthly cost is unknown (mortgage-only ~$1,787/mo); Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.
+
+Important notes:
+
+- 2-bedroom ground-floor apartment benchmark/comparator only — not scored as a family candidate.
+- Strata fee, annual tax and parking are null — verify from the listing sheet before any cost comparison.
+- Mortgage-only ~$1,787/mo.
+- Asking price is not a sale price.
+
+## P45 — 4-12070 207a Street
+
+**5.0/10 · Benchmark — 2-bed end-unit comparator · low confidence**
+
+2-bed end-unit townhouse at $599,900; private fenced yard with patio/deck; strata ($400/mo) and tax ($4,191.79, 2025) verified; mortgage + strata + tax ~$2,735/mo at 4.75%/25yr with $250k down — below the ~$3,500 target; Callaghan Park roughly 14-18 min walk; single carport.
+
+2 bedrooms only — a benchmark/comparator, not a family candidate at the 3-bedroom target; 1988 build, the oldest in this expansion; tax is high for the price ($4,191.79, 2025); transit 75-105 min to Waterfront Station; Fairview Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+
+Important notes:
+
+- 2-bedroom benchmark/comparator only — not scored as a family candidate.
+- Zolo's nearby-school text names a 'Westview' elementary, but no Westview Elementary exists in SD42 — Fairview Elementary is used as the lead; verify via the SD42 locator.
+- Mortgage-only ~$1,986/mo; with verified strata and tax ~$2,735/mo.
+- Asking price is not a sale price.
+
 ## How to interpret the estimates
 
 - **8–10:** Strong fit with major priorities supported by evidence; none currently qualifies.
@@ -376,4 +679,4 @@ Important notes:
 - **4–5.5:** Conditional fit with substantial tradeoffs or weak evidence.
 - **0–3.5:** Multiple current mismatches; hold or use as strategy comparator.
 
-Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and P16 is removed; none are active candidates. Next research focuses on P04 (confirmed active) and P13 as the lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.
+Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and P16 is removed; none are active candidates. Second expansion 2026-10-25: the sample grows to 45 homes (P26–P45). New fit leaders at 7.0/10 are P31 (Coquitlam West), P36 (Maple Ridge) and P40 (Clayton); none scores above 7.0. P36 is the only new family candidate with mortgage + strata + tax below the $3,500 target (~$3,222/mo). P42's availability is unresolved (Active on two sources, 'Recently Removed' on a Zolo sitemap list) — confirm before proceeding. Next research focuses on P04 (confirmed active), P36, P31 and P40 as the leading active candidates; P13 remains the lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.

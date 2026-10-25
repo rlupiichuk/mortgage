@@ -33,6 +33,26 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [77-20350 53 Avenue](https://www.google.com/maps/search/?api=1&query=77-20350+53+Avenue%2C+Langley+City%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Douglas Park Community School](https://www.sd35.bc.ca/douglaspark) → [Langley Secondary](https://www.sd35.bc.ca/lss) |
 | [11-6555 192A Street](https://www.google.com/maps/search/?api=1&query=11-6555+192A+Street%2C+Surrey%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Katzie Elementary](https://www.surreyschools.ca/katzie) → [Clayton Heights Secondary](https://www.surreyschools.ca/clyhts) |
 | [49-19760 55 Avenue](https://www.google.com/maps/search/?api=1&query=49-19760+55+Avenue%2C+Langley+City%2C+BC%2C+Canada) | [Simonds Elementary](https://www.sd35.bc.ca/simonds-uconnect) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Listing/nearby lead; verify | Not needed |
+| [37-20449 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20449+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | Listing/nearby lead; verify | Not needed |
+| [17-8120 200a Street](https://www.google.com/maps/search/?api=1&query=17-8120+200a+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | [Willoughby Elementary](https://www.sd35.bc.ca/willoughby) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | [Willoughby Elementary](https://www.sd35.bc.ca/willoughby) → [Emery Dosdall Secondary](https://www.sd35.bc.ca/edss) | Listing/nearby lead; verify | Not needed |
+| [32-9525 204 Street](https://www.google.com/maps/search/?api=1&query=32-9525+204+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | [Gordon Greenwood Elementary](https://www.sd35.bc.ca/gordongreenwood) → [Walnut Grove Secondary](https://www.sd35.bc.ca/wgss) | None established | Listing/nearby lead; verify | Not needed |
+| [51-4967 220 Street](https://www.google.com/maps/search/?api=1&query=51-4967+220+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | [Alex Hope Elementary](https://www.sd35.bc.ca/alexhope) → [Langley Fundamental Middle and Secondary School](https://www.sd35.bc.ca/lfmss) | None established | Listing/nearby lead; verify | Not needed |
+| [29-5515 199a Street](https://www.google.com/maps/search/?api=1&query=29-5515+199a+Street%2C+Langley+City%2C+BC%2C+Canada) | [Nicomekl Elementary](https://www.sd35.bc.ca/nicomekl) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Listing/nearby lead; verify | Not needed |
+| [13-621 Langside Avenue](https://www.google.com/maps/search/?api=1&query=13-621+Langside+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | [Miller Park Community School](https://www.sd43.bc.ca/millerpark) → [École Dr. Charles Best Secondary](https://www.sd43.bc.ca/charlesbest) | None established | Listing/nearby lead; verify | Not needed |
+| [112-1225 Mitchell Street](https://www.google.com/maps/search/?api=1&query=112-1225+Mitchell+Street%2C+Coquitlam%2C+BC%2C+Canada) | [Leigh Elementary](https://www.sd43.bc.ca/leigh) → [Terry Fox Secondary](https://www.sd43.bc.ca/terryfox) | None established | Listing/nearby lead; verify | Not needed |
+| [17-2560 Pitt River Road](https://www.google.com/maps/search/?api=1&query=17-2560+Pitt+River+Road%2C+Port+Coquitlam%2C+BC%2C+Canada) | [Central Community Elementary](https://www.sd43.bc.ca/central) → [École Riverside Secondary](https://www.sd43.bc.ca/riverside) | None established | Listing/nearby lead; verify | Not needed |
+| [40-1355 Citadel Drive](https://www.google.com/maps/search/?api=1&query=40-1355+Citadel+Drive%2C+Port+Coquitlam%2C+BC%2C+Canada) | [Castle Park Elementary](https://www.sd43.bc.ca/castlepark/) → [École Riverside Secondary](https://www.sd43.bc.ca/riverside) | None established | Listing/nearby lead; verify | Not needed |
+| [21-12268 189a Street](https://www.google.com/maps/search/?api=1&query=21-12268+189a+Street%2C+Pitt+Meadows%2C+BC%2C+Canada) | [Highland Park Elementary](https://elementary.sd42.ca/highlandpark/) → [Pitt Meadows Secondary](https://secondary.sd42.ca/pmss/) | None established | Listing/nearby lead; verify | Not needed |
+| [23-12018 237 Street](https://www.google.com/maps/search/?api=1&query=23-12018+237+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | [Alexander Robinson Elementary](http://elementary.sd42.ca/alexanderrobinson/) → [Thomas Haney Secondary](https://secondary.sd42.ca/thss/) | None established | Listing/nearby lead; verify | Not needed |
+| [30-13260 236 Street](https://www.google.com/maps/search/?api=1&query=30-13260+236+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | [Harry Hooge Elementary](https://elementary.sd42.ca/harryhooge/) → [Thomas Haney Secondary](https://secondary.sd42.ca/thss/) | None established | Listing/nearby lead; verify | Not needed |
+| [4-11282 Cottonwood Drive](https://www.google.com/maps/search/?api=1&query=4-11282+Cottonwood+Drive%2C+Maple+Ridge%2C+BC%2C+Canada) | [Kanaka Creek Elementary](http://elementary.sd42.ca/kanakacreek/) → [Thomas Haney Secondary](https://secondary.sd42.ca/thss/) | None established | Listing/nearby lead; verify | Not needed |
+| [26-15850 85 Avenue](https://www.google.com/maps/search/?api=1&query=26-15850+85+Avenue%2C+Surrey%2C+BC%2C+Canada) | [Walnut Road Elementary](https://www.surreyschools.ca/walnutroad) → [Fleetwood Park Secondary](https://www.surreyschools.ca/schools/fltsec) | None established | Listing/nearby lead; verify | Not needed |
+| [14-6945 185 Street](https://www.google.com/maps/search/?api=1&query=14-6945+185+Street%2C+Surrey%2C+BC%2C+Canada) | [Hillcrest Elementary](https://www.surreyschools.ca/hillcr) → [Clayton Heights Secondary](https://www.surreyschools.ca/clyhts) | None established | Listing/nearby lead; verify | Not needed |
+| [11382 240 Street](https://www.google.com/maps/search/?api=1&query=11382+240+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | [Blue Mountain Elementary School](https://elementary.sd42.ca/bluemountain/) → [Garibaldi Secondary School](https://secondary.sd42.ca/gss/) | None established | Listing/nearby lead; verify | Not needed |
+| [2663 275a Street](https://www.google.com/maps/search/?api=1&query=2663+275a+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | [Shortreed Community Elementary](https://www.sd35.bc.ca/shortreed) → [Aldergrove Community Secondary](https://www.sd35.bc.ca/acss) | None established | Listing/nearby lead; verify | Not needed |
+| [37-20460 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20460+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | Listing/nearby lead; verify | Not needed |
+| [107-2228 Welcher Avenue](https://www.google.com/maps/search/?api=1&query=107-2228+Welcher+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | [Central Community Elementary](https://www.sd43.bc.ca/central) → [Terry Fox Secondary](https://www.sd43.bc.ca/terryfox) | None established | Listing/nearby lead; verify | Not needed |
+| [4-12070 207a Street](https://www.google.com/maps/search/?api=1&query=4-12070+207a+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | [Fairview Elementary](https://elementary.sd42.ca/fairview/) → [Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -185,3 +205,123 @@ Official school identity pages verified; public listing/nearby leads only. No di
 Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.
 
 [Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/49-19760-55-avenue-langley-bc) · [Official school identity: Simonds Elementary](https://www.sd35.bc.ca/simonds-uconnect)
+
+### P26 — 37-20449 66 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead follows a nearby same-street listing (37-20460 66 Avenue) naming R.C. Garnett Elementary, Peter Ewart Middle School and R.E. Mountain Secondary as catchments; that claim is for a different unit and is not district-confirmed for this address. The SD35 May 2026 notice on Willoughby Elementary feeding Yorkson Creek Middle and Emery Dosdall Secondary from September 2027 is not established for this address.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://vancouvernashdom.com/langley-townhouses-for-sale-above-700000/SearchResults.form/?_pg=2) · [Official school identity: R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) · [Official school identity: R.E. Mountain Secondary](https://www.sd35.bc.ca/remss)
+
+### P27 — 17-8120 200a Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead follows a nearby listing (8117 200A Street) naming Willoughby Elementary, Yorkson Creek Middle and R.E. Mountain Secondary. SD35's May 2026 notice establishes Willoughby Elementary to Yorkson Creek Middle to Emery Dosdall Secondary from September 2027, conditional on address; current secondary is R.E. Mountain.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/8120-200a-street/17) · [Official school identity: Willoughby Elementary](https://www.sd35.bc.ca/willoughby) · [Official school identity: R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) · [Official school identity: Emery Dosdall Secondary](https://www.sd35.bc.ca/edss)
+
+### P28 — 32-9525 204 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Same elementary/secondary pathway as P04 (Walnut Grove); map-supported pathway for this area, not a district-confirmed address lookup.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://vancouvernashdom.com/langley-walnut-grove-townhouses/SearchResults.form/?_pg=2) · [Official school identity: Gordon Greenwood Elementary](https://www.sd35.bc.ca/gordongreenwood) · [Official school identity: Walnut Grove Secondary](https://www.sd35.bc.ca/wgss)
+
+### P29 — 51-4967 220 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/4967-220-street/51) · [Official school identity: Alex Hope Elementary](https://www.sd35.bc.ca/alexhope) · [Official school identity: Langley Fundamental Middle and Secondary School](https://www.sd35.bc.ca/lfmss)
+
+### P30 — 29-5515 199a Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Pathway follows a nearby school sheet for 5220 197A Street (same block area): Nicomekl Elementary (K-5), H.D. Stafford Middle (6-8), Langley Secondary (9-12). Nicomekl Elementary has a new 8-classroom modular addition opened fall 2026 and a 200-student expansion underway, per SD35 reporting.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://bryanvanhoepen.com/featured/29-5515-199a-street-langley-bc-v3a-1j7/?qir=5fDTYbfUIXGrSbsY5dOPxaVfJCHoDRYB5aX3B9s5&qenv=production) · [Nearby school sheet (5220 197A Street)](https://s.realtyninja.com/static/media/listings/11191_lad79e4c6e_Schools.pdf) · [Official school identity: Nicomekl Elementary](https://www.sd35.bc.ca/nicomekl) · [Official school identity: Langley Secondary School](https://www.sd35.bc.ca/lss)
+
+### P31 — 13-621 Langside Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Miller Park Community School; Ecole Dr. Charles Best Secondary).
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13) · [Official school identity: Miller Park Community School](https://www.sd43.bc.ca/millerpark) · [Official school identity: Ecole Dr. Charles Best Secondary](https://www.sd43.bc.ca/charlesbest)
+
+### P32 — 112-1225 Mitchell Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Leigh Elementary; Terry Fox Secondary).
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/coquitlam-real-estate/1225-mitchell-street/112) · [Official school identity: Leigh Elementary](https://www.sd43.bc.ca/leigh) · [Official school identity: Terry Fox Secondary](https://www.sd43.bc.ca/terryfox)
+
+### P33 — 17-2560 Pitt River Road
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Central Community Elementary; Ecole Riverside Secondary). Ecole Pitt River Community Middle School is the middle-years lead in the area.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-coquitlam-real-estate/2560-pitt-river-road/17) · [Official school identity: Central Community Elementary](https://www.sd43.bc.ca/central) · [Official school identity: Ecole Riverside Secondary](https://www.sd43.bc.ca/riverside) · [Official school identity: Ecole Pitt River Community Middle School](https://www.sd43.bc.ca/pittriver/)
+
+### P34 — 40-1355 Citadel Drive
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40) · [Official school identity: Castle Park Elementary](https://www.sd43.bc.ca/castlepark/) · [Official school identity: Ecole Riverside Secondary](https://www.sd43.bc.ca/riverside) · [Official school identity: Ecole Citadel Middle School](https://www.sd43.bc.ca/citadel/)
+
+### P35 — 21-12268 189a Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Highland Park Elementary; Pitt Meadows Secondary).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.strawhomes.com/mls/pitt-meadows-townhouses/) · [Official school identity: Highland Park Elementary](https://elementary.sd42.ca/highlandpark/) · [Official school identity: Pitt Meadows Secondary](https://secondary.sd42.ca/pmss/)
+
+### P36 — 23-12018 237 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alexander Robinson Elementary; Thomas Haney Secondary).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/12018-237-street/23) · [Official school identity: Alexander Robinson Elementary](http://elementary.sd42.ca/alexanderrobinson/) · [Official school identity: Thomas Haney Secondary](https://secondary.sd42.ca/thss/)
+
+### P37 — 30-13260 236 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Harry Hooge Elementary; Thomas Haney Secondary).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/13260-236-street/30) · [Official school identity: Harry Hooge Elementary](https://elementary.sd42.ca/harryhooge/) · [Official school identity: Thomas Haney Secondary](https://secondary.sd42.ca/thss/)
+
+### P38 — 4-11282 Cottonwood Drive
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Kanaka Creek Elementary; Thomas Haney Secondary).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/11282-cottonwood-drive/4) · [Official school identity: Kanaka Creek Elementary](http://elementary.sd42.ca/kanakacreek/) · [Official school identity: Thomas Haney Secondary](https://secondary.sd42.ca/thss/)
+
+### P39 — 26-15850 85 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Walnut Road Elementary; Fleetwood Park Secondary). Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — capacity check needed.
+
+[Official district locator/guidance](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36). [Property advertisement / school leads](https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26) · [Official school identity: Walnut Road Elementary](https://www.surreyschools.ca/walnutroad) · [Official school identity: Fleetwood Park Secondary](https://www.surreyschools.ca/schools/fltsec)
+
+### P40 — 14-6945 185 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator.
+
+[Official district locator/guidance](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36). [Property advertisement / school leads](https://www.zolo.ca/surrey-real-estate/6945-185-street/14) · [Official school identity: Hillcrest Elementary](https://www.surreyschools.ca/hillcr) · [Official school identity: Clayton Heights Secondary](https://www.surreyschools.ca/clyhts)
+
+### P41 — 11382 240 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Blue Mountain Elementary; Garibaldi Secondary).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.estateblock.com/maple-ridge/11382-240-st-1929754) · [Official school identity: Blue Mountain Elementary School](https://elementary.sd42.ca/bluemountain/) · [Official school identity: Garibaldi Secondary School](https://secondary.sd42.ca/gss/)
+
+### P42 — 2663 275a Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Shortreed Community Elementary; Aldergrove Community Secondary).
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.estateblock.com/langley/2663-275a-st-1947836) · [Official school identity: Shortreed Community Elementary](https://www.sd35.bc.ca/shortreed) · [Official school identity: Aldergrove Community Secondary](https://www.sd35.bc.ca/acss)
+
+### P43 — 37-20460 66 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (R.C. Garnett Demonstration Elementary; R.E. Mountain Secondary). The listing also names Peter Ewart Middle School.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/20460-66-avenue/37) · [Official school identity: R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) · [Official school identity: R.E. Mountain Secondary](https://www.sd35.bc.ca/remss)
+
+### P44 — 107-2228 Welcher Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Central Community Elementary; Terry Fox Secondary).
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://vancouvernashdom.com/port-coquitlam-central-port-coquitlam-apartments/SearchResults.form/?_pg=6) · [Official school identity: Central Community Elementary](https://www.sd43.bc.ca/central) · [Official school identity: Terry Fox Secondary](https://www.sd43.bc.ca/terryfox)
+
+### P45 — 4-12070 207a Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit, with a correction: Zolo's nearby-school text names a 'Westview' elementary, but no Westview Elementary exists in SD42 — Fairview Elementary is used as the lead and Westview Secondary as the secondary. Verify via the SD42 locator.
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/12070-207a-street/4) · [Official school identity: Fairview Elementary](https://elementary.sd42.ca/fairview/) · [Official school identity: Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/)

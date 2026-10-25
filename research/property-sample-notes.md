@@ -5,7 +5,7 @@ Observed 2026-10-25. This is an exploratory sample across strategies and locatio
 ## Artifacts
 
 - [Cost comparison](property-cost-comparison.md): monthly mortgage, known tax/strata subtotal, rent sensitivity and rate/amortization alternatives.
-- [Spreadsheet](property-comparison.csv): 25 examples with sources, MLS identifiers, yard/suite claims, uncertainty and next checks.
+- [Spreadsheet](property-comparison.csv): 45 examples with sources, MLS identifiers, yard/suite claims, uncertainty and next checks.
 - [Source data and rental observations](property-sample.json): update this and run `python3 research/build_property_comparison.py` to regenerate both outputs.
 - [Initial school and transit notes](school-and-transit-screen.md).
 
@@ -32,6 +32,8 @@ Do not reject the whole suite strategy on this sample: a lower purchase price, d
 - P12 Langley City: new non-strata rowhome, despite some sites presenting it as a house. Bedroom/full bath/wet bar does not establish a self-contained rental suite. Yard and GST treatment unresolved.
 
 No sampled suite has been independently established as permitted, insurable and rentable. The targeted legal-suite strategy therefore remains a search requirement, not a verified outcome of this sample.
+
+P41 and P42 add two more detached-with-suite examples at $1,099,999 and $1,198,888. Both advertise an existing suite, but neither has a verified permit, tenancy or rent, so no rental income is counted for either. P41 fronts directly onto 240 Street, failing the no-direct-busy-road preference. P42's availability is unresolved (Active on two sources, "Recently Removed" on a Zolo sitemap list).
 
 ## Preliminary order for deeper research
 
@@ -69,4 +71,6 @@ Exact address-level school assignments, comparative safety/academic outcomes, mu
 
 ## Expansion
 
-The original P01–P12 screen below is retained as research history. The active comparison now has 25 examples; see [sample expansion](sample-expansion.md), [fit assessments](property-fit.md) and the CSV for P13–P25. Added properties include lower-cost family-yard benchmarks and Murrayville options; this broadens the earlier $750k–$850k townhouse search band rather than treating it as a minimum.
+The original P01–P12 screen below is retained as research history. The active comparison now has 45 examples; see [sample expansion](sample-expansion.md), [fit assessments](property-fit.md) and the CSV for P13–P45. Added properties include lower-cost family-yard benchmarks and Murrayville options; this broadens the earlier $750k–$850k townhouse search band rather than treating it as a minimum.
+
+The second expansion (P26–P45, 2026-10-25) adds fifteen more townhouses, two detached houses with existing suites and three lower-cost benchmarks. New fit leaders at 7.0/10 are P31 Coquitlam West (transit-strong), P36 Maple Ridge ($699,900; mortgage + strata + tax ~$3,222/mo, below the $3,500 target) and P40 Clayton (Clayton Park 4–8 min). No property scores above 7.0; all new scores are low confidence. P04 remains the only still-active home among the four first-priority candidates from the earlier set (P05 and P02 pending, P16 removed).
