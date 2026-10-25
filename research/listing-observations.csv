@@ -1,0 +1,13 @@
+observed_on,property_id,mls,address,asking_price,status_notes,source
+2026-10-25,P01,R3163306,3363 Sefton Street,739000,Conflicting freshness: September listing advertisements; REW now returns historical Insight page. Availability unresolved.,https://www.zolo.ca/port-coquitlam-real-estate/3363-sefton-street
+2026-10-25,P02,R3164969,27-1338 Hames Crescent,849999,REW listing page advertises for sale; September update/open-house references may be stale,https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc
+2026-10-25,P03,R3168666,1-19236 119 Avenue,849800,REW page opened and advertises for sale; September open house reference means availability still needs recheck,https://www.rew.ca/properties/1-19236-119-avenue-pitt-meadows-bc
+2026-10-25,P04,R3174076,9-8968 208 Street,799900,REALTOR.ca advertisement includes Oct 24/25 open houses; availability still needs confirmation,https://www.realtor.ca/real-estate/30385491/9-8968-208-street-langley
+2026-10-25,P05,R3168966,94-8068 207 Street,799800,"REW listing page opened; advertises for sale, active status not independently confirmed",https://www.rew.ca/properties/94-8068-207-street-langley-bc
+2026-10-25,P06,R3177494,15669 20 Avenue,799000,"Advertisement says listed Oct 21, 2026",https://www.bccondosandhomes.com/listing/r3177494-15669-20-avenue-surrey-bc-v4a-2a7
+2026-10-25,P07,R3143716,24222 103 Avenue,1099000,Listing page found; September open-house references require availability recheck,https://sothebysrealty.ca/en/property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3484293/24222-103-avenue/
+2026-10-25,P08,R3144039,12326 Aurora Street,1099000,Advertised for sale; source update not independently confirmed,https://sothebysrealty.ca/en/mls-property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3487529/12326-aurora-street/
+2026-10-25,P09,R3176554,6926 190 Street,1099000,REW page advertises for sale; October listing sources found,https://www.rew.ca/properties/6926-190-street-surrey-bc
+2026-10-25,P10,R3147707,27191 28A Avenue,1199000,Advertised for sale; sources conflict on 2929 vs 3470 sqft and four vs five bathrooms,https://www.rew.ca/properties/27191-28a-avenue-langley-bc
+2026-10-25,P11,R3177701,20030 48 Avenue,1199000,REW advertisement; listed Oct 22 with Oct 24/25 open houses,https://www.rew.ca/properties/20030-48-avenue-langley-bc
+2026-10-25,P12,R3163557,4536 208 Street,1099000,REALTOR.ca advertises new non-strata rowhome; other sites classify inconsistently as house/townhouse,https://www.realtor.ca/real-estate/30255815/4536-208-street-langley

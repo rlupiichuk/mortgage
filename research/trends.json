@@ -1,0 +1,37 @@
+{
+  "updated_on": "2026-10-25",
+  "sources": {
+    "gvr_aug_2026": {"title":"GVR August 2026 market report","url":"https://members.gvrealtors.ca/news/GVR-Stats-Package-August-2026.pdf","observed_on":"2026-10-25"},
+    "gvr_sep_2026": {"title":"GVR September 2026 market report","url":"https://members.gvrealtors.ca/news/GVR-Stats-Package-September-2026.pdf","observed_on":"2026-10-25"},
+    "boc": {"title":"Bank of Canada policy interest rate","url":"https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/","observed_on":"2026-10-25"}
+  },
+  "benchmark_prices": [
+    {"period":"2026-08","area":"Coquitlam","property_type":"Townhouse","value":987900,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Coquitlam","property_type":"Townhouse","value":976600,"source_id":"gvr_sep_2026"},
+    {"period":"2026-08","area":"Port Coquitlam","property_type":"Townhouse","value":847200,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Port Coquitlam","property_type":"Townhouse","value":834300,"source_id":"gvr_sep_2026"},
+    {"period":"2026-08","area":"Pitt Meadows","property_type":"Townhouse","value":746900,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Pitt Meadows","property_type":"Townhouse","value":737500,"source_id":"gvr_sep_2026"},
+    {"period":"2026-08","area":"Maple Ridge","property_type":"Townhouse","value":704100,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Maple Ridge","property_type":"Townhouse","value":700800,"source_id":"gvr_sep_2026"},
+    {"period":"2026-08","area":"Greater Vancouver (GVR)","property_type":"Detached","value":1799400,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Greater Vancouver (GVR)","property_type":"Detached","value":1784700,"source_id":"gvr_sep_2026"},
+    {"period":"2026-08","area":"Greater Vancouver (GVR)","property_type":"Townhouse","value":1028800,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Greater Vancouver (GVR)","property_type":"Townhouse","value":1016700,"source_id":"gvr_sep_2026"}
+  ],
+  "regional_market": [
+    {"period":"2026-08","area":"Greater Vancouver (GVR)","all_type_sales":1869,"all_type_active_listings":15798,"all_type_new_listings":4100,"reported_sales_to_active_pct":12.3,"source_id":"gvr_aug_2026"},
+    {"period":"2026-09","area":"Greater Vancouver (GVR)","all_type_sales":1717,"all_type_active_listings":16394,"all_type_new_listings":5852,"reported_sales_to_active_pct":10.9,"source_id":"gvr_sep_2026"}
+  ],
+  "rate_observations": [
+    {"effective_on":"2026-09-02","observed_on":"2026-10-25","metric":"Bank of Canada overnight target","value_pct":2.25,"source_id":"boc","note":"Policy rate, not a mortgage offer. One observation does not establish a rate trend."}
+  ],
+  "pending_series": [
+    {"series":"Langley and Surrey prices/inventory by property type","source":"https://www.fvreb.bc.ca/statistics/statistics-archive/","status":"Pending primary-source retrieval; FVREB archive returned 502 and September PDF was inaccessible. Do not substitute GVR regional figures for Langley/Surrey."},
+    {"series":"Mortgage quotes","status":"No comparable dated quote history; 4.75% remains a model assumption, not an observed quote."},
+    {"series":"Suite rents and vacancy","status":"Six asking-rent leads at one research date; no time series or achieved rents. Do not chart these as a rental trend."},
+    {"series":"Listing reductions, sales and time on market","status":"Initial 12-property sample only; append future observations by MLS/address, preserving relisting history."},
+    {"series":"School capacity, catchments, safety and academics","status":"Event tracking and annual/multiyear outcome research pending. Changes in reporting are not necessarily changes in safety."},
+    {"series":"Transit projects, parks and local development","status":"Track dated official changes and actual completion; proximity and announced projects do not establish appreciation."}
+  ]
+}

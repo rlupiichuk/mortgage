@@ -1,0 +1,78 @@
+"""Regenerate the sample CSV and cost comparison from property-sample.json.
+
+Run: python3 research/build_property_comparison.py
+Standard library only. No live data retrieval. Null costs remain unknown.
+"""
+
+import csv
+import json
+from pathlib import Path
+
+from mortgage_scenarios import monthly_payment
+
+ROOT = Path(__file__).resolve().parent
+
+
+def money(value):
+    return "unknown" if value is None else f"${value:,.0f}"
+
+
+def build():
+    data = json.loads((ROOT / "property-sample.json").read_text())
+    a = data["assumptions"]
+    rows = []
+    summary = [
+        "# First property sample: cost comparison",
+        "",
+        f"Observed {data['observed_on']}. Asking-price research examples, not confirmed available homes or recommendations.",
+        "",
+        "$250,000 down; 4.75% nominal interest compounded semi-annually; 25-year amortization. No lender approval implied. New-home GST and any rebates are excluded until verified.",
+        "",
+        "The known-cost subtotal includes mortgage, advertised strata fees and advertised tax/12 ONLY where both are available. It excludes insurance, utilities, owner maintenance, special levies and rental tax. Historical tax years and advertised strata fees need refreshing. Unknown is not zero.",
+        "",
+        "After-rent figures count 75% of exploratory asking rent; this allowance is not an itemized expense/tax model. They cover mortgage only. No rent is counted for unfinished, merely potential or wet-bar configurations.",
+        "",
+        "| ID | Address | Asking | Mortgage/month | Strata/month | Tax/year | Known-cost subtotal/month | Mortgage after rental allowance |",
+        "|---|---|---:|---:|---:|---:|---:|---|",
+    ]
+    for p in data["properties"]:
+        principal = p["asking_price"] - a["down_payment"]
+        payment = monthly_payment(principal, a["annual_rate"], a["amortization_years"])
+        known = None
+        if p["strata_monthly"] is not None and p["annual_tax"] is not None:
+            known = payment + p["strata_monthly"] + p["annual_tax"] / 12
+        rent = p["rent_model"]
+        after_low = after_high = None
+        if rent:
+            after_low = payment - a["rent_counted_fraction"] * rent["high"]
+            after_high = payment - a["rent_counted_fraction"] * rent["low"]
+        required = max(0, payment - a["personal_mortgage_target"]) / a["rent_counted_fraction"]
+        row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
+        row.update(observed_on=data["observed_on"], mortgage_monthly=round(payment),
+                   known_cost_subtotal_monthly=None if known is None else round(known),
+                   required_gross_rent=round(required),
+                   mortgage_after_rent_low=None if after_low is None else round(after_low),
+                   mortgage_after_rent_high=None if after_high is None else round(after_high))
+        rows.append(row)
+        after = "not modelled" if rent is None else f"{money(after_low)}–{money(after_high)}"
+        summary.append(f"| {p['id']} | {p['address']} | {money(p['asking_price'])} | {money(payment)} | {money(p['strata_monthly'])} | {money(p['annual_tax'])} | {money(known)} | {after} |")
+    summary.extend([
+        "", "## Mortgage sensitivity", "",
+        "| Purchase price | 4.75%, 25 years | 5.75%, 25 years | 4.75%, 30 years |",
+        "|---|---:|---:|---:|",
+    ])
+    for price in (800000, 850000, 1100000, 1200000):
+        principal = price - a["down_payment"]
+        values = [monthly_payment(principal, rate, years) for rate, years in ((.0475,25),(.0575,25),(.0475,30))]
+        summary.append(f"| {money(price)} | " + " | ".join(money(v) for v in values) + " |")
+    summary.extend(["", "The 30-year illustration does not establish lender eligibility or equal pricing. A longer amortization reduces monthly payments but increases interest at an unchanged rate over the full repayment period.", "", "For sources, availability caveats, suite classifications, tax years and next checks, use [the sample data](property-sample.json) and [screening notes](property-sample-notes.md).", ""])
+    with (ROOT / "property-comparison.csv").open("w", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=list(rows[0]), lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
+    (ROOT / "property-cost-comparison.md").write_text("\n".join(summary))
+    print(f"Generated comparison for {len(rows)} properties.")
+
+
+if __name__ == "__main__":
+    build()
