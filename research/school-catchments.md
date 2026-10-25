@@ -226,7 +226,7 @@ Official school identity pages verified; public listing/nearby leads only. No di
 
 ### P29 — 51-4967 220 Street
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit.
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit. The SD35 locator is an interactive Baragar tool — a district-confirmed lookup is still pending.
 
 [Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/4967-220-street/51) · [Official school identity: Alex Hope Elementary](https://www.sd35.bc.ca/alexhope) · [Official school identity: Langley Fundamental Middle and Secondary School](https://www.sd35.bc.ca/lfmss)
 
@@ -250,13 +250,13 @@ Official school identity pages verified; public listing/nearby leads only. No di
 
 ### P33 — 17-2560 Pitt River Road
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Central Community Elementary; Ecole Riverside Secondary). Ecole Pitt River Community Middle School is the middle-years lead in the area.
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Central Community Elementary; Ecole Riverside Secondary). Ecole Pitt River Community Middle School is the middle-years lead in the area. The listing states the catchment directly: Central Community Elementary, École Pitt River Middle School and École Riverside Secondary.
 
 [Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-coquitlam-real-estate/2560-pitt-river-road/17) · [Official school identity: Central Community Elementary](https://www.sd43.bc.ca/central) · [Official school identity: Ecole Riverside Secondary](https://www.sd43.bc.ca/riverside) · [Official school identity: Ecole Pitt River Community Middle School](https://www.sd43.bc.ca/pittriver/)
 
 ### P34 — 40-1355 Citadel Drive
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area.
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area. Zolo's nearby-schools list names Hazel Trembath and Kilmer (not Castle Park) — supporting evidence only, not a catchment confirmation. A district-confirmed lookup via the Baragar tool is in progress (the tool is an interactive form).
 
 [Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40) · [Official school identity: Castle Park Elementary](https://www.sd43.bc.ca/castlepark/) · [Official school identity: Ecole Riverside Secondary](https://www.sd43.bc.ca/riverside) · [Official school identity: Ecole Citadel Middle School](https://www.sd43.bc.ca/citadel/)
 
@@ -286,13 +286,13 @@ Official school identity pages verified; public listing/nearby leads only. No di
 
 ### P39 — 26-15850 85 Avenue
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Walnut Road Elementary; Fleetwood Park Secondary). Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — capacity check needed.
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Walnut Road Elementary; Fleetwood Park Secondary). Walnut Road Elementary confirmed closed to out-of-catchment registration for 2025-26 (Surrey Schools registration page, checked Oct 25, 2026); 100 new seats opened fall 2025; 2026-27 closed-list status not yet published.
 
 [Official district locator/guidance](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36). [Property advertisement / school leads](https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26) · [Official school identity: Walnut Road Elementary](https://www.surreyschools.ca/walnutroad) · [Official school identity: Fleetwood Park Secondary](https://www.surreyschools.ca/schools/fltsec)
 
 ### P40 — 14-6945 185 Street
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator.
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator. A nearby Clayton Heights listing at 19593 72 Ave names 'Catchment: Ecole Salish School' — different address (~0.5 km away), not evidence for this unit. Baragar lookup in progress (interactive form).
 
 [Official district locator/guidance](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36). [Property advertisement / school leads](https://www.zolo.ca/surrey-real-estate/6945-185-street/14) · [Official school identity: Hillcrest Elementary](https://www.surreyschools.ca/hillcr) · [Official school identity: Clayton Heights Secondary](https://www.surreyschools.ca/clyhts)
 
@@ -304,13 +304,13 @@ Official school identity pages verified; public listing/nearby leads only. No di
 
 ### P42 — 2663 275a Street
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Shortreed Community Elementary; Aldergrove Community Secondary).
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Shortreed Community Elementary; Aldergrove Community Secondary). EstateBlock shows Shortreed Community School 'In Catchment', 422 m, and 'Rental Suites: Legal Suite' (suite claim supported by the listing; permit/tenancy still unverified with the Township).
 
 [Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.estateblock.com/langley/2663-275a-st-1947836) · [Official school identity: Shortreed Community Elementary](https://www.sd35.bc.ca/shortreed) · [Official school identity: Aldergrove Community Secondary](https://www.sd35.bc.ca/acss)
 
 ### P43 — 37-20460 66 Avenue
 
-Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (R.C. Garnett Demonstration Elementary; R.E. Mountain Secondary). The listing also names Peter Ewart Middle School.
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (R.C. Garnett Demonstration Elementary; R.E. Mountain Secondary). The listing also names Peter Ewart Middle School. The listing text states the catchment directly: R.C. Garnett Elementary, Peter Ewart Middle School and R.E. Mountain Secondary.
 
 [Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/20460-66-avenue/37) · [Official school identity: R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) · [Official school identity: R.E. Mountain Secondary](https://www.sd35.bc.ca/remss)
 

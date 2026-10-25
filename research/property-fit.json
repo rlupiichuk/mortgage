@@ -1,13 +1,4 @@
 {
-  "assessed_on": "2026-10-25",
-  "method": "Subjective editorial fit estimate out of 10, not an objective property, school or safety rating and not a weighted statistical score. Priority order: school safety first, academics second; then mortgage-only target, usable backyard/parks, direct busy-road exposure and flexible transit preference. Cost comparisons use the $3,500 mortgage-only target, not total ownership expense. Rent offsets count 50% of modelled gross rent. Unverified safety does not imply safety or danger.",
-  "anchors": {
-    "8–10": "Strong fit with major priorities supported by evidence; none currently qualifies.",
-    "6–7.5": "Promising research candidate with material verification gates.",
-    "4–5.5": "Conditional fit with substantial tradeoffs or weak evidence.",
-    "0–3.5": "Multiple current mismatches; hold or use as strategy comparator."
-  },
-  "confidence": "Low for every example: school safety outcomes are not established, school assignments remain preliminary and exact unit/yard exposure is not verified. Scores compare this sample only; they do not endorse buying. Reassess when evidence changes.",
   "properties": {
     "P05": {
       "score": 6.5,
@@ -71,10 +62,11 @@
       "score": 4.5,
       "label": "Budget-friendly; evidence too weak to shortlist",
       "strengths": "Lowest mortgage in sample, around $2,775, and an advertised small fenced yard; McLean Park has a modelled walking route.",
-      "concerns": "Availability/details conflict and school assignments remain unresolved, so your two highest priorities cannot yet be assessed. Small yard and older strata need closer review. Do not advance on price alone.",
+      "concerns": "Now pending (close $738,000, contract change 2026-09-13) — no longer an active candidate; retained as a pricing comparable. School assignments remain unresolved. Small yard and older strata need closer review. Do not advance on price alone.",
       "confidence": "Low",
       "important_notes": [
-        "Availability conflicts between listing sources; confirm it is still for sale.",
+        "Pending as of Oct 25, 2026 (close $738,000 vs $739,000 asking); retained as a pricing comparable.",
+        "Tax $2,990.63 (2025) and strata $370/mo verified from the Zolo listing page; school assignment still unresolved.",
         "School names shown are nearest-school fallbacks. Small advertised yard (~284 sqft) and older strata need review."
       ]
     },
@@ -306,7 +298,8 @@
       "confidence": "Low",
       "important_notes": [
         "Mortgage-only ~$3,342/mo; with verified strata and tax the carrying cost is ~$3,980/mo.",
-        "Asking price is not a sale price."
+        "Asking price is not a sale price.",
+        "Price change Sep 25, 2026: -$10,000 (implied original $849,000). A stale duplicate listing shows the same unit at $948,000 under old MLS R3117232 — not a price rise; the current listing is R3161671 at $839,000."
       ]
     },
     "P28": {
@@ -327,7 +320,7 @@
       "concerns": "Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — discrepancy to note); Alex Hope Elementary has no verified Fraser Institute 2023/24 score; secondary lead (Langley Fundamental) is a choice school, so the catchment secondary is unverified; 59 days on market; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Floor-area discrepancy: Zolo data block 1,337 sqft vs listing text 1,344 sqft.",
+        "Floor area 1,337 sqft confirmed by three structured sources (vancouvernashdom data block, Zolo FAQ, Strawhomes); the 1,344 figure appears only in the listing's marketing prose.",
         "Mortgage-only ~$2,950/mo; with verified strata and tax ~$3,543/mo.",
         "Asking price is not a sale price."
       ]
@@ -401,7 +394,8 @@
       "important_notes": [
         "Strata fee and annual tax are null — verify from the listing sheet before any cost comparison.",
         "WCE runs weekday mornings only westbound; outside that window transit is materially longer.",
-        "Asking price is not a sale price."
+        "Asking price is not a sale price.",
+        "Building facts (bccondosandhomes): Meadow Lane Estates, built 1992, 55 units; pets allowed with restrictions; rentals not allowed."
       ]
     },
     "P36": {
@@ -411,7 +405,7 @@
       "concerns": "$80,000 price cut on Oct 13 — confirm the reason with the listing agent; tax is high for the price ($4,126.16, 2025); transit 75-105 min to Waterfront Station via Maple Meadows WCE; Alexander Robinson Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Price cut of $80,000 on Oct 13, 2026 — confirm the reason before relying on the asking price.",
+        "Price cut of $80,000 on Oct 13, 2026 (implied original $779,900) — no reason stated anywhere public; ask the listing agent before relying on the asking price.",
         "Mortgage-only ~$2,553/mo; with verified strata and tax ~$3,222/mo.",
         "Asking price is not a sale price."
       ]
@@ -431,10 +425,10 @@
       "score": 6.0,
       "label": "Promising — largest floor area, highest carrying cost",
       "strengths": "Largest floor area in the batch (2,199 sqft); covered patio and fenced yard with a walk-out lower level; end unit; double garage plus 2 driveway spaces (4 total); strata ($513.28/mo) and tax ($4,599.57, 2025) verified; Kanaka Creek Regional Park roughly 20-28 min walk.",
-      "concerns": "Highest strata and tax in the batch — mortgage + strata + tax ~$4,017/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; listing says 'only seconds to Lougheed Hwy' — busy-road exposure needs checking on site; 2007 build; Kanaka Creek Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
+      "concerns": "Highest strata and tax in the batch — mortgage + strata + tax ~$4,017/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; desktop geocode puts the complex ~1.5 km south of Lougheed Hwy, so 'only seconds' is marketing — direct highway exposure unlikely, but check noise and the unit's position on site; 2007 build; Kanaka Creek Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Listing says 'only seconds to Lougheed Hwy' — check busy-road exposure on site.",
+        "Desktop geocode (Oct 25, 2026) puts the complex ~1.5 km south of Lougheed Hwy — 'only seconds' is marketing; direct highway exposure unlikely, but check on site.",
         "Mortgage-only ~$3,120/mo; with verified strata and tax ~$4,017/mo.",
         "Asking price is not a sale price."
       ]
@@ -443,11 +437,11 @@
       "score": 6.5,
       "label": "Promising — Fleetwood, low strata",
       "strengths": "4 bedrooms; 2021 build; private fenced yard; lowest strata in the batch ($289.70/mo); tax $3,453.65 (2026) verified; Fleetwood Park roughly 7-12 min walk; single garage plus carport; drive 35-55 min and transit 60-85 min to Waterfront Station via Surrey Central/King George — the shortest ranges in the batch.",
-      "concerns": "88 days on market with a $20,000 cut on Sep 21 — confirm the reason; Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26, so capacity needs checking; mortgage + strata + tax ~$3,557/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; Walnut Road Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
+      "concerns": "88 days on market with a $20,000 cut on Sep 21 — confirm the reason; Walnut Road Elementary confirmed closed to out-of-catchment registration for 2025-26; 2026-27 status not yet published, so capacity needs checking; mortgage + strata + tax ~$3,557/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; Walnut Road Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
         "88 days on market with a $20,000 cut Sep 21, 2026 — confirm the reason.",
-        "Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — check capacity.",
+        "Walnut Road Elementary confirmed closed to out-of-catchment registration for 2025-26 (Surrey Schools registration page); 2026-27 status not yet published — check capacity.",
         "Mortgage-only ~$2,979/mo; with verified strata and tax ~$3,557/mo.",
         "Asking price is not a sale price."
       ]
@@ -513,7 +507,8 @@
         "2-bedroom ground-floor apartment benchmark/comparator only — not scored as a family candidate.",
         "Strata fee, annual tax and parking are null — verify from the listing sheet before any cost comparison.",
         "Mortgage-only ~$1,787/mo.",
-        "Asking price is not a sale price."
+        "Asking price is not a sale price.",
+        "Building facts (bccondosandhomes): Station Hill, built 2009, 37 units; pets allowed; rentals allowed."
       ]
     },
     "P45": {

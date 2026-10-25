@@ -57,7 +57,9 @@ def build():
         row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
         cost = ownership_cost_plan(p, a, estimates)
         row["important_notes"] = " | ".join(fit["properties"][p["id"]].get("important_notes", []))
-        row["overall_fit_score"] = fit["properties"][p["id"]]["score"]
+        score = fit["properties"][p["id"]]["score"]
+        row["overall_fit_score"] = score
+        row["fit_mark"] = "🟢 Top fit" if score >= 7 else "🟡 Promising" if score >= 6 else ""
         row["overall_fit_assessment"] = json.dumps(fit["properties"][p["id"]], ensure_ascii=False)
         row["ownership_cost_plan"] = json.dumps(cost, ensure_ascii=False)
         row["total_expenses_after_rent_low"] = None if cost["low"] is None else round(cost["low"])

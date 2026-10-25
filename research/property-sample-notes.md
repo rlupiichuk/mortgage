@@ -33,7 +33,7 @@ Do not reject the whole suite strategy on this sample: a lower purchase price, d
 
 No sampled suite has been independently established as permitted, insurable and rentable. The targeted legal-suite strategy therefore remains a search requirement, not a verified outcome of this sample.
 
-P41 and P42 add two more detached-with-suite examples at $1,099,999 and $1,198,888. Both advertise an existing suite, but neither has a verified permit, tenancy or rent, so no rental income is counted for either. P41 fronts directly onto 240 Street, failing the no-direct-busy-road preference. P42's availability is unresolved (Active on two sources, "Recently Removed" on a Zolo sitemap list).
+P41 and P42 add two more detached-with-suite examples at $1,099,999 and $1,198,888. Both advertise an existing suite, but neither has a verified permit, tenancy or rent, so no rental income is counted for either. P41 fronts directly onto 240 Street, failing the no-direct-busy-road preference. P42's availability conflict was resolved toward Active on Oct 25, 2026 (EstateBlock, vancouvernashdom and Strawhomes all Active; the Zolo sitemap "Recently Removed" signal appears stale).
 
 ## Preliminary order for deeper research
 

@@ -36,3 +36,5 @@ Updated: 2026-10-25
 ## Research interpretation, not a user commitment
 
 Compare a home without rental income against a home with an existing permitted suite. Use conservative rental cash flow and evaluate school fit before making location recommendations.
+
+See also the [viewing checklist](viewing-checklist.md) for what to verify before, during and after a viewing.

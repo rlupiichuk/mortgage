@@ -1223,7 +1223,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit.",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit. The SD35 locator is an interactive Baragar tool — a district-confirmed lookup is still pending.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -1355,7 +1355,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Central Community Elementary; Ecole Riverside Secondary). Ecole Pitt River Community Middle School is the middle-years lead in the area.",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Central Community Elementary; Ecole Riverside Secondary). Ecole Pitt River Community Middle School is the middle-years lead in the area. The listing states the catchment directly: Central Community Elementary, École Pitt River Middle School and École Riverside Secondary.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
@@ -1391,7 +1391,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area.",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary lead is genuinely ambiguous: Castle Park vs Hazel Trembath/Kilmer, with the Hazel Trembath replacement school not expected until December 2027. Ecole Citadel Middle School is the middle-years lead in the area. Zolo's nearby-schools list names Hazel Trembath and Kilmer (not Castle Park) — supporting evidence only, not a catchment confirmation. A district-confirmed lookup via the Baragar tool is in progress (the tool is an interactive form).",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
@@ -1555,7 +1555,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Walnut Road Elementary; Fleetwood Park Secondary). Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — capacity check needed.",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Walnut Road Elementary; Fleetwood Park Secondary). Walnut Road Elementary confirmed closed to out-of-catchment registration for 2025-26 (Surrey Schools registration page, checked Oct 25, 2026); 100 new seats opened fall 2025; 2026-27 closed-list status not yet published.",
       "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
       "sources": [
         {
@@ -1587,7 +1587,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator.",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Hillcrest Elementary; Clayton Heights Secondary). The secondary catchment could be Clayton Heights or Ecole Salish — confirm via the SD36 locator. A nearby Clayton Heights listing at 19593 72 Ave names 'Catchment: Ecole Salish School' — different address (~0.5 km away), not evidence for this unit. Baragar lookup in progress (interactive form).",
       "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
       "sources": [
         {
@@ -1651,7 +1651,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Shortreed Community Elementary; Aldergrove Community Secondary).",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the nearby-schools list for this unit (Shortreed Community Elementary; Aldergrove Community Secondary). EstateBlock shows Shortreed Community School 'In Catchment', 422 m, and 'Rental Suites: Legal Suite' (suite claim supported by the listing; permit/tenancy still unverified with the Township).",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -1683,7 +1683,7 @@
       "future": [],
       "future_effective": null,
       "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (R.C. Garnett Demonstration Elementary; R.E. Mountain Secondary). The listing also names Peter Ewart Middle School.",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (R.C. Garnett Demonstration Elementary; R.E. Mountain Secondary). The listing also names Peter Ewart Middle School. The listing text states the catchment directly: R.C. Garnett Elementary, Peter Ewart Middle School and R.E. Mountain Secondary.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {

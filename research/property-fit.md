@@ -6,6 +6,8 @@ Subjective editorial fit estimate out of 10, not an objective property, school o
 
 Low for every example: school safety outcomes are not established, school assignments remain preliminary and exact unit/yard exposure is not verified. Scores compare this sample only; they do not endorse buying. Reassess when evidence changes.
 
+On the site, top fits (7.0 and above) are marked 🟢 Top fit and their rows are tinted green; 6.0–6.5 are marked 🟡 Promising. The marks only rank this sample; they do not change the low confidence.
+
 | Fit estimate | Property | Judgment |
 |---|---|---|
 | 7.0/10 | P31 — 13-621 Langside Avenue | Promising research candidate — transit-strong |
@@ -19,7 +21,7 @@ Low for every example: school safety outcomes are not established, school assign
 | 6.5/10 | P35 — 21-12268 189a Street | Promising — Hoffmann Park at the door, WCE mornings |
 | 6.5/10 | P37 — 30-13260 236 Street | Promising — Silver Valley, 4 bedrooms |
 | 6.5/10 | P39 — 26-15850 85 Avenue | Promising — Fleetwood, low strata |
-| 6.5/10 | P42 — 2663 275a Street | Promising — detached with suite, availability conflict |
+| 6.5/10 | P42 — 2663 275a Street | Promising — detached with suite, availability confirmed Active Oct 25, 2026 |
 | 6.0/10 | P04 — 9-8968 208 Street | Promising if buffered from 208 Street |
 | 6.0/10 | P13 — 8-19240 119 Avenue | Lower-cost yard candidate |
 | 6.0/10 | P28 — 32-9525 204 Street | Promising — walk-out fenced yard, strong elementary lead, fees unverified |
@@ -60,11 +62,12 @@ Low for every example: school safety outcomes are not established, school assign
 
 Lowest mortgage in sample, around $2,775, and an advertised small fenced yard; McLean Park has a modelled walking route.
 
-Availability/details conflict and school assignments remain unresolved, so your two highest priorities cannot yet be assessed. Small yard and older strata need closer review. Do not advance on price alone.
+Now pending (close $738,000, contract change 2026-09-13) — no longer an active candidate; retained as a pricing comparable. School assignments remain unresolved, so your two highest priorities cannot yet be assessed. Small yard and older strata need closer review. Do not advance on price alone.
 
 Important notes:
 
-- Availability conflicts between listing sources; confirm it is still for sale.
+- Pending as of Oct 25, 2026 (close $738,000 vs $739,000 asking); retained as a pricing comparable.
+- Tax $2,990.63 (2025) and strata $370/mo verified from the Zolo listing page; school assignment still unresolved.
 - School names shown are nearest-school fallbacks. Small advertised yard (~284 sqft) and older strata need review.
 
 ## P02 — 27-1338 Hames Crescent
@@ -414,6 +417,7 @@ Highest asking price in the batch ($839,000) and smallest floor area (1,392 sqft
 Important notes:
 
 - Mortgage-only ~$3,342/mo; with verified strata and tax the carrying cost is ~$3,980/mo.
+- Price change Sep 25, 2026: -$10,000 (implied original $849,000). A stale duplicate listing shows the same unit at $948,000 under old MLS R3117232 — not a price rise; the current listing is R3161671 at $839,000.
 - Asking price is not a sale price.
 
 ## P28 — 32-9525 204 Street
@@ -439,7 +443,7 @@ Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — d
 
 Important notes:
 
-- Floor-area discrepancy: Zolo data block 1,337 sqft vs listing text 1,344 sqft.
+- Floor area 1,337 sqft confirmed by three structured sources (vancouvernashdom data block, Zolo FAQ, Strawhomes); the 1,344 figure appears only in the listing's marketing prose.
 - Mortgage-only ~$2,950/mo; with verified strata and tax ~$3,543/mo.
 - Asking price is not a sale price.
 
@@ -525,6 +529,7 @@ Important notes:
 
 - Strata fee and annual tax are null — verify from the listing sheet before any cost comparison.
 - WCE runs weekday mornings only westbound; outside that window transit is materially longer.
+- Building facts (bccondosandhomes): Meadow Lane Estates, built 1992, 55 units; pets allowed with restrictions; rentals not allowed.
 - Asking price is not a sale price.
 
 ## P36 — 23-12018 237 Street
@@ -537,7 +542,7 @@ $80,000 price cut on Oct 13 — confirm the reason with the listing agent; tax i
 
 Important notes:
 
-- Price cut of $80,000 on Oct 13, 2026 — confirm the reason before relying on the asking price.
+- Price cut of $80,000 on Oct 13, 2026 (implied original $779,900) — no reason stated anywhere public; ask the listing agent before relying on the asking price.
 - Mortgage-only ~$2,553/mo; with verified strata and tax ~$3,222/mo.
 - Asking price is not a sale price.
 
@@ -560,11 +565,11 @@ Important notes:
 
 Largest floor area in the batch (2,199 sqft); covered patio and fenced yard with a walk-out lower level; end unit; double garage plus 2 driveway spaces (4 total); strata ($513.28/mo) and tax ($4,599.57, 2025) verified; Kanaka Creek Regional Park roughly 20-28 min walk.
 
-Highest strata and tax in the batch — mortgage + strata + tax ~$4,017/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; listing says 'only seconds to Lougheed Hwy' — busy-road exposure needs checking on site; 2007 build; Kanaka Creek Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+Highest strata and tax in the batch — mortgage + strata + tax ~$4,017/mo at 4.75%/25yr with $250k down, well above the ~$3,500 target; desktop geocode puts the complex ~1.5 km south of Lougheed Hwy, so 'only seconds' is marketing — direct highway exposure unlikely, but check noise and the unit's position on site; 2007 build; Kanaka Creek Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
 
 Important notes:
 
-- Listing says 'only seconds to Lougheed Hwy' — check busy-road exposure on site.
+- Desktop geocode (Oct 25, 2026) puts the complex ~1.5 km south of Lougheed Hwy — 'only seconds' is marketing; direct highway exposure unlikely, but check on site.
 - Mortgage-only ~$3,120/mo; with verified strata and tax ~$4,017/mo.
 - Asking price is not a sale price.
 
@@ -574,12 +579,12 @@ Important notes:
 
 4 bedrooms; 2021 build; private fenced yard; lowest strata in the batch ($289.70/mo); tax $3,453.65 (2026) verified; Fleetwood Park roughly 7-12 min walk; single garage plus carport; drive 35-55 min and transit 60-85 min to Waterfront Station via Surrey Central/King George — the shortest ranges in the batch.
 
-88 days on market with a $20,000 cut on Sep 21 — confirm the reason; Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26, so capacity needs checking; mortgage + strata + tax ~$3,557/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; Walnut Road Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+88 days on market with a $20,000 cut on Sep 21 — confirm the reason; Walnut Road Elementary confirmed closed to out-of-catchment registration for 2025-26; 2026-27 status not yet published, so capacity needs checking; mortgage + strata + tax ~$3,557/mo at 4.75%/25yr with $250k down, just above the ~$3,500 target; Walnut Road Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
 
 Important notes:
 
 - 88 days on market with a $20,000 cut Sep 21, 2026 — confirm the reason.
-- Walnut Road Elementary was listed closed to out-of-catchment registration for 2025-26 — check capacity.
+- Walnut Road Elementary confirmed closed to out-of-catchment registration for 2025-26 (Surrey Schools registration page); 2026-27 status not yet published — check capacity.
 - Mortgage-only ~$2,979/mo; with verified strata and tax ~$3,557/mo.
 - Asking price is not a sale price.
 
@@ -655,6 +660,7 @@ Important notes:
 - 2-bedroom ground-floor apartment benchmark/comparator only — not scored as a family candidate.
 - Strata fee, annual tax and parking are null — verify from the listing sheet before any cost comparison.
 - Mortgage-only ~$1,787/mo.
+- Building facts (bccondosandhomes): Station Hill, built 2009, 37 units; pets allowed; rentals allowed.
 - Asking price is not a sale price.
 
 ## P45 — 4-12070 207a Street
@@ -679,4 +685,4 @@ Important notes:
 - **4–5.5:** Conditional fit with substantial tradeoffs or weak evidence.
 - **0–3.5:** Multiple current mismatches; hold or use as strategy comparator.
 
-Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and P16 is removed; none are active candidates. Second expansion 2026-10-25: the sample grows to 45 homes (P26–P45). New fit leaders at 7.0/10 are P31 (Coquitlam West), P36 (Maple Ridge) and P40 (Clayton); none scores above 7.0. P36 is the only new family candidate with mortgage + strata + tax below the $3,500 target (~$3,222/mo). P42's availability is unresolved (Active on two sources, 'Recently Removed' on a Zolo sitemap list) — confirm before proceeding. Next research focuses on P04 (confirmed active), P36, P31 and P40 as the leading active candidates; P13 remains the lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.
+Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and P16 is removed; none are active candidates. Second expansion 2026-10-25: the sample grows to 45 homes (P26–P45). New fit leaders at 7.0/10 are P31 (Coquitlam West), P36 (Maple Ridge) and P40 (Clayton); none scores above 7.0. P36 is the only new family candidate with mortgage + strata + tax below the $3,500 target (~$3,222/mo). P42's availability conflict resolved toward Active on Oct 25, 2026 (EstateBlock, vancouvernashdom and Strawhomes all Active; the Zolo sitemap 'Recently Removed' signal appears stale) — confirm with the listing agent if proceeding. P01 is now pending (close $738,000). Next research focuses on P04 (confirmed active), P36, P31 and P40 as the leading active candidates; P13 remains the lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.

@@ -38,7 +38,7 @@ No new rental income is assumed for these additions. Crime remains jurisdiction-
 
 Added P26–P45 on 2026-10-25. Fifteen more townhouses, two detached houses with existing suites, and three lower-cost benchmarks; the sample is now 45 homes. This is still a purposive research sample, not a representative market survey. Public advertisements/search snapshots are not confirmed MLS availability.
 
-P42 has an availability conflict (Active on EstateBlock and the vancouvernashdom Aldergrove list, "Recently Removed" on a Zolo sitemap list) and remains a strategy comparator pending direct confirmation. The two suite properties (P41, P42) have no rent modelled; no rental income is assumed for any addition. P26, P28, P35 and P44 have unverified strata fees and/or taxes, recorded as null rather than estimated. Two verified Fraser Institute 2023/24 ratings were already in the record (Willoughby Elementary 6.8, Gordon Greenwood Elementary 7.3); no new rating entries were added. New fit leaders at 7.0/10 are P31, P36 and P40; none scores above 7.0. Monthly mortgage figures in fit notes follow the repo's mortgage formula (4.75% nominal compounded semi-annually, 25 years, $250,000 down), matching the cost comparison table.
+P42's availability conflict was resolved toward Active on Oct 25, 2026 (EstateBlock, vancouvernashdom and Strawhomes all Active; the Zolo sitemap "Recently Removed" signal appears stale) — confirm with the listing agent if proceeding. It remains a strategy comparator. The two suite properties (P41, P42) have no rent modelled; no rental income is assumed for any addition. P26, P28, P35 and P44 have unverified strata fees and/or taxes, recorded as null rather than estimated. Two verified Fraser Institute 2023/24 ratings were already in the record (Willoughby Elementary 6.8, Gordon Greenwood Elementary 7.3); no new rating entries were added. New fit leaders at 7.0/10 are P31, P36 and P40; none scores above 7.0. Monthly mortgage figures in fit notes follow the repo's mortgage formula (4.75% nominal compounded semi-annually, 25 years, $250,000 down), matching the cost comparison table.
 
 All added homes have source links, preliminary school/nearby leads, parking/storage observations, approximate commutes, rough park-walk ranges and low-confidence fit estimates. School identity pages are verified; assignments and safety are not. No new network-route or real-time travel result is claimed.
 
@@ -60,7 +60,7 @@ All added homes have source links, preliminary school/nearby leads, parking/stor
 | P39 | [26-15850 85 Avenue](https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26) · Fleetwood Tynehead | $775,000 | Low strata; 88 days on market |
 | P40 | [14-6945 185 Street](https://www.zolo.ca/surrey-real-estate/6945-185-street/14) · Clayton | $775,000 | Clayton Park 4–8 min; secondary catchment unresolved |
 | P41 | [11382 240 Street](https://www.estateblock.com/maple-ridge/11382-240-st-1929754) · Cottonwood MR | $1,099,999 | Detached with advertised suite; busy-road frontage |
-| P42 | [2663 275a Street](https://www.estateblock.com/langley/2663-275a-st-1947836) · Aldergrove Langley | $1,198,888 | Detached with suite; availability conflict |
+| P42 | [2663 275a Street](https://www.estateblock.com/langley/2663-275a-st-1947836) · Aldergrove Langley | $1,198,888 | Detached with suite; availability confirmed Active Oct 25, 2026 |
 | P43 | [37-20460 66 Avenue](https://www.zolo.ca/langley-real-estate/20460-66-avenue/37) · Willoughby Heights | $615,999 | 2-bed townhouse benchmark; below target |
 | P44 | [107-2228 Welcher Avenue](https://vancouvernashdom.com/port-coquitlam-central-port-coquitlam-apartments/SearchResults.form/?_pg=6) · Central Pt Coquitlam | $564,900 | Ground-floor yard apartment benchmark |
 | P45 | [4-12070 207a Street](https://www.zolo.ca/maple-ridge-real-estate/12070-207a-street/4) · Northwest Maple Ridge | $599,900 | 2-bed end-unit benchmark; below target |
@@ -70,7 +70,7 @@ All added homes have source links, preliminary school/nearby leads, parking/stor
 - P36 Maple Ridge: lowest price in the batch at $699,900, with mortgage + strata + tax ~$3,222/mo — below the $3,500 target; confirm the $80,000 Oct 13 cut reason.
 - P31 Coquitlam West: 7.0 fit with the shortest transit range in its batch (45–60 min); confirm catchment and yard.
 - P40 Clayton: 7.0 fit with Clayton Park 4–8 min; resolve the secondary catchment (Clayton Heights vs École Salish).
-- P41/P42: detached-plus-suite comparators; verify suite permits and rent before counting any income. P42 availability first.
+- P41/P42: detached-plus-suite comparators; verify suite permits and rent before counting any income.
 - P29 Murrayville: lowest verified carrying cost in the Langley batch (~$3,543/mo); confirm the catchment secondary (Langley Fundamental is a choice school, not a catchment secondary).
 - P28 Walnut Grove: strongest elementary lead in the batch (Gordon Greenwood 7.3); verify unit 32's own strata fee and tax.
 

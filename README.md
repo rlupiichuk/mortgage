@@ -8,6 +8,7 @@ This is a living decision record for exploring whether, where, and how to buy a 
 
 - [Open the property workbench](index.html): property-first comparison table with expandable rows, map/listing links, linked school pathways, route links, charts and a budget calculator. Opens locally without a server.
 - [Household criteria](research/criteria.md): confirmed preferences and unresolved questions.
+- [Viewing checklist](research/viewing-checklist.md): what to check before, during and after a viewing, for a family with a six-year-old.
 - [Purchase strategies and budget](research/strategies-and-budget.md): comparable scenarios and calculation assumptions.
 - [Strategies from discussions and interviews](research/community-strategies.md): alternative paths, lived experiences, source caveats, and household fit.
 - [Location shortlist](research/locations.csv): places to investigate, not recommendations or safety rankings.
@@ -29,7 +30,7 @@ This is a living decision record for exploring whether, where, and how to buy a 
 5. Evaluate school safety and academics separately. Do not infer school quality or safety from municipal reputation, demographics, or house prices.
 6. Compare total ownership costs, mortgage qualification, and household cash flow separately. Do not treat a lender maximum as a spending target.
 
-Personal financial details are stored in this folder and its local Git history. Nothing has been published or pushed remotely.
+Personal financial details are stored in this folder and its Git history. The repo is public (since 2026-10-25) and the workbench is published as a GitHub Pages site at https://rlupiichuk.github.io/mortgage/.
 
 Save meaningful research and report updates in periodic Git commits, as requested by the user. Review the staged changes before committing; exclude caches and temporary files. Remote publication or pushing is not part of this instruction.
 
@@ -37,7 +38,7 @@ Save meaningful research and report updates in periodic Git commits, as requeste
 
 After editing the property sample or school records, run `python3 research/build_property_comparison.py` to regenerate the spreadsheet and cost table. Run `python3 research/build_summary.py` to compile `index.html` and the school research summary from the property sample, school records, criteria, trend data and HTML template. These scripts do not fetch live data. They preserve existing listing/rent observation logs; append new dated observations rather than replacing history.
 
-The HTML includes a compiled interpretation as well as data-driven charts: review its narrative and date labels when updating the research. It is a local report, with no external scripts, analytics, hosted deployment or scheduled refresh.
+The HTML includes a compiled interpretation as well as data-driven charts: review its narrative and date labels when updating the research. It has no external scripts or analytics; it is also published as a GitHub Pages site from this repo, with no scheduled refresh.
 
 The property-first HTML comparison includes preliminary school links and academic ratings, police-jurisdiction crime context, park walking-route leads, provisional overall fit and a broader monthly ownership estimate. Supporting records: `research/school-ratings.json` and `research/area-context.json`. Walk target: 20–30 minutes. Expanded cost assumptions are illustrative and editable in `research/summary.template.html`; rental allowance reserves 50% of gross rent for combined tax, vacancy and expenses, not a personal tax estimate.
 
