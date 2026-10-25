@@ -115,3 +115,7 @@ Removed the Middle school comparison column; the requested comparison is element
 ## 2026-10-25 — Important notes column
 
 Added concise address-specific decision notes to the property table and CSV, backed by existing research. Notes emphasize suite readiness, cost assumptions, street exposure, school changes and listing conflicts. The field supports an empty list, rendered as a blank cell when there is no material note.
+
+## 2026-10-25 — Sortable property columns
+
+Added accessible clickable sort controls to all 15 data columns. Numeric ranges use midpoints; school columns use displayed names, including nearest fallbacks; location uses city/neighbourhood/address. Text columns sort alphabetically, crime uses jurisdiction CSI with missing/transition values last in either direction. Sorting preserves filters and expanded property rows, with stable ID tie-breaking and visible/announced direction.
