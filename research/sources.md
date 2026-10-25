@@ -25,6 +25,8 @@ Recorded: 2026-10-25. Links were consulted in this conversation. Reopen before m
 
 ## Major evidence gaps
 
+Follow-up catchment investigation is recorded in [school-catchments.json](school-catchments.json) and its [readable summary](school-catchments.md). It includes official school links, district map/feeder corroboration, source age, listing-data conflicts and SD35's approved September 2027 transitions. None is a district-confirmed address lookup: the public locator requires CAPTCHA. A school homepage confirms identity, not school quality or address eligibility.
+
 The [trends tracker](trends.md) and [structured series](trends.json) add August–September 2026 GVR historical observations with source URLs and dates, plus a single Bank of Canada policy-rate observation. FVREB primary-source retrieval failed; Langley/Surrey trend series remain pending. Two observations do not establish a sustained trend. The root [HTML report](../index.html) compiles these records and the property sample.
 
 Additional discussion/interview sources and source-specific caveats are maintained in [the community strategy review](community-strategies.md), researched 2026-10-25. Anecdotes identify possible strategies; they do not validate profitability, legality, safety or school quality.
@@ -32,3 +34,9 @@ Additional discussion/interview sources and source-specific caveats are maintain
 The [first property sample](property-sample.json) now records 12 advertised examples and six exploratory asking-rent observations, with observation dates, links and freshness limitations. These do not establish current MLS availability, achieved rents or legal-suite status. See [screening notes](property-sample-notes.md) and [initial school/transit evidence](school-and-transit-screen.md).
 
 No closed-comparable-sale analysis, neighbourhood crime analysis, comparative school-level safety/academic outcome analysis, school visits, property inspections, or lender prequalification has been completed. No area or school has been established as safer or academically better. No comparative appreciation forecast has been established.
+
+## Academic ratings, crime and park context
+
+- [Fraser elementary report 2025](https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf): 2023/24 academic indicator data; exact school identities matched. No safety inference. Albion score and comparable middle/secondary scores not verified.
+- [Statistics Canada table 35-10-0063-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301): 2024/2025 police jurisdiction CSI observations retained in area-context.json. Surrey police transition series kept separate; no combined index.
+- Official park pages linked per lead in area-context.json. Existence checked; no measured walking time, crossings or guarantee of access within 30 minutes.

@@ -1,5 +1,17 @@
 # Research log
 
+## 2026-10-25 — Property-first workbench, address links and catchment investigation
+
+User requested clickable addresses, school catchment investigation and school links; then directed that properties become the first/focal block, using a table with expandable rows and columns for location, home type, downtown driving/public transport, elementary/secondary schools, size and yard.
+
+Reorganized the HTML with properties first. Added sticky location/expansion controls, separate school stages including middle school, price/mortgage columns, size/yard, route links and evidence status. Addresses link to Google Maps; listings remain separate. Expanded rows show costs, suite/yard/transit notes, sources, school evidence/conflicts and future changes. School-name search and expand/collapse/print state updated for table rows. Waterfront Station is an explicit comparison endpoint; all travel times remain unmeasured.
+
+Added `school-catchments.json` and generated Markdown summary. Identified 25 official school pages and proposed school leads for 11 properties; P01 remains unresolved. Public address locators require CAPTCHA, so no locator bypass or district-confirmed result claimed. Inspected published SD35 maps, checked official feeder information and recorded source age. Corrected nearby-school assumptions and rejected obvious listing-data errors (private-school catchment label; Betty Gilbert assigned remotely to Willoughby; choice programs treated as guaranteed neighbourhood schools).
+
+SD35's official May 2026 notice establishes the Willoughby Elementary → Yorkson Creek → Emery Dosdall transition from September 2027, conditional on home address. Current/future pathways displayed separately. SD43 P02 elementary sources conflict and middle assignment is unresolved. No safety/academic outcome ranking inferred.
+
+Validation: generated HTML/data and CSV checks; JavaScript syntax and mocked-DOM smoke checks for 24 table rows, 12 expansion buttons, 24 route links, school search, expand/collapse and calculator. No browser visual layout validation available. Commit this completed batch as a research/report checkpoint.
+
 ## 2026-10-25 — Periodic version-control checkpoints authorized
 
 User requested commits from time to time. Create an initial checkpoint for the existing research and report, then commit meaningful batches of completed updates. Exclude generated Python caches and temporary files; retain the compiled HTML and comparison artifacts. No remote push requested.
@@ -83,3 +95,7 @@ Key finding: at 4.75%/25 years, sampled $1.099M one-bedroom-suite houses need ab
 Recorded as conditional/hold: unfinished Aldergrove suites, Langley City conversion potential, new rowhome wet-bar configuration, and conflicting/stale availability. No suite permit has been independently verified. School leads and primary-source policies/directories gathered; no comparative safety/academic outcome conclusion. Transit corridors identified; no live door-to-door itineraries or one-hour commute clearance.
 
 Next focus: confirm availability of P02–P05; establish official school assignments and outcomes; improve suite rental comparables and permit evidence for the detached branch. Retain original priorities and full location scope.
+
+## 2026-10-25 — Property comparison workbench
+
+Moved property examples first; added expandable comparison rows, address/direction links, preliminary official school pathways and future catchment changes. Added sourced elementary academic scores (2023/24 data, 2025 report), jurisdiction crime context and park leads. Park preference clarified as a 20–30 minute walk; routes/crossings remain unverified. Size now follows home type. Overall fit remains provisional while school safety and street exposure are unresolved. Replaced mortgage-only table amount with ownership planning estimates including tax, strata, reserves and conservative rent offsets. These placeholders are not quotes or an individual rental tax calculation.

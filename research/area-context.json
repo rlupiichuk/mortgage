@@ -1,0 +1,143 @@
+{
+  "researched_on": "2026-10-25",
+  "park_walk_target_minutes": [
+    20,
+    30
+  ],
+  "parks": {
+    "P02": {
+      "name": "Galloway Park",
+      "url": "https://coquitlam.ca/facilities/facility/details/gallowaypark-39",
+      "walk_minutes": null,
+      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+    },
+    "P03": {
+      "name": "Hoffmann Park",
+      "url": "https://www.pittmeadows.ca/parks-recreation/parks-fields-facilities/parks-list/hoffmann-park",
+      "walk_minutes": null,
+      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+    },
+    "P05": {
+      "name": "Yorkson Community Park",
+      "url": "https://facilities.tol.ca/Home/Detail?Id=67a3675f-bad8-439f-93d8-58289780ab3c",
+      "walk_minutes": null,
+      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+    },
+    "P09": {
+      "name": "Hazelgrove Park",
+      "url": "https://www.surrey.ca/parks-recreation/parks/hazelgrove-park",
+      "walk_minutes": null,
+      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+    },
+    "P12": {
+      "name": "Uplands Dog Off Leash Park",
+      "url": "https://www.langleycity.ca/parks-recreation/parks-trails/uplands-dog-leash-park",
+      "walk_minutes": null,
+      "status": "Park existence verified; route, crossings and 30-minute access unverified"
+    }
+  },
+  "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",
+  "crime_method": "Police-reported jurisdiction-level Crime Severity Index, not a neighbourhood or school safety rating. Surrey service transition prevents a like-for-like combined comparison. No indices averaged.",
+  "crime_areas": {
+    "Surrey, British Columbia, municipal [59048]": {
+      "2024": {
+        "Crime severity index": null,
+        "Violent crime severity index": null
+      },
+      "2025": {
+        "Crime severity index": 85.39,
+        "Violent crime severity index": 102.4
+      }
+    },
+    "Surrey, British Columbia, Royal Canadian Mounted Police, municipal [59704]": {
+      "2024": {
+        "Crime severity index": 87.51,
+        "Violent crime severity index": 80.52
+      },
+      "2025": {
+        "Crime severity index": 89.05,
+        "Violent crime severity index": 66.97
+      }
+    },
+    "Coquitlam, British Columbia, Royal Canadian Mounted Police, municipal [59705]": {
+      "2024": {
+        "Crime severity index": 56.55,
+        "Violent crime severity index": 61.65
+      },
+      "2025": {
+        "Crime severity index": 57.12,
+        "Violent crime severity index": 53.89
+      }
+    },
+    "Port Coquitlam, British Columbia, Royal Canadian Mounted Police, municipal [59708]": {
+      "2024": {
+        "Crime severity index": 57.84,
+        "Violent crime severity index": 51.75
+      },
+      "2025": {
+        "Crime severity index": 50.83,
+        "Violent crime severity index": 47.7
+      }
+    },
+    "Coquitlam, British Columbia, Royal Canadian Mounted Police, rural [59709]": {
+      "2024": {
+        "Crime severity index": 50.15,
+        "Violent crime severity index": 43.54
+      },
+      "2025": {
+        "Crime severity index": 40.53,
+        "Violent crime severity index": 40.7
+      }
+    },
+    "Maple Ridge, British Columbia, Royal Canadian Mounted Police, municipal [59727]": {
+      "2024": {
+        "Crime severity index": 83.82,
+        "Violent crime severity index": 96.09
+      },
+      "2025": {
+        "Crime severity index": 89.25,
+        "Violent crime severity index": 104.76
+      }
+    },
+    "Langley Township, British Columbia, Royal Canadian Mounted Police, municipal [59731]": {
+      "2024": {
+        "Crime severity index": 78.72,
+        "Violent crime severity index": 80.11
+      },
+      "2025": {
+        "Crime severity index": 71.71,
+        "Violent crime severity index": 76.21
+      }
+    },
+    "Pitt Meadows, British Columbia, Royal Canadian Mounted Police, municipal [59818]": {
+      "2024": {
+        "Crime severity index": 55.23,
+        "Violent crime severity index": 48.47
+      },
+      "2025": {
+        "Crime severity index": 60.99,
+        "Violent crime severity index": 65.35
+      }
+    },
+    "Langley City, British Columbia, Royal Canadian Mounted Police, municipal [59930]": {
+      "2024": {
+        "Crime severity index": 109.52,
+        "Violent crime severity index": 103.94
+      },
+      "2025": {
+        "Crime severity index": 137.81,
+        "Violent crime severity index": 182.61
+      }
+    },
+    "Langley, British Columbia, Royal Canadian Mounted Police, rural [59935]": {
+      "2024": {
+        "Crime severity index": null,
+        "Violent crime severity index": null
+      },
+      "2025": {
+        "Crime severity index": null,
+        "Violent crime severity index": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "researched_on": "2026-10-25",
+  "method": "Address-specific listing-school labels checked against official school pages, published district maps and transition notices where possible. District address-locator result not obtained: the public locator requires CAPTCHA. No CAPTCHA bypass attempted. Map-supported means a preliminary visual map assessment, not district-confirmed enrolment or guaranteed capacity.",
+  "schools": {
+    "leigh": {
+      "name": "Leigh Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/leigh",
+      "level": "elementary"
+    },
+    "terryfox": {
+      "name": "Terry Fox Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/terryfox",
+      "level": "secondary"
+    },
+    "daviejones": {
+      "name": "Davie Jones Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/daviejones/",
+      "level": "elementary"
+    },
+    "pmss": {
+      "name": "Pitt Meadows Secondary",
+      "grades": "8–12",
+      "url": "https://secondary.sd42.ca/pmss/",
+      "level": "secondary"
+    },
+    "greenwood": {
+      "name": "Gordon Greenwood Elementary",
+      "grades": "K–7",
+      "url": "https://www.sd35.bc.ca/gordongreenwood",
+      "level": "elementary"
+    },
+    "wgss": {
+      "name": "Walnut Grove Secondary",
+      "grades": "8–12",
+      "url": "https://www.sd35.bc.ca/wgss",
+      "level": "secondary"
+    },
+    "willoughby": {
+      "name": "Willoughby Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/willoughby",
+      "level": "elementary"
+    },
+    "yorkson": {
+      "name": "Yorkson Creek Middle",
+      "grades": "6–8",
+      "url": "https://www.sd35.bc.ca/ycms",
+      "level": "middle"
+    },
+    "remss": {
+      "name": "R.E. Mountain Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd35.bc.ca/remss",
+      "level": "secondary"
+    },
+    "edss": {
+      "name": "Emery Dosdall Secondary",
+      "grades": "9–12 (planned)",
+      "url": "https://www.sd35.bc.ca/edss",
+      "level": "secondary"
+    },
+    "jessie": {
+      "name": "Jessie Lee Elementary",
+      "grades": "K–7",
+      "url": "https://www.surreyschools.ca/jessie",
+      "level": "elementary"
+    },
+    "earl": {
+      "name": "Earl Marriott Secondary",
+      "grades": "8–12",
+      "url": "https://www.surreyschools.ca/earlmarriott",
+      "level": "secondary"
+    },
+    "albion": {
+      "name": "Albion Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/albion/",
+      "level": "elementary"
+    },
+    "srt": {
+      "name": "Samuel Robertson Technical Secondary",
+      "grades": "8–12",
+      "url": "https://secondary.sd42.ca/srt/",
+      "level": "secondary"
+    },
+    "harry": {
+      "name": "Harry Hooge Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/harryhooge/",
+      "level": "elementary"
+    },
+    "thss": {
+      "name": "Thomas Haney Secondary",
+      "grades": "8–12",
+      "url": "https://secondary.sd42.ca/thss/",
+      "level": "secondary"
+    },
+    "hazel": {
+      "name": "Hazelgrove Elementary",
+      "grades": "K–7",
+      "url": "https://www.surreyschools.ca/hazelgrove",
+      "level": "elementary"
+    },
+    "clayton": {
+      "name": "Clayton Heights Secondary",
+      "grades": "8–12",
+      "url": "https://www.surreyschools.ca/clyhts",
+      "level": "secondary"
+    },
+    "shortreed": {
+      "name": "Shortreed Community Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/shortreed",
+      "level": "elementary"
+    },
+    "betty": {
+      "name": "Betty Gilbert Middle",
+      "grades": "6–8",
+      "url": "https://www.sd35.bc.ca/bgms",
+      "level": "middle"
+    },
+    "acss": {
+      "name": "Aldergrove Community Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd35.bc.ca/acss",
+      "level": "secondary"
+    },
+    "simonds": {
+      "name": "Simonds Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/simonds-uconnect",
+      "level": "elementary"
+    },
+    "stafford": {
+      "name": "H.D. Stafford Middle",
+      "grades": "6–8",
+      "url": "https://www.sd35.bc.ca/hdsms",
+      "level": "middle"
+    },
+    "lss": {
+      "name": "Langley Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd35.bc.ca/lss",
+      "level": "secondary"
+    },
+    "uplands": {
+      "name": "Uplands Elementary & Montessori",
+      "grades": "K–5 neighbourhood program",
+      "url": "https://www.sd35.bc.ca/uplands",
+      "level": "elementary"
+    }
+  },
+  "properties": {
+    "P01": {
+      "district": "SD43",
+      "status": "Unresolved",
+      "current": [],
+      "future": [],
+      "notes": "No reliable address-specific public-school assignment obtained. An aggregator labelled a private school as catchment; that label was rejected. Do not infer assignment from the closest school.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property school-data issue",
+          "url": "https://www.estateblock.com/port-coquitlam/3363-sefton-st-1954718"
+        }
+      ]
+    },
+    "P02": {
+      "district": "SD43",
+      "status": "Conflicting evidence",
+      "current": [
+        "leigh",
+        "terryfox"
+      ],
+      "future": [],
+      "notes": "REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc"
+        },
+        {
+          "label": "Older nearby-school marketing",
+          "url": "https://vopenhouse.ca/video/25199_Farrington/"
+        }
+      ]
+    },
+    "P03": {
+      "district": "SD42",
+      "status": "Listing-labelled; verify",
+      "current": [
+        "daviejones",
+        "pmss"
+      ],
+      "future": [],
+      "notes": "REW labels Davie Jones and Pitt Meadows Secondary as in catchment. This differs from the earlier nearby-school lead of Pitt Meadows Elementary. No separate middle school in this proposed K–7 / 8–12 pathway. District locator and capacity confirmation pending.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/1-19236-119-avenue-pitt-meadows-bc"
+        },
+        {
+          "label": "Official school directories",
+          "url": "https://www.sd42.ca/schools/elementary-schools/"
+        }
+      ]
+    },
+    "P04": {
+      "district": "SD35",
+      "status": "Map-supported; verify",
+      "current": [
+        "greenwood",
+        "wgss"
+      ],
+      "future": [],
+      "notes": "REW names Gordon Greenwood and Walnut Grove Secondary. Greenwood's district map was inspected, but its version is May 2014; treat it as historical corroboration. No separate middle school in the K–7 / 8–12 pathway. District address-level confirmation remains pending.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/9-8968-208-street-langley-bc"
+        },
+        {
+          "label": "District elementary map (2014 version)",
+          "url": "https://media.sd35.bc.ca/media/Default/medialib/gordon-greenwood-elementary-sd35_mapbook.8043e46857.pdf"
+        },
+        {
+          "label": "District school families",
+          "url": "https://www.sd35.bc.ca/action-plans-for-learning-apfl"
+        }
+      ]
+    },
+    "P05": {
+      "district": "SD35",
+      "status": "Map-supported + future change",
+      "current": [
+        "willoughby",
+        "yorkson",
+        "remss"
+      ],
+      "future": [
+        "willoughby",
+        "yorkson",
+        "edss"
+      ],
+      "future_effective": "September 2027",
+      "notes": "The February 2025 district elementary map supports Willoughby for the 80xx block at 207 Street. REW also lists Betty Gilbert Middle 16.48 km away: rejected as conflicting data, not another guaranteed choice. SD35's May 2026 notice gives Willoughby → Yorkson Creek → Emery Dosdall from September 2027, conditional on address. Confirm the unit and school year with the district.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "District elementary map (February 2025)",
+          "url": "https://media.sd35.bc.ca/media/Default/medialib/willoughby-elementary-sd35_mapbook.2144a36840.pdf"
+        },
+        {
+          "label": "REW current labels and conflict",
+          "url": "https://www.rew.ca/properties/94-8068-207-street-langley-bc"
+        },
+        {
+          "label": "Approved September 2027 transitions",
+          "url": "https://sd35.bc.ca/willoughby-slope-catchment-boundary-changes.21343"
+        }
+      ]
+    },
+    "P06": {
+      "district": "SD36",
+      "status": "Listing-labelled; verify",
+      "current": [
+        "jessie",
+        "earl"
+      ],
+      "future": [],
+      "notes": "REW labels Jessie Lee and Earl Marriott as in catchment. School homepages verified; district address lookup/placement pending. K–7 / 8–12 pathway, no separate middle school assumed.",
+      "locator_url": "https://www.surreyschools.ca/capital-plan",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/15669-20-avenue-surrey-bc"
+        }
+      ]
+    },
+    "P07": {
+      "district": "SD42",
+      "status": "Listing-labelled; verify",
+      "current": [
+        "albion",
+        "srt"
+      ],
+      "future": [],
+      "notes": "REW labels Albion and Samuel Robertson Technical as in catchment. Proximity to other/newer schools does not establish eligibility. Exact district assignment and capacity pending.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/24222-103-avenue-maple-ridge-bc"
+        }
+      ]
+    },
+    "P08": {
+      "district": "SD42",
+      "status": "Listing-labelled; verify",
+      "current": [
+        "harry",
+        "thss"
+      ],
+      "future": [],
+      "notes": "REW labels Harry Hooge and Thomas Haney as in catchment. School websites/district directory identify the schools; address-level district confirmation and capacity still pending.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/12326-aurora-street-maple-ridge-bc"
+        }
+      ]
+    },
+    "P09": {
+      "district": "SD36",
+      "status": "Listing-labelled; verify",
+      "current": [
+        "hazel",
+        "clayton"
+      ],
+      "future": [],
+      "notes": "Both listing description and REW school panel name Hazelgrove / Clayton Heights. This is not independent district confirmation. School links verified. K–7 / 8–12 pathway, with no separate middle school assumed.",
+      "locator_url": "https://www.surreyschools.ca/capital-plan",
+      "sources": [
+        {
+          "label": "Listing and catchment labels",
+          "url": "https://www.rew.ca/properties/6926-190-street-surrey-bc"
+        }
+      ]
+    },
+    "P10": {
+      "district": "SD35",
+      "status": "Map/feeder-supported; verify",
+      "current": [
+        "shortreed",
+        "betty",
+        "acss"
+      ],
+      "future": [],
+      "notes": "REW names Shortreed and Aldergrove Community Secondary. Published Shortreed map inspected as broad corroboration, not a precise locator result. Betty Gilbert's official page explicitly identifies Shortreed as a feeder. District confirmation of address/capacity pending.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "REW catchment labels",
+          "url": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc"
+        },
+        {
+          "label": "District Shortreed map",
+          "url": "https://media.sd35.bc.ca/media/Default/medialib/shortreed-elementary-sd35_mapbook.fabf2b6845.pdf"
+        },
+        {
+          "label": "Official middle-school feeder explanation",
+          "url": "https://www.sd35.bc.ca/bgms/about-middle-school"
+        }
+      ]
+    },
+    "P11": {
+      "district": "SD35",
+      "status": "Map/feeder-supported; verify",
+      "current": [
+        "simonds",
+        "stafford",
+        "lss"
+      ],
+      "future": [],
+      "notes": "June 2024 district map visually supports the 200xx block of 48 Avenue in Simonds. Simonds' official page confirms the Stafford/later Langley Secondary pathway. REW also labels Fundamental choice programs as catchment: excluded from the neighbourhood pathway, because admission is separate. District unit/address confirmation pending.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "REW labels",
+          "url": "https://www.rew.ca/properties/20030-48-avenue-langley-bc"
+        },
+        {
+          "label": "District Simonds map (June 2024)",
+          "url": "https://media.sd35.bc.ca/media/Default/medialib/simonds-elementary-sd35_mapbook.37093c6844.pdf"
+        },
+        {
+          "label": "Official school pathway",
+          "url": "https://www.sd35.bc.ca/simonds-uconnect/about-us"
+        }
+      ]
+    },
+    "P12": {
+      "district": "SD35",
+      "status": "Map/feeder-supported; verify",
+      "current": [
+        "uplands",
+        "stafford",
+        "lss"
+      ],
+      "future": [],
+      "notes": "June 2024 district map visually supports the 45xx block of 208 Street in Uplands. Stafford's official page names Uplands as feeder and Langley Secondary as the next school. REW's K–6 Uplands label conflicts with district K–5 information; use district grade structure. Montessori/Fundamental admission not assumed.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "REW labels",
+          "url": "https://www.rew.ca/properties/4536-208-street-langley-bc"
+        },
+        {
+          "label": "District Uplands map (June 2024)",
+          "url": "https://media.sd35.bc.ca/media/Default/medialib/uplands-elementary-sd35_mapbook.3d57576842.pdf"
+        },
+        {
+          "label": "Official middle-school feeders",
+          "url": "https://www.sd35.bc.ca/hdsms/action-plan-for-learning-document"
+        }
+      ]
+    }
+  }
+}

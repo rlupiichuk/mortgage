@@ -1,0 +1,48 @@
+{
+  "source": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf",
+  "publication_year": 2025,
+  "data_year": "2023/24",
+  "method": "Academic indicator only, out of 10; not a safety or whole-school quality rating. K\u20135 ratings can incorporate former pupils\u2019 Grade 7 results. Middle/secondary comparable scores not verified.",
+  "schools": {
+    "leigh": {
+      "score": 5.9,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=17"
+    },
+    "daviejones": {
+      "score": 5.0,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=19"
+    },
+    "greenwood": {
+      "score": 7.3,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=14"
+    },
+    "willoughby": {
+      "score": 6.8,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=15"
+    },
+    "jessie": {
+      "score": 6.4,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=16"
+    },
+    "harry": {
+      "score": 3.1,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=21"
+    },
+    "hazel": {
+      "score": 4.9,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=19"
+    },
+    "shortreed": {
+      "score": 6.4,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=16"
+    },
+    "simonds": {
+      "score": 3.3,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=20"
+    },
+    "uplands": {
+      "score": 5.3,
+      "url": "https://www.fraserinstitute.org/sites/default/files/2025-11/british-columbia-elementary-school-rankings-2025.pdf#page=18"
+    }
+  }
+}

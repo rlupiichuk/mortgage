@@ -7,6 +7,7 @@ Standard library only. No live data retrieval. Null costs remain unknown.
 import csv
 import json
 from pathlib import Path
+from urllib.parse import urlencode
 
 from mortgage_scenarios import monthly_payment
 
@@ -20,6 +21,7 @@ def money(value):
 def build():
     data = json.loads((ROOT / "property-sample.json").read_text())
     a = data["assumptions"]
+    catchments = json.loads((ROOT / "school-catchments.json").read_text())
     rows = []
     summary = [
         "# First property sample: cost comparison",
@@ -54,8 +56,22 @@ def build():
                    mortgage_after_rent_low=None if after_low is None else round(after_low),
                    mortgage_after_rent_high=None if after_high is None else round(after_high))
         rows.append(row)
+        row["map_url"] = "https://www.google.com/maps/search/?" + urlencode({"api": "1", "query": f"{p['address']}, {p['city']}, BC, Canada"})
+        assignment = catchments["properties"][p["id"]]
+        row["school_catchment_status"] = assignment["status"]
+        row["school_pathway"] = " → ".join(catchments["schools"][key]["name"] for key in assignment["current"])
+        row["school_urls"] = " | ".join(catchments["schools"][key]["url"] for key in assignment["current"])
+        row["future_school_pathway"] = " → ".join(catchments["schools"][key]["name"] for key in assignment["future"])
+        row["school_catchment_evidence"] = json.dumps(assignment, ensure_ascii=False)
+        for level in ("elementary", "middle", "secondary"):
+            selected = [catchments["schools"][key] for key in assignment["current"] if catchments["schools"][key]["level"] == level]
+            row[f"{level}_school"] = " | ".join(s["name"] for s in selected)
+            row[f"{level}_school_url"] = " | ".join(s["url"] for s in selected)
+        row["drive_to_downtown_minutes"] = p["commute"]["drive_minutes"]
+        row["transit_to_downtown_minutes"] = p["commute"]["transit_door_to_door_minutes"]
+        row["downtown_reference"] = p["commute"]["downtown_reference"]
         after = "not modelled" if rent is None else f"{money(after_low)}–{money(after_high)}"
-        summary.append(f"| {p['id']} | {p['address']} | {money(p['asking_price'])} | {money(payment)} | {money(p['strata_monthly'])} | {money(p['annual_tax'])} | {money(known)} | {after} |")
+        summary.append(f"| {p['id']} | [{p['address']}]({row['map_url']}) | {money(p['asking_price'])} | {money(payment)} | {money(p['strata_monthly'])} | {money(p['annual_tax'])} | {money(known)} | {after} |")
     summary.extend([
         "", "## Mortgage sensitivity", "",
         "| Purchase price | 4.75%, 25 years | 5.75%, 25 years | 4.75%, 30 years |",

@@ -6,7 +6,7 @@ This is a living decision record for exploring whether, where, and how to buy a 
 
 ## Start here
 
-- [Open the compiled HTML summary](index.html): collapsible research sections, charts, property filters and an interactive budget calculator. Opens locally without a server.
+- [Open the property workbench](index.html): property-first comparison table with expandable rows, map/listing links, linked school pathways, route links, charts and a budget calculator. Opens locally without a server.
 - [Household criteria](research/criteria.md): confirmed preferences and unresolved questions.
 - [Purchase strategies and budget](research/strategies-and-budget.md): comparable scenarios and calculation assumptions.
 - [Strategies from discussions and interviews](research/community-strategies.md): alternative paths, lived experiences, source caveats, and household fit.
@@ -14,6 +14,7 @@ This is a living decision record for exploring whether, where, and how to buy a 
 - [First property sample](research/property-sample-notes.md): 12 examples, screening decisions and outstanding checks.
 - [Property cost comparison](research/property-cost-comparison.md) and [spreadsheet](research/property-comparison.csv): reproducible costs with sources and uncertainty.
 - [Initial school/transit screening](research/school-and-transit-screen.md): address-specific leads and verification gaps.
+- [School catchment research](research/school-catchments.md) and [structured school records](research/school-catchments.json): linked schools, evidence status, conflicts and future changes for the 12 examples.
 - [Trends tracker](research/trends.md) and [historical observations](research/trends.json): initial price/inventory history, sources, coverage gaps and refresh method.
 - [Evidence register](research/sources.md): source links, dates, scope, and verification gaps.
 - [Research log and next steps](research/research-log.md): decisions, changes, and future work.
@@ -34,6 +35,8 @@ Save meaningful research and report updates in periodic Git commits, as requeste
 
 ## Rebuild the summaries
 
-After editing the property sample, run `python3 research/build_property_comparison.py` to regenerate the spreadsheet and cost table. Run `python3 research/build_summary.py` to compile `index.html` from the property sample, criteria, trend data and HTML template. These scripts do not fetch live data. They preserve existing listing/rent observation logs; append new dated observations rather than replacing history.
+After editing the property sample or school records, run `python3 research/build_property_comparison.py` to regenerate the spreadsheet and cost table. Run `python3 research/build_summary.py` to compile `index.html` and the school research summary from the property sample, school records, criteria, trend data and HTML template. These scripts do not fetch live data. They preserve existing listing/rent observation logs; append new dated observations rather than replacing history.
 
 The HTML includes a compiled interpretation as well as data-driven charts: review its narrative and date labels when updating the research. It is a local report, with no external scripts, analytics, hosted deployment or scheduled refresh.
+
+The property-first HTML comparison includes preliminary school links and academic ratings, police-jurisdiction crime context, park walking-route leads, provisional overall fit and a broader monthly ownership estimate. Supporting records: `research/school-ratings.json` and `research/area-context.json`. Walk target: 20–30 minutes. Expanded cost assumptions are illustrative and editable in `research/summary.template.html`; rental allowance reserves 50% of gross rent for combined tax, vacancy and expenses, not a personal tax estimate.

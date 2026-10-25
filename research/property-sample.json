@@ -30,7 +30,7 @@
       "rent_model": null,
       "status": "Conflicting freshness: September listing advertisements; REW now returns historical Insight page. Availability unresolved.",
       "transit": "Investigate local bus to Coquitlam Central/SkyTrain or Port Coquitlam WCE; door-to-door time unmeasured",
-      "school": "SD43; exact elementary/middle assignment unverified",
+      "school": "Unresolved: assignment unresolved",
       "next_gate": "Resolve availability and property-detail discrepancies before school research",
       "source": "https://www.zolo.ca/port-coquitlam-real-estate/3363-sefton-street",
       "secondary_source": "https://www.rew.ca/properties/3363-sefton-street-port-coquitlam-bc",
@@ -53,6 +53,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD43; exact elementary/middle assignment unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -75,7 +84,7 @@
       "rent_model": null,
       "status": "REW listing page advertises for sale; September update/open-house references may be stale",
       "transit": "Bus connection to SkyTrain/Coquitlam Central; advertised five-minute drive to rail is not a public-transit commute",
-      "school": "SD43; listing mentions a nearby new middle school, older property marketing mentions Smiling Creek; neither proves catchment or placement",
+      "school": "Conflicting evidence: Leigh Elementary → Terry Fox Secondary",
       "next_gate": "Confirm active status, address-level school pathway and bus commute",
       "source": "https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc",
       "secondary_source": "https://www.estateblock.com/coquitlam/27-1338-hames-cres-1172562",
@@ -98,6 +107,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD43; listing mentions a nearby new middle school, older property marketing mentions Smiling Creek; neither proves catchment or placement",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -120,7 +138,7 @@
       "rent_model": null,
       "status": "REW page opened and advertises for sale; September open house reference means availability still needs recheck",
       "transit": "Investigate walk/bus to Pitt Meadows WCE; weekday peak-direction restrictions apply",
-      "school": "SD42; Pitt Meadows Elementary/Secondary are nearby leads, not confirmed catchments",
+      "school": "Listing-labelled; verify: Davie Jones Elementary → Pitt Meadows Secondary",
       "next_gate": "Confirm listing, strata records/yard rights, flood exposure and exact school assignment",
       "source": "https://www.rew.ca/properties/1-19236-119-avenue-pitt-meadows-bc",
       "secondary_source": "https://www.bccondosandhomes.com/building/willow-park-19236-119-ave",
@@ -143,6 +161,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD42; Pitt Meadows Elementary/Secondary are nearby leads, not confirmed catchments",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -165,7 +192,7 @@
       "rent_model": null,
       "status": "REALTOR.ca advertisement includes Oct 24/25 open houses; availability still needs confirmation",
       "transit": "Investigate connection to Carvolth and 555/Lougheed/SkyTrain; no verified one-hour trip",
-      "school": "Listing names nearby Gordon Greenwood, James Kennedy and Walnut Grove Secondary; no catchment confirmation. Nearby elementaries are K–7, so separate middle school cannot be assumed.",
+      "school": "Map-supported; verify: Gordon Greenwood Elementary → Walnut Grove Secondary",
       "next_gate": "Confirm catchment, school evidence, yard size and current strata fee; sources differ on floor area (1686 vs 1695)",
       "source": "https://www.realtor.ca/real-estate/30385491/9-8968-208-street-langley",
       "secondary_source": "https://www.bccondosandhomes.com/building/cambridge-court-8968-208-street?prompt=login",
@@ -188,6 +215,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Listing names nearby Gordon Greenwood, James Kennedy and Walnut Grove Secondary; no catchment confirmation. Nearby elementaries are K–7, so separate middle school cannot be assumed.",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -210,7 +246,7 @@
       "rent_model": null,
       "status": "REW listing page opened; advertises for sale, active status not independently confirmed",
       "transit": "Investigate local connection to Carvolth/555 or other downtown routes",
-      "school": "SD35; elementary/middle/secondary assignments unverified",
+      "school": "Map-supported + future change: Willoughby Elementary → Yorkson Creek Middle → R.E. Mountain Secondary",
       "next_gate": "Confirm active status and school pathway; obtain depreciation report and fee inclusions",
       "source": "https://www.rew.ca/properties/94-8068-207-street-langley-bc",
       "secondary_source": "https://sothebysrealty.ca/en/property/british-columbia/region-fraser-valley/langley-real-estate/3658562/8068-207-street-94/",
@@ -233,6 +269,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD35; elementary/middle/secondary assignments unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -255,7 +300,7 @@
       "rent_model": null,
       "status": "Advertisement says listed Oct 21, 2026",
       "transit": "Longer-commute comparator; investigate bus to Canada Line or other route; no one-hour claim",
-      "school": "SD36; exact school pathway unverified",
+      "school": "Listing-labelled; verify: Jessie Lee Elementary → Earl Marriott Secondary",
       "next_gate": "Only two bedrooms; verify title/shared obligations and no-maintenance-fee claim. No fee is not proof of no shared costs.",
       "source": "https://www.bccondosandhomes.com/listing/r3177494-15669-20-avenue-surrey-bc-v4a-2a7",
       "secondary_source": null,
@@ -278,6 +323,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD36; exact school pathway unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -304,7 +358,7 @@
       },
       "status": "Listing page found; September open-house references require availability recheck",
       "transit": "Albion access to rail/rapid bus must be measured; do not equate Maple Ridge with western station areas",
-      "school": "SD42; catchments and elementary/secondary pathway unverified",
+      "school": "Listing-labelled; verify: Albion Elementary → Samuel Robertson Technical Secondary",
       "next_gate": "Verify permit/tenancy, suite rent and usable yard; conservative rent scenario exceeds target",
       "source": "https://sothebysrealty.ca/en/property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3484293/24222-103-avenue/",
       "secondary_source": "https://a2-ws-realtor-pr.realtor.ca/real-estate/30002329/24222-103-avenue-maple-ridge",
@@ -327,6 +381,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD42; catchments and elementary/secondary pathway unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -353,7 +416,7 @@
       },
       "status": "Advertised for sale; source update not independently confirmed",
       "transit": "Investigate local access to R3/rail and total trip",
-      "school": "SD42; no verified catchments",
+      "school": "Listing-labelled; verify: Harry Hooge Elementary → Thomas Haney Secondary",
       "next_gate": "Check permits, tenancy, maintenance and rental shortfall before school assessment",
       "source": "https://sothebysrealty.ca/en/mls-property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3487529/12326-aurora-street/",
       "secondary_source": "https://resider.ca/bc/maple-ridge/east-central/12326-aurora-street/008620725",
@@ -376,6 +439,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD42; no verified catchments",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -402,7 +474,7 @@
       },
       "status": "REW page advertises for sale; October listing sources found",
       "transit": "Existing bus to Expo Line to be checked; future SkyTrain excluded from current travel time",
-      "school": "Listing claims Hazelgrove Elementary and Clayton Heights Secondary; district confirmation and safety/academic evidence pending",
+      "school": "Listing-labelled; verify: Hazelgrove Elementary → Clayton Heights Secondary",
       "next_gate": "Verify suite status/rent, yard fit and school assignment; conservative rent scenario exceeds target",
       "source": "https://www.rew.ca/properties/6926-190-street-surrey-bc",
       "secondary_source": "https://realtylink.org/en/house~for-sale~surrey/263198181",
@@ -425,6 +497,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Listing claims Hazelgrove Elementary and Clayton Heights Secondary; district confirmation and safety/academic evidence pending",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -447,7 +528,7 @@
       "rent_model": null,
       "status": "Advertised for sale; sources conflict on 2929 vs 3470 sqft and four vs five bathrooms",
       "transit": "Farther-out comparator; downtown one-hour goal not established",
-      "school": "SD35 Aldergrove; exact assignments and grade pathway unverified",
+      "school": "Map/feeder-supported; verify: Shortreed Community Elementary → Betty Gilbert Middle → Aldergrove Community Secondary",
       "next_gate": "Hold: unfinished suite, inconsistent measurements and unverified rental claims. Marketing $900/month ownership and $3600 rent not adopted.",
       "source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc",
       "secondary_source": "https://www.claudiotonella.com/langley-condo/l/listing.r3147707-27191-28a-avenue-langley-v4w-3a4.109360788",
@@ -470,6 +551,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD35 Aldergrove; exact assignments and grade pathway unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -492,7 +582,7 @@
       "rent_model": null,
       "status": "REW advertisement; listed Oct 22 with Oct 24/25 open houses",
       "transit": "Investigate local bus to existing rail; future Langley SkyTrain not current service",
-      "school": "Listing says near Simonds Elementary; catchment and later-school assignment unverified",
+      "school": "Map/feeder-supported; verify: Simonds Elementary → H.D. Stafford Middle → Langley Secondary",
       "next_gate": "Hold as conversion-cost comparator: no rent counted before permits, capital budget and completion",
       "source": "https://www.rew.ca/properties/20030-48-avenue-langley-bc",
       "secondary_source": "https://tuckermcclean.com/listing/r3177701/",
@@ -515,6 +605,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "Listing says near Simonds Elementary; catchment and later-school assignment unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     },
     {
@@ -537,7 +636,7 @@
       "rent_model": null,
       "status": "REALTOR.ca advertises new non-strata rowhome; other sites classify inconsistently as house/townhouse",
       "transit": "Investigate local bus to existing rail; future SkyTrain excluded",
-      "school": "SD35; exact school pathway unverified",
+      "school": "Map/feeder-supported; verify: Uplands Elementary & Montessori → H.D. Stafford Middle → Langley Secondary",
       "next_gate": "Hold: verify yard and legal rental configuration; GST inclusion/rebate eligibility and shared obligations unresolved",
       "source": "https://www.realtor.ca/real-estate/30255815/4536-208-street-langley",
       "secondary_source": null,
@@ -560,6 +659,15 @@
         "verified_on": null,
         "direct_busy_road_exposure_front_rear_or_side": null,
         "buffering_from_busy_road": null
+      },
+      "school_initial_note": "SD35; exact school pathway unverified",
+      "commute": {
+        "downtown_reference": "Waterfront Station, Vancouver, BC",
+        "drive_minutes": null,
+        "transit_door_to_door_minutes": null,
+        "departure_or_arrival_time": null,
+        "observed_on": null,
+        "status": "Not measured; route links supplied. No one-hour commute claim."
       }
     }
   ],
