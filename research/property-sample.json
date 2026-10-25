@@ -97,7 +97,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Double carport",
+        "covered_spaces": 2,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": "Storage shed advertised",
+        "locker": null,
+        "source": "https://www.estateblock.com/port-coquitlam/3363-sefton-st-1954718",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Lane/rear access; confirm assigned rights and shed condition."
+      }
     },
     {
       "id": "P02",
@@ -185,7 +197,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Double tandem garage",
+        "covered_spaces": 2,
+        "total_spaces": 3,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Two tandem garage positions plus driveway parking; check vehicle lengths and storage tradeoff."
+      }
     },
     {
       "id": "P03",
@@ -274,7 +298,22 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Single garage",
+        "covered_spaces": 1,
+        "total_spaces": null,
+        "total_spaces_range": [
+          3,
+          4
+        ],
+        "storage": null,
+        "locker": null,
+        "source": "https://www.zolo.ca/pitt-meadows-real-estate/19236-119-avenue/1",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Parking count conflicts: structured source says 3 while marketing/FAQ says 4. Confirm stalls and exclusive-use rights."
+      }
     },
     {
       "id": "P04",
@@ -363,7 +402,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Side-by-side double garage",
+        "covered_spaces": 2,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.ovlix.com/property/XB2xFv-9-8968-208-Street-Langley-BC",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Visitor parking is separate from the two advertised spaces; garage dimensions unverified."
+      }
     },
     {
       "id": "P05",
@@ -453,7 +504,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Single garage",
+        "covered_spaces": 1,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": "General internal storage advertised",
+        "locker": null,
+        "source": "https://www.rew.ca/properties/94-8068-207-street-langley-bc",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Two spaces total; guest parking is not an exclusive owner stall. Check the second-space arrangement."
+      }
     },
     {
       "id": "P06",
@@ -538,7 +601,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "No covered parking advertised",
+        "covered_spaces": 0,
+        "total_spaces": 4,
+        "total_spaces_range": null,
+        "storage": "Backyard shed with power",
+        "locker": null,
+        "source": "https://www.zealty.ca/property/bc/surrey/15669-20-avenue-mls_r3177494",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Four open spaces advertised; shed size and electrical condition unverified."
+      }
     },
     {
       "id": "P07",
@@ -632,7 +707,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": "https://www.zolo.ca/maple-ridge-real-estate/24222-103-avenue"
+      "tax_source": "https://www.zolo.ca/maple-ridge-real-estate/24222-103-avenue",
+      "parking_storage": {
+        "garage": "Open parking; garage not established",
+        "covered_spaces": 0,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.zolo.ca/maple-ridge-real-estate/24222-103-avenue",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Rear access; two advertised spaces must also accommodate any tenant parking obligations."
+      }
     },
     {
       "id": "P08",
@@ -724,7 +811,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": "https://www.zolo.ca/maple-ridge-real-estate/12326-aurora-street"
+      "tax_source": "https://www.zolo.ca/maple-ridge-real-estate/12326-aurora-street",
+      "parking_storage": {
+        "garage": "Double garage",
+        "covered_spaces": 2,
+        "total_spaces": 6,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.rew.ca/properties/12326-aurora-street-maple-ridge-bc",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Six total advertised spaces, including garage; verify owner/tenant allocation and driveway usability."
+      }
     },
     {
       "id": "P09",
@@ -816,7 +915,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Single carport; gated parking",
+        "covered_spaces": 1,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": "Patio storage shed",
+        "locker": null,
+        "source": "https://realestatesurrey.com/listing/6926-190-street-clayton-R3176554",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Rear access and two spaces advertised; check tenant allocation and whether parking displaces usable yard."
+      }
     },
     {
       "id": "P10",
@@ -905,7 +1016,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc"
+      "tax_source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc",
+      "parking_storage": {
+        "garage": "Open / RV parking; enclosed garage not established",
+        "covered_spaces": null,
+        "total_spaces": 8,
+        "total_spaces_range": null,
+        "storage": "Detached workshop advertised",
+        "locker": null,
+        "source": "https://www.rew.ca/properties/27191-28a-avenue-langley-bc",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Eight total spaces advertised. Workshop area, condition and permitted use unverified."
+      }
     },
     {
       "id": "P11",
@@ -994,7 +1117,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Front single garage plus detached garage/workshop",
+        "covered_spaces": 2,
+        "total_spaces": 6,
+        "total_spaces_range": null,
+        "storage": "Detached garage/workshop",
+        "locker": null,
+        "source": "https://www.zealty.ca/property/bc/langley/20030-48-avenue-mls_r3177701",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Six total, two covered advertised; detached garage has lane access. Check dimensions and any conversion plans."
+      }
     },
     {
       "id": "P12",
@@ -1082,7 +1217,19 @@
           "https://infomaps.translink.ca/Route_Diagrams/210/r503.pdf"
         ]
       },
-      "tax_source": null
+      "tax_source": null,
+      "parking_storage": {
+        "garage": "Side-by-side double garage",
+        "covered_spaces": 2,
+        "total_spaces": 2,
+        "total_spaces_range": null,
+        "storage": null,
+        "locker": null,
+        "source": "https://www.zolo.ca/langley-real-estate/4536-208-street",
+        "researched_on": "2026-10-25",
+        "status": "Advertised; title/strata rights and dimensions unverified",
+        "notes": "Lane access; EV charging rough-in advertised, not a confirmed installed charger."
+      }
     }
   ],
   "rent_observations": [

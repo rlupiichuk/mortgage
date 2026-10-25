@@ -119,3 +119,7 @@ Added concise address-specific decision notes to the property table and CSV, bac
 ## 2026-10-25 — Sortable property columns
 
 Added accessible clickable sort controls to all 15 data columns. Numeric ranges use midpoints; school columns use displayed names, including nearest fallbacks; location uses city/neighbourhood/address. Text columns sort alphabetically, crime uses jurisdiction CSI with missing/transition values last in either direction. Sorting preserves filters and expanded property rows, with stable ID tie-breaking and visible/announced direction.
+
+## 2026-10-25 — Garage, parking and storage
+
+Added a sortable garage/parking/locker column and sourced advertised details for the initial 12 homes. Distinguishes total/covered spaces, tandem versus side-by-side, sheds/workshops and unconfirmed lockers. P03’s 3-versus-4 space conflict is preserved as a range. Counts are not verified exclusive rights or garage dimensions; suite examples require owner/tenant allocation checks.
