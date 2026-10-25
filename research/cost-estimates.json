@@ -28,6 +28,27 @@
         ]
       },
       "legal_structure_source": "https://www.surrey.ca/sites/default/files/corporate-reports/RPT_2006_R025.pdf"
+    },
+    "P19": {
+      "annual_tax": {
+        "estimate": 3264.57,
+        "sample_size": 2,
+        "geography": "Coquitlam townhouse city-level proxy; not a Maillardville neighbourhood average",
+        "home_type": "Resale townhouse",
+        "basis": "Subject listing reports $0, treated as missing rather than tax-free. Two known townhouse taxes from the city provide a rough annual allowance; different ages/areas, not a representative local average. Replace with current notice.",
+        "comparables": [
+          {
+            "address": "27-1338 Hames Crescent",
+            "annual_tax": 3360.15,
+            "source": "https://www.rew.ca/properties/27-1338-hames-crescent-coquitlam-bc"
+          },
+          {
+            "address": "2-2990 Mariner Way",
+            "annual_tax": 3169,
+            "source": "https://www.bccondosandhomes.com/listing/r3172668-2-2990-mariner-way-coquitlam-bc-v3c-4k1"
+          }
+        ]
+      }
     }
   }
 }

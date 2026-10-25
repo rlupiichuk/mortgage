@@ -4,164 +4,242 @@
   "schools": {
     "leigh": {
       "name": "Leigh Elementary",
-      "grades": "K\u20135",
+      "grades": "K–5",
       "url": "https://www.sd43.bc.ca/leigh",
       "level": "elementary"
     },
     "terryfox": {
       "name": "Terry Fox Secondary",
-      "grades": "9\u201312",
+      "grades": "9–12",
       "url": "https://www.sd43.bc.ca/terryfox",
       "level": "secondary"
     },
     "daviejones": {
       "name": "Davie Jones Elementary",
-      "grades": "K\u20137",
+      "grades": "K–7",
       "url": "https://elementary.sd42.ca/daviejones/",
       "level": "elementary"
     },
     "pmss": {
       "name": "Pitt Meadows Secondary",
-      "grades": "8\u201312",
+      "grades": "8–12",
       "url": "https://secondary.sd42.ca/pmss/",
       "level": "secondary"
     },
     "greenwood": {
       "name": "Gordon Greenwood Elementary",
-      "grades": "K\u20137",
+      "grades": "K–7",
       "url": "https://www.sd35.bc.ca/gordongreenwood",
       "level": "elementary"
     },
     "wgss": {
       "name": "Walnut Grove Secondary",
-      "grades": "8\u201312",
+      "grades": "8–12",
       "url": "https://www.sd35.bc.ca/wgss",
       "level": "secondary"
     },
     "willoughby": {
       "name": "Willoughby Elementary",
-      "grades": "K\u20135",
+      "grades": "K–5",
       "url": "https://www.sd35.bc.ca/willoughby",
       "level": "elementary"
     },
     "yorkson": {
       "name": "Yorkson Creek Middle",
-      "grades": "6\u20138",
+      "grades": "6–8",
       "url": "https://www.sd35.bc.ca/ycms",
       "level": "middle"
     },
     "remss": {
       "name": "R.E. Mountain Secondary",
-      "grades": "9\u201312",
+      "grades": "9–12",
       "url": "https://www.sd35.bc.ca/remss",
       "level": "secondary"
     },
     "edss": {
       "name": "Emery Dosdall Secondary",
-      "grades": "9\u201312 (planned)",
+      "grades": "9–12 (planned)",
       "url": "https://www.sd35.bc.ca/edss",
       "level": "secondary"
     },
     "jessie": {
       "name": "Jessie Lee Elementary",
-      "grades": "K\u20137",
+      "grades": "K–7",
       "url": "https://www.surreyschools.ca/jessie",
       "level": "elementary"
     },
     "earl": {
       "name": "Earl Marriott Secondary",
-      "grades": "8\u201312",
+      "grades": "8–12",
       "url": "https://www.surreyschools.ca/earlmarriott",
       "level": "secondary"
     },
     "albion": {
       "name": "Albion Elementary",
-      "grades": "K\u20137",
+      "grades": "K–7",
       "url": "https://elementary.sd42.ca/albion/",
       "level": "elementary"
     },
     "srt": {
       "name": "Samuel Robertson Technical Secondary",
-      "grades": "8\u201312",
+      "grades": "8–12",
       "url": "https://secondary.sd42.ca/srt/",
       "level": "secondary"
     },
     "harry": {
       "name": "Harry Hooge Elementary",
-      "grades": "K\u20137",
+      "grades": "K–7",
       "url": "https://elementary.sd42.ca/harryhooge/",
       "level": "elementary"
     },
     "thss": {
       "name": "Thomas Haney Secondary",
-      "grades": "8\u201312",
+      "grades": "8–12",
       "url": "https://secondary.sd42.ca/thss/",
       "level": "secondary"
     },
     "hazel": {
       "name": "Hazelgrove Elementary",
-      "grades": "K\u20137",
+      "grades": "K–7",
       "url": "https://www.surreyschools.ca/hazelgrove",
       "level": "elementary"
     },
     "clayton": {
       "name": "Clayton Heights Secondary",
-      "grades": "8\u201312",
+      "grades": "8–12",
       "url": "https://www.surreyschools.ca/clyhts",
       "level": "secondary"
     },
     "shortreed": {
       "name": "Shortreed Community Elementary",
-      "grades": "K\u20135",
+      "grades": "K–5",
       "url": "https://www.sd35.bc.ca/shortreed",
       "level": "elementary"
     },
     "betty": {
       "name": "Betty Gilbert Middle",
-      "grades": "6\u20138",
+      "grades": "6–8",
       "url": "https://www.sd35.bc.ca/bgms",
       "level": "middle"
     },
     "acss": {
       "name": "Aldergrove Community Secondary",
-      "grades": "9\u201312",
+      "grades": "9–12",
       "url": "https://www.sd35.bc.ca/acss",
       "level": "secondary"
     },
     "simonds": {
       "name": "Simonds Elementary",
-      "grades": "K\u20135",
+      "grades": "K–5",
       "url": "https://www.sd35.bc.ca/simonds-uconnect",
       "level": "elementary"
     },
     "stafford": {
       "name": "H.D. Stafford Middle",
-      "grades": "6\u20138",
+      "grades": "6–8",
       "url": "https://www.sd35.bc.ca/hdsms",
       "level": "middle"
     },
     "lss": {
       "name": "Langley Secondary",
-      "grades": "9\u201312",
+      "grades": "9–12",
       "url": "https://www.sd35.bc.ca/lss",
       "level": "secondary"
     },
     "uplands": {
       "name": "Uplands Elementary & Montessori",
-      "grades": "K\u20135 neighbourhood program",
+      "grades": "K–5 neighbourhood program",
       "url": "https://www.sd35.bc.ca/uplands",
       "level": "elementary"
     },
     "birchland": {
       "name": "Birchland Elementary",
-      "grades": "K\u20135",
+      "grades": "K–5",
       "url": "https://www.sd43.bc.ca/birchland",
       "level": "elementary"
     },
     "smilingcreek": {
       "name": "Smiling Creek Elementary",
-      "grades": "K\u20135",
+      "grades": "K–5",
       "url": "https://www.sd43.bc.ca/smilingcreek",
+      "level": "elementary"
+    },
+    "highlandpark": {
+      "name": "Highland Park Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/highlandpark/",
+      "level": "elementary"
+    },
+    "jameshill": {
+      "name": "James Hill Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/jameshill",
+      "level": "elementary"
+    },
+    "central": {
+      "name": "Central Community Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/central",
+      "level": "elementary"
+    },
+    "riverside": {
+      "name": "École Riverside Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/riverside",
+      "level": "secondary"
+    },
+    "blakeburn": {
+      "name": "Blakeburn Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/blakeburn",
+      "level": "elementary"
+    },
+    "alderson": {
+      "name": "Alderson Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/alderson",
+      "level": "elementary"
+    },
+    "centennial": {
+      "name": "Centennial Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/centennial",
+      "level": "secondary"
+    },
+    "bakerdrive": {
+      "name": "Baker Drive Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/bakerdrive",
+      "level": "elementary"
+    },
+    "charlesbest": {
+      "name": "École Dr. Charles Best Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd43.bc.ca/charlesbest",
+      "level": "secondary"
+    },
+    "cusqunela": {
+      "name": "c̓əsqənelə Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/cusqunela/",
+      "level": "elementary"
+    },
+    "goldenears": {
+      "name": "Golden Ears Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/goldenears/",
+      "level": "elementary"
+    },
+    "douglaspark": {
+      "name": "Douglas Park Community School",
+      "grades": "K–5",
+      "url": "https://www.sd35.bc.ca/douglaspark",
+      "level": "elementary"
+    },
+    "katzie": {
+      "name": "Katzie Elementary",
+      "grades": "K–7",
+      "url": "https://www.surreyschools.ca/katzie",
       "level": "elementary"
     }
   },
@@ -205,7 +283,7 @@
         "terryfox"
       ],
       "future": [],
-      "notes": "REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed. Follow-up 2026-10-25: SD43 capital-project page lists Burke Mountain Secondary completion for Fall 2027, superseding older 2026 marketing. This does not establish this property\u2019s assignment; new-school transition/catchment must be confirmed.",
+      "notes": "REW labels Leigh and Terry Fox as in catchment, while older property marketing names nearby Smiling Creek. Middle-school assignment is unresolved; nearby Summit/Scott Creek listings are not assignment evidence. No full pathway confirmed. Follow-up 2026-10-25: SD43 capital-project page lists Burke Mountain Secondary completion for Fall 2027, superseding older 2026 marketing. This does not establish this property’s assignment; new-school transition/catchment must be confirmed.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
@@ -223,7 +301,7 @@
       ],
       "safety_research": {
         "status": "Older Leigh policy located; assignment and current policy require confirmation",
-        "notes": "Leigh 2022\u201323 code discusses monitoring repeated violations. This older document cannot establish the current school safety situation, and elementary assignment remains contested.",
+        "notes": "Leigh 2022–23 code discusses monitoring repeated violations. This older document cannot establish the current school safety situation, and elementary assignment remains contested.",
         "url": "https://www.sd43.bc.ca/school/leigh/About/COC/Documents/Leigh%20Code%20of%20Conduct%202022-2023.pdf"
       },
       "nearest_fallback": {
@@ -242,7 +320,7 @@
         "pmss"
       ],
       "future": [],
-      "notes": "REW labels Davie Jones and Pitt Meadows Secondary as in catchment. This differs from the earlier nearby-school lead of Pitt Meadows Elementary. No separate middle school in this proposed K\u20137 / 8\u201312 pathway. District locator and capacity confirmation pending.",
+      "notes": "REW labels Davie Jones and Pitt Meadows Secondary as in catchment. This differs from the earlier nearby-school lead of Pitt Meadows Elementary. No separate middle school in this proposed K–7 / 8–12 pathway. District locator and capacity confirmation pending.",
       "locator_url": "https://www.sd42.ca/school-locator/",
       "sources": [
         {
@@ -269,7 +347,7 @@
         "wgss"
       ],
       "future": [],
-      "notes": "REW names Gordon Greenwood and Walnut Grove Secondary. Greenwood's district map was inspected, but its version is May 2014; treat it as historical corroboration. No separate middle school in the K\u20137 / 8\u201312 pathway. District address-level confirmation remains pending.",
+      "notes": "REW names Gordon Greenwood and Walnut Grove Secondary. Greenwood's district map was inspected, but its version is May 2014; treat it as historical corroboration. No separate middle school in the K–7 / 8–12 pathway. District address-level confirmation remains pending.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -306,7 +384,7 @@
         "edss"
       ],
       "future_effective": "September 2027",
-      "notes": "The February 2025 district elementary map supports Willoughby for the 80xx block at 207 Street. REW also lists Betty Gilbert Middle 16.48 km away: rejected as conflicting data, not another guaranteed choice. SD35's May 2026 notice gives Willoughby \u2192 Yorkson Creek \u2192 Emery Dosdall from September 2027, conditional on address. Confirm the unit and school year with the district.",
+      "notes": "The February 2025 district elementary map supports Willoughby for the 80xx block at 207 Street. REW also lists Betty Gilbert Middle 16.48 km away: rejected as conflicting data, not another guaranteed choice. SD35's May 2026 notice gives Willoughby → Yorkson Creek → Emery Dosdall from September 2027, conditional on address. Confirm the unit and school year with the district.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -337,7 +415,7 @@
         "earl"
       ],
       "future": [],
-      "notes": "REW labels Jessie Lee and Earl Marriott as in catchment. School homepages verified; district address lookup/placement pending. K\u20137 / 8\u201312 pathway, no separate middle school assumed.",
+      "notes": "REW labels Jessie Lee and Earl Marriott as in catchment. School homepages verified; district address lookup/placement pending. K–7 / 8–12 pathway, no separate middle school assumed.",
       "locator_url": "https://www.surreyschools.ca/capital-plan",
       "sources": [
         {
@@ -406,7 +484,7 @@
         "clayton"
       ],
       "future": [],
-      "notes": "Both listing description and REW school panel name Hazelgrove / Clayton Heights. This is not independent district confirmation. School links verified. K\u20137 / 8\u201312 pathway, with no separate middle school assumed.",
+      "notes": "Both listing description and REW school panel name Hazelgrove / Clayton Heights. This is not independent district confirmation. School links verified. K–7 / 8–12 pathway, with no separate middle school assumed.",
       "locator_url": "https://www.surreyschools.ca/capital-plan",
       "sources": [
         {
@@ -494,7 +572,7 @@
         "lss"
       ],
       "future": [],
-      "notes": "June 2024 district map visually supports the 45xx block of 208 Street in Uplands. Stafford's official page names Uplands as feeder and Langley Secondary as the next school. REW's K\u20136 Uplands label conflicts with district K\u20135 information; use district grade structure. Montessori/Fundamental admission not assumed.",
+      "notes": "June 2024 district map visually supports the 45xx block of 208 Street in Uplands. Stafford's official page names Uplands as feeder and Langley Secondary as the next school. REW's K–6 Uplands label conflicts with district K–5 information; use district grade structure. Montessori/Fundamental admission not assumed.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
@@ -514,6 +592,426 @@
         "status": "District conduct framework located; school incident/outcome comparison unavailable",
         "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
         "url": "https://www.sd35.bc.ca/administrative-procedures"
+      },
+      "nearest_fallback": {}
+    },
+    "P13": {
+      "district": "SD42",
+      "current": [
+        "daviejones",
+        "pmss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/8-19240-119-avenue-pitt-meadows-bc"
+        },
+        {
+          "label": "Official school identity: Davie Jones Elementary",
+          "url": "https://elementary.sd42.ca/daviejones/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/daviejones/"
+      },
+      "nearest_fallback": {}
+    },
+    "P14": {
+      "district": "SD42",
+      "current": [
+        "highlandpark",
+        "pmss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/42-19141-124-avenue-pitt-meadows-bc"
+        },
+        {
+          "label": "Official school identity: Highland Park Elementary",
+          "url": "https://elementary.sd42.ca/highlandpark/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/highlandpark/"
+      },
+      "nearest_fallback": {}
+    },
+    "P15": {
+      "district": "SD35",
+      "current": [
+        "jameshill",
+        "lss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/14-22128-48a-avenue-langley-bc"
+        },
+        {
+          "label": "Official school identity: James Hill Elementary",
+          "url": "https://www.sd35.bc.ca/jameshill"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/jameshill"
+      },
+      "nearest_fallback": {}
+    },
+    "P16": {
+      "district": "SD35",
+      "current": [
+        "jameshill",
+        "lss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://homesforsaleinbc.ca/langley/114-21928-48th-avenue-r3169950"
+        },
+        {
+          "label": "Official school identity: James Hill Elementary",
+          "url": "https://www.sd35.bc.ca/jameshill"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/jameshill"
+      },
+      "nearest_fallback": {}
+    },
+    "P17": {
+      "district": "SD43",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/port-coquitlam-real-estate/2450-lobb-avenue/35"
+        },
+        {
+          "label": "Official school identity: Central Community Elementary",
+          "url": "https://www.sd43.bc.ca/central"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/central"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "central",
+          "source": "https://www.zolo.ca/port-coquitlam-real-estate/2450-lobb-avenue/35",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "riverside",
+          "source": "https://www.zolo.ca/port-coquitlam-real-estate/2450-lobb-avenue/35",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P18": {
+      "district": "SD43",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://realtylink.org/en/apartment~for-sale~port-coquitlam/263187175"
+        },
+        {
+          "label": "Official school identity: Blakeburn Elementary",
+          "url": "https://www.sd43.bc.ca/blakeburn"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/blakeburn"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "blakeburn",
+          "source": "https://realtylink.org/en/apartment~for-sale~port-coquitlam/263187175",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "terryfox",
+          "source": "https://realtylink.org/en/apartment~for-sale~port-coquitlam/263187175",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P19": {
+      "district": "SD43",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/3-98-begin-street-coquitlam-bc"
+        },
+        {
+          "label": "Official school identity: Alderson Elementary",
+          "url": "https://www.sd43.bc.ca/alderson"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/alderson"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "alderson",
+          "source": "https://www.rew.ca/properties/3-98-begin-street-coquitlam-bc",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "centennial",
+          "source": "https://www.rew.ca/properties/3-98-begin-street-coquitlam-bc",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P20": {
+      "district": "SD43",
+      "current": [
+        "bakerdrive",
+        "charlesbest"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.bccondosandhomes.com/listing/r3172668-2-2990-mariner-way-coquitlam-bc-v3c-4k1"
+        },
+        {
+          "label": "Official school identity: Baker Drive Elementary",
+          "url": "https://www.sd43.bc.ca/bakerdrive"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd43.bc.ca/bakerdrive"
+      },
+      "nearest_fallback": {}
+    },
+    "P21": {
+      "district": "SD42",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://resider.ca/bc/maple-ridge/albion/23986-104-avenue/11-029548314"
+        },
+        {
+          "label": "Official school identity: c̓əsqənelə Elementary",
+          "url": "https://elementary.sd42.ca/cusqunela/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/cusqunela/"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "cusqunela",
+          "source": "https://resider.ca/bc/maple-ridge/albion/23986-104-avenue/11-029548314",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "srt",
+          "source": "https://resider.ca/bc/maple-ridge/albion/23986-104-avenue/11-029548314",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P22": {
+      "district": "SD42",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.realtor.ca/immobilier/30400898/38-11851-232-street-maple-ridge"
+        },
+        {
+          "label": "Official school identity: Golden Ears Elementary",
+          "url": "https://elementary.sd42.ca/goldenears/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://elementary.sd42.ca/goldenears/"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "goldenears",
+          "source": "https://www.realtor.ca/immobilier/30400898/38-11851-232-street-maple-ridge",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "thss",
+          "source": "https://www.realtor.ca/immobilier/30400898/38-11851-232-street-maple-ridge",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P23": {
+      "district": "SD35",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options. Marketing names Douglas Park while REW labels Blacklock; nearest/nearby Douglas Park is displayed without resolving assignment.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/77-20350-53-avenue-langley-bc"
+        },
+        {
+          "label": "Official school identity: Douglas Park Community School",
+          "url": "https://www.sd35.bc.ca/douglaspark"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/douglaspark"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "douglaspark",
+          "source": "https://www.rew.ca/properties/77-20350-53-avenue-langley-bc",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "lss",
+          "source": "https://www.rew.ca/properties/77-20350-53-avenue-langley-bc",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P24": {
+      "district": "SD36",
+      "current": [],
+      "future": [],
+      "future_effective": null,
+      "status": "Nearby fallback; assignment unconfirmed",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.surreyschools.ca/capital-plan",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://homesforsaleinbc.ca/surrey/clayton/2-bedroom-homes"
+        },
+        {
+          "label": "Official school identity: Katzie Elementary",
+          "url": "https://www.surreyschools.ca/katzie"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.surreyschools.ca/katzie"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "katzie",
+          "source": "https://homesforsaleinbc.ca/surrey/clayton/2-bedroom-homes",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        },
+        "secondary": {
+          "school": "clayton",
+          "source": "https://homesforsaleinbc.ca/surrey/clayton/2-bedroom-homes",
+          "notes": "Nearest identified regular public/nearby lead in this desktop pass, not an exhaustive distance ranking or confirmed catchment. Verify assignment and eligibility."
+        }
+      }
+    },
+    "P25": {
+      "district": "SD35",
+      "current": [
+        "simonds",
+        "lss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/49-19760-55-avenue-langley-bc"
+        },
+        {
+          "label": "Official school identity: Simonds Elementary",
+          "url": "https://www.sd35.bc.ca/simonds-uconnect"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.sd35.bc.ca/simonds-uconnect"
       },
       "nearest_fallback": {}
     }

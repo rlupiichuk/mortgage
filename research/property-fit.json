@@ -2,10 +2,10 @@
   "assessed_on": "2026-10-25",
   "method": "Subjective editorial fit estimate out of 10, not an objective property, school or safety rating and not a weighted statistical score. Priority order: school safety first, academics second; then mortgage-only target, usable backyard/parks, direct busy-road exposure and flexible transit preference. Cost comparisons use the $3,500 mortgage-only target, not total ownership expense. Rent offsets count 50% of modelled gross rent. Unverified safety does not imply safety or danger.",
   "anchors": {
-    "8\u201310": "Strong fit with major priorities supported by evidence; none currently qualifies.",
-    "6\u20137.5": "Promising research candidate with material verification gates.",
-    "4\u20135.5": "Conditional fit with substantial tradeoffs or weak evidence.",
-    "0\u20133.5": "Multiple current mismatches; hold or use as strategy comparator."
+    "8–10": "Strong fit with major priorities supported by evidence; none currently qualifies.",
+    "6–7.5": "Promising research candidate with material verification gates.",
+    "4–5.5": "Conditional fit with substantial tradeoffs or weak evidence.",
+    "0–3.5": "Multiple current mismatches; hold or use as strategy comparator."
   },
   "confidence": "Low for every example: school safety outcomes are not established, school assignments remain preliminary and exact unit/yard exposure is not verified. Scores compare this sample only; they do not endorse buying. Reassess when evidence changes.",
   "properties": {
@@ -13,7 +13,7 @@
       "score": 6.5,
       "label": "Best current fit to investigate",
       "strengths": "Mortgage around $3,120 is under your mortgage-only target without relying on rent; fenced yard, nearby Yorkson park and 6.8/10 elementary academic indicator.",
-      "concerns": "School safety remains unproven; future secondary transition, yard usability and direct exposure near the 80/208 corridor need confirmation. Transit roughly 85\u2013115 minutes exceeds your ideal.",
+      "concerns": "School safety remains unproven; future secondary transition, yard usability and direct exposure near the 80/208 corridor need confirmation. Transit roughly 85–115 minutes exceeds your ideal.",
       "confidence": "Low",
       "important_notes": [
         "Secondary pathway is expected to change from R.E. Mountain to Emery Dosdall in September 2027; verify current district rules.",
@@ -23,11 +23,11 @@
     "P04": {
       "score": 6.0,
       "label": "Promising if buffered from 208 Street",
-      "strengths": "Mortgage around $3,120, advertised fenced yard, park access and the strongest elementary academic indicator in this sample (7.3/10). K\u20137 pathway covers middle-school ages.",
-      "concerns": "The complex is on an arterial corridor. Unit 9\u2019s yard/front/rear exposure is a potential deal breaker under your preference; school safety is unproven. Transit roughly 80\u2013110 minutes.",
+      "strengths": "Mortgage around $3,120, advertised fenced yard, park access and the strongest elementary academic indicator in this sample (7.3/10). K–7 pathway covers middle-school ages.",
+      "concerns": "The complex is on an arterial corridor. Unit 9’s yard/front/rear exposure is a potential deal breaker under your preference; school safety is unproven. Transit roughly 80–110 minutes.",
       "confidence": "Low",
       "important_notes": [
-        "208 Street is an arterial: unit 9\u2019s exact position and yard buffering could decide fit.",
+        "208 Street is an arterial: unit 9’s exact position and yard buffering could decide fit.",
         "Floor area differs across sources (1,686 vs 1,695 sqft); confirm strata fee and depreciation report."
       ]
     },
@@ -35,7 +35,7 @@
       "score": 5.5,
       "label": "Promising home; school pathway unresolved",
       "strengths": "Mortgage around $3,405 meets your mortgage-only target; advertised yard and particularly close Galloway Park suit daily family use.",
-      "concerns": "Elementary evidence conflicts and middle assignment remains unresolved, weakening confidence in your top priorities. Burke Mountain school completion is now scheduled for Fall 2027. Transit roughly 75\u2013105 minutes; unit exposure needs checking.",
+      "concerns": "Elementary evidence conflicts and middle assignment remains unresolved, weakening confidence in your top priorities. Burke Mountain school completion is now scheduled for Fall 2027. Transit roughly 75–105 minutes; unit exposure needs checking.",
       "confidence": "Low",
       "important_notes": [
         "Elementary assignment conflicts; nearest Smiling Creek shown as a fallback.",
@@ -46,7 +46,7 @@
     "P03": {
       "score": 5.5,
       "label": "Good outdoor/commute candidate; school tradeoff",
-      "strengths": "Mortgage around $3,404 meets target; larger advertised fenced yard and Hoffmann Park support outdoor life. Weekday WCE-based transit roughly 65\u201385 minutes is among the better options.",
+      "strengths": "Mortgage around $3,404 meets target; larger advertised fenced yard and Hoffmann Park support outdoor life. Weekday WCE-based transit roughly 65–85 minutes is among the better options.",
       "concerns": "Elementary academic indicator is 5.0/10 and school safety is unproven. Catchment, yard rights, flood exposure and the peak-only WCE schedule require checking.",
       "confidence": "Low",
       "important_notes": [
@@ -59,7 +59,7 @@
       "score": 5.0,
       "label": "Conditional smaller-home option",
       "strengths": "Mortgage around $3,115 fits target; fenced yard and nearby park lead. Elementary academic indicator 6.4/10 offers a reasonable academic lead.",
-      "concerns": "Only two bedrooms; 20 Avenue traffic exposure and shared duplex obligations remain unresolved. No-fee estimate is not proof of no shared costs. School safety is unproven; transit roughly 85\u2013120 minutes.",
+      "concerns": "Only two bedrooms; 20 Avenue traffic exposure and shared duplex obligations remain unresolved. No-fee estimate is not proof of no shared costs. School safety is unproven; transit roughly 85–120 minutes.",
       "confidence": "Low",
       "important_notes": [
         "Only two bedrooms.",
@@ -82,7 +82,7 @@
       "score": 4.5,
       "label": "Strong yard; affordability/academics tradeoff",
       "strengths": "Large flat advertised backyard and Harry Hooge Park access; an existing-suite claim offers a rental strategy worth comparing.",
-      "concerns": "After counting only 50% of modelled rent, mortgage contribution is about $3,993\u2013$4,193, above target, before other costs. Elementary indicator is 3.1/10; safety, suite permits, tenancy and repair condition are unresolved.",
+      "concerns": "After counting only 50% of modelled rent, mortgage contribution is about $3,993–$4,193, above target, before other costs. Elementary indicator is 3.1/10; safety, suite permits, tenancy and repair condition are unresolved.",
       "confidence": "Low",
       "important_notes": [
         "Large advertised backyard is a strength, but conservative rent offset leaves mortgage above target.",
@@ -93,7 +93,7 @@
       "score": 4.0,
       "label": "Suite strategy comparator; weaker budget fit",
       "strengths": "Advertised existing one-bedroom suite, fenced yard and Albion Park lead; newer $1.089M listing modestly improves cost versus the previous sample.",
-      "concerns": "Conservative after-rent mortgage contribution is about $3,936\u2013$4,136, above target. Small lot limits yard; academics and school safety need evidence. Permits, tenancy and rent must be established.",
+      "concerns": "Conservative after-rent mortgage contribution is about $3,936–$4,136, above target. Small lot limits yard; academics and school safety need evidence. Permits, tenancy and rent must be established.",
       "confidence": "Low",
       "important_notes": [
         "Suite permits, tenancy and achievable rent are unverified; conservative rent offset leaves mortgage above your target.",
@@ -105,7 +105,7 @@
       "score": 3.5,
       "label": "Conditional suite example; yard uncertain",
       "strengths": "Advertised existing suite and particularly close Hazelgrove Park; school conduct procedures are documented.",
-      "concerns": "Mortgage contribution after conservative rent remains around $4,081\u2013$4,118, above target. Grass backyard is unestablished, elementary academic indicator is 4.9/10, and no school safety outcome comparison exists. Suite legality and exposure need checking.",
+      "concerns": "Mortgage contribution after conservative rent remains around $4,081–$4,118, above target. Grass backyard is unestablished, elementary academic indicator is 4.9/10, and no school safety outcome comparison exists. Suite legality and exposure need checking.",
       "confidence": "Low",
       "important_notes": [
         "Grass backyard is not established; advertised outdoor area includes patio/gated parking.",
@@ -117,7 +117,7 @@
       "score": 3.0,
       "label": "Hold: expensive unfinished rental plan",
       "strengths": "Large yard/workshop, map-supported school pathway and a 6.4/10 elementary academic indicator.",
-      "concerns": "Mortgage around $5,385 without verified rent is well over target. Suite is unfinished and measurements/claims conflict. Long transit (roughly 120\u2013160 minutes), and park walk may exceed 30 minutes. School safety remains unproven.",
+      "concerns": "Mortgage around $5,385 without verified rent is well over target. Suite is unfinished and measurements/claims conflict. Long transit (roughly 120–160 minutes), and park walk may exceed 30 minutes. School safety remains unproven.",
       "confidence": "Low",
       "important_notes": [
         "Unfinished suite: no rental income counted. Budget renovations and permits before considering rental offsets.",
@@ -129,7 +129,7 @@
       "score": 2.5,
       "label": "Hold: conversion project exceeds current brief",
       "strengths": "Large lot and Sendall Gardens walking access; a separate middle-school pathway is identified preliminarily.",
-      "concerns": "Mortgage around $5,385 without rent, plus conversion costs, is well over target. Elementary academic indicator is 3.3/10. Junction exposure, school safety and legal suite feasibility are unresolved; transit roughly 95\u2013130 minutes.",
+      "concerns": "Mortgage around $5,385 without rent, plus conversion costs, is well over target. Elementary academic indicator is 3.3/10. Junction exposure, school safety and legal suite feasibility are unresolved; transit roughly 95–130 minutes.",
       "confidence": "Low",
       "important_notes": [
         "Suite is conversion potential only: no rental income counted.",
@@ -146,6 +146,144 @@
         "208 Street arterial exposure and unestablished usable backyard conflict with key preferences.",
         "Wet bar/bedroom is not a verified rental suite; no rent offset counted.",
         "Confirm GST inclusion, rebate eligibility and any shared obligations."
+      ]
+    },
+    "P13": {
+      "score": 6.0,
+      "label": "Lower-cost yard candidate",
+      "strengths": "Strong budget margin, three bedrooms, unusually large advertised yard and storage.",
+      "concerns": "Elementary academic indicator is moderate; safety, flood exposure, strata condition and yard rights still need verification.",
+      "confidence": "Low",
+      "important_notes": [
+        "Elementary academic indicator is moderate; safety, flood exposure, strata condition and yard rights still need verification.",
+        "Rough park walking range crosses the 30-minute target; verify a practical entrance/route."
+      ]
+    },
+    "P14": {
+      "score": 5.0,
+      "label": "Budget/space fit; academic tradeoff",
+      "strengths": "Four advertised bedrooms, a fenced yard and mortgage below target.",
+      "concerns": "Highland Park elementary indicator is 3.1/10; verify school fit and safety. Only one parking space is advertised; Lougheed crossing/exposure needs checking.",
+      "confidence": "Low",
+      "important_notes": [
+        "Highland Park elementary indicator is 3.1/10; verify school fit and safety. Only one parking space is advertised; Lougheed crossing/exposure needs checking."
+      ]
+    },
+    "P15": {
+      "score": 5.5,
+      "label": "Good garage/outdoor option if two bedrooms suffice",
+      "strengths": "Mortgage below target, nearby activity park, newer build and unusually large advertised garage.",
+      "concerns": "Only two bedrooms; long transit and unverified school safety are meaningful tradeoffs. Check garage dimensions, yard boundaries and strata documents.",
+      "confidence": "Low",
+      "important_notes": [
+        "Only two bedrooms; long transit and unverified school safety are meaningful tradeoffs. Check garage dimensions, yard boundaries and strata documents."
+      ]
+    },
+    "P16": {
+      "score": 6.5,
+      "label": "Strong additional family candidate",
+      "strengths": "Three bedrooms, a yard, budget margin and nearby activity park; James Hill academic indicator 6.0/10.",
+      "concerns": "School safety remains unproven, commute is long, and older strata/depreciation and unit exposure require review.",
+      "confidence": "Low",
+      "important_notes": [
+        "School safety remains unproven, commute is long, and older strata/depreciation and unit exposure require review."
+      ]
+    },
+    "P17": {
+      "score": 5.5,
+      "label": "Outdoor/commute candidate; academic tradeoff",
+      "strengths": "Three bedrooms, advertised fenced yard and access to Gates Park; mortgage approximately meets target.",
+      "concerns": "Central elementary indicator is 3.9/10. Strata fee is relatively high, and exact school assignment, safety and unit exposure need review.",
+      "confidence": "Low",
+      "important_notes": [
+        "Central elementary indicator is 3.9/10. Strata fee is relatively high, and exact school assignment, safety and unit exposure need review.",
+        "Rough park walking range crosses the 30-minute target; verify a practical entrance/route."
+      ]
+    },
+    "P18": {
+      "score": 4.5,
+      "label": "Yard-apartment strategy comparator; status concern",
+      "strengths": "Private yard without townhouse stairs, underground parking and mortgage below target; Blakeburn indicator 6.2/10.",
+      "concerns": "Two bedrooms and higher strata fees; ground-floor privacy/flood/insurance and yard rights need checks. Another source flags pending status, so not assumed available.",
+      "confidence": "Low",
+      "important_notes": [
+        "Pending-status conflict: keep as a yard-apartment strategy comparator.",
+        "Confirm legal/exclusive-use yard rights, ground-floor privacy and strata inclusions."
+      ]
+    },
+    "P19": {
+      "score": 5.5,
+      "label": "Yard option; parking/tax evidence needs care",
+      "strengths": "Three bedrooms, fenced yard and mortgage under target; potentially shorter downtown access than outer suburbs.",
+      "concerns": "Published $0 tax is treated as missing and imputed. Floating stall is not a second exclusive space; road noise, school assignment and safety need checking.",
+      "confidence": "Low",
+      "important_notes": [
+        "Tax entry $0 rejected as a placeholder; labelled comparison estimate used.",
+        "One assigned parking stall; floating second stall is not guaranteed.",
+        "Published $0 tax is treated as missing and imputed. Floating stall is not a second exclusive space; road noise, school assignment and safety need checking."
+      ]
+    },
+    "P20": {
+      "score": 5.5,
+      "label": "Large-yard candidate; arterial/older strata checks",
+      "strengths": "Three bedrooms, large advertised yard and mortgage under target; existing rail access is worth testing.",
+      "concerns": "Mariner Way site exposure may conflict with your preference. Older complex, higher fees, condition and school safety need review; school leads are preliminary.",
+      "confidence": "Low",
+      "important_notes": [
+        "Mariner Way site exposure may conflict with your preference. Older complex, higher fees, condition and school safety need review; school leads are preliminary."
+      ]
+    },
+    "P21": {
+      "score": 5.5,
+      "label": "Affordable yard/garage option; academic tradeoff",
+      "strengths": "Three bedrooms, mortgage margin, fenced yard and large advertised double garage.",
+      "concerns": "Nearest elementary academic indicator is 4.2/10; assignment and school safety need checking. 104 Avenue exposure and longer transit weaken fit.",
+      "confidence": "Low",
+      "important_notes": [
+        "Nearest elementary academic indicator is 4.2/10; assignment and school safety need checking. 104 Avenue exposure and longer transit weaken fit.",
+        "Rough park walking range crosses the 30-minute target; verify a practical entrance/route."
+      ]
+    },
+    "P22": {
+      "score": 5.0,
+      "label": "Newer space/garage comparator; yard unresolved",
+      "strengths": "Four bedrooms, double garage and mortgage below target; newer than many sample townhouses.",
+      "concerns": "Backyard not verified, 232 Street exposure needs checking, and school safety is unproven. Older REW insight record has conflicting facts; use current MLS R3175211.",
+      "confidence": "Low",
+      "important_notes": [
+        "Backyard not verified, 232 Street exposure needs checking, and school safety is unproven. Older REW insight record has conflicting facts; use current MLS R3175211.",
+        "Rough park walking range crosses the 30-minute target; verify a practical entrance/route."
+      ]
+    },
+    "P23": {
+      "score": 5.5,
+      "label": "Low-cost family-yard benchmark",
+      "strengths": "Very large mortgage margin, three bedrooms, fenced yard and adjacent Portage Park.",
+      "concerns": "Older strata with pool/clubhouse creates repair/levy questions; $508 fees and one open stall. School assignment conflicts with aggregator labels, and safety must be established.",
+      "confidence": "Low",
+      "important_notes": [
+        "Older strata with pool/clubhouse creates repair/levy questions; $508 fees and one open stall. School assignment conflicts with aggregator labels, and safety must be established."
+      ]
+    },
+    "P24": {
+      "score": 4.5,
+      "label": "Lower-cost two-bedroom comparator",
+      "strengths": "Mortgage well below target and three parking spaces advertised; Katzie nearby-school indicator 6.3/10.",
+      "concerns": "Only two bedrooms and yard is unverified. Confirm exact unit details, garage layout, school assignment/safety and 192 Street buffering; older advertisements show $674,880.",
+      "confidence": "Low",
+      "important_notes": [
+        "Only two bedrooms and yard is unverified. Confirm exact unit details, garage layout, school assignment/safety and 192 Street buffering; older advertisements show $674,880.",
+        "Rough park walking range crosses the 30-minute target; verify a practical entrance/route."
+      ]
+    },
+    "P25": {
+      "score": 5.5,
+      "label": "Newer yard townhouse; school/commute tradeoff",
+      "strengths": "Three bedrooms, fenced yard, garage and mortgage below target; newer construction than older budget options.",
+      "concerns": "Listing-labelled elementary indicator 3.3/10 and school safety need close attention. Tandem parking, rooftop maintenance and actual road exposure require review; future SkyTrain is not current service.",
+      "confidence": "Low",
+      "important_notes": [
+        "Listing-labelled elementary indicator 3.3/10 and school safety need close attention. Tandem parking, rooftop maintenance and actual road exposure require review; future SkyTrain is not current service."
       ]
     }
   }

@@ -5,7 +5,7 @@ Observed 2026-10-25. This is an exploratory sample across strategies and locatio
 ## Artifacts
 
 - [Cost comparison](property-cost-comparison.md): monthly mortgage, known tax/strata subtotal, rent sensitivity and rate/amortization alternatives.
-- [Spreadsheet](property-comparison.csv): 12 examples with sources, MLS identifiers, yard/suite claims, uncertainty and next checks.
+- [Spreadsheet](property-comparison.csv): 25 examples with sources, MLS identifiers, yard/suite claims, uncertainty and next checks.
 - [Source data and rental observations](property-sample.json): update this and run `python3 research/build_property_comparison.py` to regenerate both outputs.
 - [Initial school and transit notes](school-and-transit-screen.md).
 
@@ -66,3 +66,7 @@ The user prefers no direct exposure to a busy street, including frontage, rear o
 ## Scope still outstanding
 
 Exact address-level school assignments, comparative safety/academic outcomes, municipal suite records, lender approval, complete ownership budgets, hazards, title, achieved rents, live trip-planner itineraries and property inspections remain unresolved. No outreach or applications were made. Visits and professional assessments are later steps, not implied completed tasks.
+
+## Expansion
+
+The original P01–P12 screen below is retained as research history. The active comparison now has 25 examples; see [sample expansion](sample-expansion.md), [fit assessments](property-fit.md) and the CSV for P13–P25. Added properties include lower-cost family-yard benchmarks and Murrayville options; this broadens the earlier $750k–$850k townhouse search band rather than treating it as a minimum.

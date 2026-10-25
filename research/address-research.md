@@ -49,3 +49,7 @@ Follow-up found the three previously missing advertised annual taxes: P07 $6,970
 ## School safety evidence added
 
 [Davie Jones conduct policy](https://elementary.sd42.ca/daviejones/about-us/code-of-conduct/) covers bullying/substances, repeat conduct and retaliation prevention. [SD35 administrative procedures](https://www.sd35.bc.ca/administrative-procedures) index Student Code of Conduct AP350. [Older Leigh policy](https://www.sd43.bc.ca/school/leigh/About/COC/Documents/Leigh%20Code%20of%20Conduct%202022-2023.pdf) requires a current-version check. No comparable school-level incident rates were established.
+
+## Expansion to 25
+
+P13–P25 add geocoded proximity estimates, rough commute ranges, street flags and park references; see [the expansion notes](sample-expansion.md). The six walking routes/five driving baselines above refer to the original sample; new entries are explicitly not network-routed.

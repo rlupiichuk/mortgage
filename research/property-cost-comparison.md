@@ -24,6 +24,19 @@ The HTML total-expense column and CSV total_expenses fields use the broader owne
 | P10 | [27191 28A Avenue](https://www.google.com/maps/search/?api=1&query=27191+28A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $1,199,000 | $5,385 | $0 | $4,260 | $5,740 | not modelled |
 | P11 | [20030 48 Avenue](https://www.google.com/maps/search/?api=1&query=20030+48+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $1,199,000 | $5,385 | $0 | $5,867 | $5,874 | not modelled |
 | P12 | [4536 208 Street](https://www.google.com/maps/search/?api=1&query=4536+208+Street%2C+Langley+City%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $5,336 | $5,262 | not modelled |
+| P13 | [8-19240 119 Avenue](https://www.google.com/maps/search/?api=1&query=8-19240+119+Avenue%2C+Pitt+Meadows%2C+BC%2C+Canada) | $675,000 | $2,412 | $409 | $4,738 | $3,216 | not modelled |
+| P14 | [42-19141 124 Avenue](https://www.google.com/maps/search/?api=1&query=42-19141+124+Avenue%2C+Pitt+Meadows%2C+BC%2C+Canada) | $734,000 | $2,746 | $397 | $4,905 | $3,552 | not modelled |
+| P15 | [14-22128 48A Avenue](https://www.google.com/maps/search/?api=1&query=14-22128+48A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $814,900 | $3,206 | $310 | $3,063 | $3,771 | not modelled |
+| P16 | [114-21928 48th Avenue](https://www.google.com/maps/search/?api=1&query=114-21928+48th+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $749,000 | $2,832 | $463 | $2,922 | $3,538 | not modelled |
+| P17 | [35-2450 Lobb Avenue](https://www.google.com/maps/search/?api=1&query=35-2450+Lobb+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | $849,900 | $3,404 | $523 | $3,334 | $4,205 | not modelled |
+| P18 | [109-550 Seaborne Place](https://www.google.com/maps/search/?api=1&query=109-550+Seaborne+Place%2C+Port+Coquitlam%2C+BC%2C+Canada) | $749,900 | $2,837 | $600 | $2,863 | $3,675 | not modelled |
+| P19 | [3-98 Begin Street](https://www.google.com/maps/search/?api=1&query=3-98+Begin+Street%2C+Coquitlam%2C+BC%2C+Canada) | $849,000 | $3,399 | $422 | unknown | unknown | not modelled |
+| P20 | [2-2990 Mariner Way](https://www.google.com/maps/search/?api=1&query=2-2990+Mariner+Way%2C+Coquitlam%2C+BC%2C+Canada) | $849,000 | $3,399 | $539 | $3,169 | $4,202 | not modelled |
+| P21 | [11-23986 104 Avenue](https://www.google.com/maps/search/?api=1&query=11-23986+104+Avenue%2C+Maple+Ridge%2C+BC%2C+Canada) | $749,900 | $2,837 | $375 | $4,687 | $3,603 | not modelled |
+| P22 | [38-11851 232 Street](https://www.google.com/maps/search/?api=1&query=38-11851+232+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $769,900 | $2,950 | $377 | $4,126 | $3,671 | not modelled |
+| P23 | [77-20350 53 Avenue](https://www.google.com/maps/search/?api=1&query=77-20350+53+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $479,900 | $1,305 | $508 | $2,086 | $1,986 | not modelled |
+| P24 | [11-6555 192A Street](https://www.google.com/maps/search/?api=1&query=11-6555+192A+Street%2C+Surrey%2C+BC%2C+Canada) | $655,880 | $2,303 | $305 | $3,109 | $2,867 | not modelled |
+| P25 | [49-19760 55 Avenue](https://www.google.com/maps/search/?api=1&query=49-19760+55+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $745,000 | $2,809 | $386 | $3,149 | $3,457 | not modelled |
 
 ## Mortgage sensitivity
 

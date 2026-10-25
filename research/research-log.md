@@ -123,3 +123,7 @@ Added accessible clickable sort controls to all 15 data columns. Numeric ranges 
 ## 2026-10-25 — Garage, parking and storage
 
 Added a sortable garage/parking/locker column and sourced advertised details for the initial 12 homes. Distinguishes total/covered spaces, tandem versus side-by-side, sheds/workshops and unconfirmed lockers. P03’s 3-versus-4 space conflict is preserved as a range. Counts are not verified exclusive rights or garage dimensions; suite examples require owner/tenant allocation checks.
+
+## 2026-10-25 — Expanded sample from 12 to 25
+
+Added 13 linked property examples with costs, school leads, parks, street notes, garage/parking/storage and provisional fit scores. Included two Murrayville options, lower-priced Pitt Meadows/Langley City benchmarks and a ground-floor yard apartment. Pending/conflicting availability is retained. Rejected a $0 tax placeholder and added a labelled two-property Coquitlam tax proxy; no unsupported rental income. New park intervals use checked BC geocodes and rough family-pace assumptions; no new live/network travel measurement claimed. Added apartment-specific ownership allowances and preserved append-only observations.

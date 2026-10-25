@@ -2,7 +2,7 @@
   "researched_on": "2026-10-25",
   "geocoder": "https://geocoder.api.gov.bc.ca/",
   "router": "https://routing.openstreetmap.de/",
-  "method": "BC address geocoder coordinates; OSRM/OpenStreetMap network routes where returned successfully. Router times are model estimates, not observed trips, live traffic, accessibility audits or confirmed public access. Parcel points and block/intersection destinations can snap to another street or side of a park. Walking ranges use distance at 3\u20134.5 km/h, with 2\u20135 minutes access allowance. When routing failed, a separate rough range uses straight-line distance times 1.3\u20131.8, not a measured route.",
+  "method": "BC address geocoder coordinates; OSRM/OpenStreetMap network routes where returned successfully. Router times are model estimates, not observed trips, live traffic, accessibility audits or confirmed public access. Parcel points and block/intersection destinations can snap to another street or side of a park. Walking ranges use distance at 3–4.5 km/h, with 2–5 minutes access allowance. When routing failed, a separate rough range uses straight-line distance times 1.3–1.8, not a measured route.",
   "properties": {
     "P01": {
       "origin": {
@@ -537,6 +537,435 @@
         "car": {
           "status": "Router unavailable; rough estimate used",
           "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-122.6466822,49.084194;-123.1112509,49.2855107?overview=false&steps=true"
+        }
+      }
+    },
+    "P13": {
+      "origin": {
+        "address": "19240 119 Ave, Pitt Meadows, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.688808,
+          49.2183001
+        ]
+      },
+      "park_destination": {
+        "address": "19130 Advent Rd, Pitt Meadows, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.6914269,
+          49.2261045
+        ]
+      },
+      "straight_line_distance_m": 888,
+      "family_walk_range_minutes": [
+        17,
+        37
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P14": {
+      "origin": {
+        "address": "19141 124 Ave, Pitt Meadows, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6914347,
+          49.2284453
+        ]
+      },
+      "park_destination": {
+        "address": "124 Ave and Harris Rd, Pitt Meadows, BC",
+        "score": 100,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6895541,
+          49.2280524
+        ]
+      },
+      "straight_line_distance_m": 143,
+      "family_walk_range_minutes": [
+        4,
+        11
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P15": {
+      "origin": {
+        "address": "22128 48A Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6108109,
+          49.0899181
+        ]
+      },
+      "park_destination": {
+        "address": "221 St and 48A Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6115063,
+          49.0904267
+        ]
+      },
+      "straight_line_distance_m": 76,
+      "family_walk_range_minutes": [
+        3,
+        8
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P16": {
+      "origin": {
+        "address": "21928 48 Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6145535,
+          49.088531
+        ]
+      },
+      "park_destination": {
+        "address": "221 St and 48A Ave, Township of Langley, BC",
+        "score": 99,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6115063,
+          49.0904267
+        ]
+      },
+      "straight_line_distance_m": 306,
+      "family_walk_range_minutes": [
+        7,
+        17
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P17": {
+      "origin": {
+        "address": "2450 Lobb Ave, Port Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.787805,
+          49.2529195
+        ]
+      },
+      "park_destination": {
+        "address": "2300 Reeve St, Port Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7885447,
+          49.2596985
+        ]
+      },
+      "straight_line_distance_m": 756,
+      "family_walk_range_minutes": [
+        15,
+        33
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P18": {
+      "origin": {
+        "address": "550 Seaborne Pl, Port Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.7287344,
+          49.2554328
+        ]
+      },
+      "park_destination": {
+        "address": "Ranger Lane and Seaborne Pl, Port Coquitlam, BC",
+        "score": 100,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.7280309,
+          49.2558534
+        ]
+      },
+      "straight_line_distance_m": 69,
+      "family_walk_range_minutes": [
+        3,
+        8
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P19": {
+      "origin": {
+        "address": "98 Begin St, Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.8606332,
+          49.2379824
+        ]
+      },
+      "park_destination": {
+        "address": "1046 Brunette Ave, Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.863118,
+          49.2367754
+        ]
+      },
+      "straight_line_distance_m": 225,
+      "family_walk_range_minutes": [
+        5,
+        14
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P20": {
+      "origin": {
+        "address": "2990 Mariner Way, Coquitlam, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.8146786,
+          49.266275
+        ]
+      },
+      "park_destination": {
+        "address": "3060 Daybreak Ave, Coquitlam, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.8057591,
+          49.2657939
+        ]
+      },
+      "straight_line_distance_m": 649,
+      "family_walk_range_minutes": [
+        13,
+        29
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P21": {
+      "origin": {
+        "address": "23986 104 Ave, Maple Ridge, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.5576296,
+          49.1907242
+        ]
+      },
+      "park_destination": {
+        "address": "24460 104 Ave, Maple Ridge, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.5444869,
+          49.1912727
+        ]
+      },
+      "straight_line_distance_m": 957,
+      "family_walk_range_minutes": [
+        18,
+        40
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P22": {
+      "origin": {
+        "address": "11851 232 St, Maple Ridge, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.5800994,
+          49.2176357
+        ]
+      },
+      "park_destination": {
+        "address": "23000 116 Ave, Maple Ridge, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.5821362,
+          49.2110411
+        ]
+      },
+      "straight_line_distance_m": 748,
+      "family_walk_range_minutes": [
+        14,
+        32
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P23": {
+      "origin": {
+        "address": "20350 53 Ave, Langley, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6578166,
+          49.0976629
+        ]
+      },
+      "park_destination": {
+        "address": "204 St and 51A Ave, Langley, BC",
+        "score": 100,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6568756,
+          49.0968856
+        ]
+      },
+      "straight_line_distance_m": 110,
+      "family_walk_range_minutes": [
+        3,
+        9
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P24": {
+      "origin": {
+        "address": "6555 192A St, Surrey, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6900882,
+          49.1229215
+        ]
+      },
+      "park_destination": {
+        "address": "7080 190 St, Surrey, BC",
+        "score": 99,
+        "precision": "BLOCK",
+        "coordinates": [
+          -122.6961583,
+          49.13138
+        ]
+      },
+      "straight_line_distance_m": 1039,
+      "family_walk_range_minutes": [
+        20,
+        43
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
+        }
+      }
+    },
+    "P25": {
+      "origin": {
+        "address": "19760 55 Ave, Langley, BC",
+        "score": 100,
+        "precision": "CIVIC_NUMBER",
+        "coordinates": [
+          -122.6754367,
+          49.1017241
+        ]
+      },
+      "park_destination": {
+        "address": "198 St and 53 Ave, Langley, BC",
+        "score": 100,
+        "precision": "INTERSECTION",
+        "coordinates": [
+          -122.6745156,
+          49.0993209
+        ]
+      },
+      "straight_line_distance_m": 276,
+      "family_walk_range_minutes": [
+        6,
+        15
+      ],
+      "routes": {
+        "foot": {
+          "status": "Not network-routed; geocoded proximity/pacing allowance only"
+        },
+        "car": {
+          "status": "Not network-routed; broad geography-based planning range"
         }
       }
     }

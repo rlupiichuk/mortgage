@@ -20,6 +20,19 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [27191 28A Avenue](https://www.google.com/maps/search/?api=1&query=27191+28A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [Shortreed Community Elementary](https://www.sd35.bc.ca/shortreed) → [Betty Gilbert Middle](https://www.sd35.bc.ca/bgms) → [Aldergrove Community Secondary](https://www.sd35.bc.ca/acss) | None established | Map/feeder-supported; verify | Not needed |
 | [20030 48 Avenue](https://www.google.com/maps/search/?api=1&query=20030+48+Avenue%2C+Langley+City%2C+BC%2C+Canada) | [Simonds Elementary](https://www.sd35.bc.ca/simonds-uconnect) → [H.D. Stafford Middle](https://www.sd35.bc.ca/hdsms) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Map/feeder-supported; verify | Not needed |
 | [4536 208 Street](https://www.google.com/maps/search/?api=1&query=4536+208+Street%2C+Langley+City%2C+BC%2C+Canada) | [Uplands Elementary & Montessori](https://www.sd35.bc.ca/uplands) → [H.D. Stafford Middle](https://www.sd35.bc.ca/hdsms) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Map/feeder-supported; verify | Not needed |
+| [8-19240 119 Avenue](https://www.google.com/maps/search/?api=1&query=8-19240+119+Avenue%2C+Pitt+Meadows%2C+BC%2C+Canada) | [Davie Jones Elementary](https://elementary.sd42.ca/daviejones/) → [Pitt Meadows Secondary](https://secondary.sd42.ca/pmss/) | None established | Listing/nearby lead; verify | Not needed |
+| [42-19141 124 Avenue](https://www.google.com/maps/search/?api=1&query=42-19141+124+Avenue%2C+Pitt+Meadows%2C+BC%2C+Canada) | [Highland Park Elementary](https://elementary.sd42.ca/highlandpark/) → [Pitt Meadows Secondary](https://secondary.sd42.ca/pmss/) | None established | Listing/nearby lead; verify | Not needed |
+| [14-22128 48A Avenue](https://www.google.com/maps/search/?api=1&query=14-22128+48A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [James Hill Elementary](https://www.sd35.bc.ca/jameshill) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Listing/nearby lead; verify | Not needed |
+| [114-21928 48th Avenue](https://www.google.com/maps/search/?api=1&query=114-21928+48th+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [James Hill Elementary](https://www.sd35.bc.ca/jameshill) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Listing/nearby lead; verify | Not needed |
+| [35-2450 Lobb Avenue](https://www.google.com/maps/search/?api=1&query=35-2450+Lobb+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Central Community Elementary](https://www.sd43.bc.ca/central) → [École Riverside Secondary](https://www.sd43.bc.ca/riverside) |
+| [109-550 Seaborne Place](https://www.google.com/maps/search/?api=1&query=109-550+Seaborne+Place%2C+Port+Coquitlam%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Blakeburn Elementary](https://www.sd43.bc.ca/blakeburn) → [Terry Fox Secondary](https://www.sd43.bc.ca/terryfox) |
+| [3-98 Begin Street](https://www.google.com/maps/search/?api=1&query=3-98+Begin+Street%2C+Coquitlam%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Alderson Elementary](https://www.sd43.bc.ca/alderson) → [Centennial Secondary](https://www.sd43.bc.ca/centennial) |
+| [2-2990 Mariner Way](https://www.google.com/maps/search/?api=1&query=2-2990+Mariner+Way%2C+Coquitlam%2C+BC%2C+Canada) | [Baker Drive Elementary](https://www.sd43.bc.ca/bakerdrive) → [École Dr. Charles Best Secondary](https://www.sd43.bc.ca/charlesbest) | None established | Listing/nearby lead; verify | Not needed |
+| [11-23986 104 Avenue](https://www.google.com/maps/search/?api=1&query=11-23986+104+Avenue%2C+Maple+Ridge%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [c̓əsqənelə Elementary](https://elementary.sd42.ca/cusqunela/) → [Samuel Robertson Technical Secondary](https://secondary.sd42.ca/srt/) |
+| [38-11851 232 Street](https://www.google.com/maps/search/?api=1&query=38-11851+232+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Golden Ears Elementary](https://elementary.sd42.ca/goldenears/) → [Thomas Haney Secondary](https://secondary.sd42.ca/thss/) |
+| [77-20350 53 Avenue](https://www.google.com/maps/search/?api=1&query=77-20350+53+Avenue%2C+Langley+City%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Douglas Park Community School](https://www.sd35.bc.ca/douglaspark) → [Langley Secondary](https://www.sd35.bc.ca/lss) |
+| [11-6555 192A Street](https://www.google.com/maps/search/?api=1&query=11-6555+192A+Street%2C+Surrey%2C+BC%2C+Canada) | Unresolved | None established | Nearby fallback; assignment unconfirmed | [Katzie Elementary](https://www.surreyschools.ca/katzie) → [Clayton Heights Secondary](https://www.surreyschools.ca/clyhts) |
+| [49-19760 55 Avenue](https://www.google.com/maps/search/?api=1&query=49-19760+55+Avenue%2C+Langley+City%2C+BC%2C+Canada) | [Simonds Elementary](https://www.sd35.bc.ca/simonds-uconnect) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -94,3 +107,81 @@ June 2024 district map visually supports the 200xx block of 48 Avenue in Simonds
 June 2024 district map visually supports the 45xx block of 208 Street in Uplands. Stafford's official page names Uplands as feeder and Langley Secondary as the next school. REW's K–6 Uplands label conflicts with district K–5 information; use district grade structure. Montessori/Fundamental admission not assumed.
 
 [Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [REW labels](https://www.rew.ca/properties/4536-208-street-langley-bc) · [District Uplands map (June 2024)](https://media.sd35.bc.ca/media/Default/medialib/uplands-elementary-sd35_mapbook.3d57576842.pdf) · [Official middle-school feeders](https://www.sd35.bc.ca/hdsms/action-plan-for-learning-document)
+
+### P13 — 8-19240 119 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.rew.ca/properties/8-19240-119-avenue-pitt-meadows-bc) · [Official school identity: Davie Jones Elementary](https://elementary.sd42.ca/daviejones/)
+
+### P14 — 42-19141 124 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.rew.ca/properties/42-19141-124-avenue-pitt-meadows-bc) · [Official school identity: Highland Park Elementary](https://elementary.sd42.ca/highlandpark/)
+
+### P15 — 14-22128 48A Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/14-22128-48a-avenue-langley-bc) · [Official school identity: James Hill Elementary](https://www.sd35.bc.ca/jameshill)
+
+### P16 — 114-21928 48th Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://homesforsaleinbc.ca/langley/114-21928-48th-avenue-r3169950) · [Official school identity: James Hill Elementary](https://www.sd35.bc.ca/jameshill)
+
+### P17 — 35-2450 Lobb Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/port-coquitlam-real-estate/2450-lobb-avenue/35) · [Official school identity: Central Community Elementary](https://www.sd43.bc.ca/central)
+
+### P18 — 109-550 Seaborne Place
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://realtylink.org/en/apartment~for-sale~port-coquitlam/263187175) · [Official school identity: Blakeburn Elementary](https://www.sd43.bc.ca/blakeburn)
+
+### P19 — 3-98 Begin Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.rew.ca/properties/3-98-begin-street-coquitlam-bc) · [Official school identity: Alderson Elementary](https://www.sd43.bc.ca/alderson)
+
+### P20 — 2-2990 Mariner Way
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.bccondosandhomes.com/listing/r3172668-2-2990-mariner-way-coquitlam-bc-v3c-4k1) · [Official school identity: Baker Drive Elementary](https://www.sd43.bc.ca/bakerdrive)
+
+### P21 — 11-23986 104 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://resider.ca/bc/maple-ridge/albion/23986-104-avenue/11-029548314) · [Official school identity: c̓əsqənelə Elementary](https://elementary.sd42.ca/cusqunela/)
+
+### P22 — 38-11851 232 Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.realtor.ca/immobilier/30400898/38-11851-232-street-maple-ridge) · [Official school identity: Golden Ears Elementary](https://elementary.sd42.ca/goldenears/)
+
+### P23 — 77-20350 53 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options. Marketing names Douglas Park while REW labels Blacklock; nearest/nearby Douglas Park is displayed without resolving assignment.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/77-20350-53-avenue-langley-bc) · [Official school identity: Douglas Park Community School](https://www.sd35.bc.ca/douglaspark)
+
+### P24 — 11-6555 192A Street
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.surreyschools.ca/capital-plan). [Property advertisement / school leads](https://homesforsaleinbc.ca/surrey/clayton/2-bedroom-homes) · [Official school identity: Katzie Elementary](https://www.surreyschools.ca/katzie)
+
+### P25 — 49-19760 55 Avenue
+
+Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Fundamental/program schools are not automatic catchment options.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/49-19760-55-avenue-langley-bc) · [Official school identity: Simonds Elementary](https://www.sd35.bc.ca/simonds-uconnect)

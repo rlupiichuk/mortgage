@@ -44,3 +44,7 @@ No closed-comparable-sale analysis, neighbourhood crime analysis, comparative sc
 ## Address and cost follow-up
 
 See [address research](address-research.md), [route observations](route-observations.json) and [cost estimates](cost-estimates.json) for linked source records. BC address geocoder and OSRM/OpenStreetMap routes provide modelled geography, not live travel or audited child-safe routes. Park references, school safety policy evidence and street corridor plans are linked in those artifacts and expanded property rows.
+
+## 25-home sample expansion
+
+Property-specific advertisement URLs and school identity links are retained in property-sample.json/school-catchments.json. See [expansion notes](sample-expansion.md) and route-observations.json for new estimates. Additional exact-school elementary indicators (2023/24) come from the same linked Fraser 2025 report; Baker Drive has no verified score. Correctly matched Albion (3.8), c’usqunela (4.2), Douglas Park (4.2), Golden Ears (5.0), James Hill (6.0), Highland Park Pitt Meadows (3.1), Blakeburn (6.2), Katzie (6.3) and Alderson (5.0).
