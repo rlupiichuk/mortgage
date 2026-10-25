@@ -107,3 +107,7 @@ Researched all 12 park/street/commute records. Added 12 family walking estimates
 ## 2026-10-25 — Personal fit estimates
 
 Added low-confidence editorial fit estimates for all 12 examples, with strengths, tradeoffs and explicit priority order. Scores distinguish the $3,500 mortgage-only goal from broader ownership expenses and do not imply school safety clearance. P05 leads the next-research list; P04 is conditional on unit buffering from 208 Street. Kept expand button first and moved rating to second. Source assessments are stored in property-fit.json/markdown and compiled into HTML/CSV.
+
+## 2026-10-25 — Nearest-school fallback and secondary clarification
+
+Removed the Middle school comparison column; the requested comparison is elementary and secondary. Added clearly labelled nearest identified regular public school fallbacks: P01 Birchland Elementary/Terry Fox Secondary; P02 Smiling Creek Elementary where assignment evidence conflicts. Original assignment evidence is preserved separately; nearest does not establish eligibility. Added exact-school Fraser 2023/24 indicators for Birchland (4.5) and Smiling Creek (6.8), using the 2025 report. Fit ratings remain conditional and unchanged by proximity alone.

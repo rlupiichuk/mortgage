@@ -44,7 +44,7 @@ def build():
     school_notes = [
         "# Property school catchment research", "", f"Researched {catchments['researched_on']}.", "", catchments["method"], "",
         "Current means the proposed neighbourhood pathway for the current research year. Labels below retain their evidence status. No assignment is a district-confirmed address lookup or a guarantee of enrolment, capacity, safety or academic quality.", "",
-        "| Property | Current school leads | Future change | Evidence status |", "|---|---|---|---|",
+        "| Property | Current school leads | Future change | Evidence status | Nearest fallback (not catchment) |", "|---|---|---|---|---|",
     ]
     for p in sample["properties"]:
         p["map_url"] = "https://www.google.com/maps/search/?" + urlencode({"api": "1", "query": f"{p['address']}, {p['city']}, BC, Canada"})
@@ -57,7 +57,7 @@ def build():
         c = p["school_catchment"]
         def school_path(keys):
             return " → ".join(f"[{catchments['schools'][key]['name']}]({catchments['schools'][key]['url']})" for key in keys) or "Unresolved"
-        school_notes.append(f"| [{p['address']}]({p['map_url']}) | {school_path(c['current'])} | {school_path(c['future']) if c['future'] else 'None established'} | {c['status']} |")
+        school_notes.append(f"| [{p['address']}]({p['map_url']}) | {school_path(c['current'])} | {school_path(c['future']) if c['future'] else 'None established'} | {c['status']} | {school_path([n['school'] for n in c['nearest_fallback'].values()]) if c['nearest_fallback'] else 'Not needed'} |")
     school_notes.extend(["", "## Evidence and unresolved issues", ""])
     for p in sample["properties"]:
         c = p["school_catchment"]

@@ -14,7 +14,7 @@ Updated: 2026-10-25
 | Monthly target | Mortgage below approximately $3,500; a larger payment is acceptable if rent covers part |
 | Child | Age six at the time of discussion |
 | First priority | School safety: bullying, drugs, gang activity, and surrounding environment |
-| Second priority | Academics, through elementary and middle-school ages |
+| Second priority | Academics, through elementary and secondary-school ages |
 | Outdoor space | Backyard preferred; size and privacy requirements not yet specified |
 | Nearby parks | Nice-to-have preference; target parks accessible within a 20–30 minute walk; track child-friendly features and safe crossings |
 | Street setting | Prefer no direct exposure to a busy street (front, rear, or side). Being one street away is acceptable; assess the home's actual traffic/noise exposure rather than distance alone. |
@@ -23,7 +23,7 @@ Updated: 2026-10-25
 ## Not yet confirmed
 
 - Whether a townhouse or duplex with a private yard is acceptable versus detached only.
-- Whether a separate middle school is essential or a strong K–7 / secondary pathway is acceptable.
+- School comparison now focuses on elementary and secondary, per clarification; a separate middle-school column is not required.
 - Purchase timing, expected holding period, first-time buyer status, residency/status relevant to financing and taxes.
 - Income composition and stability (employment/self-employment, bonuses, number of earners).
 - Desired bedrooms, usable interior area, yard size, parking, and renovation tolerance.

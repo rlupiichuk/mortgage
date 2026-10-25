@@ -151,6 +151,18 @@
       "grades": "K\u20135 neighbourhood program",
       "url": "https://www.sd35.bc.ca/uplands",
       "level": "elementary"
+    },
+    "birchland": {
+      "name": "Birchland Elementary",
+      "grades": "K\u20135",
+      "url": "https://www.sd43.bc.ca/birchland",
+      "level": "elementary"
+    },
+    "smilingcreek": {
+      "name": "Smiling Creek Elementary",
+      "grades": "K\u20135",
+      "url": "https://www.sd43.bc.ca/smilingcreek",
+      "level": "elementary"
     }
   },
   "properties": {
@@ -171,6 +183,18 @@
         "status": "Public evidence insufficient for school safety comparison",
         "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
         "url": "https://sd43.bc.ca/cross-catchment"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "birchland",
+          "source": "https://www.estateblock.com/port-coquitlam/3363-sefton-st-1954718",
+          "notes": "Nearest identified operating regular public elementary in retrieved nearby-school list (about 0.67 km reported proximity, not walking distance). Private and admission-restricted language/program schools excluded. Not a confirmed catchment."
+        },
+        "secondary": {
+          "school": "terryfox",
+          "source": "https://www.estateblock.com/port-coquitlam/3363-sefton-st-1954718",
+          "notes": "Nearest identified regular public secondary in retrieved nearby-school list (about 1.25 km reported proximity, not walking distance). Official identity/address verified. Not a confirmed catchment."
+        }
       }
     },
     "P02": {
@@ -201,6 +225,13 @@
         "status": "Older Leigh policy located; assignment and current policy require confirmation",
         "notes": "Leigh 2022\u201323 code discusses monitoring repeated violations. This older document cannot establish the current school safety situation, and elementary assignment remains contested.",
         "url": "https://www.sd43.bc.ca/school/leigh/About/COC/Documents/Leigh%20Code%20of%20Conduct%202022-2023.pdf"
+      },
+      "nearest_fallback": {
+        "elementary": {
+          "school": "smilingcreek",
+          "source": "https://storyboard.onikon.com/aislynn-associates/unit-3-1338-hames-crescent-coquitlam",
+          "notes": "Same complex marketing reports Smiling Creek about 0.53 km away versus Leigh about 0.85 km on the unit listing. Nearest identified public elementary lead, not a resolved assignment. Original Leigh claim retained in assignment evidence."
+        }
       }
     },
     "P03": {
@@ -227,7 +258,8 @@
         "status": "School conduct policy reviewed; outcome evidence not established",
         "notes": "Davie Jones policy addresses bullying, weapons/substances, restorative interventions, repeat incidents and prevention of retaliation. No comparable incident rates or effectiveness result established.",
         "url": "https://elementary.sd42.ca/daviejones/about-us/code-of-conduct/"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P04": {
       "district": "SD35",
@@ -257,7 +289,8 @@
         "status": "District conduct framework located; school incident/outcome comparison unavailable",
         "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
         "url": "https://www.sd35.bc.ca/administrative-procedures"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P05": {
       "district": "SD35",
@@ -293,7 +326,8 @@
         "status": "District conduct framework located; school incident/outcome comparison unavailable",
         "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
         "url": "https://www.sd35.bc.ca/administrative-procedures"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P06": {
       "district": "SD36",
@@ -315,7 +349,8 @@
         "status": "Public evidence insufficient for school safety comparison",
         "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
         "url": "https://www.surreyschools.ca/capital-plan"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P07": {
       "district": "SD42",
@@ -337,7 +372,8 @@
         "status": "Public evidence insufficient for school safety comparison",
         "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
         "url": "https://www.sd42.ca/school-locator/"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P08": {
       "district": "SD42",
@@ -359,7 +395,8 @@
         "status": "Public evidence insufficient for school safety comparison",
         "notes": "The district/school sources collected do not establish comparable bullying, drug or gang incidence. School-specific follow-up is required; no inference from absence of reports.",
         "url": "https://www.sd42.ca/school-locator/"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P09": {
       "district": "SD36",
@@ -381,7 +418,8 @@
         "status": "School conduct policy located; no comparable incident rates",
         "notes": "Hazelgrove policy covers bullying, substances and reporting/restorative procedures. File dating needs confirmation; written rules alone do not measure safety.",
         "url": "https://media.surreyschools.ca/media/Default/medialib/code-of-conduct-2024-2025-final.258682172840.pdf"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P10": {
       "district": "SD35",
@@ -412,7 +450,8 @@
         "status": "District conduct framework located; school incident/outcome comparison unavailable",
         "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
         "url": "https://www.sd35.bc.ca/administrative-procedures"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P11": {
       "district": "SD35",
@@ -443,7 +482,8 @@
         "status": "District conduct framework located; school incident/outcome comparison unavailable",
         "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
         "url": "https://www.sd35.bc.ca/administrative-procedures"
-      }
+      },
+      "nearest_fallback": {}
     },
     "P12": {
       "district": "SD35",
@@ -474,7 +514,8 @@
         "status": "District conduct framework located; school incident/outcome comparison unavailable",
         "notes": "SD35 publishes Administrative Procedure 350 (Student Code of Conduct). A policy establishes a framework, not low bullying/drug/gang incidence or effective implementation. Obtain school-specific current procedures and anonymized safety/belonging results.",
         "url": "https://www.sd35.bc.ca/administrative-procedures"
-      }
+      },
+      "nearest_fallback": {}
     }
   }
 }

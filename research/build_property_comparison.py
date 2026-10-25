@@ -77,7 +77,9 @@ def build():
         row["future_school_pathway"] = " → ".join(catchments["schools"][key]["name"] for key in assignment["future"])
         row["school_catchment_evidence"] = json.dumps(assignment, ensure_ascii=False)
         for level in ("elementary", "middle", "secondary"):
-            selected = [catchments["schools"][key] for key in assignment["current"] if catchments["schools"][key]["level"] == level]
+            nearest = assignment["nearest_fallback"].get(level)
+            selected = [catchments["schools"][nearest["school"]]] if nearest else [catchments["schools"][key] for key in assignment["current"] if catchments["schools"][key]["level"] == level]
+            row[f"{level}_school_basis"] = "Nearest identified public school; not confirmed catchment" if nearest else "Preliminary pathway lead; see evidence status"
             row[f"{level}_school"] = " | ".join(s["name"] for s in selected)
             row[f"{level}_school_url"] = " | ".join(s["url"] for s in selected)
         row["drive_to_downtown_minutes"] = p["commute"]["drive_minutes"]
