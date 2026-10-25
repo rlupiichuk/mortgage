@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-10-25 — Market-fit estimates added
+
+Each property now carries a market-fit estimate: asking $/sqft vs the median asking $/sqft of comparable homes in this sample (same city + type, n≥3, else same type across cities, n≥3). Tiers: below −10%, in line ±10%, above +10%. Computed by `research/compute_market_fit.py` and stored in property-fit.json; shown under each asking price on the site (🟢 below, 🟡 in line, 🔴 above) and as market_fit columns in the spreadsheet. Above: P25, P27, P28, P29, P33. Below: P05, P20, P23, P34, P38. Seven properties have too few comparables for an estimate (P06, P10, P11, P12, P18, P41, P42). Asking-vs-asking only — not a valuation; $/sqft ignores age, condition and size effects. The three pending closes in this sample settled 0.1–1.9% below asking.
+
 ## 2026-10-25 — District-confirmed catchments for P34 and P40 (Baragar)
 
 Live-browser lookups on the Baragar School Locator, Oct 25, 2026. P34 (1355 Citadel Drive, Port Coquitlam): Hazel Trembath Elementary (K–5), École Citadel Middle (6–8), École Riverside Secondary (9–12) — Castle Park is not the catchment elementary. Early French Immersion pathway (École Kilmer / École Pitt River Middle) requires application through the Program of Choice. P40 (6945 185 Street, Surrey): Regent Road Elementary (K–7) and École Salish Secondary (8–12) — Clayton Heights and Hillcrest are not the catchment schools; no middle school listed. Four school records added (60 total): Hazel Trembath, École Citadel Middle, Regent Road, École Salish. Both locator pages presented a reCAPTCHA after the street name was entered; each was cleared in the browser session. No sign-in used. P29's SD35 catchment secondary is still unresolved (its locator is also an interactive form).

@@ -60,6 +60,9 @@ def build():
         score = fit["properties"][p["id"]]["score"]
         row["overall_fit_score"] = score
         row["fit_mark"] = "🟢 Top fit" if score >= 7 else "🟡 Promising" if score >= 6 else ""
+        row["market_fit_pct"] = fit["properties"][p["id"]].get("market_fit_pct")
+        row["market_fit_tier"] = fit["properties"][p["id"]].get("market_fit_tier")
+        row["market_fit_note"] = fit["properties"][p["id"]].get("market_fit_note")
         row["overall_fit_assessment"] = json.dumps(fit["properties"][p["id"]], ensure_ascii=False)
         row["ownership_cost_plan"] = json.dumps(cost, ensure_ascii=False)
         row["total_expenses_after_rent_low"] = None if cost["low"] is None else round(cost["low"])

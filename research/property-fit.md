@@ -8,6 +8,12 @@ Low for every example: school safety outcomes are not established, school assign
 
 On the site, top fits (7.0 and above) are marked 🟢 Top fit and their rows are tinted green; 6.0–6.5 are marked 🟡 Promising. The marks only rank this sample; they do not change the low confidence.
 
+## How market fit is estimated
+
+Each property carries a market-fit estimate: its asking $/sqft compared with the median asking $/sqft of comparable homes in this sample — same city and same home type when that group has at least 3 homes, otherwise the same home type across all cities when that group has at least 3. More than 10% below the median is "Below comparable asking prices", within ±10% is "In line", more than 10% above is "Above". Groups smaller than 3 get no estimate. The calculation is reproducible: `python3 research/compute_market_fit.py` (re-run after any sample change, before rebuilding).
+
+This compares asking prices with asking prices inside this sample. It is not a valuation. $/sqft ignores age, condition, lot, layout and renovations, and it runs lower for larger homes — so a below-median figure on a big home (P38, P34) is not automatically a bargain, and an above-median figure on a new build (P27, 2024) is not automatically overpriced. Days on market and price changes are cited where verified (P36: 46 days, $80,000 cut; P39: 88 days, $20,000 cut). Third-party reference points are cited where available: P36's Zolo home-value estimate ($691,753 vs $699,900 asking) and P42's BC Assessment 2026 total ($1,169,000 vs $1,198,888 asking). For scale: the three pending closes in this sample settled 0.1–1.9% below asking — asking prices here have recently run slightly above sale prices. A real market check needs comparable sold prices, which this sample does not yet have; a realtor's MLS sold data is the source for that.
+
 | Fit estimate | Property | Judgment |
 |---|---|---|
 | 7.0/10 | P31 — 13-621 Langside Avenue | Promising research candidate — transit-strong |
