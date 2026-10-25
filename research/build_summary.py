@@ -41,6 +41,7 @@ def build():
     context = json.loads((ROOT / "area-context.json").read_text())
     fit = json.loads((ROOT / "property-fit.json").read_text())
     estimates = json.loads((ROOT / "cost-estimates.json").read_text())
+    rent_vs_buy = json.loads((ROOT / "rent-vs-buy.json").read_text())
     school_notes = [
         "# Property school catchment research", "", f"Researched {catchments['researched_on']}.", "", catchments["method"], "",
         "Current means the proposed neighbourhood pathway for the current research year. Labels below retain their evidence status. No assignment is a district-confirmed address lookup or a guarantee of enrolment, capacity, safety or academic quality.", "",
@@ -69,7 +70,7 @@ def build():
             cells = [v.strip() for v in line.strip("|").split("|")]
             if len(cells) == 2:
                 criteria.append({"label": cells[0], "value": cells[1]})
-    payload = {"sample": sample, "trends": trends, "criteria": criteria, "catchments": catchments, "ratings": ratings, "context": context, "fit": fit}
+    payload = {"sample": sample, "trends": trends, "criteria": criteria, "catchments": catchments, "ratings": ratings, "context": context, "fit": fit, "rent_vs_buy": rent_vs_buy}
     template = (ROOT / "summary.template.html").read_text()
     # Escape HTML-sensitive characters so source text cannot close the JSON script.
     encoded = json.dumps(payload, ensure_ascii=False).replace("&", "\\u0026").replace("<", "\\u003c").replace(">", "\\u003e")

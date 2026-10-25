@@ -29,7 +29,7 @@ For use at viewings and shortlist decisions. It turns the household criteria int
 - [ ] Visit the street a second time at a different hour — weekday evening and weekend. Noise, parking and cut-through traffic change by time of day.
 - [ ] Walk the school route with the child in mind: sidewalks the whole way, safe crossings, school-zone speeds.
 - [ ] Book a home inspection for any shortlisted home, and a strata document review for townhouses. Do not rely on the listing's condition claims.
-- [ ] Re-check the numbers with the verified strata fee and tax: mortgage + strata + tax against the ~$3,500 target, plus insurance, utilities, maintenance and reserves. The cost table in `research/property-cost-comparison.md` is the comparison, not a budget.
+- [ ] Re-check the numbers with the verified strata fee and tax: total monthly payment (mortgage + strata + tax + insurance + utilities + maintenance) against the ~$5,000 total target. The cost table in `research/property-cost-comparison.md` is the comparison, not a budget.
 - [ ] Check what is planned nearby: development applications, road or SkyTrain construction (Clayton/Surrey), school expansions. A quiet street can change.
 - [ ] For offers: the two pending closes in this sample both landed about $15,000 under asking. That is context for one negotiation, not a market trend.
 

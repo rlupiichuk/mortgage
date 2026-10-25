@@ -6,19 +6,19 @@ Updated: 2026-10-25. Illustrations, not approvals or property valuations.
 
 Assumptions: $250,000 down; 25-year amortization; 4.75% nominal annual interest compounded semi-annually; monthly payments. Closing costs are funded separately. The rate is a planning input, not a quote. See the source register for advertised-rate references.
 
-| Purchase price | Mortgage principal | Monthly payment | Gross monthly rent needed for $3,500 contribution* |
+| Purchase price | Mortgage principal | Monthly payment | Gross monthly rent needed for $5,000 total* |
 |---|---:|---:|---:|
 | $850,000 | $600,000 | $3,405 | $0 |
-| $1,000,000 | $750,000 | $4,256 | $1,008 |
-| $1,100,000 | $850,000 | $4,823 | $1,764 |
-| $1,200,000 | $950,000 | $5,391 | $2,521 |
-| $1,250,000 | $1,000,000 | $5,675 | $2,899 |
+| $1,000,000 | $750,000 | $4,256 | $1,429 |
+| $1,100,000 | $850,000 | $4,823 | $2,647 |
+| $1,200,000 | $950,000 | $5,391 | $3,865 |
+| $1,250,000 | $1,000,000 | $5,675 | $4,474 |
 
-*Counts 75% of gross rent. This arbitrary screening allowance is not a tax calculation, an estimate of actual expenses, or a lender's qualification method. Rent figures above are REQUIRED rents, not researched local achievable rents. Income tax can reduce the benefit further. Replace the allowance with an itemized property-specific budget.
+*Counts 50% of gross rent (the ownership-model offset) against a representative townhouse allowance: strata $400/month, tax $3,500/year, insurance $150/month, utilities $200/month, maintenance 0.5% of price/year. This arbitrary screening allowance is not a tax calculation, an estimate of actual expenses, or a lender's qualification method. Rent figures above are REQUIRED rents, not researched local achievable rents. Income tax can reduce the benefit further. Replace the allowance with an itemized property-specific budget.
 
-Property taxes, homeowner insurance, utilities, strata fees if any, owner maintenance, major repairs, and transaction costs are additional. At $1.25M the down payment is exactly 20%; above that price, financing/insurance assumptions need revision.
+Major repairs and transaction costs are additional; the other items are now included in the total above. At $1.25M the down payment is exactly 20%; above that price, financing/insurance assumptions need revision.
 
-Earlier $850,000–$880,000 mortgage-only ceiling was an approximate 4.5%–5% / 25-year illustration, not a fixed affordability limit. A 30-year alternative has not yet been compared.
+Earlier $850,000–$880,000 mortgage-only ceiling was an approximate 4.5%–5% / 25-year illustration, not a fixed affordability limit. On 2026-10-25 the $3,500 mortgage-only target was replaced by a $5,000 total monthly payment target. A 30-year alternative has not yet been compared.
 
 ## Qualification versus comfort
 
@@ -26,8 +26,12 @@ Gross household income is about $15,000/month. A 39% screening ratio is $5,850/m
 
 Initial research bands proposed by the assistant, not selected by the user:
 
-- Without rent: roughly $750,000–$850,000.
-- With a suite: investigate roughly $1.0M–$1.15M; test $1.2M only with verified rents and acceptable reserves.
+- Without rent: roughly $750,000–$850,000. Under the $5,000 total target this band still holds: an $850,000 townhouse totals about $4,800/month in the model.
+- With a suite: investigate roughly $1.0M–$1.15M; test $1.2M only with verified rents and acceptable reserves. Under the $5,000 total target the suite branch needs roughly $1,400–$3,300/month verified gross rent (at the 50% offset) — far above the $1,250–$1,650 modelled for the current suite examples; see [rent vs buy](rent-vs-buy.md).
+
+## Renting instead
+
+See [rent vs buy](rent-vs-buy.md): renting an apartment at $2,700/month versus buying one of these homes, $250,000 down at 4.75% / 25 years, home values growing 2% a year, the $250,000 and the monthly surplus invested at 5% a year if renting, 5% selling costs on exit. At those assumptions renting leaves the household wealthier for 40 of the 41 homes with a known total at 5 years; only the cheapest home (P23, $479,900) breaks even by year 10. Most townhouses need 3.6–4.3% annual price growth to break even over 5 years. Buying in this sample is a lifestyle and stability decision — a yard, a school catchment, control over the home — not the wealth-maximizing one at 2% appreciation.
 
 ## Strategy comparison
 

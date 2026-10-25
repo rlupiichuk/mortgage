@@ -6,8 +6,8 @@
     "down_payment": 250000,
     "annual_rate": 0.0475,
     "amortization_years": 25,
-    "personal_mortgage_target": 3500,
-    "rent_counted_fraction": 0.75
+    "rent_counted_fraction": 0.75,
+    "monthly_total_target": 5000
   },
   "properties": [
     {
@@ -4032,7 +4032,7 @@
       "baths_total": 3,
       "interior_sqft": 3539,
       "year_built": 2006,
-      "strata_monthly": null,
+      "strata_monthly": 0,
       "annual_tax": 8378.71,
       "tax_year": null,
       "yard": "No private/fenced yard described; lot 6,005 sq ft with RV/trailer parking and lane access; yard presence/rights unverified",
@@ -4132,7 +4132,7 @@
       "baths_total": 4,
       "interior_sqft": 2952,
       "year_built": 2017,
-      "strata_monthly": null,
+      "strata_monthly": 0,
       "annual_tax": 4373.1,
       "tax_year": null,
       "yard": "No private yard described; lot 3,159 sq ft with Bertrand Creek views; yard presence/rights unverified",

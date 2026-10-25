@@ -7,11 +7,11 @@ Updated: 2026-10-25
 | Item | Current understanding |
 |---|---|
 | Purpose | Explore possible purchase plans; revisit the decision and research periodically |
-| Region | Greater Vancouver, explicitly including Langley City and Township |
+| Region | Greater Vancouver, explicitly including Langley City and Township and Port Moody (added Oct 25, 2026) |
 | Household income | Approximately $180,000/year before tax |
 | Debt | None reported |
 | Down payment | Approximately $250,000, separate from emergency and closing-cost savings |
-| Monthly target | Mortgage below approximately $3,500; a larger payment is acceptable if rent covers part |
+| Monthly target | Total monthly payment below approximately $5,000: mortgage + strata + property tax + insurance + utilities + maintenance, after rent for suite homes. The earlier $3,500 mortgage-only target was replaced on 2026-10-25. |
 | Child | Age six at the time of discussion |
 | First priority | School safety: bullying, drugs, gang activity, and surrounding environment |
 | Second priority | Academics, through elementary and secondary-school ages |
@@ -30,7 +30,7 @@ Updated: 2026-10-25
 - Preferred park features (playground, trails, sports fields); walking target is now 20–30 minutes.
 - Acceptable residual traffic noise when a home is buffered from a busy road; one street away is acceptable, with no fixed distance cutoff specified.
 - Emergency reserve size and ability to carry a larger mortgage without rent.
-- Whether the $3,500 after-rent target should be measured after tax and all rental expenses.
+- Whether the $5,000 total after-rent target should be measured after tax and all rental expenses.
 - Academic priorities and any learning, language, or support needs.
 
 ## Research interpretation, not a user commitment

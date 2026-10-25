@@ -33,14 +33,18 @@ def build():
         "",
         "$250,000 down; 4.75% nominal interest compounded semi-annually; 25-year amortization. No lender approval implied. New-home GST and any rebates are excluded until verified.",
         "",
+        "Monthly target: total monthly payment below approximately $5,000 (mortgage + strata + property tax + maintenance + insurance + utilities, after modelled rent where a suite exists). The earlier $3,500 mortgage-only target was replaced 2026-10-25.",
+        "",
         "The known-cost subtotal includes mortgage, advertised strata fees and advertised tax/12 ONLY where both are available. It excludes insurance, utilities, owner maintenance, special levies and rental tax. Historical tax years and advertised strata fees need refreshing. Unknown is not zero.",
+        "",
+        "Total/month is the broader ownership model: mortgage + property tax + strata + maintenance + insurance + utilities. Total after rent counts 50% of modelled gross rent. The $5,000 target applies to the total (after rent where modelled).",
         "",
         "After-rent figures count 75% of exploratory asking rent; this allowance is not an itemized expense/tax model. They cover mortgage only. No rent is counted for unfinished, merely potential or wet-bar configurations.",
         "",
         "The HTML total-expense column and CSV total_expenses fields use the broader ownership model: mortgage + property tax + strata + maintenance + insurance + utilities, minus 50% of modelled gross rent. Missing inputs use a labelled matched-advertisement mean from cost-estimates.json where available. The older mortgage-only sensitivity table below retains its separate 75% rent allowance.",
         "",
-        "| ID | Address | Asking | Mortgage/month | Strata/month | Tax/year | Known-cost subtotal/month | Mortgage after rental allowance |",
-        "|---|---|---:|---:|---:|---:|---:|---|",
+        "| ID | Address | Asking | Mortgage/month | Strata/month | Tax/year | Known-cost subtotal/month | Total/month | Total after rent | Mortgage after rental allowance |",
+        "|---|---|---:|---:|---:|---:|---:|---:|---:|---|",
     ]
     for p in data["properties"]:
         principal = p["asking_price"] - a["down_payment"]
@@ -53,9 +57,18 @@ def build():
         if rent:
             after_low = payment - a["rent_counted_fraction"] * rent["high"]
             after_high = payment - a["rent_counted_fraction"] * rent["low"]
-        required = max(0, payment - a["personal_mortgage_target"]) / a["rent_counted_fraction"]
-        row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
         cost = ownership_cost_plan(p, a, estimates)
+        target = a["monthly_total_target"]
+        required = None if cost["base"] is None else max(0, cost["base"] - target) / 0.5
+        if cost["low"] is None:
+            verdict = "unknown"
+        elif cost["high"] <= target:
+            verdict = "within"
+        elif cost["low"] > target:
+            verdict = "above"
+        else:
+            verdict = "depends on rent"
+        row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
         row["important_notes"] = " | ".join(fit["properties"][p["id"]].get("important_notes", []))
         score = fit["properties"][p["id"]]["score"]
         row["overall_fit_score"] = score
@@ -71,7 +84,9 @@ def build():
         row["transit_range_minutes"] = json.dumps(p["commute"]["transit_range_minutes"])
         row.update(observed_on=data["observed_on"], mortgage_monthly=round(payment),
                    known_cost_subtotal_monthly=None if known is None else round(known),
-                   required_gross_rent=round(required),
+                   total_monthly=None if cost["base"] is None else round(cost["base"]),
+                   over_total_target=verdict,
+                   required_gross_rent=None if required is None else round(required),
                    mortgage_after_rent_low=None if after_low is None else round(after_low),
                    mortgage_after_rent_high=None if after_high is None else round(after_high))
         rows.append(row)
@@ -92,7 +107,8 @@ def build():
         row["transit_to_downtown_minutes"] = p["commute"]["transit_door_to_door_minutes"]
         row["downtown_reference"] = p["commute"]["downtown_reference"]
         after = "not modelled" if rent is None else f"{money(after_low)}–{money(after_high)}"
-        summary.append(f"| {p['id']} | [{p['address']}]({row['map_url']}) | {money(p['asking_price'])} | {money(payment)} | {money(p['strata_monthly'])} | {money(p['annual_tax'])} | {money(known)} | {after} |")
+        total_after = money(cost["base"]) if rent is None else f"{money(cost['low'])}–{money(cost['high'])}"
+        summary.append(f"| {p['id']} | [{p['address']}]({row['map_url']}) | {money(p['asking_price'])} | {money(payment)} | {money(p['strata_monthly'])} | {money(p['annual_tax'])} | {money(known)} | {money(cost['base'])} | {total_after} | {after} |")
     summary.extend([
         "", "## Mortgage sensitivity", "",
         "| Purchase price | 4.75%, 25 years | 5.75%, 25 years | 4.75%, 30 years |",

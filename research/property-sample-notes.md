@@ -13,15 +13,15 @@ Observed 2026-10-25. This is an exploratory sample across strategies and locatio
 
 ### Yard-bearing townhouses are a concrete research path
 
-Examples P02–P05 advertise private/fenced outdoor space in the $799,800–$849,999 range. Mortgage-only estimates are about $3,120–$3,405 with the current assumptions. Mortgage plus advertised strata fees and tax is about $3,778–$4,203, before insurance, utilities, maintenance outside strata coverage or levies. These are not total budgets.
+Examples P02–P05 advertise private/fenced outdoor space in the $799,800–$849,999 range. Mortgage-only estimates are about $3,120–$3,405 with the current assumptions. Mortgage plus advertised strata fees and tax is about $3,778–$4,203, before insurance, utilities, maintenance outside strata coverage or levies. Total monthly planning estimates for P02–P05 run about $4,461–$4,907/mo, all within the $5,000 total target. These are not total budgets.
 
 P01 is a lower-price Port Coquitlam lead with unresolved availability and conflicting property details; retain the record but resolve status before investing time in schools. An advertised private yard still requires title/strata-plan/bylaw checks and an assessment of actual usable size.
 
 ### Existing one-bedroom suites do not automatically make $1.1M fit
 
-P07 and P08 ask $1.099M and advertise existing one-bedroom suites. At 4.75%/25 years their mortgages are about $4,818/month. Exploratory Maple Ridge one-bedroom advertisements at $1,250 and $1,650 imply a mortgage contribution of about $3,880 and $3,580 after the 25% rental allowance, before rental income tax. Thus neither scenario meets $3,500 at those assumptions. These advertisements are a sparse sensitivity bracket, not a property-specific rent appraisal or the market range.
+P07 and P08 ask $1.099M and advertise existing one-bedroom suites. At 4.75%/25 years their mortgages are about $4,818/month. Total monthly planning estimates are about $5,948–$6,174/mo after the 50% rental offset on exploratory Maple Ridge one-bedroom advertisements at $1,250 and $1,650, above the $5,000 total target. The amount needed to meet $5,000 is about $3,550–$3,600 gross rent/month. These advertisements are a sparse sensitivity bracket, not a property-specific rent appraisal or the market range.
 
-P09 also asks $1.099M. Nearby Clayton asking-rent leads around $1,400–$1,475 imply about $3,711–$3,768 toward mortgage after the allowance. Rental snapshots can be stale and utilities differ. The amount needed to meet $3,500 is about $1,757 gross rent/month. Property taxes and all other ownership costs remain extra.
+P09 also asks $1.099M. Nearby Clayton asking-rent leads around $1,400–$1,475 imply a total monthly planning estimate of about $5,968–$6,006/mo after the 50% rental offset, above the $5,000 total target. The amount needed to meet $5,000 is about $3,412 gross rent/month. Rental snapshots can be stale and utilities differ. Property taxes, insurance, utilities and maintenance are included in the total above.
 
 Do not reject the whole suite strategy on this sample: a lower purchase price, different suite/owner layout, a verified higher rent, different rate or eligible 30-year amortization changes the result. Do not assume a higher rent merely because it makes the budget work.
 
