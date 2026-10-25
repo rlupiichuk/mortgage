@@ -56,6 +56,7 @@ def build():
         required = max(0, payment - a["personal_mortgage_target"]) / a["rent_counted_fraction"]
         row = {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else v) for k, v in p.items()}
         cost = ownership_cost_plan(p, a, estimates)
+        row["important_notes"] = " | ".join(fit["properties"][p["id"]].get("important_notes", []))
         row["overall_fit_score"] = fit["properties"][p["id"]]["score"]
         row["overall_fit_assessment"] = json.dumps(fit["properties"][p["id"]], ensure_ascii=False)
         row["ownership_cost_plan"] = json.dumps(cost, ensure_ascii=False)

@@ -111,3 +111,7 @@ Added low-confidence editorial fit estimates for all 12 examples, with strengths
 ## 2026-10-25 — Nearest-school fallback and secondary clarification
 
 Removed the Middle school comparison column; the requested comparison is elementary and secondary. Added clearly labelled nearest identified regular public school fallbacks: P01 Birchland Elementary/Terry Fox Secondary; P02 Smiling Creek Elementary where assignment evidence conflicts. Original assignment evidence is preserved separately; nearest does not establish eligibility. Added exact-school Fraser 2023/24 indicators for Birchland (4.5) and Smiling Creek (6.8), using the 2025 report. Fit ratings remain conditional and unchanged by proximity alone.
+
+## 2026-10-25 — Important notes column
+
+Added concise address-specific decision notes to the property table and CSV, backed by existing research. Notes emphasize suite readiness, cost assumptions, street exposure, school changes and listing conflicts. The field supports an empty list, rendered as a blank cell when there is no material note.
