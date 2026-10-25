@@ -53,6 +53,8 @@ Important notes:
 
 Mortgage around $3,405 meets your mortgage-only target; advertised yard and particularly close Galloway Park suit daily family use.
 
+**Availability update 2026-10-25: pending** — Zolo shows status Pending with a $835,000 close price (contract status change 2026-09-24). No longer an active listing; retain as a Burke Mountain pricing comparable.
+
 Elementary evidence conflicts and middle assignment remains unresolved, weakening confidence in your top priorities. Burke Mountain school completion is now scheduled for Fall 2027. Transit roughly 75–105 minutes; unit exposure needs checking.
 
 Important notes:
@@ -81,6 +83,8 @@ Important notes:
 
 Mortgage around $3,120, advertised fenced yard, park access and the strongest elementary academic indicator in this sample (7.3/10). K–7 pathway covers middle-school ages.
 
+**Availability update 2026-10-25: confirmed active** — REALTOR.ca lists it for sale at $799,900, 16 days on site, open house Oct 25, 2:00–4:00 pm. Strata fee confirmed $481.42/month.
+
 The complex is on an arterial corridor. Unit 9’s yard/front/rear exposure is a potential deal breaker under your preference; school safety is unproven. Transit roughly 80–110 minutes.
 
 Important notes:
@@ -93,6 +97,8 @@ Important notes:
 **6.5/10 · Best current fit to investigate · low confidence**
 
 Mortgage around $3,120 is under your mortgage-only target without relying on rent; fenced yard, nearby Yorkson park and 6.8/10 elementary academic indicator.
+
+**Availability update 2026-10-25: pending** — Zolo shows status Pending with a $785,000 close price (contract status change 2026-09-30). No longer an active listing; retain as a Willoughby pricing comparable.
 
 School safety remains unproven; future secondary transition, yard usability and direct exposure near the 80/208 corridor need confirmation. Transit roughly 85–115 minutes exceeds your ideal.
 
@@ -368,4 +374,4 @@ Important notes:
 - **4–5.5:** Conditional fit with substantial tradeoffs or weak evidence.
 - **0–3.5:** Multiple current mismatches; hold or use as strategy comparator.
 
-Next research includes P05 and newly added P16; P04 is conditional on unit buffering. P13 is a lower-cost large-yard alternative. Scores do not clear school safety or establish availability.
+Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and no longer active candidates. Next research focuses on P04 (confirmed active) and P16 (status check in progress); P13 is a lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.

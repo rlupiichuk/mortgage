@@ -1,5 +1,18 @@
 # Research log
 
+## 2026-10-25 — Availability re-check of top candidates
+
+Re-checked the four first-priority townhouses against live listing pages.
+
+- **P05 — 94-8068 207 Street (Willoughby), asking $799,800: pending.** Zolo shows status Pending with a $785,000 close price; contract status change 2026-09-30. The page states the property is not currently for sale. This was the joint-best fit (6.5/10); it is no longer an active candidate. Retain as a Willoughby pricing comparable.
+- **P02 — 27-1338 Hames Crescent (Burke Mountain), asking $849,999: pending.** Zolo shows status Pending with a $835,000 close price; contract status change 2026-09-24. The REW source page now returns a historical Insight page rather than a live listing. Retain as a Burke Mountain pricing comparable; its school-pathway question is moot for this unit unless it returns to market.
+- **P04 — 9-8968 208 Street (Walnut Grove), asking $799,900: confirmed active.** REALTOR.ca lists it for sale, 16 days on site, with an open house Oct 25, 2:00–4:00 pm. Strata fee confirmed at $481.42/month (was recorded as $481). Floor-area conflict (1,686 vs 1,695 sqft) remains unresolved.
+- **P16 — 114-21928 48th Avenue (Murrayville), asking $749,000: status check in progress.** Its source page returned 404; a live-browser read was requested and the result is pending. No status conclusion recorded yet.
+
+Price signal, not a trend claim: both pending units show close prices below asking (P05 −$14,800; P02 −$14,999). Two observations do not establish a market movement; treat them as comparable data points only.
+
+Next research focus shifts to P04 (active) and P16 (status pending), with P13 as the lower-cost large-yard alternative. Availability observations appended to `listing-observations.csv`; statuses updated in `property-sample.json`; comparison outputs rebuilt.
+
 ## 2026-10-25 — Property-first workbench, address links and catchment investigation
 
 User requested clickable addresses, school catchment investigation and school links; then directed that properties become the first/focal block, using a table with expandable rows and columns for location, home type, downtown driving/public transport, elementary/secondary schools, size and yard.
