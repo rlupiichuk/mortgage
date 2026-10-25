@@ -13,6 +13,12 @@ Price signal, not a trend claim: both pending units show close prices below aski
 
 Next research focus shifts to P04 (active) and P16 (status pending), with P13 as the lower-cost large-yard alternative. Availability observations appended to `listing-observations.csv`; statuses updated in `property-sample.json`; comparison outputs rebuilt.
 
+## 2026-10-25 — P16 status resolved
+
+The live-browser read of P16's source page (114-21928 48th Avenue, Murrayville, asking $749,000) returned "Listing no longer available". No asking price, close price, MLS number or last-updated date is shown on the page, so none of those could be verified from the listing itself. Removal is not evidence of a sale. P16 is no longer an active candidate and is retained as a Murrayville pricing comparable.
+
+That leaves P04 as the only still-active home among the four first-priority candidates; P13 is the lower-cost large-yard alternative. Status, observation log, fit notes and workbench next-research line updated; outputs rebuilt.
+
 ## 2026-10-25 — Property-first workbench, address links and catchment investigation
 
 User requested clickable addresses, school catchment investigation and school links; then directed that properties become the first/focal block, using a table with expandable rows and columns for location, home type, downtown driving/public transport, elementary/secondary schools, size and yard.

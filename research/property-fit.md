@@ -246,6 +246,8 @@ Important notes:
 
 Three bedrooms, a yard, budget margin and nearby activity park; James Hill academic indicator 6.0/10.
 
+**Availability update 2026-10-25: removed** — source listing page states "Listing no longer available". No price or status detail shown; removal is not evidence of a sale. No longer an active candidate; retain as a Murrayville pricing comparable.
+
 School safety remains unproven, commute is long, and older strata/depreciation and unit exposure require review.
 
 Important notes:
@@ -374,4 +376,4 @@ Important notes:
 - **4–5.5:** Conditional fit with substantial tradeoffs or weak evidence.
 - **0–3.5:** Multiple current mismatches; hold or use as strategy comparator.
 
-Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and no longer active candidates. Next research focuses on P04 (confirmed active) and P16 (status check in progress); P13 is a lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.
+Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 and $835,000) and P16 is removed; none are active candidates. Next research focuses on P04 (confirmed active) and P13 as the lower-cost large-yard alternative. P04 remains conditional on unit buffering from 208 Street. Scores do not clear school safety or establish availability.
