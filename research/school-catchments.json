@@ -1283,26 +1283,35 @@
     "P29": {
       "district": "SD35",
       "current": [
-        "alexhope",
-        "lfmss"
+        "jameshill",
+        "stafford",
+        "lss"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alex Hope Elementary; Langley Fundamental as nearby secondary). Langley Fundamental Middle and Secondary School is a choice school (grades 6-12), not a catchment secondary; the catchment secondary for this address is unverified. James Hill Elementary (Fraser 2023/24 score 6.0) is another nearby elementary lead but was not the listed nearby school for this unit. The SD35 locator is an interactive Baragar tool — a district-confirmed lookup is still pending.",
+      "status": "District-confirmed via Baragar School Locator, checked 2026-10-25",
+      "notes": "District-confirmed via the SD35 Baragar School Locator for 4967 220 Street, checked Oct 25, 2026: James Hill Elementary (K–5), H.D. Stafford Middle (6–8), Langley Secondary (9–12). Alex Hope Elementary is not the catchment elementary; Langley Fundamental Middle and Secondary School is a choice school, not the catchment secondary. Locator result is at street-number level (4967 220 Street as a whole, not unit 51 specifically). No capacity, before/after care, or school safety conclusion. James Hill Fraser Institute score 6.0 was already in the records.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
+        {
+          "label": "District-confirmed catchment (SD35 school locator)",
+          "url": "https://www.sd35.bc.ca/school-locator"
+        },
         {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/langley-real-estate/4967-220-street/51"
         },
         {
-          "label": "Official school identity: Alex Hope Elementary",
-          "url": "https://www.sd35.bc.ca/alexhope"
+          "label": "Official school identity: James Hill Elementary",
+          "url": "https://www.sd35.bc.ca/jameshill"
         },
         {
-          "label": "Official school identity: Langley Fundamental Middle and Secondary School",
-          "url": "https://www.sd35.bc.ca/lfmss"
+          "label": "Official school identity: H.D. Stafford Middle",
+          "url": "https://www.sd35.bc.ca/hdsms"
+        },
+        {
+          "label": "Official school identity: Langley Secondary",
+          "url": "https://www.sd35.bc.ca/lss"
         }
       ],
       "safety_research": {

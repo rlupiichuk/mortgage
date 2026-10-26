@@ -445,7 +445,7 @@ Important notes:
 
 Lowest verified carrying cost in the batch: strata $381.68/mo and tax $2,528.19 (2026); total monthly planning estimate ~$4,213/mo at 4.75%/25yr with $250k down — within the $5,000 total target; fenced yard off the kitchen; playground in the complex; 3 parking spaces (2 covered); east/west-facing layout; open houses Oct 31 (1-3 pm) and Nov 1 (2-4 pm); listing updated Oct 25, 2026.
 
-Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — discrepancy to note); Alex Hope Elementary has no verified Fraser Institute 2023/24 score; secondary lead (Langley Fundamental) is a choice school, so the catchment secondary is unverified; 59 days on market; catchment and school safety unverified.
+Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — discrepancy to note); catchment district-confirmed Oct 25, 2026: James Hill Elementary (Fraser 2023/24 score 6.0) → H.D. Stafford Middle → Langley Secondary — Alex Hope is not the catchment elementary and Langley Fundamental is a choice school, not the catchment secondary; 59 days on market; school capacity, before/after care and school safety unverified.
 
 Important notes:
 
