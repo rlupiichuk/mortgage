@@ -473,7 +473,7 @@ Important notes:
 
 Strata ($371.47/mo) and tax ($3,093.03, 2025) verified; underground garage with 2 side-by-side stalls plus a storage locker; private deck and fenced backyard; Burquitlam Park and Cottonwood Park roughly 6-12 min walk; transit 45-60 min to Waterfront Station via Burquitlam SkyTrain — the shortest transit range in this batch; 2010 build.
 
-Asking $889,900 for 1,340 sqft — the highest price in the batch relative to floor area; total monthly planning estimate ~$4,981/mo at 4.75%/25yr with $250k down, just within the $5,000 total target; Miller Park Community School has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+Asking $889,900 for 1,340 sqft — the highest price in the batch relative to floor area; total monthly planning estimate ~$4,981/mo at 4.75%/25yr with $250k down, just within the $5,000 total target; Mountain View Elementary has no verified Fraser Institute 2023/24 rating; catchment district-confirmed Oct 27, 2026: Mountain View Elementary (K–5) → École Banting Middle (6–8) → Port Moody Secondary (9–12) — Miller Park is not the catchment elementary and École Dr. Charles Best is the French Immersion choice secondary, reachable only via Program of Choice; school capacity, before/after care and school safety unverified.
 
 Important notes:
 
@@ -544,7 +544,7 @@ Important notes:
 
 Lowest asking price in the batch ($699,900); total monthly planning estimate ~$3,863/mo at 4.75%/25yr with $250k down — within the $5,000 total target; 2023 build; fully fenced backyard, private patio and corner unit; double garage plus a 3rd space; strata ($324.82/mo) and tax ($4,126.16, 2025) verified; Maple Ridge Park roughly 14-20 min walk.
 
-$80,000 price cut on Oct 13 — confirm the reason with the listing agent; tax is high for the price ($4,126.16, 2025); transit 75-105 min to Waterfront Station via Maple Meadows WCE; Alexander Robinson Elementary has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.
+$80,000 price cut on Oct 13 — confirm the reason with the listing agent; tax is high for the price ($4,126.16, 2025); transit 75-105 min to Waterfront Station via Maple Meadows WCE; Blue Mountain Elementary has no verified Fraser Institute 2023/24 rating; catchment district-confirmed Oct 27, 2026: Blue Mountain Elementary (K–7) → Garibaldi Secondary (8–12) — Alexander Robinson is not the catchment elementary and Thomas Haney is not the catchment secondary; school capacity, before/after care and school safety unverified. SD42 warns a child may not be assigned to the catchment school if the building is at capacity.
 
 Important notes:
 

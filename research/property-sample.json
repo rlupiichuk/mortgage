@@ -3035,8 +3035,8 @@
       "rent_model": null,
       "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
       "transit": "Approximate weekday morning planning range; see route basis — SkyTrain via Burquitlam Station.",
-      "school": "Preliminary listing/nearby school leads; not district-confirmed",
-      "next_gate": "Verify SD43 catchment via locator, confirm strata documents, yard exclusivity, and current availability before offer.",
+      "school": "District-confirmed: Mountain View Elementary → École Banting Middle → Port Moody Secondary",
+      "next_gate": "Catchment district-confirmed Oct 27, 2026 (Mountain View / Banting / Port Moody Secondary); confirm strata documents, yard exclusivity, school capacity / before-after care, and current availability before offer.",
       "source": "https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13",
       "secondary_source": "https://www.strawhomes.com/mls/coquitlam-coquitlam-west-townhouses/",
       "parks_nearby": {
@@ -3539,8 +3539,8 @@
       "rent_model": null,
       "status": "Added 2026-10-25 from public advertisements/index snapshots; confirm current availability and unit facts.",
       "transit": "Approximate weekday morning planning range; see route basis.",
-      "school": "Preliminary listing/nearby school leads; not district-confirmed",
-      "next_gate": "Confirm the $80,000 price cut (Oct 13) reason with the listing agent; confirm Alexander Robinson / Thomas Haney catchment via SD42 locator; verify strata fee, tax year, and yard exclusivity before viewing.",
+      "school": "District-confirmed: Blue Mountain Elementary → Garibaldi Secondary",
+      "next_gate": "Confirm the $80,000 price cut (Oct 13) reason with the listing agent; verify strata fee, tax year, and yard exclusivity before viewing; ask Blue Mountain's principal about capacity / before-after care (SD42 may not assign to the catchment school if it is full).",
       "source": "https://www.zolo.ca/maple-ridge-real-estate/12018-237-street/23",
       "secondary_source": "https://www.rew.ca/properties/23-12018-237-street-maple-ridge-bc",
       "parks_nearby": {

@@ -403,6 +403,18 @@
       "grades": "9–12",
       "url": "https://www.sd43.bc.ca/portmoody/",
       "level": "secondary"
+    },
+    "mountainview": {
+      "name": "Mountain View Elementary School",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/mountainview",
+      "level": "elementary"
+    },
+    "banting": {
+      "name": "École Banting Middle School",
+      "grades": "6–8",
+      "url": "https://www.sd43.bc.ca/banting",
+      "level": "middle"
     }
   },
   "properties": {
@@ -1360,26 +1372,35 @@
     "P31": {
       "district": "SD43",
       "current": [
-        "millerpark",
-        "charlesbest"
+        "mountainview",
+        "banting",
+        "portmoodysecondary"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Miller Park Community School; Ecole Dr. Charles Best Secondary).",
+      "status": "District-confirmed via Baragar School Locator, checked 2026-10-27",
+      "notes": "District-confirmed via the SD43 Baragar School Locator for 621 Langside Avenue, checked Oct 27, 2026: Mountain View Elementary (K–5), École Banting Middle (6–8), Port Moody Secondary (9–12). Miller Park Community School is not the catchment elementary; École Dr. Charles Best Secondary is the French Immersion choice secondary (with École Glenayre Elementary / École Banting Middle), reachable only via Program of Choice, not the neighbourhood pathway. Locator result is at street-number level (621 Langside Avenue as a whole, not unit 13 specifically). Building capacities (270 / 550 / 1,200) are not available seats. No capacity, before/after care, or school safety conclusion.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
+        {
+          "label": "District-confirmed catchment (Baragar School Locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=bc43"
+        },
         {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13"
         },
         {
-          "label": "Official school identity: Miller Park Community School",
-          "url": "https://www.sd43.bc.ca/millerpark"
+          "label": "Official school identity: Mountain View Elementary School",
+          "url": "https://www.sd43.bc.ca/mountainview"
         },
         {
-          "label": "Official school identity: Ecole Dr. Charles Best Secondary",
-          "url": "https://www.sd43.bc.ca/charlesbest"
+          "label": "Official school identity: École Banting Middle School",
+          "url": "https://www.sd43.bc.ca/banting"
+        },
+        {
+          "label": "Official school identity: Port Moody Secondary School",
+          "url": "https://www.sd43.bc.ca/portmoody/"
         }
       ],
       "safety_research": {
@@ -1528,26 +1549,30 @@
     "P36": {
       "district": "SD42",
       "current": [
-        "alexanderrobinson",
-        "thss"
+        "bluemountain",
+        "garibaldi"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Zolo nearby-schools list for this unit (Alexander Robinson Elementary; Thomas Haney Secondary).",
+      "status": "District-confirmed via Baragar School Locator, checked 2026-10-27",
+      "notes": "District-confirmed via the SD42 Baragar School Locator for 12018 237 Street, checked Oct 27, 2026: Blue Mountain Elementary (K–7), Garibaldi Secondary (8–12). SD42 has no separate middle school. Alexander Robinson Elementary is not the catchment elementary; Thomas Haney Secondary is not the catchment secondary. Locator result is at street-number level (12018 237 Street as a whole, not unit 23 specifically). SD42 warns a child may not be assigned to the catchment school if the building is at capacity — contact the principal. No capacity, before/after care, or school safety conclusion. No Fraser Institute rating for Blue Mountain was verified.",
       "locator_url": "https://www.sd42.ca/school-locator/",
       "sources": [
+        {
+          "label": "District-confirmed catchment (Baragar School Locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC42"
+        },
         {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/maple-ridge-real-estate/12018-237-street/23"
         },
         {
-          "label": "Official school identity: Alexander Robinson Elementary",
-          "url": "http://elementary.sd42.ca/alexanderrobinson/"
+          "label": "Official school identity: Blue Mountain Elementary School",
+          "url": "https://elementary.sd42.ca/bluemountain/"
         },
         {
-          "label": "Official school identity: Thomas Haney Secondary",
-          "url": "https://secondary.sd42.ca/thss/"
+          "label": "Official school identity: Garibaldi Secondary School",
+          "url": "https://secondary.sd42.ca/gss/"
         }
       ],
       "safety_research": {
