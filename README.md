@@ -12,7 +12,7 @@ This is a living decision record for exploring whether, where, and how to buy a 
 - [Purchase strategies and budget](research/strategies-and-budget.md): comparable scenarios and calculation assumptions.
 - [Strategies from discussions and interviews](research/community-strategies.md): alternative paths, lived experiences, source caveats, and household fit.
 - [Location shortlist](research/locations.csv): places to investigate, not recommendations or safety rankings.
-- [First property sample](research/property-sample-notes.md): 50 examples, screening decisions and outstanding checks.
+- [First property sample](research/property-sample-notes.md): 56 examples, screening decisions and outstanding checks.
 - [Property cost comparison](research/property-cost-comparison.md) and [spreadsheet](research/property-comparison.csv): reproducible costs with sources and uncertainty.
 - [Initial school/transit screening](research/school-and-transit-screen.md): address-specific leads and verification gaps.
 - [School catchment research](research/school-catchments.md) and [structured school records](research/school-catchments.json): linked schools, evidence status, conflicts and future changes for the 50 examples.

@@ -1,5 +1,5 @@
 {
-  "researched_on": "2026-10-25",
+  "researched_on": "2026-11-01",
   "method": "Address-specific listing-school labels checked against official school pages, published district maps and transition notices where possible. District address-locator result not obtained: the public locator requires CAPTCHA. No CAPTCHA bypass attempted. Map-supported means a preliminary visual map assessment, not district-confirmed enrolment or guaranteed capacity.",
   "schools": {
     "leigh": {
@@ -415,6 +415,36 @@
       "grades": "6–8",
       "url": "https://www.sd43.bc.ca/banting",
       "level": "middle"
+    },
+    "remountain": {
+      "name": "R.E. Mountain Secondary",
+      "grades": "9–12",
+      "url": "https://www.sd35.bc.ca/remss",
+      "level": "secondary"
+    },
+    "dorothypeacock": {
+      "name": "Dorothy Peacock Elementary",
+      "grades": "K–7",
+      "url": "https://dorothypeacock.sd35.bc.ca/",
+      "level": "elementary"
+    },
+    "walnutgrovesecondary": {
+      "name": "Walnut Grove Secondary",
+      "grades": "8–12",
+      "url": "https://www.sd35.bc.ca/wgss",
+      "level": "secondary"
+    },
+    "meadowbrook": {
+      "name": "Meadowbrook Elementary",
+      "grades": "K–5",
+      "url": "https://www.sd43.bc.ca/meadowbrook/",
+      "level": "elementary"
+    },
+    "samuelrobertson": {
+      "name": "Samuel Robertson Technical Secondary",
+      "grades": "8–12",
+      "url": "https://secondary.sd42.ca/srt/",
+      "level": "secondary"
     }
   },
   "properties": {
@@ -2027,6 +2057,150 @@
         "status": "No comparable school-level safety outcome established",
         "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
         "url": "https://www.sd43.bc.ca/heritagemountain"
+      },
+      "nearest_fallback": {}
+    },
+    "P51": {
+      "district": "SD35",
+      "current": [
+        "willoughby",
+        "remountain"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/110-8068-207-street-langley-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.rew.ca/properties/110-8068-207-street-langley-bc"
+      },
+      "nearest_fallback": {}
+    },
+    "P52": {
+      "district": "SD35",
+      "current": [
+        "dorothypeacock",
+        "walnutgrovesecondary"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/41-20222-96-avenue-langley-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.rew.ca/properties/41-20222-96-avenue-langley-bc"
+      },
+      "nearest_fallback": {}
+    },
+    "P53": {
+      "district": "SD36",
+      "current": [
+        "regentroad",
+        "salish"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc"
+      },
+      "nearest_fallback": {}
+    },
+    "P54": {
+      "district": "SD43",
+      "current": [
+        "meadowbrook",
+        "charlesbest"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc"
+      },
+      "nearest_fallback": {}
+    },
+    "P55": {
+      "district": "SD43",
+      "current": [
+        "alderson",
+        "centennial"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://sd43.bc.ca/cross-catchment",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/81-688-edgar-avenue-coquitlam-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.rew.ca/properties/81-688-edgar-avenue-coquitlam-bc"
+      },
+      "nearest_fallback": {}
+    },
+    "P56": {
+      "district": "SD42",
+      "current": [
+        "kanakacreek",
+        "samuelrobertson"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd42.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc"
       },
       "nearest_fallback": {}
     }

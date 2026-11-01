@@ -104,3 +104,32 @@ Rejected: 17 listings above the $900,000 ceiling (including the $2,368,000 detac
 ## Scope limits
 
 No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P46–P50.
+
+# Fourth expansion: November 1 refresh replacements (P51–P56)
+
+Added P51–P56 on 2026-11-01 to replace six homes that left the active comparison in the weekly refresh (P03, P13, P14, P18, P22, P25 — pending or sold; see the research log). Six resale townhouses, all verified Active on REW.ca on 2026-11-01, all with an advertised private yard, patio/garden or deck (P56's patio wording is flagged). Two new fit leaders at 7.0/10: P53 (Clayton) and P54 (Ranch Park), joining P31, P36 and P40; none scores above 7.0. The sample is now 56 homes, with 40 active candidates.
+
+| ID | Address | Asking | Note |
+|---|---|---:|---|
+| P51 | [110-8068 207 Street](https://www.rew.ca/properties/110-8068-207-street-langley-bc) · Willoughby Heights | $869,900 | 6.5 fit; private fully fenced backyard; 2,101 sqft, 2014; total ~$4,898/mo, within the $5,000 total target; Yorkson Community Park lead |
+| P52 | [41-20222 96 Avenue](https://www.rew.ca/properties/41-20222-96-avenue-langley-bc) · Walnut Grove | $899,000 | 6.0 fit; huge private yard; 2,140 sqft, 1999; total ~$5,144/mo, just above the $5,000 total target; Dorothy Peacock Park lead |
+| P53 | [1-18818 71 Avenue](https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc) · Clayton | $799,999 | 7.0 fit; 4-bed end unit, fenced side yard; 2,139 sqft, 2015; total ~$4,721/mo, within target; $374/sqft, well below the comparable median; Clayton Park lead |
+| P54 | [102-2915 Norman Avenue](https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc) · Ranch Park | $749,900 | 7.0 fit; lowest total in the batch (~$4,023/mo); 4 beds, patio/fenced garden; 1,510 sqft, 1976; Meadowbrook Park lead |
+| P55 | [81-688 Edgar Avenue](https://www.rew.ca/properties/81-688-edgar-avenue-coquitlam-bc) · Coquitlam West | $839,900 | 6.5 fit; large private backyard; 2 beds, 1,252 sqft, 2008; total ~$4,621/mo, within target; Town Centre Park lead |
+| P56 | [15-23281 Kanaka Way](https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc) · Cottonwood | $824,800 | 6.0 fit; 2,246 sqft, 2000; total ~$4,844/mo, within target — but the ad states a private deck and patio, not a yard, so the yard criterion is NOT clearly met; Pazarena Park lead |
+
+Rejected: Port Coquitlam 146-1386 Lincoln Drive (R3178607, $899,999 — balcony/patio only, no private/fenced yard); Port Coquitlam 3-2332 Ranger Lane (R3177626, $849,900 — nearby trails/green space only, no unit yard); Port Coquitlam 1432 Barberry Drive (R3174924, $900,000 — listed as a duplex, not a townhouse or detached house with a suite).
+
+## November 1 refresh follow-up priorities
+
+- P53 Clayton: new 7.0 fit leader — verify SD36 catchment via the Baragar locator (Regent Road/Salish leads only for this address) and yard exclusivity.
+- P54 Ranch Park: new 7.0 fit leader — verify SD43 catchment, 1976 building condition/depreciation report, and garden exclusivity.
+- P51 Willoughby: verify SD35 catchment (Willoughby/R.E. Mountain leads) and 207 Street complex exposure.
+- P56 Kanaka Way: decide whether the patio-only wording fails the yard criterion, as flagged for P50.
+- P48/P49/P50: strata/tax/year built filled from REW.ca Nov 1 (P48: $656/mo, $3,741/2025, 1978; P49: $437/mo, $3,577/2025, 2002; P50: $569/mo, $3,529/2025, 1994) — totals now computable; P48 total ~$4,923/mo is within target.
+- Relists P04/P07/P10: confirm the new MLS numbers with the listing agents if proceeding; old MLS numbers preserved in the observation history.
+- Open houses Nov 1 (all now past at time of writing): P04, P07, P12, P29, P37, P47.
+
+## Scope limits
+
+No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P51–P56. School grades follow each district's published grade structure (SD35 K–5/K–7/8–12 as verified per school; SD43 K–5/9–12; SD42 K–7/8–12; SD36 K–7/8–12). District-confirmed assignments, school safety, suite permits and live availability beyond Nov 1 remain unverified for all six additions.

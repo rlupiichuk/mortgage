@@ -1,6 +1,6 @@
 # Property school catchment research
 
-Researched 2026-10-25.
+Researched 2026-11-01.
 
 Address-specific listing-school labels checked against official school pages, published district maps and transition notices where possible. District address-locator result not obtained: the public locator requires CAPTCHA. No CAPTCHA bypass attempted. Map-supported means a preliminary visual map assessment, not district-confirmed enrolment or guaranteed capacity.
 
@@ -58,6 +58,12 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [520 Cardiff Way](https://www.google.com/maps/search/?api=1&query=520+Cardiff+Way%2C+Port+Moody%2C+BC%2C+Canada) | [Seaview Community School](https://www.sd43.bc.ca/seaview) → [Port Moody Secondary School](https://www.sd43.bc.ca/portmoody/) | None established | Listing/nearby lead; verify | Not needed |
 | [23-15 Forest Park Way](https://www.google.com/maps/search/?api=1&query=23-15+Forest+Park+Way%2C+Port+Moody%2C+BC%2C+Canada) | [Aspenwood Elementary](https://www.sd43.bc.ca/aspenwood) → [Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods) | None established | Listing/nearby lead; verify | Not needed |
 | [57-65 Foxwood Drive](https://www.google.com/maps/search/?api=1&query=57-65+Foxwood+Drive%2C+Port+Moody%2C+BC%2C+Canada) | [Heritage Mountain Elementary](https://www.sd43.bc.ca/heritagemountain) → [Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods) | None established | Listing/nearby lead; verify | Not needed |
+| [110-8068 207 Street](https://www.google.com/maps/search/?api=1&query=110-8068+207+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | [Willoughby Elementary](https://www.sd35.bc.ca/willoughby) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | Listing/nearby lead; verify | Not needed |
+| [41-20222 96 Avenue](https://www.google.com/maps/search/?api=1&query=41-20222+96+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [Dorothy Peacock Elementary](https://dorothypeacock.sd35.bc.ca/) → [Walnut Grove Secondary](https://www.sd35.bc.ca/wgss) | None established | Listing/nearby lead; verify | Not needed |
+| [1-18818 71 Avenue](https://www.google.com/maps/search/?api=1&query=1-18818+71+Avenue%2C+Surrey%2C+BC%2C+Canada) | [Regent Road Elementary](https://www.surreyschools.ca/regentroad) → [École Salish Secondary](https://www.surreyschools.ca/salish) | None established | Listing/nearby lead; verify | Not needed |
+| [102-2915 Norman Avenue](https://www.google.com/maps/search/?api=1&query=102-2915+Norman+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | [Meadowbrook Elementary](https://www.sd43.bc.ca/meadowbrook/) → [École Dr. Charles Best Secondary](https://www.sd43.bc.ca/charlesbest) | None established | Listing/nearby lead; verify | Not needed |
+| [81-688 Edgar Avenue](https://www.google.com/maps/search/?api=1&query=81-688+Edgar+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | [Alderson Elementary](https://www.sd43.bc.ca/alderson) → [Centennial Secondary](https://www.sd43.bc.ca/centennial) | None established | Listing/nearby lead; verify | Not needed |
+| [15-23281 Kanaka Way](https://www.google.com/maps/search/?api=1&query=15-23281+Kanaka+Way%2C+Maple+Ridge%2C+BC%2C+Canada) | [Kanaka Creek Elementary](http://elementary.sd42.ca/kanakacreek/) → [Samuel Robertson Technical Secondary](https://secondary.sd42.ca/srt/) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -360,3 +366,39 @@ Official school identity pages verified; public listing/nearby leads only. No di
 Official school identity pages verified; public listing/nearby leads only. No district-confirmed address result, capacity or school safety conclusion. Elementary and secondary leads follow the Heritage Mountain listing for 9-181 Ravine Drive ("directly across from Heritage Mountain Elementary School and within a 5-minute walk to both middle and high schools").
 
 [Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.strawhomes.com/mls/port-moody-heritage-mountain-townhouses/) · [Official school identity: Heritage Mountain Elementary](https://www.sd43.bc.ca/heritagemountain) · [Official school identity: Heritage Woods Secondary](https://www.sd43.bc.ca/heritagewoods)
+
+### P51 — 110-8068 207 Street
+
+Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/110-8068-207-street-langley-bc)
+
+### P52 — 41-20222 96 Avenue
+
+Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/41-20222-96-avenue-langley-bc)
+
+### P53 — 1-18818 71 Avenue
+
+Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36). [Property advertisement / school leads](https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc)
+
+### P54 — 102-2915 Norman Avenue
+
+Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc)
+
+### P55 — 81-688 Edgar Avenue
+
+Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.rew.ca/properties/81-688-edgar-avenue-coquitlam-bc)
+
+### P56 — 15-23281 Kanaka Way
+
+Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc)

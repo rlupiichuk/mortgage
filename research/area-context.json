@@ -1,5 +1,5 @@
 {
-  "researched_on": "2026-10-25",
+  "researched_on": "2026-11-01",
   "park_walk_target_minutes": [
     20,
     30
@@ -1024,6 +1024,120 @@
       "status": "Official park lead; public entrance and crossings unverified",
       "checked_on": "2026-10-25",
       "route_crossings": "Crossings, sidewalks, gates and exact unit access need checking."
+    },
+    "P51": {
+      "name": "Yorkson Community Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=67a3675f-bad8-439f-93d8-58289780ab3c",
+      "features": [
+        "Play area",
+        "pump track",
+        "sports fields",
+        "spray park"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        6,
+        15
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-01"
+    },
+    "P52": {
+      "name": "Dorothy Peacock Park",
+      "address": null,
+      "url": "http://www.tol.ca/Parks-Recreation/Parks-and-Amenities?ParkId=14",
+      "features": [
+        "Playground",
+        "Trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        12,
+        25
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-01"
+    },
+    "P53": {
+      "name": "Clayton Park",
+      "address": null,
+      "url": "https://www.surrey.ca/parks-recreation/parks/clayton-park",
+      "features": [
+        "Playground",
+        "Spray park",
+        "Sports fields",
+        "Walking trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        4,
+        8
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-01"
+    },
+    "P54": {
+      "name": "Meadowbrook Park",
+      "address": null,
+      "url": "https://www.coquitlam.ca/Facilities/Facility/Details/Meadowbrook-Park-55",
+      "features": [
+        "Playground",
+        "Trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-01"
+    },
+    "P55": {
+      "name": "Town Centre Park",
+      "address": null,
+      "url": "https://www.coquitlam.ca/facilities/facility/details/towncentrepark-84",
+      "features": [
+        "Playground",
+        "Spray park",
+        "Lake loop trail",
+        "Sports fields"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-01"
+    },
+    "P56": {
+      "name": "Pazarena Park",
+      "address": null,
+      "url": "https://www.mapleridge.ca/parks-recreation/recreation-facilities/park-pazarena-place",
+      "features": [
+        "Playground",
+        "Trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        10,
+        20
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-01"
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",
