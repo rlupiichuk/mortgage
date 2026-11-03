@@ -2116,13 +2116,25 @@
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "status": "District-confirmed via district school locator, checked 2026-11-03",
+      "notes": "District-confirmed via the SD36 district school locator for 18818 71 Avenue, checked Nov 3, 2026: Regent Road Elementary (K–7) and École Salish Secondary (8–12) — the same catchment as P40, so the two Clayton leaders share one catchment. Locator result is at street-number level (18818 71 Avenue as a whole, not unit 1 specifically). No capacity, before/after care, or school safety conclusion. Yard exclusivity remains unchecked.",
       "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
       "sources": [
         {
+          "label": "District-confirmed catchment (district school locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36"
+        },
+        {
           "label": "Property advertisement / school leads",
           "url": "https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc"
+        },
+        {
+          "label": "Official school identity: Regent Road Elementary",
+          "url": "https://www.surreyschools.ca/regentroad"
+        },
+        {
+          "label": "Official school identity: École Salish Secondary",
+          "url": "https://www.surreyschools.ca/salish"
         }
       ],
       "safety_research": {
@@ -2140,13 +2152,25 @@
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "status": "District-confirmed via district school locator, checked 2026-11-03",
+      "notes": "District-confirmed via the SD43 district school locator for 2915 Norman Avenue, checked Nov 3, 2026: Meadowbrook Elementary (K–5), Hillcrest Middle (6–8), and École Dr. Charles Best Secondary (9–12) on the regular pathway. The listing lead named only Meadowbrook and Charles Best; Hillcrest Middle is the added middle step (the pathway table lists elementary and secondary only, as for P33). Locator result is at street-number level (2915 Norman Avenue as a whole, not unit 102 specifically). SD43 lists Hillcrest Middle and Charles Best as at or near capacity, which limits cross-catchment approvals; catchment students get priority, but space and before/after care should be asked about before counting on a seat. No capacity, before/after care, or school safety conclusion. 1976 build; patio/fenced garden rather than a full yard, so condition and the depreciation report matter more.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
+          "label": "District-confirmed catchment (district school locator)",
+          "url": "https://sd43.bc.ca/cross-catchment"
+        },
+        {
           "label": "Property advertisement / school leads",
           "url": "https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc"
+        },
+        {
+          "label": "Official school identity: Meadowbrook Elementary",
+          "url": "https://www.sd43.bc.ca/meadowbrook/"
+        },
+        {
+          "label": "Official school identity: École Dr. Charles Best Secondary",
+          "url": "https://www.sd43.bc.ca/charlesbest"
         }
       ],
       "safety_research": {

@@ -122,8 +122,8 @@ Rejected: Port Coquitlam 146-1386 Lincoln Drive (R3178607, $899,999 — balcony/
 
 ## November 1 refresh follow-up priorities
 
-- P53 Clayton: new 7.0 fit leader — verify SD36 catchment via the Baragar locator (Regent Road/Salish leads only for this address) and yard exclusivity.
-- P54 Ranch Park: new 7.0 fit leader — verify SD43 catchment, 1976 building condition/depreciation report, and garden exclusivity.
+- P53 Clayton: new 7.0 fit leader — catchment district-confirmed Nov 3, 2026 (Regent Road Elementary / École Salish Secondary, same as P40); yard exclusivity still to verify.
+- P54 Ranch Park: new 7.0 fit leader — catchment district-confirmed Nov 3, 2026 (Meadowbrook Elementary / Hillcrest Middle / École Dr. Charles Best Secondary); SD43 lists Hillcrest and Charles Best at or near capacity, so ask about space and before/after care. 1976 building condition/depreciation report and garden exclusivity still to verify.
 - P51 Willoughby: verify SD35 catchment (Willoughby/R.E. Mountain leads) and 207 Street complex exposure.
 - P56 Kanaka Way: decide whether the patio-only wording fails the yard criterion, as flagged for P50.
 - P48/P49/P50: strata/tax/year built filled from REW.ca Nov 1 (P48: $656/mo, $3,741/2025, 1978; P49: $437/mo, $3,577/2025, 2002; P50: $569/mo, $3,529/2025, 1994) — totals now computable; P48 total ~$4,923/mo is within target.
