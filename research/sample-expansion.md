@@ -144,7 +144,7 @@ Added P57 on 2026-11-08 to replace P43, which went pending (close $600,000) in t
 
 ## November 8 refresh follow-up priorities
 
-- P57 Willoughby: verify SD35 catchment via the locator (R.C. Garnett / R.E. Mountain leads; REW lists R.E. Mountain Secondary and Peter Ewart Middle as in catchment) and yard exclusivity; ask why it has not sold after 57 days and a $40,000 cut.
+- P57 Willoughby: catchment district-confirmed Nov 8, 2026 (R.C. Garnett Elementary / Peter Ewart Middle / R.E. Mountain Secondary); yard exclusivity still to verify; ask why it has not sold after 57 days and a $40,000 cut.
 - P46 Balmoral Place: the Oct 25 record was substantially wrong and is corrected Nov 8 from Zolo/REW (3 beds, 1,385 sqft, built 1979, strata $403/mo, tax $3,431 for 2025, 1 carport space; listed Oct 5, 2026). Verify SD43 catchment via the locator and strata documents.
 - P29: price cut $20,000 (Nov 5) to $749,900; market fit moved to Above (+16.1% vs the Township of Langley townhouse median). Open house Nov 8, 1-3 pm (listing text also says 2-4 pm — times conflict).
 - P24: price cut $21,000 (Nov 4) to $634,880; P30: price cut $20,900 (Nov 3) to $749,000.
@@ -152,4 +152,4 @@ Added P57 on 2026-11-08 to replace P43, which went pending (close $600,000) in t
 
 ## Scope limits
 
-No new rental income is assumed for this addition. Crime remains jurisdiction-level context. The new park range uses a rough geocoded proximity estimate at family pace, not a network route; no new geocoded route observation was added for P57. District-confirmed assignment, school safety, suite permits and live availability beyond Nov 8 remain unverified for this addition.
+No new rental income is assumed for this addition. Crime remains jurisdiction-level context. The new park range uses a rough geocoded proximity estimate at family pace, not a network route; no new geocoded route observation was added for P57. School safety, suite permits and live availability beyond Nov 8 remain unverified for this addition; the catchment is now district-confirmed (see research-log.md, 2026-11-08).
