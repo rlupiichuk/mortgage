@@ -1138,6 +1138,24 @@
       "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
       "status": "Park lead researched; entrance/access/crossing controls require confirmation",
       "checked_on": "2026-11-01"
+    },
+    "P57": {
+      "name": "James Anderson Park",
+      "address": null,
+      "url": "https://www.mypacer.com/parks/ccw9/langley-british-columbia/playground",
+      "features": [
+        "Walking trails",
+        "Open green space"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        4,
+        9
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-08"
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",

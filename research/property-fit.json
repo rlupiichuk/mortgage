@@ -10,10 +10,10 @@
         "Secondary pathway is expected to change from R.E. Mountain to Emery Dosdall in September 2027; verify current district rules.",
         "Obtain depreciation report, fee inclusions and yard dimensions; check exposure near 80 Avenue/208 Street."
       ],
-      "market_fit_pct": -12.3,
+      "market_fit_pct": -12.6,
       "market_fit_tier": "Below comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $423/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, -12.3%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $423/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, -12.6%)."
     },
     "P04": {
       "score": 6.0,
@@ -25,10 +25,10 @@
         "208 Street is an arterial: unit 9’s exact position and yard buffering could decide fit.",
         "Floor area differs across sources (1,686 vs 1,695 sqft); confirm strata fee and depreciation report."
       ],
-      "market_fit_pct": -3.2,
+      "market_fit_pct": -3.5,
       "market_fit_tier": "In line with comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $466/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, -3.2%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $466/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, -3.5%)."
     },
     "P02": {
       "score": 5.5,
@@ -145,7 +145,7 @@
       "score": 3.0,
       "label": "Hold: expensive unfinished rental plan",
       "strengths": "Large yard/workshop, map-supported school pathway and a 6.4/10 elementary academic indicator.",
-      "concerns": "Total monthly planning estimate ~$7,289/mo without verified rent, well above the $5,000 total target (mortgage ~$5,385). Suite is unfinished and measurements/claims conflict. Long transit (roughly 120–160 minutes), and park walk may exceed 30 minutes. School safety remains unproven.",
+      "concerns": "Total monthly planning estimate ~$6,659/mo without verified rent, well above the $5,000 total target (mortgage ~$4,818). Suite is unfinished and measurements/claims conflict. Long transit (roughly 120–160 minutes), and park walk may exceed 30 minutes. School safety remains unproven.",
       "confidence": "Low",
       "important_notes": [
         "Unfinished suite: no rental income counted. Budget renovations and permits before considering rental offsets.",
@@ -220,16 +220,16 @@
     "P15": {
       "score": 5.5,
       "label": "Good garage/outdoor option if two bedrooms suffice",
-      "strengths": "Total monthly planning estimate ~$4,431/mo, within the $5,000 total target; nearby activity park, newer build and unusually large advertised garage.",
+      "strengths": "Total monthly planning estimate ~$4,478/mo, within the $5,000 total target; nearby activity park, newer build and unusually large advertised garage.",
       "concerns": "Only two bedrooms; long transit and unverified school safety are meaningful tradeoffs. Check garage dimensions, yard boundaries and strata documents.",
       "confidence": "Low",
       "important_notes": [
         "Only two bedrooms; long transit and unverified school safety are meaningful tradeoffs. Check garage dimensions, yard boundaries and strata documents."
       ],
-      "market_fit_pct": 0.0,
+      "market_fit_pct": -0.4,
       "market_fit_tier": "In line with comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $482/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, +0.0%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $482/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, -0.4%)."
     },
     "P16": {
       "score": 6.5,
@@ -240,10 +240,10 @@
       "important_notes": [
         "School safety remains unproven, commute is long, and older strata/depreciation and unit exposure require review."
       ],
-      "market_fit_pct": -4.8,
+      "market_fit_pct": -5.2,
       "market_fit_tier": "In line with comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $458/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, -4.8%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $458/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, -5.2%)."
     },
     "P17": {
       "score": 5.5,
@@ -344,25 +344,25 @@
       "important_notes": [
         "Older strata with pool/clubhouse creates repair/levy questions; $508 fees and one open stall. School assignment conflicts with aggregator labels, and safety must be established."
       ],
-      "market_fit_pct": -10.7,
-      "market_fit_tier": "Below comparable asking prices",
+      "market_fit_pct": -8.2,
+      "market_fit_tier": "In line with comparable asking prices",
       "market_fit_basis": "Langley City resale townhouses (n=3)",
-      "market_fit_note": "Asking $402/sqft vs $450/sqft median for Langley City resale townhouses (n=3, -10.7%)."
+      "market_fit_note": "Asking $402/sqft vs $438/sqft median for Langley City resale townhouses (n=3, -8.2%)."
     },
     "P24": {
       "score": 4.5,
       "label": "Lower-cost two-bedroom comparator",
-      "strengths": "Total monthly planning estimate ~$3,491/mo, well within the $5,000 total target, and three parking spaces advertised; Katzie nearby-school indicator 6.3/10.",
+      "strengths": "Total monthly planning estimate ~$3,363/mo, well within the $5,000 total target, and three parking spaces advertised; Katzie nearby-school indicator 6.3/10.",
       "concerns": "Only two bedrooms and yard is unverified. Confirm exact unit details, garage layout, school assignment/safety and 192 Street buffering; older advertisements show $674,880.",
       "confidence": "Low",
       "important_notes": [
         "Only two bedrooms and yard is unverified. Confirm exact unit details, garage layout, school assignment/safety and 192 Street buffering; older advertisements show $674,880.",
         "Rough park walking range crosses the 30-minute target; verify a practical entrance/route."
       ],
-      "market_fit_pct": 13.2,
-      "market_fit_tier": "Above comparable asking prices",
+      "market_fit_pct": 9.6,
+      "market_fit_tier": "In line with comparable asking prices",
       "market_fit_basis": "Surrey resale townhouses (n=4)",
-      "market_fit_note": "Asking $599/sqft vs $529/sqft median for Surrey resale townhouses (n=4, +13.2%)."
+      "market_fit_note": "Asking $580/sqft vs $529/sqft median for Surrey resale townhouses (n=4, +9.6%)."
     },
     "P25": {
       "score": 5.5,
@@ -373,26 +373,26 @@
       "important_notes": [
         "Listing-labelled elementary indicator 3.3/10 and school safety need close attention. Tandem parking, rooftop maintenance and actual road exposure require review; future SkyTrain is not current service."
       ],
-      "market_fit_pct": 14.9,
+      "market_fit_pct": 18.1,
       "market_fit_tier": "Above comparable asking prices",
       "market_fit_basis": "Langley City resale townhouses (n=3)",
-      "market_fit_note": "Asking $517/sqft vs $450/sqft median for Langley City resale townhouses (n=3, +14.9%)."
+      "market_fit_note": "Asking $517/sqft vs $438/sqft median for Langley City resale townhouses (n=3, +18.1%)."
     },
     "P26": {
       "score": 5.5,
-      "label": "Conditional — cheapest in batch, oldest build, fees unverified",
-      "strengths": "Lowest asking price in the batch ($734,900); mortgage-only ~$2,752/mo at 4.75%/25yr with $250k down; fenced yard; air conditioning; double tandem garage plus driveway for a 3rd vehicle; large 152-unit complex (Nature's Landing, built 2005-2006) with established grounds; Routley Park (playground, sports courts) roughly 10-20 min walk.",
-      "concerns": "Oldest build in the batch (2006); strata fee and annual tax unverified for this unit, so true monthly cost is unknown; 82 days on market; elementary school lead (R.C. Garnett) has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
+      "label": "Conditional — cheapest in batch, oldest build",
+      "strengths": "Lowest asking price in the batch ($734,900); total monthly planning estimate ~$3,983/mo at 4.75%/25yr with $250k down (mortgage-only ~$2,752/mo); strata $331.52/mo and tax $2,929.66 (2026) verified Nov 8, 2026; fenced yard; air conditioning; double tandem garage plus driveway for a 3rd vehicle; large 152-unit complex (Nature's Landing, built 2005-2006) with established grounds; Routley Park (playground, sports courts) roughly 10-20 min walk.",
+      "concerns": "Oldest build in the batch (2006); strata $331.52/mo and tax $2,929.66 (2026) verified Nov 8, 2026; 82 days on market; elementary school lead (R.C. Garnett) has no verified Fraser Institute 2023/24 rating; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Strata fee and annual tax are null — verify from the listing sheet before any cost comparison.",
+        "Strata $331.52/mo and tax $2,929.66 (2026) filled from Zolo Nov 8, 2026.",
         "Year built 2006 is confirmed from the strawhomes listing index for R3152853; complex built 2005-2006.",
         "Asking price is not a sale price."
       ],
-      "market_fit_pct": 4.1,
+      "market_fit_pct": 3.7,
       "market_fit_tier": "In line with comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $501/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, +4.1%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $501/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, +3.7%)."
     },
     "P27": {
       "score": 6.5,
@@ -405,57 +405,57 @@
         "Asking price is not a sale price.",
         "Price change Sep 25, 2026: -$10,000 (implied original $849,000). A stale duplicate listing shows the same unit at $948,000 under old MLS R3117232 — not a price rise; the current listing is R3161671 at $839,000."
       ],
-      "market_fit_pct": 25.2,
+      "market_fit_pct": 24.7,
       "market_fit_tier": "Above comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $603/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, +25.2%). Price change Sep 25, 2026: -$10,000."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $603/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, +24.7%). Price change Sep 25, 2026: -$10,000."
     },
     "P28": {
       "score": 6.0,
-      "label": "Promising — walk-out fenced yard, strong elementary lead, fees unverified",
-      "strengths": "Walk-out fenced backyard with a pathway to the complex playground; described as in the quieter part of the 106-unit TIME complex (built 2010); 1,477 sqft; Gordon Greenwood Elementary has a verified Fraser Institute 2023/24 score of 7.3, the strongest elementary lead in this batch; Walnut Grove Community Park (playground, community centre pool) roughly 14-26 min walk; listed Sep 28, 2026, 27 days on market.",
-      "concerns": "Strata fee and annual tax unverified for unit 32, so true monthly cost is unknown (mortgage-only ~$2,979/mo); same-complex unit 98 is pending at a $787,500 close price (Oct 7, 2026) — context only; catchment and school safety unverified.",
+      "label": "Promising — walk-out fenced yard, strong elementary lead",
+      "strengths": "Walk-out fenced backyard with a pathway to the complex playground; described as in the quieter part of the 106-unit TIME complex (built 2010); 1,477 sqft; Gordon Greenwood Elementary has a verified Fraser Institute 2023/24 score of 7.3, the strongest elementary lead in this batch; Walnut Grove Community Park (playground, community centre pool) roughly 14-26 min walk; listed Sep 28, 2026, 27 days on market. Total monthly planning estimate ~$4,325/mo at 4.75%/25yr with $250k down — within the $5,000 total target; strata $422.25/mo and tax $3,020.08 (2026) verified Nov 8, 2026.",
+      "concerns": "Strata $422.25/mo and tax $3,020.08 (2026) verified for unit 32 Nov 8, 2026; total ~$4,325/mo (mortgage-only ~$2,979/mo); same-complex unit 98 is pending at a $787,500 close price (Oct 7, 2026) — context only; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Unit 98's fees ($478.40/mo strata, $2,756.31 tax for 2025) belong to a different unit and must not be attributed to unit 32.",
+        "Unit 32's own figures ($422.25/mo strata, $3,020.08 tax, 2026) filled from Zolo Nov 8, 2026. Unit 98's fees ($478.40/mo strata, $2,756.31 tax for 2025) belong to a different unit and must not be attributed to unit 32.",
         "Asking price is not a sale price."
       ],
-      "market_fit_pct": 8.9,
+      "market_fit_pct": 8.6,
       "market_fit_tier": "In line with comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $525/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, +8.9%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $525/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, +8.6%)."
     },
     "P29": {
       "score": 6.0,
       "label": "Promising — lowest verified carrying cost, smallest floor area",
-      "strengths": "Lowest verified carrying cost in the batch: strata $381.68/mo and tax $2,528.19 (2026); total monthly planning estimate ~$4,213/mo at 4.75%/25yr with $250k down — within the $5,000 total target; fenced yard off the kitchen; playground in the complex; 3 parking spaces (2 covered); east/west-facing layout; open houses Oct 31 (1-3 pm) and Nov 1 (2-4 pm); listing updated Oct 25, 2026.",
+      "strengths": "Lowest verified carrying cost in the batch: strata $381.68/mo and tax $2,528.19 (2026); total monthly planning estimate ~$4,092/mo at 4.75%/25yr with $250k down — within the $5,000 total target; price cut $20,000 (Nov 5) to $749,900; fenced yard off the kitchen; playground in the complex; 3 parking spaces (2 covered); east/west-facing layout; open house Nov 8, 1-3 pm (listing text also says 2-4 pm — times conflict); listing updated Nov 5, 2026.",
       "concerns": "Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — discrepancy to note); catchment district-confirmed Oct 25, 2026: James Hill Elementary (Fraser 2023/24 score 6.0) → H.D. Stafford Middle → Langley Secondary — Alex Hope is not the catchment elementary and Langley Fundamental is a choice school, not the catchment secondary; 59 days on market; school capacity, before/after care and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
         "Floor area 1,337 sqft confirmed by three structured sources (vancouvernashdom data block, Zolo FAQ, Strawhomes); the 1,344 figure appears only in the listing's marketing prose.",
-        "Mortgage-only ~$2,950/mo; total monthly planning estimate ~$4,213/mo.",
+        "Mortgage-only ~$2,837/mo; total monthly planning estimate ~$4,092/mo.",
         "Asking price is not a sale price."
       ],
-      "market_fit_pct": 19.6,
+      "market_fit_pct": 16.1,
       "market_fit_tier": "Above comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $576/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, +19.6%). 59 days on market."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $561/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, +16.1%). 59 days on market."
     },
     "P30": {
       "score": 6.0,
       "label": "Promising — largest floor area, highest strata",
-      "strengths": "Largest floor area in the batch (1,710 sqft); 2020 build; end unit; fenced yard plus patio plus rooftop deck; double tandem garage; Langley City location with Douglas Park (inclusive playground, seasonal spray park) roughly 8-16 min walk; listed Oct 15, 2026.",
-      "concerns": "Highest strata fee in the batch ($443/mo); taxes $3,702 with the tax year unstated in the source; total monthly planning estimate ~$4,372/mo at 4.75%/25yr with $250k down — within the $5,000 total target; Nicomekl Elementary has no verified Fraser Institute 2023/24 score; 2 of the 4 baths are partial; catchment and school safety unverified.",
+      "strengths": "Largest floor area in the batch (1,710 sqft); 2020 build; end unit; fenced yard plus patio plus rooftop deck; double tandem garage; Langley City location with Douglas Park (inclusive playground, seasonal spray park) roughly 8-16 min walk; listed Oct 15, 2026. Price cut $20,900 (Nov 3) to $749,000.",
+      "concerns": "Highest strata fee in the batch ($443/mo); taxes $3,702 (2026); total monthly planning estimate ~$4,245/mo at 4.75%/25yr with $250k down — within the $5,000 total target; Nicomekl Elementary has no verified Fraser Institute 2023/24 score; 2 of the 4 baths are partial; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Tax year is null — the $3,702 figure's year is unstated; verify before any cost comparison.",
-        "Mortgage-only ~$2,950/mo; total monthly planning estimate ~$4,372/mo.",
+        "Tax year confirmed 2026 ($3,702) from Zolo Nov 8, 2026.",
+        "Mortgage-only ~$2,832/mo; total monthly planning estimate ~$4,245/mo.",
         "Asking price is not a sale price."
       ],
       "market_fit_pct": 0.0,
       "market_fit_tier": "In line with comparable asking prices",
       "market_fit_basis": "Langley City resale townhouses (n=3)",
-      "market_fit_note": "Asking $450/sqft vs $450/sqft median for Langley City resale townhouses (n=3, +0.0%)."
+      "market_fit_note": "Asking $438/sqft vs $438/sqft median for Langley City resale townhouses (n=3, +0.0%)."
     },
     "P31": {
       "score": 7.0,
@@ -525,10 +525,10 @@
       "score": 6.5,
       "label": "Promising — Hoffmann Park at the door, WCE mornings",
       "strengths": "Private hedged rear yard and patio in Meadow Lane Estates; Hoffmann Park roughly 3-8 min walk — the closest park in the batch; double side-by-side garage; WCE weekday mornings from Pitt Meadows station (46 min on train) with a 55-75 min transit range to Waterfront Station; 1,611 sqft.",
-      "concerns": "Strata fee and annual tax unverified for this unit, so true monthly cost is unknown (mortgage-only ~$3,176/mo); 1993 build; Highland Park Elementary has a verified Fraser Institute 2023/24 score of 3.1; WCE runs weekday mornings only westbound — all-day bus + SkyTrain is materially longer; catchment and school safety unverified.",
+      "concerns": "Tax $4,968 (2024) filled from REW Nov 8, 2026; strata fee still not shown, so true monthly cost is still unknown (mortgage-only ~$3,176/mo); 1993 build; Highland Park Elementary has a verified Fraser Institute 2023/24 score of 3.1; WCE runs weekday mornings only westbound — all-day bus + SkyTrain is materially longer; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
-        "Strata fee and annual tax are null — verify from the listing sheet before any cost comparison.",
+        "Tax $4,968 (2024) filled from REW Nov 8, 2026; strata fee still not shown — verify from the listing sheet before any cost comparison.",
         "WCE runs weekday mornings only westbound; outside that window transit is materially longer.",
         "Asking price is not a sale price.",
         "Building facts (bccondosandhomes): Meadow Lane Estates, built 1992, 55 units; pets allowed with restrictions; rentals not allowed."
@@ -664,21 +664,21 @@
         "Mortgage-only ~$2,077/mo; total monthly planning estimate ~$3,305/mo.",
         "Asking price is not a sale price."
       ],
-      "market_fit_pct": 0.7,
+      "market_fit_pct": 0.4,
       "market_fit_tier": "In line with comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $485/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, +0.7%). 55 days on market."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $485/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, +0.4%). 55 days on market."
     },
     "P44": {
       "score": 5.0,
       "label": "Benchmark — ground-floor yard apartment comparator",
-      "strengths": "Lowest asking price in the whole expansion ($564,900); large fully fenced private yard with private front/back entries — the yard is the point of this comparator; Gates Park roughly 10-13 min walk; drive 35-50 min and transit 55-80 min to Waterfront Station via Port Coquitlam WCE; 2009 build.",
-      "concerns": "2 bedrooms and 990 sqft — a benchmark/comparator, not a family candidate at the 3-bedroom target; ground-floor apartment, not a townhouse; strata fee, annual tax and parking all unverified (null), so true monthly cost is unknown (mortgage-only ~$1,787/mo); Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.",
+      "strengths": "Lowest asking price in the whole expansion ($564,900); large fully fenced private yard with private front/back entries — the yard is the point of this comparator; Gates Park roughly 10-13 min walk; drive 35-50 min and transit 55-80 min to Waterfront Station via Port Coquitlam WCE; 2009 build. Total monthly planning estimate ~$3,013/mo.",
+      "concerns": "2 bedrooms and 990 sqft — a benchmark/comparator, not a family candidate at the 3-bedroom target; ground-floor apartment, not a townhouse; strata $443.42/mo and tax $2,363 (2026) verified Nov 8, 2026; total monthly planning estimate ~$3,013/mo; parking unverified; Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.",
       "confidence": "Low",
       "important_notes": [
         "2-bedroom ground-floor apartment benchmark/comparator only — not scored as a family candidate.",
-        "Strata fee, annual tax and parking are null — verify from the listing sheet before any cost comparison.",
-        "Mortgage-only ~$1,787/mo; total monthly estimate unknown (strata and tax missing).",
+        "Strata $443.42/mo and tax $2,363 (2026) filled from Zolo Nov 8, 2026; parking still unverified.",
+        "Mortgage-only ~$1,787/mo; total monthly planning estimate ~$3,013/mo.",
         "Asking price is not a sale price.",
         "Building facts (bccondosandhomes): Station Hill, built 2009, 37 units; pets allowed; rentals allowed."
       ],
@@ -706,19 +706,19 @@
     },
     "P46": {
       "score": 6.0,
-      "label": "Promising research candidate — yard + transit, 2-bed",
-      "strengths": "Fenced private yard, end unit, pets OK; strata ($375.39/mo) and tax ($4,132.02, 2025) verified; 3 parking spaces (2 covered tandem garage); 241 days on market with a $30,000 cut Oct 14; Noons Creek Park roughly 12-20 min walk, Rocky Point Park 25-35 min; listing states a 5-min walk to SkyTrain.",
-      "concerns": "Only 2 beds / 1,287 sqft for a family of three; total monthly planning estimate ~$4,207/mo, within the $5,000 total target; 241 days on market — ask why it has not sold; catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "label": "Promising research candidate — yard + transit, 3-bed",
+      "strengths": "Fenced private yard, pets OK (2-pet limit); strata ($403/mo) and tax ($3,431, 2025) verified Nov 8, 2026; 1 carport space; listed Oct 5, 2026; Noons Creek Park roughly 12-20 min walk, Rocky Point Park 25-35 min; listing states a 5-min walk to SkyTrain.",
+      "concerns": "3 beds / 1,385 sqft; total monthly planning estimate ~$4,177/mo, within the $5,000 total target; catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
       "confidence": "Low",
       "important_notes": [
-        "Mortgage-only ~$2,826/mo; total monthly planning estimate ~$4,207/mo.",
+        "Mortgage-only ~$2,826/mo; total monthly planning estimate ~$4,177/mo.",
         "Asking price is not a sale price.",
-        "2 bedrooms — below the 3-bed preference; benchmark-grade size."
+        "Record corrected Nov 8, 2026 from Zolo/REW (both agree): 3 beds (not 2), 1,385 sqft (not 1,287), built 1979 (not 2007), strata $403/mo, tax $3,431 (2025), 1 carport space; the Oct 25 figures and 241-days-on-market claim were wrong."
       ],
       "market_fit_pct": 0.0,
       "market_fit_tier": "In line with comparable asking prices",
       "market_fit_basis": "Port Moody resale townhouses (n=5)",
-      "market_fit_note": "Asking $581/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, +0.0%)."
+      "market_fit_note": "Asking $540/sqft vs $540/sqft median for Port Moody resale townhouses (n=5, +0.0%)."
     },
     "P47": {
       "score": 6.0,
@@ -731,87 +731,87 @@
         "Asking price is not a sale price.",
         "Covered-parking count conflicts within Zolo's own data — confirm with strata docs."
       ],
-      "market_fit_pct": -11.0,
-      "market_fit_tier": "Below comparable asking prices",
+      "market_fit_pct": -4.2,
+      "market_fit_tier": "In line with comparable asking prices",
       "market_fit_basis": "Port Moody resale townhouses (n=5)",
-      "market_fit_note": "Asking $517/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, -11.0%)."
+      "market_fit_note": "Asking $517/sqft vs $540/sqft median for Port Moody resale townhouses (n=5, -4.2%)."
     },
     "P48": {
       "score": 6.0,
-      "label": "Promising research candidate — largest floor area, fees unverified",
+      "label": "Promising research candidate — largest floor area",
       "strengths": "3 beds, 1,802 sqft — the largest in the batch; fenced yard; indoor pool, sauna and clubhouse in the Easthill complex; 2-car parking (carport + pad); $458/sqft — the lowest in the batch; total monthly planning estimate ~$4,923/mo, within the $5,000 total target (strata $656/mo, tax $3,741 for 2025, built 1978 — all from REW.ca 2026-11-01).",
       "concerns": "Strata/tax/year filled from REW.ca 2026-11-01; Easthill is a large 252-unit complex from the 1977-78 era; catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
       "confidence": "Low",
       "important_notes": [
-        "Mortgage-only ~$3,262/mo; strata and tax unknown — total will be higher.",
+        "Mortgage-only ~$3,262/mo; total monthly planning estimate ~$4,923/mo.",
         "Asking price is not a sale price.",
         "Do not use neighbouring unit 526's $595.69/mo strata or $3,720.01 tax — different unit."
       ],
-      "market_fit_pct": -21.2,
+      "market_fit_pct": -15.2,
       "market_fit_tier": "Below comparable asking prices",
       "market_fit_basis": "Port Moody resale townhouses (n=5)",
-      "market_fit_note": "Asking $458/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, -21.2%)."
+      "market_fit_note": "Asking $458/sqft vs $540/sqft median for Port Moody resale townhouses (n=5, -15.2%)."
     },
     "P49": {
       "score": 5.5,
       "label": "Conditional fit — yard + corner, 2-bed",
       "strengths": "Fenced yard + 2 private patios, corner townhome, single garage + 2nd parking, updated throughout; complex playground and basketball court; steps to Bert Flinn Park and Eagle Mountain trailheads; $799,900. Strata $437/mo, tax $3,577 (2025), built 2002 — all from REW.ca 2026-11-01.",
-      "concerns": "Only 2 beds / 1,111 sqft — the smallest in the batch; strata/tax/year filled from REW.ca 2026-11-01 (home-facts year 2002; building info says 2001 — discrepancy noted); $720/sqft — the highest in the batch (+23.9% vs batch median); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "concerns": "Only 2 beds / 1,111 sqft — the smallest in the batch; strata/tax/year filled from REW.ca 2026-11-01 (home-facts year 2002; building info says 2001 — discrepancy noted); $720/sqft — the highest in the batch (+33.3% vs batch median); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
       "confidence": "Low",
       "important_notes": [
         "Mortgage-only ~$3,120/mo; strata and tax unknown.",
         "Asking price is not a sale price."
       ],
-      "market_fit_pct": 23.9,
+      "market_fit_pct": 33.3,
       "market_fit_tier": "Above comparable asking prices",
       "market_fit_basis": "Port Moody resale townhouses (n=5)",
-      "market_fit_note": "Asking $720/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, +23.9%)."
+      "market_fit_note": "Asking $720/sqft vs $540/sqft median for Port Moody resale townhouses (n=5, +33.3%)."
     },
     "P50": {
       "score": 5.5,
       "label": "Conditional fit — 3-bed Heritage Mountain, patio not yard",
       "strengths": "3 beds / 3 baths, 1,374 sqft, 1994, Heritage Mountain; 2 side-by-side parking + storage locker; 20 days on market; close to Bert Flinn Park and Heritage Mountain Elementary.",
-      "concerns": "No private yard confirmed — listing states a private patio only, so the yard criterion is NOT met; strata $569/mo, tax $3,529 (2025) filled from REW.ca 2026-11-01; year built 1994 confirmed; $640/sqft (+10.1% vs batch median); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
+      "concerns": "No private yard confirmed — listing states a private patio only, so the yard criterion is NOT met; strata $569/mo, tax $3,529 (2025) filled from REW.ca 2026-11-01; year built 1994 confirmed; $640/sqft (+18.5% vs batch median); catchment and school safety unverified; no Port Moody school has a Fraser Institute rating on file.",
       "confidence": "Low",
       "important_notes": [
         "Mortgage-only ~$3,569/mo; strata and tax unknown.",
         "Asking price is not a sale price.",
         "Patio only — does not meet the private-yard criterion; included as the closest 5th candidate, drop if a strict yard filter is applied."
       ],
-      "market_fit_pct": 10.1,
+      "market_fit_pct": 18.5,
       "market_fit_tier": "Above comparable asking prices",
       "market_fit_basis": "Port Moody resale townhouses (n=5)",
-      "market_fit_note": "Asking $640/sqft vs $581/sqft median for Port Moody resale townhouses (n=5, +10.1%)."
+      "market_fit_note": "Asking $640/sqft vs $540/sqft median for Port Moody resale townhouses (n=5, +18.5%)."
     },
     "P51": {
       "score": 6.5,
       "label": "Promising — fenced yard, within target",
-      "strengths": "Total monthly planning estimate ~$4,898/mo, within the $5,000 total target; private, fully fenced backyard; 2,101 sqft (2014 build); $414/sqft, below the comparable median (-14.0%); Yorkson Community Park lead; Willoughby/R.E. Mountain school leads.",
+      "strengths": "Total monthly planning estimate ~$4,898/mo, within the $5,000 total target; private, fully fenced backyard; 2,101 sqft (2014 build); $414/sqft, below the comparable median (-14.3%); Yorkson Community Park lead; Willoughby/R.E. Mountain school leads.",
       "concerns": "School safety unproven; catchment not district-confirmed; transit time unmeasured; yard exclusivity and strata documents unverified.",
       "confidence": "Low",
       "important_notes": [
         "Verify SD35 catchment via the district locator before relying on school leads.",
         "Confirm yard exclusivity and strata documents; 207 Street complex exposure unmeasured."
       ],
-      "market_fit_pct": -14.0,
+      "market_fit_pct": -14.3,
       "market_fit_tier": "Below comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $414/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, -14.0%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $414/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, -14.3%)."
     },
     "P52": {
       "score": 6.0,
       "label": "Promising — huge yard, just above target",
-      "strengths": "Huge private yard; 2,140 sqft (1999 build); $420/sqft, below the comparable median (-12.8%); Dorothy Peacock Park lead; Dorothy Peacock/Walnut Grove Secondary school leads.",
+      "strengths": "Huge private yard; 2,140 sqft (1999 build); $420/sqft, below the comparable median (-13.1%); Dorothy Peacock Park lead; Dorothy Peacock/Walnut Grove Secondary school leads.",
       "concerns": "Total monthly planning estimate ~$5,144/mo, just above the $5,000 total target; school safety unproven; catchment not district-confirmed; transit time unmeasured.",
       "confidence": "Low",
       "important_notes": [
         "Verify SD35 catchment via the district locator before relying on school leads.",
         "Confirm yard exclusivity and strata documents."
       ],
-      "market_fit_pct": -12.8,
+      "market_fit_pct": -13.1,
       "market_fit_tier": "Below comparable asking prices",
-      "market_fit_basis": "Township of Langley resale townhouses (n=11)",
-      "market_fit_note": "Asking $420/sqft vs $482/sqft median for Township of Langley resale townhouses (n=11, -12.8%)."
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $420/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, -13.1%)."
     },
     "P53": {
       "score": 7.0,
@@ -872,6 +872,21 @@
       "market_fit_tier": "Below comparable asking prices",
       "market_fit_basis": "Maple Ridge resale townhouses (n=7)",
       "market_fit_note": "Asking $367/sqft vs $452/sqft median for Maple Ridge resale townhouses (n=7, -18.7%)."
+    },
+    "P57": {
+      "score": 6.5,
+      "label": "Promising — fenced yard, low total",
+      "strengths": "Total monthly planning estimate ~$3,763/mo, within the $5,000 total target; private fenced yard and partly covered patio; 3 bed / 3 bath, 1,417 sqft (2005 build, renovated); $493/sqft, in line with the comparable median (+2.0%); James Anderson Park lead; R.C. Garnett / R.E. Mountain school leads; 2-car tandem garage with workshop space; Zolo home-value estimate $705,763 vs $698,800 asking (-1.0%).",
+      "concerns": "School safety unproven; catchment not district-confirmed; transit time unmeasured; yard exclusivity and strata documents unverified; 57 days on market with a $40,000 cut Oct 7 — ask why it has not sold.",
+      "confidence": "Low",
+      "important_notes": [
+        "Verify SD35 catchment via the district locator before relying on school leads.",
+        "Confirm yard exclusivity and strata documents; 68 Avenue complex exposure unmeasured."
+      ],
+      "market_fit_pct": 2.0,
+      "market_fit_tier": "In line with comparable asking prices",
+      "market_fit_basis": "Township of Langley resale townhouses (n=12)",
+      "market_fit_note": "Asking $493/sqft vs $483/sqft median for Township of Langley resale townhouses (n=12, +2.0%). 57 days on market; price cut $40,000 on Oct 7, 2026. Zolo home-value estimate $705,763 vs $698,800 asking (-1.0%)."
     }
   }
 }

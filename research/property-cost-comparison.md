@@ -25,12 +25,12 @@ The HTML total-expense column and CSV total_expenses fields use the broader owne
 | P07 | [24222 103 Avenue](https://www.google.com/maps/search/?api=1&query=24222+103+Avenue%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,039,000 | $4,477 | $0 | $6,970 | $5,058 | $6,474 | $5,649–$5,849 | $3,240–$3,540 |
 | P08 | [12326 Aurora Street](https://www.google.com/maps/search/?api=1&query=12326+Aurora+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,059,000 | $4,591 | $0 | $5,879 | $5,081 | $6,513 | $5,688–$5,888 | $3,353–$3,653 |
 | P09 | [6926 190 Street](https://www.google.com/maps/search/?api=1&query=6926+190+Street%2C+Surrey%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $5,065 | $5,240 | $6,706 | $5,968–$6,006 | $3,711–$3,768 |
-| P10 | [27191 28A Avenue](https://www.google.com/maps/search/?api=1&query=27191+28A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $4,260 | $5,173 | $6,639 | $6,639 | not modelled |
+| P10 | [27191 28A Avenue](https://www.google.com/maps/search/?api=1&query=27191+28A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $4,503 | $5,193 | $6,659 | $6,659 | not modelled |
 | P11 | [20030 48 Avenue](https://www.google.com/maps/search/?api=1&query=20030+48+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $1,199,000 | $5,385 | $0 | $5,867 | $5,874 | $7,423 | $7,423 | not modelled |
 | P12 | [4536 208 Street](https://www.google.com/maps/search/?api=1&query=4536+208+Street%2C+Langley+City%2C+BC%2C+Canada) | $1,099,000 | $4,818 | $0 | $5,336 | $5,262 | $6,728 | $6,728 | not modelled |
 | P13 | [8-19240 119 Avenue](https://www.google.com/maps/search/?api=1&query=8-19240+119+Avenue%2C+Pitt+Meadows%2C+BC%2C+Canada) | $675,000 | $2,412 | $409 | $4,738 | $3,216 | $3,847 | $3,847 | not modelled |
 | P14 | [42-19141 124 Avenue](https://www.google.com/maps/search/?api=1&query=42-19141+124+Avenue%2C+Pitt+Meadows%2C+BC%2C+Canada) | $733,000 | $2,741 | $397 | $4,905 | $3,547 | $4,202 | $4,202 | not modelled |
-| P15 | [14-22128 48A Avenue](https://www.google.com/maps/search/?api=1&query=14-22128+48A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $810,000 | $3,178 | $310 | $3,063 | $3,743 | $4,431 | $4,431 | not modelled |
+| P15 | [14-22128 48A Avenue](https://www.google.com/maps/search/?api=1&query=14-22128+48A+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $810,000 | $3,178 | $357 | $3,063 | $3,790 | $4,478 | $4,478 | not modelled |
 | P16 | [114-21928 48th Avenue](https://www.google.com/maps/search/?api=1&query=114-21928+48th+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $749,000 | $2,832 | $463 | $2,922 | $3,538 | $4,200 | $4,200 | not modelled |
 | P17 | [35-2450 Lobb Avenue](https://www.google.com/maps/search/?api=1&query=35-2450+Lobb+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | $849,900 | $3,404 | $523 | $3,334 | $4,205 | $4,909 | $4,909 | not modelled |
 | P18 | [109-550 Seaborne Place](https://www.google.com/maps/search/?api=1&query=109-550+Seaborne+Place%2C+Port+Coquitlam%2C+BC%2C+Canada) | $749,900 | $2,837 | $600 | $2,863 | $3,675 | $4,082 | $4,082 | not modelled |
@@ -39,18 +39,18 @@ The HTML total-expense column and CSV total_expenses fields use the broader owne
 | P21 | [11-23986 104 Avenue](https://www.google.com/maps/search/?api=1&query=11-23986+104+Avenue%2C+Maple+Ridge%2C+BC%2C+Canada) | $699,900 | $2,553 | $375 | $4,687 | $3,319 | $3,961 | $3,961 | not modelled |
 | P22 | [38-11851 232 Street](https://www.google.com/maps/search/?api=1&query=38-11851+232+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $769,900 | $2,950 | $377 | $4,126 | $3,671 | $4,342 | $4,342 | not modelled |
 | P23 | [77-20350 53 Avenue](https://www.google.com/maps/search/?api=1&query=77-20350+53+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $479,900 | $1,305 | $508 | $2,086 | $1,986 | $2,536 | $2,536 | not modelled |
-| P24 | [11-6555 192A Street](https://www.google.com/maps/search/?api=1&query=11-6555+192A+Street%2C+Surrey%2C+BC%2C+Canada) | $655,880 | $2,303 | $305 | $3,109 | $2,867 | $3,491 | $3,491 | not modelled |
+| P24 | [11-6555 192A Street](https://www.google.com/maps/search/?api=1&query=11-6555+192A+Street%2C+Surrey%2C+BC%2C+Canada) | $634,880 | $2,184 | $305 | $3,109 | $2,748 | $3,363 | $3,363 | not modelled |
 | P25 | [49-19760 55 Avenue](https://www.google.com/maps/search/?api=1&query=49-19760+55+Avenue%2C+Langley+City%2C+BC%2C+Canada) | $745,000 | $2,809 | $386 | $3,149 | $3,457 | $4,118 | $4,118 | not modelled |
-| P26 | [37-20449 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20449+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $734,900 | $2,752 | unknown | unknown | unknown | unknown | unknown | not modelled |
+| P26 | [37-20449 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20449+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $734,900 | $2,752 | $332 | $2,930 | $3,327 | $3,983 | $3,983 | not modelled |
 | P27 | [17-8120 200a Street](https://www.google.com/maps/search/?api=1&query=17-8120+200a+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $839,000 | $3,342 | $337 | $3,610 | $3,980 | $4,680 | $4,680 | not modelled |
-| P28 | [32-9525 204 Street](https://www.google.com/maps/search/?api=1&query=32-9525+204+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $774,900 | $2,979 | unknown | unknown | unknown | unknown | unknown | not modelled |
-| P29 | [51-4967 220 Street](https://www.google.com/maps/search/?api=1&query=51-4967+220+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $769,900 | $2,950 | $382 | $2,528 | $3,543 | $4,213 | $4,213 | not modelled |
-| P30 | [29-5515 199a Street](https://www.google.com/maps/search/?api=1&query=29-5515+199a+Street%2C+Langley+City%2C+BC%2C+Canada) | $769,900 | $2,950 | $443 | $3,702 | $3,702 | $4,372 | $4,372 | not modelled |
+| P28 | [32-9525 204 Street](https://www.google.com/maps/search/?api=1&query=32-9525+204+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $774,900 | $2,979 | $422 | $3,020 | $3,652 | $4,325 | $4,325 | not modelled |
+| P29 | [51-4967 220 Street](https://www.google.com/maps/search/?api=1&query=51-4967+220+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $749,900 | $2,837 | $382 | $2,528 | $3,429 | $4,092 | $4,092 | not modelled |
+| P30 | [29-5515 199a Street](https://www.google.com/maps/search/?api=1&query=29-5515+199a+Street%2C+Langley+City%2C+BC%2C+Canada) | $749,000 | $2,832 | $443 | $3,702 | $3,583 | $4,245 | $4,245 | not modelled |
 | P31 | [13-621 Langside Avenue](https://www.google.com/maps/search/?api=1&query=13-621+Langside+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | $889,900 | $3,631 | $371 | $3,093 | $4,260 | $4,981 | $4,981 | not modelled |
 | P32 | [112-1225 Mitchell Street](https://www.google.com/maps/search/?api=1&query=112-1225+Mitchell+Street%2C+Coquitlam%2C+BC%2C+Canada) | $899,000 | $3,683 | $318 | $3,592 | $4,300 | $5,025 | $5,025 | not modelled |
 | P33 | [17-2560 Pitt River Road](https://www.google.com/maps/search/?api=1&query=17-2560+Pitt+River+Road%2C+Port+Coquitlam%2C+BC%2C+Canada) | $879,000 | $3,569 | $296 | $3,199 | $4,132 | $4,848 | $4,848 | not modelled |
 | P34 | [40-1355 Citadel Drive](https://www.google.com/maps/search/?api=1&query=40-1355+Citadel+Drive%2C+Port+Coquitlam%2C+BC%2C+Canada) | $879,000 | $3,569 | $408 | $3,415 | $4,262 | $4,979 | $4,979 | not modelled |
-| P35 | [21-12268 189a Street](https://www.google.com/maps/search/?api=1&query=21-12268+189a+Street%2C+Pitt+Meadows%2C+BC%2C+Canada) | $809,700 | $3,176 | unknown | unknown | unknown | unknown | unknown | not modelled |
+| P35 | [21-12268 189a Street](https://www.google.com/maps/search/?api=1&query=21-12268+189a+Street%2C+Pitt+Meadows%2C+BC%2C+Canada) | $809,700 | $3,176 | unknown | $4,968 | unknown | unknown | unknown | not modelled |
 | P36 | [23-12018 237 Street](https://www.google.com/maps/search/?api=1&query=23-12018+237+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $699,900 | $2,553 | $325 | $4,126 | $3,222 | $3,863 | $3,863 | not modelled |
 | P37 | [30-13260 236 Street](https://www.google.com/maps/search/?api=1&query=30-13260+236+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $750,000 | $2,837 | $395 | $4,365 | $3,596 | $4,258 | $4,258 | not modelled |
 | P38 | [4-11282 Cottonwood Drive](https://www.google.com/maps/search/?api=1&query=4-11282+Cottonwood+Drive%2C+Maple+Ridge%2C+BC%2C+Canada) | $799,900 | $3,120 | $513 | $4,600 | $4,017 | $4,700 | $4,700 | not modelled |
@@ -59,9 +59,9 @@ The HTML total-expense column and CSV total_expenses fields use the broader owne
 | P41 | [11382 240 Street](https://www.google.com/maps/search/?api=1&query=11382+240+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $1,099,999 | $4,823 | $0 | $8,379 | $5,522 | $6,988 | $6,988 | not modelled |
 | P42 | [2663 275a Street](https://www.google.com/maps/search/?api=1&query=2663+275a+Street%2C+Township+of+Langley%2C+BC%2C+Canada) | $1,198,888 | $5,385 | $0 | $4,373 | $5,749 | $7,298 | $7,298 | not modelled |
 | P43 | [37-20460 66 Avenue](https://www.google.com/maps/search/?api=1&query=37-20460+66+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $615,999 | $2,077 | $399 | $2,669 | $2,698 | $3,305 | $3,305 | not modelled |
-| P44 | [107-2228 Welcher Avenue](https://www.google.com/maps/search/?api=1&query=107-2228+Welcher+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | $564,900 | $1,787 | unknown | unknown | unknown | unknown | unknown | not modelled |
+| P44 | [107-2228 Welcher Avenue](https://www.google.com/maps/search/?api=1&query=107-2228+Welcher+Avenue%2C+Port+Coquitlam%2C+BC%2C+Canada) | $564,900 | $1,787 | $443 | $2,363 | $2,427 | $3,013 | $3,013 | not modelled |
 | P45 | [4-12070 207a Street](https://www.google.com/maps/search/?api=1&query=4-12070+207a+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | $599,900 | $1,986 | $400 | $4,192 | $2,735 | $3,335 | $3,335 | not modelled |
-| P46 | [231 Balmoral Place](https://www.google.com/maps/search/?api=1&query=231+Balmoral+Place%2C+Port+Moody%2C+BC%2C+Canada) | $748,000 | $2,826 | $375 | $4,132 | $3,546 | $4,207 | $4,207 | not modelled |
+| P46 | [231 Balmoral Place](https://www.google.com/maps/search/?api=1&query=231+Balmoral+Place%2C+Port+Moody%2C+BC%2C+Canada) | $748,000 | $2,826 | $403 | $3,431 | $3,515 | $4,177 | $4,177 | not modelled |
 | P47 | [461 Carlsen Place](https://www.google.com/maps/search/?api=1&query=461+Carlsen+Place%2C+Port+Moody%2C+BC%2C+Canada) | $860,000 | $3,461 | $562 | $3,600 | $4,323 | $5,032 | $5,032 | not modelled |
 | P48 | [520 Cardiff Way](https://www.google.com/maps/search/?api=1&query=520+Cardiff+Way%2C+Port+Moody%2C+BC%2C+Canada) | $824,800 | $3,262 | $656 | $3,741 | $4,229 | $4,923 | $4,923 | not modelled |
 | P49 | [23-15 Forest Park Way](https://www.google.com/maps/search/?api=1&query=23-15+Forest+Park+Way%2C+Port+Moody%2C+BC%2C+Canada) | $799,900 | $3,120 | $437 | $3,577 | $3,856 | $4,539 | $4,539 | not modelled |
@@ -72,6 +72,7 @@ The HTML total-expense column and CSV total_expenses fields use the broader owne
 | P54 | [102-2915 Norman Avenue](https://www.google.com/maps/search/?api=1&query=102-2915+Norman+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | $749,900 | $2,837 | $289 | $2,812 | $3,360 | $4,023 | $4,023 | not modelled |
 | P55 | [81-688 Edgar Avenue](https://www.google.com/maps/search/?api=1&query=81-688+Edgar+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | $839,900 | $3,347 | $291 | $3,395 | $3,921 | $4,621 | $4,621 | not modelled |
 | P56 | [15-23281 Kanaka Way](https://www.google.com/maps/search/?api=1&query=15-23281+Kanaka+Way%2C+Maple+Ridge%2C+BC%2C+Canada) | $824,800 | $3,262 | $500 | $4,665 | $4,150 | $4,844 | $4,844 | not modelled |
+| P57 | [14-20350 68 Avenue](https://www.google.com/maps/search/?api=1&query=14-20350+68+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | $698,800 | $2,547 | $364 | $2,539 | $3,122 | $3,763 | $3,763 | not modelled |
 
 ## Mortgage sensitivity
 

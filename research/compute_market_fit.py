@@ -38,6 +38,8 @@ EVIDENCE = {
     "P40": "15 days on market.",
     "P42": "BC Assessment 2026 total $1,169,000 vs $1,198,888 asking (+2.6%).",
     "P43": "55 days on market.",
+    "P57": ("57 days on market; price cut $40,000 on Oct 7, 2026. Zolo "
+            "home-value estimate $705,763 vs $698,800 asking (-1.0%)."),
 }
 
 

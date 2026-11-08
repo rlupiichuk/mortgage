@@ -133,3 +133,23 @@ Rejected: Port Coquitlam 146-1386 Lincoln Drive (R3178607, $899,999 — balcony/
 ## Scope limits
 
 No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P51–P56. School grades follow each district's published grade structure (SD35 K–5/K–7/8–12 as verified per school; SD43 K–5/9–12; SD42 K–7/8–12; SD36 K–7/8–12). District-confirmed assignments, school safety, suite permits and live availability beyond Nov 1 remain unverified for all six additions.
+
+# Fifth expansion: November 8 refresh replacement (P57)
+
+Added P57 on 2026-11-08 to replace P43, which went pending (close $600,000) in the weekly refresh. One resale townhouse, verified Active on Zolo.ca on 2026-11-08, with an advertised private fenced yard. The sample is now 57 homes, with 46 active candidates. Fit leaders unchanged at 7.0/10 (P31, P36, P40, P53, P54); none scores above 7.0.
+
+| ID | Address | Asking | Note |
+|---|---|---:|---|
+| P57 | [14-20350 68 Avenue](https://www.zolo.ca/langley-real-estate/20350-68-avenue/14) · Willoughby Heights | $698,800 | 6.5 fit; private fenced yard and partly covered patio; 3 bed / 3 bath, 1,417 sqft, 2005 (renovated); total ~$3,763/mo, the lowest 3-bed townhouse total in the sample; $493/sqft, in line with the comparable median (+2.0%); listed Sep 10, 2026, price cut $40,000 on Oct 7; 57 days on market; James Anderson Park lead |
+
+## November 8 refresh follow-up priorities
+
+- P57 Willoughby: verify SD35 catchment via the locator (R.C. Garnett / R.E. Mountain leads; REW lists R.E. Mountain Secondary and Peter Ewart Middle as in catchment) and yard exclusivity; ask why it has not sold after 57 days and a $40,000 cut.
+- P46 Balmoral Place: the Oct 25 record was substantially wrong and is corrected Nov 8 from Zolo/REW (3 beds, 1,385 sqft, built 1979, strata $403/mo, tax $3,431 for 2025, 1 carport space; listed Oct 5, 2026). Verify SD43 catchment via the locator and strata documents.
+- P29: price cut $20,000 (Nov 5) to $749,900; market fit moved to Above (+16.1% vs the Township of Langley townhouse median). Open house Nov 8, 1-3 pm (listing text also says 2-4 pm — times conflict).
+- P24: price cut $21,000 (Nov 4) to $634,880; P30: price cut $20,900 (Nov 3) to $749,000.
+- P19 tax and P35 strata fee remain unshown on the listing pages; P20 year built conflicts (unit-level 1977 vs building 1978 — record keeps 1978).
+
+## Scope limits
+
+No new rental income is assumed for this addition. Crime remains jurisdiction-level context. The new park range uses a rough geocoded proximity estimate at family pace, not a network route; no new geocoded route observation was added for P57. District-confirmed assignment, school safety, suite permits and live availability beyond Nov 8 remain unverified for this addition.

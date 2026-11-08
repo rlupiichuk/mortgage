@@ -131,3 +131,50 @@ observed_on,property_id,mls,address,asking_price,status_notes,source
 2026-11-01,P48,R3168166,520 Cardiff Way,824800,"Confirmed active; strata/tax/year filled from REW.ca: strata $656/mo, tax $3741 (2025), built 1978.",https://www.rew.ca/properties/520-cardiff-way-port-moody-bc
 2026-11-01,P49,R3162285,23-15 Forest Park Way,799900,"Confirmed active; strata/tax/year filled from REW.ca: strata $437/mo, tax $3577 (2025), built 2002.",https://www.rew.ca/properties/23-15-forest-park-way-port-moody-bc
 2026-11-01,P50,R3172640,57-65 Foxwood Drive,879000,"Confirmed active; strata/tax/year filled from REW.ca: strata $569/mo, tax $3529 (2025), built 1994.",https://www.rew.ca/properties/57-65-foxwood-drive-port-moody-bc
+2026-11-08,P04,R3178573,9-8968 208 Street,786000,"Confirmed active; open house Nov 8, 1:00-3:00 pm.",https://www.zolo.ca/langley-real-estate/8968-208-street/9
+2026-11-08,P06,R3177494,15669 20 Avenue,799000,Confirmed active.,https://www.zolo.ca/surrey-real-estate/15669-20-avenue
+2026-11-08,P07,R3179229,24222 103 Avenue,1039000,"Confirmed active; open house Nov 8, 1:00-3:00 pm.",https://www.zolo.ca/maple-ridge-real-estate/24222-103-avenue
+2026-11-08,P08,R3144039,12326 Aurora Street,1059000,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/12326-aurora-street
+2026-11-08,P09,R3176554,6926 190 Street,1099000,Confirmed active; year built 2006 filled from Zolo.,https://www.zolo.ca/surrey-real-estate/6926-190-street
+2026-11-08,P10,R3178751,27191 28A Avenue,1099000,"Confirmed active; tax $4,503 (2026) filled from Zolo (was $4,260, 2025).",https://www.zolo.ca/langley-real-estate/27191-28a-avenue
+2026-11-08,P11,R3177701,20030 48 Avenue,1199000,"Confirmed active; open house Nov 8, 12:00-2:00 pm.",https://www.zolo.ca/langley-real-estate/20030-48-avenue
+2026-11-08,P12,R3163557,4536 208 Street,1099000,"Confirmed active; tax year 2026 filled from Zolo; open house Nov 8, 11:00 am-4:00 pm.",https://www.zolo.ca/langley-real-estate/4536-208-street
+2026-11-08,P15,R3161907,14-22128 48A Avenue,810000,Confirmed active; strata $357/mo filled from REW (was $310).,https://www.rew.ca/properties/14-22128-48a-avenue-langley-bc
+2026-11-08,P17,R3175794,35-2450 Lobb Avenue,849900,"Confirmed active; open house Nov 8, 12:00-2:00 pm.",https://www.zolo.ca/port-coquitlam-real-estate/2450-lobb-avenue/35
+2026-11-08,P19,R3160956,3-98 Begin Street,849000,Confirmed active; tax still not shown on Zolo.,https://www.rew.ca/properties/3-98-begin-street-coquitlam-bc
+2026-11-08,P20,R3172668,2-2990 Mariner Way,849000,Confirmed active. Zolo unit-level year built 1977 vs REW building info 1978; record keeps 1978.,https://www.rew.ca/properties/2-2990-mariner-way-coquitlam-bc
+2026-11-08,P21,R3172799,11-23986 104 Avenue,699900,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/23986-104-avenue/11
+2026-11-08,P23,R3169326,77-20350 53 Avenue,479900,Confirmed active.,https://www.rew.ca/properties/77-20350-53-avenue-langley-bc
+2026-11-08,P24,R3163723,11-6555 192A Street,634880,"Confirmed active; price reduced from $655,880 (Nov 4).",https://www.zolo.ca/surrey-real-estate/6555-192a-street/11
+2026-11-08,P26,R3152853,37-20449 66 Avenue,734900,"Confirmed active; strata $331.52/mo and tax $2,929.66 (2026) filled from Zolo.",https://www.zolo.ca/langley-real-estate/20449-66-avenue/37
+2026-11-08,P27,R3161671,17-8120 200a Street,839000,Confirmed active.,https://www.zolo.ca/langley-real-estate/8120-200a-street/17
+2026-11-08,P28,R3169441,32-9525 204 Street,774900,"Confirmed active; strata $422.25/mo and tax $3,020.08 (2026) filled from Zolo (unit 32's own figures).",https://www.zolo.ca/langley-real-estate/9525-204-street/32
+2026-11-08,P29,R3158909,51-4967 220 Street,749900,"Confirmed active; price reduced from $769,900 (Nov 5); open house Nov 8, 1:00-3:00 pm (listing text also says 2-4 pm - times conflict).",https://www.zolo.ca/langley-real-estate/4967-220-street/51
+2026-11-08,P30,R3174981,29-5515 199a Street,749000,"Confirmed active; price reduced from $769,900 (Nov 3); tax year 2026 filled.",https://www.zolo.ca/langley-real-estate/5515-199a-street/29
+2026-11-08,P31,R3175484,13-621 Langside Avenue,889900,Confirmed active.,https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13
+2026-11-08,P32,R3175457,112-1225 Mitchell Street,899000,Confirmed active.,https://www.zolo.ca/coquitlam-real-estate/1225-mitchell-street/112
+2026-11-08,P33,R3167808,17-2560 Pitt River Road,879000,Confirmed active.,https://www.zolo.ca/port-coquitlam-real-estate/2560-pitt-river-road/17
+2026-11-08,P34,R3176002,40-1355 Citadel Drive,879000,Confirmed active.,https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40
+2026-11-08,P35,R3175179,21-12268 189a Street,809700,"Confirmed active; tax $4,968 (2024) filled from REW; no strata fee shown on REW/Zolo.",https://www.rew.ca/properties/21-12268-189a-street-pitt-meadows-bc
+2026-11-08,P36,R3163543,23-12018 237 Street,699900,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/12018-237-street/23
+2026-11-08,P37,R3177346,30-13260 236 Street,750000,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/13260-236-street/30
+2026-11-08,P38,R3175708,4-11282 Cottonwood Drive,799900,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/11282-cottonwood-drive/4
+2026-11-08,P39,R3150431,26-15850 85 Avenue,775000,Confirmed active.,https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26
+2026-11-08,P40,R3173710,14-6945 185 Street,775000,Confirmed active.,https://www.zolo.ca/surrey-real-estate/6945-185-street/14
+2026-11-08,P41,R3177355,11382 240 Street,1099999,Confirmed active; tax year 2026 filled.,https://www.zolo.ca/maple-ridge-real-estate/11382-240-street
+2026-11-08,P42,R3171494,2663 275a Street,1198888,Confirmed active; tax year 2026 filled.,https://www.zolo.ca/langley-real-estate/2663-275a-street
+2026-11-08,P43,R3160045,37-20460 66 Avenue,615999,"Pending; Zolo shows status Pending with close price $600,000; contract status change 2026-10-07, last modified 2026-11-05.",https://www.zolo.ca/langley-real-estate/20460-66-avenue/37
+2026-11-08,P44,R3173322,107-2228 Welcher Avenue,564900,"Confirmed active; strata $443.42/mo and tax $2,363 (2026) filled from Zolo.",https://www.zolo.ca/port-coquitlam-real-estate/2228-welcher-avenue/107
+2026-11-08,P45,R3164137,4-12070 207a Street,599900,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/12070-207a-street/4
+2026-11-08,P46,R3172688,231 Balmoral Place,748000,"Confirmed active; record corrected from REW/Zolo (both agree): built 1979 (was 2007), strata $403/mo (was $375.39), tax $3,431 (2025, was $4,132.02).",https://www.rew.ca/properties/231-balmoral-place-port-moody-bc
+2026-11-08,P47,R3149832,461 Carlsen Place,860000,Confirmed active.,https://www.zolo.ca/port-moody-real-estate/461-carlsen-place
+2026-11-08,P48,R3168166,520 Cardiff Way,824800,Confirmed active.,https://www.zolo.ca/port-moody-real-estate/520-cardiff-way
+2026-11-08,P49,R3162285,23-15 Forest Park Way,799900,Confirmed active (Zolo page failed to load; verified via REW).,https://www.rew.ca/properties/23-15-forest-park-way-port-moody-bc
+2026-11-08,P50,R3172640,57-65 Foxwood Drive,879000,Confirmed active (Zolo page failed to load; verified via REW).,https://www.rew.ca/properties/57-65-foxwood-drive-port-moody-bc
+2026-11-08,P51,R3179574,110-8068 207 Street,869900,Confirmed active.,https://www.rew.ca/properties/110-8068-207-street-langley-bc
+2026-11-08,P52,R3179046,41-20222 96 Avenue,899000,Confirmed active.,https://www.rew.ca/properties/41-20222-96-avenue-langley-bc
+2026-11-08,P53,R3179584,1-18818 71 Avenue,799999,Confirmed active.,https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc
+2026-11-08,P54,R3173489,102-2915 Norman Avenue,749900,Confirmed active.,https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc
+2026-11-08,P55,R3179848,81-688 Edgar Avenue,839900,Confirmed active.,https://www.rew.ca/properties/81-688-edgar-avenue-coquitlam-bc
+2026-11-08,P56,R3179710,15-23281 Kanaka Way,824800,Confirmed active.,https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc
+2026-11-08,P57,R3163135,14-20350 68 Avenue,698800,"Added 2026-11-08; Zolo listing verified Active on 2026-11-08; private fenced yard; listed Sep 10, 2026, price cut $40,000 on Oct 7.",https://www.zolo.ca/langley-real-estate/20350-68-avenue/14

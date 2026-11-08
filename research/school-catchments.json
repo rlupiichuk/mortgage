@@ -2227,6 +2227,34 @@
         "url": "https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc"
       },
       "nearest_fallback": {}
+    },
+    "P57": {
+      "district": "SD35",
+      "current": [
+        "rcgarnett",
+        "remss"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only. REW.ca lists R.E. Mountain Secondary and Peter Ewart Middle as in catchment for this address; Zolo's nearby-schools list names R.C. Garnett Elementary and Langley Secondary. The elementary/secondary leads follow the P43 pattern (R.C. Garnett / R.E. Mountain) for the same Willoughby area. No district-confirmed address result, capacity or school safety conclusion.",
+      "locator_url": "https://www.sd35.bc.ca/school-locator",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/langley-real-estate/20350-68-avenue/14"
+        },
+        {
+          "label": "Property advertisement / school insights",
+          "url": "https://www.rew.ca/properties/14-20350-68-avenue-langley-bc"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.zolo.ca/langley-real-estate/20350-68-avenue/14"
+      },
+      "nearest_fallback": {}
     }
   }
 }

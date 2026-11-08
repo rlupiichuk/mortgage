@@ -64,6 +64,7 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [102-2915 Norman Avenue](https://www.google.com/maps/search/?api=1&query=102-2915+Norman+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | [Meadowbrook Elementary](https://www.sd43.bc.ca/meadowbrook/) → [École Dr. Charles Best Secondary](https://www.sd43.bc.ca/charlesbest) | None established | District-confirmed via district school locator, checked 2026-11-03 | Not needed |
 | [81-688 Edgar Avenue](https://www.google.com/maps/search/?api=1&query=81-688+Edgar+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | [Alderson Elementary](https://www.sd43.bc.ca/alderson) → [Centennial Secondary](https://www.sd43.bc.ca/centennial) | None established | Listing/nearby lead; verify | Not needed |
 | [15-23281 Kanaka Way](https://www.google.com/maps/search/?api=1&query=15-23281+Kanaka+Way%2C+Maple+Ridge%2C+BC%2C+Canada) | [Kanaka Creek Elementary](http://elementary.sd42.ca/kanakacreek/) → [Samuel Robertson Technical Secondary](https://secondary.sd42.ca/srt/) | None established | Listing/nearby lead; verify | Not needed |
+| [14-20350 68 Avenue](https://www.google.com/maps/search/?api=1&query=14-20350+68+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -402,3 +403,9 @@ Listing/nearby school leads only, from the REW.ca listing page for this unit. No
 Listing/nearby school leads only, from the REW.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
 
 [Official district locator/guidance](https://www.sd42.ca/school-locator). [Property advertisement / school leads](https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc)
+
+### P57 — 14-20350 68 Avenue
+
+Listing/nearby school leads only. REW.ca lists R.E. Mountain Secondary and Peter Ewart Middle as in catchment for this address; Zolo's nearby-schools list names R.C. Garnett Elementary and Langley Secondary. The elementary/secondary leads follow the P43 pattern (R.C. Garnett / R.E. Mountain) for the same Willoughby area. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/20350-68-avenue/14) · [Property advertisement / school insights](https://www.rew.ca/properties/14-20350-68-avenue-langley-bc)
