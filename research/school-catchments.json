@@ -451,6 +451,12 @@
       "grades": "K–5",
       "url": "https://www.sd43.bc.ca/school/rochester/",
       "level": "elementary"
+    },
+    "maillard": {
+      "name": "École Maillard Middle School",
+      "grades": "6–8",
+      "url": "https://www.sd43.bc.ca/maillard/",
+      "level": "middle"
     }
   },
   "properties": {
@@ -2282,17 +2288,34 @@
       "district": "SD35",
       "current": [
         "douglaspark",
+        "stafford",
         "lss"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "status": "District-confirmed via district school locator, checked 2026-11-15",
+      "notes": "District-confirmed via the SD35 Baragar School Locator for the 20751–20771 Duncan Way range, checked Nov 15, 2026: Douglas Park Community Elementary (K–5), H.D. Stafford Middle (6–8), and Langley Secondary (9–12). The listing lead matched exactly. Locator result is at street-range level (20751–20771 Duncan Way as a whole, not unit 2 specifically). SD35 locator data as of Aug 4, 2026. No capacity, before/after care, or school safety conclusion.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
+          "label": "District-confirmed catchment (district school locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC35"
+        },
+        {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/langley-real-estate/20761-duncan-way/2"
+        },
+        {
+          "label": "Official school identity: Douglas Park Community School",
+          "url": "https://www.sd35.bc.ca/douglaspark"
+        },
+        {
+          "label": "Official school identity: H.D. Stafford Middle",
+          "url": "https://www.sd35.bc.ca/hdsms"
+        },
+        {
+          "label": "Official school identity: Langley Secondary",
+          "url": "https://www.sd35.bc.ca/lss"
         }
       ],
       "safety_research": {
@@ -2305,18 +2328,34 @@
     "P59": {
       "district": "SD35",
       "current": [
-        "willoughby",
+        "rcgarnett",
         "remountain"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "status": "District-confirmed via district school locator, checked 2026-11-15",
+      "notes": "District-confirmed via the SD35 Baragar School Locator for 20582 67 Avenue, checked Nov 15, 2026: R.C. Garnett Elementary (K–5), Peter Ewart Middle (6–8), and R.E. Mountain Secondary (9–12). The listing lead correctly named R.E. Mountain Secondary but incorrectly named Willoughby Elementary; the locator returns R.C. Garnett Elementary instead. The locator also lists the same middle and secondary schools for 2027–28. Locator result is at street-number level (20582 67 Avenue as a whole, not unit 5 specifically). SD35 locator data as of Aug 4, 2026. No capacity, before/after care, or school safety conclusion.",
       "locator_url": "https://www.sd35.bc.ca/school-locator",
       "sources": [
         {
+          "label": "District-confirmed catchment (district school locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC35"
+        },
+        {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/langley-real-estate/20582-67-avenue/5"
+        },
+        {
+          "label": "Official school identity: R.C. Garnett Demonstration Elementary",
+          "url": "https://www.sd35.bc.ca/rcgarnett"
+        },
+        {
+          "label": "Official school identity: Peter Ewart Middle School",
+          "url": "https://pems.sd35.bc.ca/"
+        },
+        {
+          "label": "Official school identity: R.E. Mountain Secondary",
+          "url": "https://www.sd35.bc.ca/remss"
         }
       ],
       "safety_research": {
@@ -2330,17 +2369,34 @@
       "district": "SD43",
       "current": [
         "rochester",
-        "portmoodysecondary"
+        "maillard",
+        "centennial"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.",
+      "status": "District-confirmed via district school locator, checked 2026-11-15",
+      "notes": "District-confirmed via the SD43 Baragar School Locator for 315 Schoolhouse Street, checked Nov 15, 2026: École Rochester Elementary (K–5), Ecole Maillard Middle (6–8), and Centennial Secondary (9–12) on the regular pathway. The listing lead correctly named École Rochester Elementary but incorrectly named Port Moody Secondary; the locator returns Centennial Secondary instead. The French Immersion track is École Rochester / Ecole Maillard / École Dr. Charles Best Secondary. Locator result is at street-number level (315 Schoolhouse Street as a whole, not unit 25 specifically). SD43 locator data as of Jul 7, 2026. No capacity, before/after care, or school safety conclusion.",
       "locator_url": "https://sd43.bc.ca/cross-catchment",
       "sources": [
         {
+          "label": "District-confirmed catchment (district school locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=bc43"
+        },
+        {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25"
+        },
+        {
+          "label": "Official school identity: École Rochester Elementary",
+          "url": "https://www.sd43.bc.ca/school/rochester/"
+        },
+        {
+          "label": "Official school identity: École Maillard Middle School",
+          "url": "https://www.sd43.bc.ca/maillard/"
+        },
+        {
+          "label": "Official school identity: Centennial Secondary",
+          "url": "https://www.sd43.bc.ca/centennial"
         }
       ],
       "safety_research": {

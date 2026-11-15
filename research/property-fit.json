@@ -891,11 +891,11 @@
     "P58": {
       "score": 6.5,
       "label": "Promising — fenced yard, low total",
-      "strengths": "Total monthly planning estimate ~$4,160/mo, within the $5,000 total target; private yard with covered patio; 3 bed / 2.5 bath, 1,287 sqft (2004 build); $583/sqft, above the comparable median (+22.0%) vs the comparable median; Douglas Park lead; Douglas Park / Langley Secondary school leads; tandem double garage plus a third space.",
-      "concerns": "School safety unproven; catchment not district-confirmed; transit time unmeasured; yard exclusivity and strata documents unverified; 1,287 sqft is small for 3 bedrooms; listed Nov 9, 2026 — only 6 days on market.",
+      "strengths": "Total monthly planning estimate ~$4,160/mo, within the $5,000 total target; private yard with covered patio; 3 bed / 2.5 bath, 1,287 sqft (2004 build); $583/sqft, above the comparable median (+22.0%) vs the comparable median; Douglas Park lead; Douglas Park / H.D. Stafford / Langley Secondary catchment district-confirmed Nov 15, 2026; tandem double garage plus a third space.",
+      "concerns": "School safety unproven; transit time unmeasured; yard exclusivity and strata documents unverified; 1,287 sqft is small for 3 bedrooms; listed Nov 9, 2026 — only 6 days on market.",
       "confidence": "Low",
       "important_notes": [
-        "Verify SD35 catchment via the district locator before relying on school leads.",
+        "Catchment district-confirmed Nov 15, 2026 (Douglas Park Community Elementary / H.D. Stafford Middle / Langley Secondary) via the SD35 Baragar locator.",
         "Confirm yard exclusivity and strata documents; complex exposure unmeasured."
       ],
       "market_fit_pct": 22.0,
@@ -906,11 +906,11 @@
     "P59": {
       "score": 6.5,
       "label": "Promising — 4-bed, cul-de-sac, fenced yard",
-      "strengths": "Total monthly planning estimate ~$4,676/mo, within the $5,000 total target; 4-bed with fully fenced yard backing onto a quiet cul-de-sac; 2,113 sqft (2004 build); $390/sqft, below the comparable median (-17.4%) vs the comparable median; side-by-side double garage; Willoughby / R.E. Mountain school leads.",
-      "concerns": "School safety unproven; catchment not district-confirmed; transit time unmeasured; yard exclusivity and strata documents unverified; nearest park (Willoughby Community Park) is ~30 min walk, at the edge of the 20–30 minute target; open-house times conflict (listing text 1–3pm vs Zolo event block 12–2pm, Nov 15).",
+      "strengths": "Total monthly planning estimate ~$4,676/mo, within the $5,000 total target; 4-bed with fully fenced yard backing onto a quiet cul-de-sac; 2,113 sqft (2004 build); $390/sqft, below the comparable median (-17.4%) vs the comparable median; side-by-side double garage; R.C. Garnett / Peter Ewart / R.E. Mountain catchment district-confirmed Nov 15, 2026 (listing lead wrong on the elementary — Willoughby is not the catchment school).",
+      "concerns": "School safety unproven; transit time unmeasured; yard exclusivity and strata documents unverified; nearest park (Willoughby Community Park) is ~30 min walk, at the edge of the 20–30 minute target; open-house times conflict (listing text 1–3pm vs Zolo event block 12–2pm, Nov 15).",
       "confidence": "Low",
       "important_notes": [
-        "Verify SD35 catchment via the district locator before relying on school leads.",
+        "Catchment district-confirmed Nov 15, 2026 (R.C. Garnett Elementary / Peter Ewart Middle / R.E. Mountain Secondary) via the SD35 Baragar locator.",
         "Confirm yard exclusivity and strata documents; confirm the open-house time before attending."
       ],
       "market_fit_pct": -17.4,
@@ -921,11 +921,11 @@
     "P60": {
       "score": 6.0,
       "label": "Promising — renovated end unit, fenced yard",
-      "strengths": "Total monthly planning estimate ~$4,377/mo, within the $5,000 total target; fully fenced backyard; 3 bed / 2 bath, 1,515 sqft (1972 build, renovated); $508/sqft, below the comparable median (-17.6%) vs the comparable median; Mackin Park lead; École Rochester / Port Moody Secondary school leads; end unit.",
-      "concerns": "1972 build — condition and depreciation report matter; strata $525/mo is high; only 1 open parking space, no covered parking; school safety unproven; catchment not district-confirmed; transit time unmeasured; back on the market after a prior $799,000 listing (R3112163, Apr 2026) — ask why it returned.",
+      "strengths": "Total monthly planning estimate ~$4,377/mo, within the $5,000 total target; fully fenced backyard; 3 bed / 2 bath, 1,515 sqft (1972 build, renovated); $508/sqft, below the comparable median (-17.6%) vs the comparable median; Mackin Park lead; École Rochester / École Maillard / Centennial catchment district-confirmed Nov 15, 2026 (listing lead wrong on the secondary — Port Moody Secondary is not the catchment school); end unit.",
+      "concerns": "1972 build — condition and depreciation report matter; strata $525/mo is high; only 1 open parking space, no covered parking; school safety unproven; transit time unmeasured; back on the market after a prior $799,000 listing (R3112163, Apr 2026) — ask why it returned.",
       "confidence": "Low",
       "important_notes": [
-        "Verify SD43 catchment via the district locator before relying on school leads.",
+        "Catchment district-confirmed Nov 15, 2026 (École Rochester Elementary / Ecole Maillard Middle / Centennial Secondary) via the SD43 Baragar locator.",
         "Confirm garden exclusivity, building condition and strata documents."
       ],
       "market_fit_pct": -17.6,

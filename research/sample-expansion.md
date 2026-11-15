@@ -168,9 +168,9 @@ Rejected: Langley City 15–8968 208 Street (R3178909, $649,900 — $100 below t
 
 ## November 15 refresh follow-up priorities
 
-- P58 Langley City: verify SD35 catchment (Douglas Park / Langley Secondary leads) and yard exclusivity; listed Nov 9, 2026, only 6 days on market.
-- P59 Willoughby: verify SD35 catchment (Willoughby / R.E. Mountain leads) and yard exclusivity; confirm the open-house time (listing text 1–3pm vs Zolo event block 12–2pm, Nov 15); nearest park is ~30 min walk, at the edge of the target.
-- P60 Maillardville: verify SD43 catchment (École Rochester / Port Moody Secondary leads) and yard exclusivity; ask why it returned to market after the prior $799,000 listing (R3112163, Apr 2026); 1972 building condition/depreciation report and the single open parking space need review.
+- P58 Langley City: catchment district-confirmed Nov 15, 2026 (Douglas Park Community Elementary / H.D. Stafford Middle / Langley Secondary); yard exclusivity still to verify; listed Nov 9, 2026, only 6 days on market.
+- P59 Willoughby: catchment district-confirmed Nov 15, 2026 (R.C. Garnett Elementary / Peter Ewart Middle / R.E. Mountain Secondary — the listing lead was wrong on the elementary; Willoughby is not the catchment school); yard exclusivity still to verify; confirm the open-house time (listing text 1–3pm vs Zolo event block 12–2pm, Nov 15); nearest park is ~30 min walk, at the edge of the target.
+- P60 Maillardville: catchment district-confirmed Nov 15, 2026 (École Rochester Elementary / Ecole Maillard Middle / Centennial Secondary — the listing lead was wrong on the secondary; Port Moody Secondary is not the catchment school); yard exclusivity still to verify; ask why it returned to market after the prior $799,000 listing (R3112163, Apr 2026); 1972 building condition/depreciation report and the single open parking space need review.
 - P36 Maple Ridge: was a 7.0 fit leader — now pending (close $685,000); retained as a priced comparable.
 - P51 Willoughby: sold within days of listing; retained as a priced comparable; close price not publicly shown.
 - P20 Mariner Way: confirmed Active on REALTOR.ca; the conflicting $840,000 Sold entry belongs to a different unit in the complex.
@@ -178,4 +178,4 @@ Rejected: Langley City 15–8968 208 Street (R3178909, $649,900 — $100 below t
 
 ## Scope limits
 
-No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P58–P60. School grades follow each district's published grade structure (SD35 K–5; SD43 K–5/9–12). District-confirmed assignments, school safety, suite permits and live availability beyond Nov 15 remain unverified for all three additions.
+No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P58–P60. School grades follow each district's published grade structure (SD35 K–5; SD43 K–5/9–12). School safety, suite permits and live availability beyond Nov 15 remain unverified for all three additions; the catchments are now district-confirmed (see research-log.md, 2026-11-15).
