@@ -12,7 +12,7 @@ On the site, top fits (7.0 and above) are marked 🟢 Top fit and their rows are
 
 Each property carries a market-fit estimate: its asking $/sqft compared with the median asking $/sqft of comparable homes in this sample — same city and same home type when that group has at least 3 homes, otherwise the same home type across all cities when that group has at least 3. More than 10% below the median is "Below comparable asking prices", within ±10% is "In line", more than 10% above is "Above". Groups smaller than 3 get no estimate. The calculation is reproducible: `python3 research/compute_market_fit.py` (re-run after any sample change, before rebuilding).
 
-This compares asking prices with asking prices inside this sample. It is not a valuation. $/sqft ignores age, condition, lot, layout and renovations, and it runs lower for larger homes — so a below-median figure on a big home (P38, P34) is not automatically a bargain, and an above-median figure on a new build (P27, 2024) is not automatically overpriced. Days on market and price changes are cited where verified (P36: 46 days, $80,000 cut; P39: 88 days, $20,000 cut). Third-party reference points are cited where available: P36's Zolo home-value estimate ($691,753 vs $699,900 asking) and P42's BC Assessment 2026 total ($1,169,000 vs $1,198,888 asking). For scale: recent pending/sold closes in this sample settled between 2.0% above and 5.9% below asking — asking prices here have recently run close to sale prices. A real market check needs comparable sold prices, which this sample does not yet have; a realtor's MLS sold data is the source for that.
+This compares asking prices with asking prices inside this sample. It is not a valuation. $/sqft ignores age, condition, lot, layout and renovations, and it runs lower for larger homes — so a below-median figure on a big home (P38, P34) is not automatically a bargain, and an above-median figure on a new build (P27, 2024) is not automatically overpriced. Days on market and price changes are cited where verified (P36: 46 days, $80,000 cut; P39: 88 days, $20,000 cut). Third-party reference points are cited where available: P36's Zolo home-value estimate ($691,753 vs $699,900 asking) and P42's BC Assessment 2026 total ($1,169,000 vs $1,149,888 asking). For scale: recent pending/sold closes in this sample settled between 2.0% above and 5.9% below asking — asking prices here have recently run close to sale prices. A real market check needs comparable sold prices, which this sample does not yet have; a realtor's MLS sold data is the source for that.
 
 | Fit estimate | Property | Judgment |
 |---|---|---|
@@ -29,10 +29,12 @@ This compares asking prices with asking prices inside this sample. It is not a v
 | 6.5/10 | P35 — 21-12268 189a Street | Promising — Hoffmann Park at the door, WCE mornings |
 | 6.5/10 | P37 — 30-13260 236 Street | Promising — Silver Valley, 4 bedrooms |
 | 6.5/10 | P39 — 26-15850 85 Avenue | Promising — Fleetwood, low strata |
-| 6.5/10 | P42 — 2663 275a Street | Promising — detached with suite, availability confirmed Active Nov 1, 2026 |
+| 6.5/10 | P42 — 2663 275a Street | Promising — detached with suite, relisted Nov 15, 2026 at $1,149,888 |
 | 6.5/10 | P51 — 110-8068 207 Street | Promising — fenced yard, within target |
 | 6.5/10 | P55 — 81-688 Edgar Avenue | Promising — within target, 2-bed |
 | 6.5/10 | P57 — 14-20350 68 Avenue | Promising — fenced yard, low total |
+| 6.5/10 | P58 — 2-20761 Duncan Way | Promising — fenced yard, low total |
+| 6.5/10 | P59 — 5-20582 67 Avenue | Promising — 4-bed, cul-de-sac, fenced yard |
 | 6.0/10 | P04 — 9-8968 208 Street | Promising if buffered from 208 Street |
 | 6.0/10 | P13 — 8-19240 119 Avenue | Lower-cost yard candidate |
 | 6.0/10 | P28 — 32-9525 204 Street | Promising — walk-out fenced yard, strong elementary lead |
@@ -46,6 +48,7 @@ This compares asking prices with asking prices inside this sample. It is not a v
 | 6.0/10 | P48 — 520 Cardiff Way | Promising research candidate — largest floor area |
 | 6.0/10 | P52 — 41-20222 96 Avenue | Promising — huge yard, just above target |
 | 6.0/10 | P56 — 15-23281 Kanaka Way | Promising — within target, patio flagged |
+| 6.0/10 | P60 — 25-315 Schoolhouse Street | Promising — renovated end unit, fenced yard |
 | 5.5/10 | P02 — 27-1338 Hames Crescent | Promising home; school pathway unresolved |
 | 5.5/10 | P03 — 1-19236 119 Avenue | Good outdoor/commute candidate; school tradeoff |
 | 5.5/10 | P15 — 14-22128 48A Avenue | Good garage/outdoor option if two bedrooms suffice |
@@ -156,7 +159,7 @@ Important notes:
 
 **5.0/10 · Conditional smaller-home option · low confidence**
 
-Total monthly planning estimate ~$4,621/mo, within the $5,000 total target (mortgage ~$3,115); fenced yard and nearby park lead. Elementary academic indicator 6.4/10 offers a reasonable academic lead.
+Total monthly planning estimate ~$3,971/mo, within the $5,000 total target (mortgage ~$2,548); fenced yard and nearby park lead. Elementary academic indicator 6.4/10 offers a reasonable academic lead.
 
 Only two bedrooms; 20 Avenue traffic exposure and shared duplex obligations remain unresolved. No-fee estimate is not proof of no shared costs. School safety is unproven; transit roughly 85–120 minutes.
 
@@ -219,7 +222,7 @@ Important notes:
 
 Large yard/workshop, map-supported school pathway and a 6.4/10 elementary academic indicator.
 
-Total monthly planning estimate ~$6,659/mo without verified rent, well above the $5,000 total target (mortgage ~$4,818). Suite is unfinished and measurements/claims conflict. Long transit (roughly 120–160 minutes), and park walk may exceed 30 minutes. School safety remains unproven.
+Total monthly planning estimate ~$6,008/mo without verified rent, well above the $5,000 total target (mortgage ~$4,250). Suite is unfinished and measurements/claims conflict. Long transit (roughly 120–160 minutes), and park walk may exceed 30 minutes. School safety remains unproven.
 
 Important notes:
 
@@ -289,7 +292,7 @@ Important notes:
 
 **Availability update 2026-11-01: confirmed active** — price reduced to $810,000 (was $814,900).
 
-Total monthly planning estimate ~$4,478/mo, within the $5,000 total target; nearby activity park, newer build and unusually large advertised garage.
+Total monthly planning estimate ~$4,386/mo, within the $5,000 total target; nearby activity park, newer build and unusually large advertised garage.
 
 Only two bedrooms; long transit and unverified school safety are meaningful tradeoffs. Check garage dimensions, yard boundaries and strata documents.
 
@@ -315,7 +318,7 @@ Important notes:
 
 **5.5/10 · Outdoor/commute candidate; academic tradeoff · low confidence**
 
-Three bedrooms, advertised fenced yard and access to Gates Park; total monthly planning estimate ~$4,909/mo, just within the $5,000 total target.
+Three bedrooms, advertised fenced yard and access to Gates Park; total monthly planning estimate ~$4,757/mo, just within the $5,000 total target.
 
 Central elementary indicator is 3.9/10. Strata fee is relatively high, and exact school assignment, safety and unit exposure need review.
 
@@ -343,15 +346,15 @@ Important notes:
 
 **5.5/10 · Yard option; parking/tax evidence needs care · low confidence**
 
-Three bedrooms, fenced yard and total monthly planning estimate ~$4,797/mo, within the $5,000 total target; potentially shorter downtown access than outer suburbs.
+Three bedrooms, fenced yard and total monthly planning estimate ~$4,701/mo, within the $5,000 total target; potentially shorter downtown access than outer suburbs.
 
-Published $0 tax is treated as missing and imputed. Floating stall is not a second exclusive space; road noise, school assignment and safety need checking.
+Tax $2,843 (2025) filled from REW.ca Nov 15, 2026. Floating stall is not a second exclusive space; road noise, school assignment and safety need checking.
 
 Important notes:
 
-- Tax entry $0 rejected as a placeholder; labelled comparison estimate used.
+- Tax $2,843 (2025) filled from REW.ca Nov 15, 2026; was treated as missing (published $0 rejected as a placeholder).
 - One assigned parking stall; floating second stall is not guaranteed.
-- Published $0 tax is treated as missing and imputed. Floating stall is not a second exclusive space; road noise, school assignment and safety need checking.
+- Tax $2,843 (2025) filled from REW.ca Nov 15, 2026. Floating stall is not a second exclusive space; road noise, school assignment and safety need checking.
 
 ## P20 — 2-2990 Mariner Way
 
@@ -456,12 +459,12 @@ Important notes:
 
 Newest build in the batch (2024); corner unit with air conditioning; private fenced yard and sunny deck; double side-by-side garage; strata ($336.91/mo) and tax ($3,610.34, 2025) fully verified; Willoughby Elementary has a verified Fraser Institute 2023/24 score of 6.8; Yorkson Community Park (new accessible playground, spray park, pumptrack) roughly 9-18 min walk; open house Oct 25, 2:00 pm.
 
-Highest asking price in the batch ($839,000) and smallest floor area (1,392 sqft); total monthly planning estimate ~$4,680/mo at 4.75%/25yr with $250k down — within the $5,000 total target; listing text once said offers to be presented Sep 15, 2026 (stale) although status remains Active; catchment and school safety unverified.
+Highest asking price in the batch ($839,000) and smallest floor area (1,392 sqft); total monthly planning estimate ~$4,680/mo at 4.75%/25yr with $250k down — within the $5,000 total target; listing text once said offers to be presented Sep 15, 2026 (stale); now pending (close $825,000, checked Nov 15, 2026) — retained as a priced comparable; catchment and school safety unverified.
 
 Important notes:
 
 - Mortgage-only ~$3,342/mo; total monthly planning estimate ~$4,680/mo.
-- Price change Sep 25, 2026: -$10,000 (implied original $849,000). A stale duplicate listing shows the same unit at $948,000 under old MLS R3117232 — not a price rise; the current listing is R3161671 at $839,000.
+- Price change Sep 25, 2026: -$10,000 (implied original $849,000). A stale duplicate listing shows the same unit at $948,000 under old MLS R3117232 — not a price rise; the listing went pending Nov 15, 2026 (close $825,000); it was R3161671 at $839,000.
 - Asking price is not a sale price.
 
 ## P28 — 32-9525 204 Street
@@ -675,13 +678,13 @@ Important notes:
 
 Detached house with an existing suite — the detached-plus-suite strategy at $1,198,888; 5 bed / 4 bath, 2,952 sqft; 2017 build; double garage (4 total spaces); Bertrand Creek views; Bertrand Creek Dog Park / Aldergrove Regional Park roughly 10-18 min walk; Shortreed Community Elementary has a verified Fraser Institute 2023/24 score of 6.4.
 
-Availability confirmed Active 2026-11-01 on REW.ca; the stale Zolo sitemap removal signal was not borne out on the live page. suite permit and tenancy status unverified and no rent modelled; total monthly planning estimate ~$7,298/mo at 4.75%/25yr with $250k down, well above the $5,000 total target (mortgage alone ~$5,385/mo); transit 95-130 min to Waterfront Station — the longest range in the sample; no private yard described; catchment and school safety unverified.
+Relisted Nov 15, 2026 under new MLS R3183505 at $1,149,888; confirmed active. suite permit and tenancy status unverified and no rent modelled; total monthly planning estimate ~$6,979/mo at 4.75%/25yr with $250k down, well above the $5,000 total target (mortgage alone ~$5,106/mo); transit 95-130 min to Waterfront Station — the longest range in the sample; no private yard described; catchment and school safety unverified.
 
 Important notes:
 
 - Availability confirmed Active 2026-11-01 on REW.ca; stale Zolo sitemap removal signal not borne out.
 - Suite permit and tenancy are unverified and no rent is modelled — do not count rental income.
-- Mortgage-only ~$5,385/mo; total monthly planning estimate ~$7,298/mo (no strata — detached).
+- Mortgage-only ~$5,106/mo; total monthly planning estimate ~$6,979/mo (no strata — detached).
 - Asking price is not a sale price.
 
 ## P43 — 37-20460 66 Avenue
@@ -705,15 +708,15 @@ Important notes:
 
 **5.0/10 · Benchmark — ground-floor yard apartment comparator · low confidence**
 
-Lowest asking price in the whole expansion ($564,900); large fully fenced private yard with private front/back entries — the yard is the point of this comparator; Gates Park roughly 10-13 min walk; drive 35-50 min and transit 55-80 min to Waterfront Station via Port Coquitlam WCE; 2009 build; total monthly planning estimate ~$3,013/mo.
+Lowest asking price in the whole expansion ($544,900); large fully fenced private yard with private front/back entries — the yard is the point of this comparator; Gates Park roughly 10-13 min walk; drive 35-50 min and transit 55-80 min to Waterfront Station via Port Coquitlam WCE; 2009 build; total monthly planning estimate ~$2,891/mo.
 
-2 bedrooms and 990 sqft — a benchmark/comparator, not a family candidate at the 3-bedroom target; ground-floor apartment, not a townhouse; strata $443.42/mo and tax $2,363 (2026) verified Nov 8, 2026; total monthly planning estimate ~$3,013/mo; parking unverified; Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.
+2 bedrooms and 990 sqft — a benchmark/comparator, not a family candidate at the 3-bedroom target; ground-floor apartment, not a townhouse; strata $443.42/mo and tax $2,363 (2026) verified Nov 8, 2026; total monthly planning estimate ~$2,891/mo; parking unverified; Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.
 
 Important notes:
 
 - 2-bedroom ground-floor apartment benchmark/comparator only — not scored as a family candidate.
 - Strata $443.42/mo and tax $2,363 (2026) filled from Zolo Nov 8, 2026; parking still unverified.
-- Mortgage-only ~$1,787/mo; total monthly planning estimate ~$3,013/mo.
+- Mortgage-only ~$1,673/mo; total monthly planning estimate ~$2,891/mo.
 - Building facts (bccondosandhomes): Station Hill, built 2009, 37 units; pets allowed; rentals allowed.
 - Asking price is not a sale price.
 
@@ -744,3 +747,5 @@ Availability update 2026-10-25: P05 and P02 are pending (close prices $785,000 a
 Availability update 2026-11-01: weekly refresh re-checked all 46 active candidates. Newly pending: P03 (close $800,000), P14 (close $701,000), P18 (close $735,000 — resolves the prior conflict in favour of Pending) and P25 (close $760,000). Newly sold: P13 (close $655,000, Oct 29) and P22 (sale Oct 28, close price not shown). Relisted under new MLS numbers at lower prices: P04 ($786,000, R3178573), P07 ($1,039,000, R3179229) and P10 ($1,099,000, R3178751). Price cuts on still-active homes: P08 to $1,059,000, P15 to $810,000, P21 to $699,900, P28 to $774,900 and P47 to $860,000. P42 confirmed Active, resolving the stale sitemap signal. Six replacements added (P51–P56), all townhouses verified Active Nov 1, 2026; the sample is now 56 homes with 40 active candidates. New fit leaders at 7.0/10: P53 (Clayton) and P54 (Ranch Park) join P31, P36 and P40; none scores above 7.0. P48, P49 and P50 strata/tax/year built filled from REW.ca. Open houses Nov 1: P04, P07, P12, P29, P37 and P47.
 
 Availability update 2026-11-08: weekly refresh re-checked all 46 active candidates. Newly pending: P43 (close $600,000, contract change Oct 7). Price cuts on still-active homes: P24 to $634,880, P29 to $749,900 and P30 to $749,000. One replacement added (P57, 14-20350 68 Avenue, Willoughby Heights, $698,800, verified Active Nov 8, 2026); the sample is now 57 homes with 46 active candidates. Fit leaders unchanged at 7.0/10: P31, P36, P40, P53 and P54; none scores above 7.0. P57 scores 6.5/10 with the lowest 3-bed townhouse total in the sample (~$3,763/mo). Fills: P26 and P28 strata/tax, P44 strata/tax, P35 tax, P09 year built, P10 tax, P12/P30/P41/P42 tax years, P15 strata. P46's Oct 25 record was substantially wrong and is corrected from Zolo/REW (both agree): 3 beds (not 2), 1,385 sqft (not 1,287), built 1979 (not 2007), strata $403/mo, tax $3,431 (2025), 1 carport space; listed Oct 5, 2026, so the 241-days-on-market claim was also wrong. P29's market fit moved to Above (+16.1% vs the Township of Langley townhouse median) after its cut. Open houses Nov 8: P04, P07, P11, P12, P17 and P29. What could not be verified: P19's tax (still not shown on the listing page); P35's strata fee (still not shown); P20's year built (unit-level 1977 vs building 1978 — record keeps 1978).
+
+Availability update 2026-11-15: weekly refresh re-checked all 46 active candidates. Newly pending: P27 (close $825,000, contract change Oct 24) and P36 (close $685,000, contract change Oct 23; close price shown in the Zolo page data block only). Newly sold: P51 (Zealty shows sold, published Oct 30; close price and sale date not publicly shown). All three leave the active comparison and are retained as priced comparables; P36 was a 7.0/10 fit leader, so the leaders are now P31, P40, P53 and P54. Relisted under new MLS numbers at lower prices: P06 ($699,000, R3183723), P19 ($839,000, R3183151) and P42 ($1,149,888, R3183505). Price cuts on still-active homes: P10 to $999,000, P15 to $795,000, P17 to $824,900, P44 to $544,900 and P47 to $849,000; P47's total (~$4,965/mo) is now within the $5,000 total target. P20 confirmed Active on REALTOR.ca at $849,000 — the $840,000 Sold entry in the Oct 2026 Ranch Park market report is a different unit in the complex, not unit 2. P50 confirmed Active on REALTOR.ca at $879,000 after Zolo/REW searches found no live listing. Three replacements added (P58–P60), all townhouses with private fenced yards verified Active Nov 15, 2026; the sample is now 60 homes with 46 active candidates. New fit leaders: none — P58 and P59 score 6.5/10, P60 scores 6.0/10; no home scores above 7.0. P59's nearest park (Willoughby Community Park) is ~30 min walk, at the edge of the 20–30 minute target. Fills: P19 tax $2,843 (2025) from REW.ca. Open houses Nov 15: P12 (12:00–5:00 pm) and P59 (listing text 1–3pm vs Zolo event block 12–2pm — times conflict). What could not be verified: P35's strata fee (still not shown on the listing page — the page data block lists Association Fee 0, not credible, left missing); P51's close price and sale date (masked behind sign-in walls); P60's return-to-market reason (prior $799,000 listing R3112163, Apr 2026).

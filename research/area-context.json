@@ -1156,6 +1156,67 @@
       "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
       "status": "Park lead researched; entrance/access/crossing controls require confirmation",
       "checked_on": "2026-11-08"
+    },
+    "P58": {
+      "name": "Douglas Park",
+      "address": null,
+      "url": "https://www.discoverlangleycity.com/play/nature/",
+      "features": [
+        "Playground",
+        "Spray park (seasonal)",
+        "Sports courts",
+        "Walking trails",
+        "Washrooms"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        5,
+        10
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-15"
+    },
+    "P59": {
+      "name": "Willoughby Community Park",
+      "address": null,
+      "url": "https://facilities.tol.ca/Home/Detail?Id=1f4ee385-730f-45c5-bd6b-9618a0ecab2a",
+      "features": [
+        "Playground",
+        "Spray park",
+        "Sports fields",
+        "Walking trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        25,
+        35
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-15"
+    },
+    "P60": {
+      "name": "Mackin Park",
+      "address": null,
+      "url": "https://www.coquitlam.ca/Facilities/Facility/Details/Mackin-Park-51",
+      "features": [
+        "Playground",
+        "Spray park",
+        "Sports fields",
+        "Walking trails"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        8,
+        14
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-15"
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",

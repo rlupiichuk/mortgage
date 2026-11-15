@@ -153,3 +153,29 @@ Added P57 on 2026-11-08 to replace P43, which went pending (close $600,000) in t
 ## Scope limits
 
 No new rental income is assumed for this addition. Crime remains jurisdiction-level context. The new park range uses a rough geocoded proximity estimate at family pace, not a network route; no new geocoded route observation was added for P57. School safety, suite permits and live availability beyond Nov 8 remain unverified for this addition; the catchment is now district-confirmed (see research-log.md, 2026-11-08).
+
+# Sixth expansion: November 15 refresh replacements (P58–P60)
+
+Added P58–P60 on 2026-11-15 to replace three homes that left the active comparison in the weekly refresh (P27 and P36 pending; P51 sold — see the research log). Three resale townhouses, all verified Active on Zolo.ca on 2026-11-15, all with an advertised private fenced yard. The sample is now 60 homes, with 46 active candidates. No new fit leaders: P58 and P59 score 6.5/10, P60 scores 6.0/10; the leaders remain P31, P40, P53 and P54 at 7.0/10, none scores above 7.0. P36 was a 7.0/10 fit leader before going pending.
+
+| ID | Address | Asking | Note |
+|---|---|---:|---|
+| P58 | [2-20761 Duncan Way](https://www.zolo.ca/langley-real-estate/20761-duncan-way/2) · Langley City (Wyndham Lane) | $749,999 | 6.5 fit; private yard with covered patio; 3 bed / 2.5 bath, 1,287 sqft, 2004; total ~$4,160/mo, within target; $583/sqft, above the comparable median (+22.0%); Douglas Park lead (~5–10 min walk); tandem double garage plus a 3rd space |
+| P59 | [5-20582 67 Avenue](https://www.zolo.ca/langley-real-estate/20582-67-avenue/5) · Willoughby Heights | $824,500 | 6.5 fit; fully fenced yard backing onto a quiet cul-de-sac; 4 bed / 2.5 bath, 2,113 sqft, 2004; total ~$4,676/mo, within target; $390/sqft, below the comparable median (−17.4%); side-by-side double garage; Willoughby Community Park lead (~25–35 min walk, at the edge of the target) |
+| P60 | [25-315 Schoolhouse Street](https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25) · Maillardville | $769,000 | 6.0 fit; fully fenced backyard; 3 bed / 2 bath, 1,515 sqft, 1972 (renovated); total ~$4,377/mo, within target; $508/sqft, below the comparable median (−17.6%); Mackin Park lead; end unit; only 1 open parking space, no covered parking; back on the market after a prior $799,000 listing (R3112163, Apr 2026) |
+
+Rejected: Langley City 15–8968 208 Street (R3178909, $649,900 — $100 below the $650,000 floor, and a different unit in the same building as existing sample home P04); Langley 157–8138 204 Street (R3182847, $849,800 — no yard wording anywhere in the listing, only patio/deck); Langley 99–8930 Walnut Grove Drive (R3182203, $698,000 — patio-only yard wording); Langley 62–4967 220 Street (R3181377, $759,900 — same-complex duplicate risk, since 51–4967 220 Street is existing sample home P29). Verified alternate held in reserve: Surrey (Cloverdale) 19–16789 60 Avenue ($785,000, R3179603; 4 bed / 3 bath, 1,638 sqft, 2005; fenced south-facing yard; Cloverdale Athletic Park lead).
+
+## November 15 refresh follow-up priorities
+
+- P58 Langley City: verify SD35 catchment (Douglas Park / Langley Secondary leads) and yard exclusivity; listed Nov 9, 2026, only 6 days on market.
+- P59 Willoughby: verify SD35 catchment (Willoughby / R.E. Mountain leads) and yard exclusivity; confirm the open-house time (listing text 1–3pm vs Zolo event block 12–2pm, Nov 15); nearest park is ~30 min walk, at the edge of the target.
+- P60 Maillardville: verify SD43 catchment (École Rochester / Port Moody Secondary leads) and yard exclusivity; ask why it returned to market after the prior $799,000 listing (R3112163, Apr 2026); 1972 building condition/depreciation report and the single open parking space need review.
+- P36 Maple Ridge: was a 7.0 fit leader — now pending (close $685,000); retained as a priced comparable.
+- P51 Willoughby: sold within days of listing; retained as a priced comparable; close price not publicly shown.
+- P20 Mariner Way: confirmed Active on REALTOR.ca; the conflicting $840,000 Sold entry belongs to a different unit in the complex.
+- P50 Foxwood Drive: confirmed Active on REALTOR.ca; Zolo/REW searches found no live listing, so future re-checks should use REALTOR.ca for this unit.
+
+## Scope limits
+
+No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P58–P60. School grades follow each district's published grade structure (SD35 K–5; SD43 K–5/9–12). District-confirmed assignments, school safety, suite permits and live availability beyond Nov 15 remain unverified for all three additions.

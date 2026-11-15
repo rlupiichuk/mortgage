@@ -65,6 +65,9 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [81-688 Edgar Avenue](https://www.google.com/maps/search/?api=1&query=81-688+Edgar+Avenue%2C+Coquitlam%2C+BC%2C+Canada) | [Alderson Elementary](https://www.sd43.bc.ca/alderson) → [Centennial Secondary](https://www.sd43.bc.ca/centennial) | None established | Listing/nearby lead; verify | Not needed |
 | [15-23281 Kanaka Way](https://www.google.com/maps/search/?api=1&query=15-23281+Kanaka+Way%2C+Maple+Ridge%2C+BC%2C+Canada) | [Kanaka Creek Elementary](http://elementary.sd42.ca/kanakacreek/) → [Samuel Robertson Technical Secondary](https://secondary.sd42.ca/srt/) | None established | Listing/nearby lead; verify | Not needed |
 | [14-20350 68 Avenue](https://www.google.com/maps/search/?api=1&query=14-20350+68+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | District-confirmed via district school locator, checked 2026-11-08 | Not needed |
+| [2-20761 Duncan Way](https://www.google.com/maps/search/?api=1&query=2-20761+Duncan+Way%2C+Langley+City%2C+BC%2C+Canada) | [Douglas Park Community School](https://www.sd35.bc.ca/douglaspark) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | Listing/nearby lead; verify | Not needed |
+| [5-20582 67 Avenue](https://www.google.com/maps/search/?api=1&query=5-20582+67+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [Willoughby Elementary](https://www.sd35.bc.ca/willoughby) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | Listing/nearby lead; verify | Not needed |
+| [25-315 Schoolhouse Street](https://www.google.com/maps/search/?api=1&query=25-315+Schoolhouse+Street%2C+Coquitlam%2C+BC%2C+Canada) | [École Rochester Elementary](https://www.sd43.bc.ca/school/rochester/) → [Port Moody Secondary School](https://www.sd43.bc.ca/portmoody/) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -409,3 +412,21 @@ Listing/nearby school leads only, from the REW.ca listing page for this unit. No
 District-confirmed via the SD35 Baragar School Locator for 20350 68 Avenue, checked Nov 8, 2026: R.C. Garnett Elementary (K–5), Peter Ewart Middle (6–8), and R.E. Mountain Secondary (9–12). REW.ca correctly listed Peter Ewart Middle and R.E. Mountain Secondary; Zolo's nearby-schools list correctly named R.C. Garnett Elementary but incorrectly named Langley Secondary, which the locator did not return. The locator also lists the same middle and secondary schools for 2027–28. Locator result is at street-number level (20350 68 Avenue as a whole, not unit 14 specifically). No capacity, before/after care, or school safety conclusion.
 
 [Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [District-confirmed catchment (district school locator)](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC35) · [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/20350-68-avenue/14) · [Property advertisement / school insights](https://www.rew.ca/properties/14-20350-68-avenue-langley-bc) · [Official school identity: R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) · [Official school identity: Peter Ewart Middle School](https://pems.sd35.bc.ca/) · [Official school identity: R.E. Mountain Secondary](https://www.sd35.bc.ca/remss)
+
+### P58 — 2-20761 Duncan Way
+
+Listing/nearby school leads only, from the Zolo.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/20761-duncan-way/2)
+
+### P59 — 5-20582 67 Avenue
+
+Listing/nearby school leads only, from the Zolo.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://www.sd35.bc.ca/school-locator). [Property advertisement / school leads](https://www.zolo.ca/langley-real-estate/20582-67-avenue/5)
+
+### P60 — 25-315 Schoolhouse Street
+
+Listing/nearby school leads only, from the Zolo.ca listing page for this unit. No district-confirmed address result, capacity or school safety conclusion.
+
+[Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [Property advertisement / school leads](https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25)
