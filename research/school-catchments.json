@@ -475,6 +475,12 @@
       "grades": "K–7",
       "url": "https://elementary.sd42.ca/glenwood/",
       "level": "elementary"
+    },
+    "mrss": {
+      "name": "Maple Ridge Secondary",
+      "grades": "8–12",
+      "url": "https://www.sd42.ca/secondary-school/maple-ridge-secondary/",
+      "level": "secondary"
     }
   },
   "properties": {
@@ -2432,10 +2438,14 @@
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Surrey Centre Elementary; Lord Tweedsmuir Secondary; A.J. McLellan Elementary also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD36 has no separate middle school (K–7 / 8–12).",
+      "status": "District-confirmed via district school locator, checked 2026-11-22",
+      "notes": "District-confirmed via the SD36 Baragar School Locator for the 16789–16793 60 Avenue range, checked Nov 22, 2026: Surrey Centre Elementary (K–7) and Lord Tweedsmuir Secondary (8–12). The listing lead matched exactly. Locator result is at street-range level (16789–16793 60 Avenue as a whole, not unit 19 specifically). Capacity figures shown by the locator: Surrey Centre Elementary capacity 430, enrolment 368; Lord Tweedsmuir Secondary capacity 1,400, enrolment 1,852 — enrolment above stated capacity, no explicit warning shown. No before/after care or school safety conclusion.",
       "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
       "sources": [
+        {
+          "label": "District-confirmed catchment (SD36 Baragar School Locator)",
+          "url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36"
+        },
         {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/surrey-real-estate/16789-60-avenue/19"
@@ -2459,22 +2469,26 @@
     "P62": {
       "district": "SD42",
       "current": [
-        "glenwood",
+        "fairview",
         "westview"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Glenwood Elementary; Westview Secondary; Meadowridge also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD42 has no separate middle school (K–7 / 8–12).",
+      "status": "District-confirmed via district school locator, checked 2026-11-22",
+      "notes": "District-confirmed via the SD42 Baragar School Locator for the 11875–11955 210 Street range, checked Nov 22, 2026: Fairview Elementary (K–7) and Westview Secondary (8–12). The listing lead correctly named Westview Secondary but incorrectly named Glenwood Elementary; the locator returns Fairview Elementary instead. The French Immersion track is Laity View Elementary (Early K–7) / Eric Langton Elementary (Late 6–7) / Westview Secondary (8–12). Locator result is at street-range level (11875–11955 210 Street as a whole, not unit 11 specifically). SD42 shows no capacity or enrolment figures in the locator; SD42 notes a child may not be assigned to the catchment school if the building is at capacity. No before/after care or school safety conclusion.",
       "locator_url": "https://www.sd42.ca/school-locator/",
       "sources": [
+        {
+          "label": "District-confirmed catchment (SD42 Baragar School Locator)",
+          "url": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC42"
+        },
         {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/maple-ridge-real-estate/11875-210-street/11"
         },
         {
-          "label": "Official school identity: Glenwood Elementary",
-          "url": "https://elementary.sd42.ca/glenwood/"
+          "label": "Official school identity: Fairview Elementary",
+          "url": "https://elementary.sd42.ca/fairview/"
         },
         {
           "label": "Official school identity: Westview Secondary",
@@ -2492,14 +2506,18 @@
       "district": "SD42",
       "current": [
         "glenwood",
-        "westview"
+        "mrss"
       ],
       "future": [],
       "future_effective": null,
-      "status": "Listing/nearby lead; verify",
-      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Glenwood Elementary; Westview Secondary; Alouette and Meadowridge also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD42 has no separate middle school (K–7 / 8–12).",
+      "status": "District-confirmed via district school locator, checked 2026-11-22",
+      "notes": "District-confirmed via the SD42 Baragar School Locator for the 21631–21861 Dewdney Trunk Road range, checked Nov 22, 2026: Glenwood Elementary (K–7) and Maple Ridge Secondary (8–12). The listing lead correctly named Glenwood Elementary but incorrectly named Westview Secondary; the locator returns Maple Ridge Secondary instead. The French Immersion track is Laity View Elementary (Early K–7) / Eric Langton Elementary (Late 6–7) / Maple Ridge Secondary (8–12). Locator result is at street-range level (21631–21861 Dewdney Trunk Road as a whole, not unit 30 specifically). SD42 shows no capacity or enrolment figures in the locator; SD42 notes a child may not be assigned to the catchment school if the building is at capacity. No before/after care or school safety conclusion.",
       "locator_url": "https://www.sd42.ca/school-locator/",
       "sources": [
+        {
+          "label": "District-confirmed catchment (SD42 Baragar School Locator)",
+          "url": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC42"
+        },
         {
           "label": "Property advertisement / school leads",
           "url": "https://www.zolo.ca/maple-ridge-real-estate/21801-dewdney-trunk-road/30"
@@ -2509,8 +2527,8 @@
           "url": "https://elementary.sd42.ca/glenwood/"
         },
         {
-          "label": "Official school identity: Westview Secondary",
-          "url": "https://www.sd42.ca/secondary-school/westview-secondary/"
+          "label": "Official school identity: Maple Ridge Secondary",
+          "url": "https://www.sd42.ca/secondary-school/maple-ridge-secondary/"
         }
       ],
       "safety_research": {

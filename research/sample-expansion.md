@@ -194,9 +194,9 @@ Rejected: Maple Ridge 65–22740 116 Avenue ($680,000, R3184957 — private back
 
 ## November 22 refresh follow-up priorities
 
-- P61 Cloverdale: catchment not district-confirmed (Surrey Centre Elementary / Lord Tweedsmuir Secondary leads only); yard exclusivity still to verify; ask why it has not sold after a $35,000 cut.
-- P62 Southwest Maple Ridge: catchment not district-confirmed (Glenwood Elementary / Westview Secondary leads only); yard exclusivity still to verify; ask why it has not sold after 87 days and a $30,000 cut; self-managed strata documents need review.
-- P63 West Central Maple Ridge: catchment not district-confirmed (Glenwood Elementary / Westview Secondary leads only); verify the bedroom count (marketing says 4, structured fields say 3); Dewdney Trunk Road exposure and the single carport space need review.
+- P61 Cloverdale: catchment district-confirmed Nov 22, 2026 (Surrey Centre Elementary / Lord Tweedsmuir Secondary); yard exclusivity still to verify; ask why it has not sold after a $35,000 cut; Lord Tweedsmuir enrolment (1,852) is above its stated capacity (1,400) per the locator.
+- P62 Southwest Maple Ridge: catchment district-confirmed Nov 22, 2026 (Fairview Elementary / Westview Secondary — the listing lead was wrong on the elementary; Glenwood is not the catchment school); yard exclusivity still to verify; ask why it has not sold after 87 days and a $30,000 cut; self-managed strata documents need review.
+- P63 West Central Maple Ridge: catchment district-confirmed Nov 22, 2026 (Glenwood Elementary / Maple Ridge Secondary — the listing lead was wrong on the secondary; Westview is not the catchment school); verify the bedroom count (marketing says 4, structured fields say 3); Dewdney Trunk Road exposure and the single carport space need review.
 - P04 Walnut Grove: terminated Oct 26, 2026 per Zolo — but the termination date precedes the Nov 1 relist note (new MLS R3178573 at $786,000); the sequence is unresolved, and no close price is shown.
 - P38 Maple Ridge: pending at $775,000 (contract change Oct 31, 2026); P45 Maple Ridge: pending at $575,000 (contract change Oct 13, 2026).
 - P28 Walnut Grove: floor area conflicts across sources (Redfin 1,294 sqft vs Zolo/vancouvernashdom/EstateBlock 1,477 sqft — record keeps 1,477).
@@ -205,4 +205,4 @@ Rejected: Maple Ridge 65–22740 116 Avenue ($680,000, R3184957 — private back
 
 ## Scope limits
 
-No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P61–P63. School safety, suite permits and live availability beyond Nov 22 remain unverified for all three additions; the catchments are listing/nearby leads only.
+No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P61–P63. School safety, suite permits and live availability beyond Nov 22 remain unverified for all three additions; the catchments are now district-confirmed (see research-log.md, 2026-11-22).
