@@ -227,3 +227,52 @@ observed_on,property_id,mls,address,asking_price,status_notes,source
 2026-11-15,P58,R3182104,2-20761 Duncan Way,749999,"Added 2026-11-15; Zolo listing verified Active on 2026-11-15; private yard with covered patio; listed Nov 9, 2026.",https://www.zolo.ca/langley-real-estate/20761-duncan-way/2
 2026-11-15,P59,R3175746,5-20582 67 Avenue,824500,"Added 2026-11-15; Zolo listing verified Active on 2026-11-15; fully fenced yard, backs onto a quiet cul-de-sac; listed Oct 15, 2026; open house Nov 15, 1-3pm (listing text) / 12-2pm (Zolo event block) — times conflict.",https://www.zolo.ca/langley-real-estate/20582-67-avenue/5
 2026-11-15,P60,R3179479,25-315 Schoolhouse Street,769000,"Added 2026-11-15; Zolo listing verified Active on 2026-11-15; fully fenced backyard; listed Oct 28, 2026; back on the market after a prior $799,000 listing (R3112163, Apr 2026).",https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25
+2026-11-22,P04,R3178573,9-8968 208 Street,786000,"Removed: Zolo shows Terminated, contract status change 2026-10-26; REALTOR.ca page 404s. No close price shown.",https://www.realtor.ca/real-estate/30445502/9-8968-208-street-langley
+2026-11-22,P06,R3183723,15669 20 Avenue,699000,"Confirmed active. Open house Nov 22, 2:00-4:00 pm.",https://www.zolo.ca/surrey-real-estate/15669-20-avenue
+2026-11-22,P07,R3179229,24222 103 Avenue,1039000,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/24222-103-avenue
+2026-11-22,P08,R3144039,12326 Aurora Street,1059000,Confirmed active (price via Resider; Sotheby's page shows no price in fetched text).,https://sothebysrealty.ca/en/mls-property/british-columbia/region-greater-vancouver/maple-ridge-real-estate/3487529/12326-aurora-street/
+2026-11-22,P09,R3176554,6926 190 Street,1099000,Confirmed active.,https://www.rew.ca/properties/6926-190-street-surrey-bc
+2026-11-22,P10,R3178751,27191 28A Avenue,999000,Confirmed active.,https://www.rew.ca/properties/27191-28a-avenue-langley-bc
+2026-11-22,P11,R3177701,20030 48 Avenue,1199000,Confirmed active.,https://www.rew.ca/properties/20030-48-avenue-langley-bc
+2026-11-22,P12,R3163557,4536 208 Street,1099000,"Confirmed active. Open house Nov 22, 12:00-5:00 pm.",https://www.realtor.ca/real-estate/30255815/4536-208-street-langley
+2026-11-22,P15,R3161907,14-22128 48A Avenue,795000,Confirmed active.,https://www.rew.ca/properties/14-22128-48a-avenue-langley-bc
+2026-11-22,P17,R3175794,35-2450 Lobb Avenue,824900,Confirmed active.,https://www.zolo.ca/port-coquitlam-real-estate/2450-lobb-avenue/35
+2026-11-22,P19,R3183151,3-98 Begin Street,839000,Confirmed active.,https://www.rew.ca/properties/3-98-begin-street-coquitlam-bc
+2026-11-22,P20,R3172668,2-2990 Mariner Way,849000,Confirmed active on REALTOR.ca (primary bccondos page returned 403).,https://www.bccondosandhomes.com/listing/r3172668-2-2990-mariner-way-coquitlam-bc-v3c-4k1
+2026-11-22,P21,R3172799,11-23986 104 Avenue,699900,Confirmed active.,https://resider.ca/bc/maple-ridge/albion/23986-104-avenue/11-029548314
+2026-11-22,P23,R3169326,77-20350 53 Avenue,479900,Confirmed active.,https://www.rew.ca/properties/77-20350-53-avenue-langley-bc
+2026-11-22,P24,R3163723,11-6555 192A Street,634880,Confirmed active (Klein Residential MLS search; recorded source is an index page).,https://homesforsaleinbc.ca/surrey/clayton/2-bedroom-homes
+2026-11-22,P26,R3152853,37-20449 66 Avenue,734900,Confirmed active (EstateBlock; 110 days on market; recorded sources are index pages).,https://vancouvernashdom.com/langley-townhouses-for-sale-above-700000/SearchResults.form/?_pg=2
+2026-11-22,P28,R3169441,32-9525 204 Street,749900,"Confirmed active; price reduced to $749,900 (was $774,900; cut $25,000). Open house Nov 22, 2:00-3:30 pm. Floor area conflicts: Redfin 1,294 sqft vs Zolo/EstateBlock 1,477 sqft.",https://vancouvernashdom.com/langley-walnut-grove-townhouses/SearchResults.form/?_pg=2
+2026-11-22,P29,R3158909,51-4967 220 Street,749900,"Confirmed active. Open house Nov 22, 2:00-4:00 pm (listing text and Zolo agree; earlier 1-3pm time appears superseded).",https://www.zolo.ca/langley-real-estate/4967-220-street/51
+2026-11-22,P30,R3174981,29-5515 199a Street,749000,Confirmed active (price via primepropertygroup/Klein search; brokerage page shows no price).,https://bryanvanhoepen.com/featured/29-5515-199a-street-langley-bc-v3a-1j7/?qir=5fDTYbfUIXGrSbsY5dOPxaVfJCHoDRYB5aX3B9s5&qenv=production
+2026-11-22,P31,R3175484,13-621 Langside Avenue,889900,"Confirmed active. Open house Nov 22, 2:00-4:00 pm (Zolo listing page; events listings elsewhere show 1-3pm — times conflict).",https://www.zolo.ca/coquitlam-real-estate/621-langside-avenue/13
+2026-11-22,P32,R3175457,112-1225 Mitchell Street,899000,Confirmed active.,https://www.zolo.ca/coquitlam-real-estate/1225-mitchell-street/112
+2026-11-22,P33,R3167808,17-2560 Pitt River Road,870000,"Confirmed active; price reduced to $870,000 (was $879,000; cut $9,000 on Nov 19). Open house Nov 22, 2:00-4:00 pm.",https://www.zolo.ca/port-coquitlam-real-estate/2560-pitt-river-road/17
+2026-11-22,P34,R3176002,40-1355 Citadel Drive,879000,Confirmed active.,https://www.zolo.ca/port-coquitlam-real-estate/1355-citadel-drive/40
+2026-11-22,P35,R3175179,21-12268 189a Street,809700,"Confirmed active at unit level on Zolo.ca. Zolo home-value estimate $803,222 vs $809,700 asking.",https://www.strawhomes.com/mls/pitt-meadows-townhouses/
+2026-11-22,P37,R3177346,30-13260 236 Street,750000,Confirmed active.,https://www.zolo.ca/maple-ridge-real-estate/13260-236-street/30
+2026-11-22,P38,R3175708,4-11282 Cottonwood Drive,799900,"Pending: Zolo shows status Pending with close price $775,000; contract status change 2026-10-31.",https://www.zolo.ca/maple-ridge-real-estate/11282-cottonwood-drive/4
+2026-11-22,P39,R3150431,26-15850 85 Avenue,775000,Confirmed active.,https://www.zolo.ca/surrey-real-estate/15850-85-avenue/26
+2026-11-22,P40,R3173710,14-6945 185 Street,775000,Confirmed active.,https://www.zolo.ca/surrey-real-estate/6945-185-street/14
+2026-11-22,P41,R3177355,11382 240 Street,1099999,Confirmed active.,https://www.estateblock.com/maple-ridge/11382-240-st-1929754
+2026-11-22,P42,R3183505,2663 275a Street,1149888,"Confirmed active. Open house Nov 22, 2:00-4:00 pm.",https://www.estateblock.com/langley/2663-275a-st-1947836
+2026-11-22,P44,R3173322,107-2228 Welcher Avenue,544900,Confirmed active (Zealty/tomjahed; recorded source is an index page).,https://vancouvernashdom.com/port-coquitlam-central-port-coquitlam-apartments/SearchResults.form/?_pg=6
+2026-11-22,P45,R3164137,4-12070 207a Street,599900,"Pending: Zolo shows status Pending with close price $575,000; contract status change 2026-10-13.",https://www.zolo.ca/maple-ridge-real-estate/12070-207a-street/4
+2026-11-22,P46,R3172688,231 Balmoral Place,748000,Confirmed active.,https://www.zolo.ca/port-moody-real-estate/231-balmoral-place
+2026-11-22,P47,R3149832,461 Carlsen Place,849000,Confirmed active.,https://www.zolo.ca/port-moody-real-estate/461-carlsen-place
+2026-11-22,P48,R3168166,520 Cardiff Way,824800,Confirmed active.,https://vancouvernashdom.com/port-moody-townhouses-for-sale-above-700000/SearchResults.form/
+2026-11-22,P49,R3162285,23-15 Forest Park Way,799900,Confirmed active.,https://vancouvernashdom.com/port-moody-heritage-woods-townhouses/SearchResults.form/
+2026-11-22,P50,R3172640,57-65 Foxwood Drive,879000,Confirmed active on REALTOR.ca.,https://www.realtor.ca/real-estate/30368031/57-65-foxwood-drive-port-moody
+2026-11-22,P52,R3179046,41-20222 96 Avenue,899000,Confirmed active.,https://www.rew.ca/properties/41-20222-96-avenue-langley-bc
+2026-11-22,P53,R3179584,1-18818 71 Avenue,799999,Confirmed active.,https://www.rew.ca/properties/1-18818-71-avenue-surrey-bc
+2026-11-22,P54,R3173489,102-2915 Norman Avenue,749900,Confirmed active.,https://www.rew.ca/properties/102-2915-norman-avenue-coquitlam-bc
+2026-11-22,P55,R3179848,81-688 Edgar Avenue,839900,Confirmed active.,https://www.rew.ca/properties/81-688-edgar-avenue-coquitlam-bc
+2026-11-22,P56,R3179710,15-23281 Kanaka Way,824800,Confirmed active.,https://www.rew.ca/properties/15-23281-kanaka-way-maple-ridge-bc
+2026-11-22,P57,R3163135,14-20350 68 Avenue,698800,Confirmed active.,https://www.zolo.ca/langley-real-estate/20350-68-avenue/14
+2026-11-22,P58,R3182104,2-20761 Duncan Way,749999,Confirmed active.,https://www.zolo.ca/langley-real-estate/20761-duncan-way/2
+2026-11-22,P59,R3175746,5-20582 67 Avenue,799900,"Confirmed active; price reduced to $799,900 (was $824,500; cut $24,600 on Nov 16).",https://www.zolo.ca/langley-real-estate/20582-67-avenue/5
+2026-11-22,P60,R3179479,25-315 Schoolhouse Street,769000,Confirmed active.,https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25
+2026-11-22,P61,R3179603,19-16789 60 Avenue,750000,"Added 2026-11-22; Zolo listing verified Active on 2026-11-22; 4-bed end unit, fenced south-facing yard; listed Nov 5, 2026; price cut $35,000 on Nov 17 (was $785,000); open house Nov 22, 2:00-4:00 pm.",https://www.zolo.ca/surrey-real-estate/16789-60-avenue/19
+2026-11-22,P62,R3158441,11-11875 210 Street,669999,"Added 2026-11-22; Zolo listing verified Active on 2026-11-22; fully fenced private yard with gazebo; listed Aug 25, 2026; price cut $30,000 on Nov 4 (was $699,999).",https://www.zolo.ca/maple-ridge-real-estate/11875-210-street/11
+2026-11-22,P63,R3179017,30-21801 Dewdney Trunk Road,690000,"Added 2026-11-22; Zolo listing verified Active on 2026-11-22; fully fenced massive private backyard; listed Oct 27, 2026; marketing text says 4-bed, structured fields 3 bed / 3 bath.",https://www.zolo.ca/maple-ridge-real-estate/21801-dewdney-trunk-road/30

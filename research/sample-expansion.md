@@ -179,3 +179,30 @@ Rejected: Langley City 15–8968 208 Street (R3178909, $649,900 — $100 below t
 ## Scope limits
 
 No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P58–P60. School grades follow each district's published grade structure (SD35 K–5; SD43 K–5/9–12). School safety, suite permits and live availability beyond Nov 15 remain unverified for all three additions; the catchments are now district-confirmed (see research-log.md, 2026-11-15).
+
+# Seventh expansion: November 22 refresh replacements (P61–P63)
+
+Added P61–P63 on 2026-11-22 to replace three homes that left the active comparison in the weekly refresh (P04 terminated; P38 and P45 pending — see the research log). Three resale townhouses, all verified Active on Zolo.ca on 2026-11-22, all with an advertised private fenced yard. The sample is now 63 homes, with 46 active candidates. No new fit leaders: P61 and P62 score 6.5/10, P63 scores 6.0/10; the leaders remain P31, P40, P53 and P54 at 7.0/10, none scores above 7.0. P61 is the first Cloverdale (Surrey) home in the sample and the first SD36 addition since P40/P53/P54.
+
+| ID | Address | Asking | Note |
+|---|---|---:|---|
+| P61 | [19-16789 60 Avenue](https://www.zolo.ca/surrey-real-estate/16789-60-avenue/19) · Cloverdale | $750,000 | 6.5 fit; fenced south-facing yard with covered deck; 4 bed / 3 bath, 1,638 sqft, 2005; total ~$4,353/mo, within target; $458/sqft, in line with the comparable median (−9.4%); end unit; side-by-side double garage; Cloverdale Athletic Park lead; listed Nov 5, 2026, price cut $35,000 on Nov 17 (was $785,000); open house Nov 22, 2:00-4:00 pm |
+| P62 | [11-11875 210 Street](https://www.zolo.ca/maple-ridge-real-estate/11875-210-street/11) · Southwest Maple Ridge | $669,999 | 6.5 fit; fully fenced private yard with gazebo; 3 bed / 3 bath, 1,285 sqft, 1994; total ~$3,684/mo, within target — the lowest total among the November additions; $521/sqft, in line with the comparable median (+9.2%); corner unit; Cook Park lead; listed Aug 25, 2026 (87 days on market), price cut $30,000 on Nov 4 (was $699,999); self-managed strata |
+| P63 | [30-21801 Dewdney Trunk Road](https://www.zolo.ca/maple-ridge-real-estate/21801-dewdney-trunk-road/30) · West Central Maple Ridge | $690,000 | 6.0 fit; fully fenced massive private backyard; 3 bed / 3 bath, 1,354 sqft, 1996; total ~$3,927/mo, within target; $510/sqft, in line with the comparable median (+6.7%); end unit; Kin Park lead; tax is high for the price ($5,079.25, 2026); only 1 carport space; marketing text calls it 4-bedroom but structured fields show 3 bed / 3 bath — verify bedroom count |
+
+Rejected: Maple Ridge 65–22740 116 Avenue ($680,000, R3184957 — private backyard, but a 55+ community, so it fails the household criteria); Maple Ridge 11–21707 Dewdney Trunk Road ($649,800, R3167208 — fully fenced yard, but $200 below the $650,000 floor).
+
+## November 22 refresh follow-up priorities
+
+- P61 Cloverdale: catchment not district-confirmed (Surrey Centre Elementary / Lord Tweedsmuir Secondary leads only); yard exclusivity still to verify; ask why it has not sold after a $35,000 cut.
+- P62 Southwest Maple Ridge: catchment not district-confirmed (Glenwood Elementary / Westview Secondary leads only); yard exclusivity still to verify; ask why it has not sold after 87 days and a $30,000 cut; self-managed strata documents need review.
+- P63 West Central Maple Ridge: catchment not district-confirmed (Glenwood Elementary / Westview Secondary leads only); verify the bedroom count (marketing says 4, structured fields say 3); Dewdney Trunk Road exposure and the single carport space need review.
+- P04 Walnut Grove: terminated Oct 26, 2026 per Zolo — but the termination date precedes the Nov 1 relist note (new MLS R3178573 at $786,000); the sequence is unresolved, and no close price is shown.
+- P38 Maple Ridge: pending at $775,000 (contract change Oct 31, 2026); P45 Maple Ridge: pending at $575,000 (contract change Oct 13, 2026).
+- P28 Walnut Grove: floor area conflicts across sources (Redfin 1,294 sqft vs Zolo/vancouvernashdom/EstateBlock 1,477 sqft — record keeps 1,477).
+- P35 Pitt Meadows: confirmed Active at unit level Nov 22, 2026 (earlier checks were building-level only); strata fee still not shown (Zolo data block lists Association Fee 0, not credible — left null, not $0).
+- P31 Coquitlam: open-house time conflict — Zolo listing page says 2-4 pm Nov 22, events listings elsewhere show 1-3 pm.
+
+## Scope limits
+
+No new rental income is assumed for these additions. Crime remains jurisdiction-level context. New park ranges use rough geocoded proximity estimates at family pace, not network routes; no new geocoded route observations were added for P61–P63. School safety, suite permits and live availability beyond Nov 22 remain unverified for all three additions; the catchments are listing/nearby leads only.

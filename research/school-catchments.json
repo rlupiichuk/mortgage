@@ -457,6 +457,24 @@
       "grades": "6–8",
       "url": "https://www.sd43.bc.ca/maillard/",
       "level": "middle"
+    },
+    "surreycentre": {
+      "name": "Surrey Centre Elementary",
+      "grades": "K–7",
+      "url": "https://studentsuccess.gov.bc.ca/school/03636039",
+      "level": "elementary"
+    },
+    "lordtweedsmuir": {
+      "name": "Lord Tweedsmuir Secondary",
+      "grades": "8–12",
+      "url": "https://surreyschools.ca/tweeds/our-school",
+      "level": "secondary"
+    },
+    "glenwood": {
+      "name": "Glenwood Elementary",
+      "grades": "K–7",
+      "url": "https://elementary.sd42.ca/glenwood/",
+      "level": "elementary"
     }
   },
   "properties": {
@@ -2403,6 +2421,102 @@
         "status": "No comparable school-level safety outcome established",
         "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
         "url": "https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25"
+      },
+      "nearest_fallback": {}
+    },
+    "P61": {
+      "district": "SD36",
+      "current": [
+        "surreycentre",
+        "lordtweedsmuir"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Surrey Centre Elementary; Lord Tweedsmuir Secondary; A.J. McLellan Elementary also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD36 has no separate middle school (K–7 / 8–12).",
+      "locator_url": "https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/surrey-real-estate/16789-60-avenue/19"
+        },
+        {
+          "label": "Official school identity: Surrey Centre Elementary",
+          "url": "https://studentsuccess.gov.bc.ca/school/03636039"
+        },
+        {
+          "label": "Official school identity: Lord Tweedsmuir Secondary",
+          "url": "https://surreyschools.ca/tweeds/our-school"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.zolo.ca/surrey-real-estate/16789-60-avenue/19"
+      },
+      "nearest_fallback": {}
+    },
+    "P62": {
+      "district": "SD42",
+      "current": [
+        "glenwood",
+        "westview"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Glenwood Elementary; Westview Secondary; Meadowridge also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD42 has no separate middle school (K–7 / 8–12).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/maple-ridge-real-estate/11875-210-street/11"
+        },
+        {
+          "label": "Official school identity: Glenwood Elementary",
+          "url": "https://elementary.sd42.ca/glenwood/"
+        },
+        {
+          "label": "Official school identity: Westview Secondary",
+          "url": "https://www.sd42.ca/secondary-school/westview-secondary/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.zolo.ca/maple-ridge-real-estate/11875-210-street/11"
+      },
+      "nearest_fallback": {}
+    },
+    "P63": {
+      "district": "SD42",
+      "current": [
+        "glenwood",
+        "westview"
+      ],
+      "future": [],
+      "future_effective": null,
+      "status": "Listing/nearby lead; verify",
+      "notes": "Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Glenwood Elementary; Westview Secondary; Alouette and Meadowridge also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD42 has no separate middle school (K–7 / 8–12).",
+      "locator_url": "https://www.sd42.ca/school-locator/",
+      "sources": [
+        {
+          "label": "Property advertisement / school leads",
+          "url": "https://www.zolo.ca/maple-ridge-real-estate/21801-dewdney-trunk-road/30"
+        },
+        {
+          "label": "Official school identity: Glenwood Elementary",
+          "url": "https://elementary.sd42.ca/glenwood/"
+        },
+        {
+          "label": "Official school identity: Westview Secondary",
+          "url": "https://www.sd42.ca/secondary-school/westview-secondary/"
+        }
+      ],
+      "safety_research": {
+        "status": "No comparable school-level safety outcome established",
+        "notes": "School identity and policies cannot establish low bullying, drug or gang incidence. Obtain current school-specific safety/belonging evidence.",
+        "url": "https://www.zolo.ca/maple-ridge-real-estate/21801-dewdney-trunk-road/30"
       },
       "nearest_fallback": {}
     }

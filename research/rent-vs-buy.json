@@ -7,7 +7,7 @@
   "down_payment": 250000,
   "annual_rate": 0.0475,
   "amortization_years": 25,
-  "computed_on": "2026-10-25",
+  "computed_on": "2026-11-01",
   "properties": {
     "P01": {
       "total_monthly": 4052,
@@ -40,13 +40,13 @@
       "breakeven_5yr": "4.3%"
     },
     "P04": {
-      "total_monthly": 4528,
-      "buy_5yr": 354227,
-      "rent_5yr": 441733,
-      "diff_5yr": -87506,
-      "buy_10yr": 523913,
-      "rent_10yr": 678291,
-      "diff_10yr": -154378,
+      "total_monthly": 4443,
+      "buy_5yr": 351902,
+      "rent_5yr": 435960,
+      "diff_5yr": -84058,
+      "buy_10yr": 517988,
+      "rent_10yr": 665066,
+      "diff_10yr": -147078,
       "breakeven_5yr": "4.0%"
     },
     "P05": {
@@ -60,34 +60,34 @@
       "breakeven_5yr": "3.9%"
     },
     "P06": {
-      "total_monthly": 4621,
-      "buy_5yr": 354077,
-      "rent_5yr": 448361,
-      "diff_5yr": -94284,
-      "buy_10yr": 523529,
-      "rent_10yr": 694151,
-      "diff_10yr": -170622,
-      "breakeven_5yr": "4.2%"
+      "total_monthly": 3971,
+      "buy_5yr": 337345,
+      "rent_5yr": 403884,
+      "diff_5yr": -66539,
+      "buy_10yr": 480903,
+      "rent_10yr": 591981,
+      "diff_10yr": -111078,
+      "breakeven_5yr": "3.8%"
     },
     "P07": {
-      "total_monthly": 6074,
-      "buy_5yr": 402599,
-      "rent_5yr": 546660,
-      "diff_5yr": -144061,
-      "buy_10yr": 647145,
-      "rent_10yr": 917186,
-      "diff_10yr": -270041,
-      "breakeven_5yr": "4.5%"
+      "total_monthly": 5749,
+      "buy_5yr": 394233,
+      "rent_5yr": 524421,
+      "diff_5yr": -130188,
+      "buy_10yr": 625832,
+      "rent_10yr": 866101,
+      "diff_10yr": -240269,
+      "breakeven_5yr": "4.3%"
     },
     "P08": {
-      "total_monthly": 6048,
-      "buy_5yr": 404272,
-      "rent_5yr": 544680,
-      "diff_5yr": -140408,
-      "buy_10yr": 651408,
-      "rent_10yr": 912058,
-      "diff_10yr": -260650,
-      "breakeven_5yr": "4.4%"
+      "total_monthly": 5788,
+      "buy_5yr": 397580,
+      "rent_5yr": 526889,
+      "diff_5yr": -129309,
+      "buy_10yr": 634357,
+      "rent_10yr": 871190,
+      "diff_10yr": -236833,
+      "breakeven_5yr": "4.3%"
     },
     "P09": {
       "total_monthly": 5987,
@@ -100,14 +100,14 @@
       "breakeven_5yr": "4.3%"
     },
     "P10": {
-      "total_monthly": 7289,
-      "buy_5yr": 421004,
-      "rent_5yr": 630844,
-      "diff_5yr": -209840,
-      "buy_10yr": 694034,
-      "rent_10yr": 1113752,
-      "diff_10yr": -419718,
-      "breakeven_5yr": "5.2%"
+      "total_monthly": 6008,
+      "buy_5yr": 387541,
+      "rent_5yr": 543320,
+      "diff_5yr": -155779,
+      "buy_10yr": 608782,
+      "rent_10yr": 912827,
+      "diff_10yr": -304045,
+      "breakeven_5yr": "4.9%"
     },
     "P11": {
       "total_monthly": 7423,
@@ -140,23 +140,23 @@
       "breakeven_5yr": "3.7%"
     },
     "P14": {
-      "total_monthly": 4208,
-      "buy_5yr": 343201,
-      "rent_5yr": 420134,
-      "diff_5yr": -76933,
-      "buy_10yr": 495822,
-      "rent_10yr": 629371,
-      "diff_10yr": -133549,
+      "total_monthly": 4202,
+      "buy_5yr": 343034,
+      "rent_5yr": 419718,
+      "diff_5yr": -76684,
+      "buy_10yr": 495396,
+      "rent_10yr": 628419,
+      "diff_10yr": -133023,
       "breakeven_5yr": "4.0%"
     },
     "P15": {
-      "total_monthly": 4460,
-      "buy_5yr": 356737,
-      "rent_5yr": 436745,
-      "diff_5yr": -80008,
-      "buy_10yr": 530307,
-      "rent_10yr": 665780,
-      "diff_10yr": -135473,
+      "total_monthly": 4386,
+      "buy_5yr": 353408,
+      "rent_5yr": 431800,
+      "diff_5yr": -78392,
+      "buy_10yr": 521824,
+      "rent_10yr": 654774,
+      "diff_10yr": -132950,
       "breakeven_5yr": "3.8%"
     },
     "P16": {
@@ -170,14 +170,14 @@
       "breakeven_5yr": "3.8%"
     },
     "P17": {
-      "total_monthly": 4909,
-      "buy_5yr": 362593,
-      "rent_5yr": 467902,
-      "diff_5yr": -105309,
-      "buy_10yr": 545226,
-      "rent_10yr": 738759,
-      "diff_10yr": -193533,
-      "breakeven_5yr": "4.3%"
+      "total_monthly": 4757,
+      "buy_5yr": 358410,
+      "rent_5yr": 457518,
+      "diff_5yr": -99108,
+      "buy_10yr": 534569,
+      "rent_10yr": 714973,
+      "diff_10yr": -180404,
+      "breakeven_5yr": "4.2%"
     },
     "P18": {
       "total_monthly": 4082,
@@ -190,13 +190,13 @@
       "breakeven_5yr": "3.6%"
     },
     "P19": {
-      "total_monthly": 4797,
-      "buy_5yr": 362443,
-      "rent_5yr": 460033,
-      "diff_5yr": -97590,
-      "buy_10yr": 544842,
-      "rent_10yr": 720010,
-      "diff_10yr": -175168,
+      "total_monthly": 4701,
+      "buy_5yr": 360770,
+      "rent_5yr": 453398,
+      "diff_5yr": -92628,
+      "buy_10yr": 540580,
+      "rent_10yr": 704571,
+      "diff_10yr": -163991,
       "breakeven_5yr": "4.1%"
     },
     "P20": {
@@ -210,14 +210,14 @@
       "breakeven_5yr": "4.3%"
     },
     "P21": {
-      "total_monthly": 4265,
-      "buy_5yr": 345862,
-      "rent_5yr": 423930,
-      "diff_5yr": -78068,
-      "buy_10yr": 502600,
-      "rent_10yr": 637797,
-      "diff_10yr": -135197,
-      "breakeven_5yr": "3.9%"
+      "total_monthly": 3961,
+      "buy_5yr": 337496,
+      "rent_5yr": 403163,
+      "diff_5yr": -65667,
+      "buy_10yr": 481287,
+      "rent_10yr": 590225,
+      "diff_10yr": -108938,
+      "breakeven_5yr": "3.8%"
     },
     "P22": {
       "total_monthly": 4342,
@@ -240,14 +240,14 @@
       "breakeven_5yr": "2.2%"
     },
     "P24": {
-      "total_monthly": 3491,
-      "buy_5yr": 330130,
-      "rent_5yr": 370616,
-      "diff_5yr": -40486,
-      "buy_10yr": 462523,
-      "rent_10yr": 514287,
-      "diff_10yr": -51764,
-      "breakeven_5yr": "3.2%"
+      "total_monthly": 3363,
+      "buy_5yr": 326617,
+      "rent_5yr": 361894,
+      "diff_5yr": -35277,
+      "buy_10yr": 453571,
+      "rent_10yr": 494307,
+      "diff_10yr": -40736,
+      "breakeven_5yr": "3.1%"
     },
     "P25": {
       "total_monthly": 4118,
@@ -260,7 +260,14 @@
       "breakeven_5yr": "3.7%"
     },
     "P26": {
-      "total_monthly": null
+      "total_monthly": 3983,
+      "buy_5yr": 343352,
+      "rent_5yr": 404253,
+      "diff_5yr": -60901,
+      "buy_10yr": 496206,
+      "rent_10yr": 591421,
+      "diff_10yr": -95215,
+      "breakeven_5yr": "3.6%"
     },
     "P27": {
       "total_monthly": 4680,
@@ -273,27 +280,34 @@
       "breakeven_5yr": "4.0%"
     },
     "P28": {
-      "total_monthly": null
+      "total_monthly": 4173,
+      "buy_5yr": 345862,
+      "rent_5yr": 417425,
+      "diff_5yr": -71563,
+      "buy_10yr": 502600,
+      "rent_10yr": 622265,
+      "diff_10yr": -119665,
+      "breakeven_5yr": "3.8%"
     },
     "P29": {
-      "total_monthly": 4213,
-      "buy_5yr": 349208,
-      "rent_5yr": 419970,
-      "diff_5yr": -70762,
-      "buy_10yr": 511125,
-      "rent_10yr": 627539,
-      "diff_10yr": -116414,
+      "total_monthly": 4092,
+      "buy_5yr": 345862,
+      "rent_5yr": 411663,
+      "diff_5yr": -65801,
+      "buy_10yr": 502600,
+      "rent_10yr": 608510,
+      "diff_10yr": -105910,
       "breakeven_5yr": "3.7%"
     },
     "P30": {
-      "total_monthly": 4372,
-      "buy_5yr": 349208,
-      "rent_5yr": 431212,
-      "diff_5yr": -82004,
-      "buy_10yr": 511125,
-      "rent_10yr": 654378,
-      "diff_10yr": -143253,
-      "breakeven_5yr": "4.0%"
+      "total_monthly": 4245,
+      "buy_5yr": 345711,
+      "rent_5yr": 422531,
+      "diff_5yr": -76820,
+      "buy_10yr": 502216,
+      "rent_10yr": 634493,
+      "diff_10yr": -132277,
+      "breakeven_5yr": "3.9%"
     },
     "P31": {
       "total_monthly": 4981,
@@ -316,13 +330,13 @@
       "breakeven_5yr": "4.2%"
     },
     "P33": {
-      "total_monthly": 4848,
-      "buy_5yr": 367462,
-      "rent_5yr": 463163,
-      "diff_5yr": -95701,
-      "buy_10yr": 557630,
-      "rent_10yr": 726277,
-      "diff_10yr": -168647,
+      "total_monthly": 4793,
+      "buy_5yr": 365956,
+      "rent_5yr": 459425,
+      "diff_5yr": -93469,
+      "buy_10yr": 553794,
+      "rent_10yr": 717714,
+      "diff_10yr": -163920,
       "breakeven_5yr": "4.0%"
     },
     "P34": {
@@ -399,14 +413,14 @@
       "breakeven_5yr": "5.4%"
     },
     "P42": {
-      "total_monthly": 7298,
-      "buy_5yr": 420985,
-      "rent_5yr": 631460,
-      "diff_5yr": -210475,
-      "buy_10yr": 693986,
-      "rent_10yr": 1115227,
-      "diff_10yr": -421241,
-      "breakeven_5yr": "5.2%"
+      "total_monthly": 6979,
+      "buy_5yr": 412787,
+      "rent_5yr": 609666,
+      "diff_5yr": -196879,
+      "buy_10yr": 673100,
+      "rent_10yr": 1065164,
+      "diff_10yr": -392064,
+      "breakeven_5yr": "5.1%"
     },
     "P43": {
       "total_monthly": 3305,
@@ -419,7 +433,14 @@
       "breakeven_5yr": "3.1%"
     },
     "P44": {
-      "total_monthly": null
+      "total_monthly": 2891,
+      "buy_5yr": 311561,
+      "rent_5yr": 329908,
+      "diff_5yr": -18347,
+      "buy_10yr": 417649,
+      "rent_10yr": 423991,
+      "diff_10yr": -6342,
+      "breakeven_5yr": "2.6%"
     },
     "P45": {
       "total_monthly": 3335,
@@ -432,33 +453,184 @@
       "breakeven_5yr": "3.3%"
     },
     "P46": {
-      "total_monthly": 4207,
+      "total_monthly": 4177,
       "buy_5yr": 345544,
-      "rent_5yr": 419871,
-      "diff_5yr": -74327,
+      "rent_5yr": 417695,
+      "diff_5yr": -72151,
       "buy_10yr": 501790,
-      "rent_10yr": 628182,
-      "diff_10yr": -126392,
-      "breakeven_5yr": "3.9%"
+      "rent_10yr": 622986,
+      "diff_10yr": -121196,
+      "breakeven_5yr": "3.8%"
     },
     "P47": {
-      "total_monthly": 5153,
-      "buy_5yr": 367630,
-      "rent_5yr": 484730,
-      "diff_5yr": -117100,
-      "buy_10yr": 558056,
-      "rent_10yr": 777726,
-      "diff_10yr": -219670,
-      "breakeven_5yr": "4.5%"
+      "total_monthly": 4965,
+      "buy_5yr": 362443,
+      "rent_5yr": 471854,
+      "diff_5yr": -109411,
+      "buy_10yr": 544842,
+      "rent_10yr": 748231,
+      "diff_10yr": -203389,
+      "breakeven_5yr": "4.4%"
     },
     "P48": {
-      "total_monthly": null
+      "total_monthly": 4923,
+      "buy_5yr": 358394,
+      "rent_5yr": 469290,
+      "diff_5yr": -110896,
+      "buy_10yr": 534527,
+      "rent_10yr": 743082,
+      "diff_10yr": -208555,
+      "breakeven_5yr": "4.5%"
     },
     "P49": {
-      "total_monthly": null
+      "total_monthly": 4539,
+      "buy_5yr": 354227,
+      "rent_5yr": 442512,
+      "diff_5yr": -88285,
+      "buy_10yr": 523913,
+      "rent_10yr": 680152,
+      "diff_10yr": -156239,
+      "breakeven_5yr": "4.1%"
     },
     "P50": {
-      "total_monthly": null
+      "total_monthly": 5149,
+      "buy_5yr": 367462,
+      "rent_5yr": 484408,
+      "diff_5yr": -116946,
+      "buy_10yr": 557630,
+      "rent_10yr": 776997,
+      "diff_10yr": -219367,
+      "breakeven_5yr": "4.5%"
+    },
+    "P51": {
+      "total_monthly": 4898,
+      "buy_5yr": 365940,
+      "rent_5yr": 466841,
+      "diff_5yr": -100901,
+      "buy_10yr": 553751,
+      "rent_10yr": 735424,
+      "diff_10yr": -181673,
+      "breakeven_5yr": "4.2%"
+    },
+    "P52": {
+      "total_monthly": 5144,
+      "buy_5yr": 370809,
+      "rent_5yr": 483755,
+      "diff_5yr": -112946,
+      "buy_10yr": 566155,
+      "rent_10yr": 774635,
+      "diff_10yr": -208480,
+      "breakeven_5yr": "4.3%"
+    },
+    "P53": {
+      "total_monthly": 4721,
+      "buy_5yr": 354244,
+      "rent_5yr": 455393,
+      "diff_5yr": -101149,
+      "buy_10yr": 523955,
+      "rent_10yr": 710899,
+      "diff_10yr": -186944,
+      "breakeven_5yr": "4.3%"
+    },
+    "P54": {
+      "total_monthly": 4023,
+      "buy_5yr": 345862,
+      "rent_5yr": 406787,
+      "diff_5yr": -60925,
+      "buy_10yr": 502600,
+      "rent_10yr": 596868,
+      "diff_10yr": -94268,
+      "breakeven_5yr": "3.5%"
+    },
+    "P55": {
+      "total_monthly": 4621,
+      "buy_5yr": 360920,
+      "rent_5yr": 447741,
+      "diff_5yr": -86821,
+      "buy_10yr": 540963,
+      "rent_10yr": 691028,
+      "diff_10yr": -150065,
+      "breakeven_5yr": "3.9%"
+    },
+    "P56": {
+      "total_monthly": 4844,
+      "buy_5yr": 358394,
+      "rent_5yr": 463710,
+      "diff_5yr": -105316,
+      "buy_10yr": 534527,
+      "rent_10yr": 729759,
+      "diff_10yr": -195232,
+      "breakeven_5yr": "4.4%"
+    },
+    "P57": {
+      "total_monthly": 3763,
+      "buy_5yr": 337312,
+      "rent_5yr": 389253,
+      "diff_5yr": -51941,
+      "buy_10yr": 480818,
+      "rent_10yr": 557059,
+      "diff_10yr": -76241,
+      "breakeven_5yr": "3.4%"
+    },
+    "P58": {
+      "total_monthly": 4160,
+      "buy_5yr": 345878,
+      "rent_5yr": 416469,
+      "diff_5yr": -70591,
+      "buy_10yr": 502642,
+      "rent_10yr": 619978,
+      "diff_10yr": -117336,
+      "breakeven_5yr": "3.8%"
+    },
+    "P59": {
+      "total_monthly": 4526,
+      "buy_5yr": 354227,
+      "rent_5yr": 441590,
+      "diff_5yr": -87363,
+      "buy_10yr": 523913,
+      "rent_10yr": 677949,
+      "diff_10yr": -154036,
+      "breakeven_5yr": "4.0%"
+    },
+    "P60": {
+      "total_monthly": 4377,
+      "buy_5yr": 349057,
+      "rent_5yr": 431527,
+      "diff_5yr": -82470,
+      "buy_10yr": 510741,
+      "rent_10yr": 655166,
+      "diff_10yr": -144425,
+      "breakeven_5yr": "4.0%"
+    },
+    "P61": {
+      "total_monthly": 4353,
+      "buy_5yr": 345878,
+      "rent_5yr": 430137,
+      "diff_5yr": -84259,
+      "buy_10yr": 502642,
+      "rent_10yr": 652611,
+      "diff_10yr": -149969,
+      "breakeven_5yr": "4.1%"
+    },
+    "P62": {
+      "total_monthly": 3684,
+      "buy_5yr": 332493,
+      "rent_5yr": 384080,
+      "diff_5yr": -51587,
+      "buy_10yr": 468541,
+      "rent_10yr": 545865,
+      "diff_10yr": -77324,
+      "breakeven_5yr": "3.5%"
+    },
+    "P63": {
+      "total_monthly": 3927,
+      "buy_5yr": 335839,
+      "rent_5yr": 400904,
+      "diff_5yr": -65065,
+      "buy_10yr": 477067,
+      "rent_10yr": 585228,
+      "diff_10yr": -108161,
+      "breakeven_5yr": "3.8%"
     }
   }
 }

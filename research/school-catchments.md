@@ -68,6 +68,9 @@ Current means the proposed neighbourhood pathway for the current research year. 
 | [2-20761 Duncan Way](https://www.google.com/maps/search/?api=1&query=2-20761+Duncan+Way%2C+Langley+City%2C+BC%2C+Canada) | [Douglas Park Community School](https://www.sd35.bc.ca/douglaspark) → [H.D. Stafford Middle](https://www.sd35.bc.ca/hdsms) → [Langley Secondary](https://www.sd35.bc.ca/lss) | None established | District-confirmed via district school locator, checked 2026-11-15 | Not needed |
 | [5-20582 67 Avenue](https://www.google.com/maps/search/?api=1&query=5-20582+67+Avenue%2C+Township+of+Langley%2C+BC%2C+Canada) | [R.C. Garnett Demonstration Elementary](https://www.sd35.bc.ca/rcgarnett) → [R.E. Mountain Secondary](https://www.sd35.bc.ca/remss) | None established | District-confirmed via district school locator, checked 2026-11-15 | Not needed |
 | [25-315 Schoolhouse Street](https://www.google.com/maps/search/?api=1&query=25-315+Schoolhouse+Street%2C+Coquitlam%2C+BC%2C+Canada) | [École Rochester Elementary](https://www.sd43.bc.ca/school/rochester/) → [École Maillard Middle School](https://www.sd43.bc.ca/maillard/) → [Centennial Secondary](https://www.sd43.bc.ca/centennial) | None established | District-confirmed via district school locator, checked 2026-11-15 | Not needed |
+| [19-16789 60 Avenue](https://www.google.com/maps/search/?api=1&query=19-16789+60+Avenue%2C+Surrey%2C+BC%2C+Canada) | [Surrey Centre Elementary](https://studentsuccess.gov.bc.ca/school/03636039) → [Lord Tweedsmuir Secondary](https://surreyschools.ca/tweeds/our-school) | None established | Listing/nearby lead; verify | Not needed |
+| [11-11875 210 Street](https://www.google.com/maps/search/?api=1&query=11-11875+210+Street%2C+Maple+Ridge%2C+BC%2C+Canada) | [Glenwood Elementary](https://elementary.sd42.ca/glenwood/) → [Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/) | None established | Listing/nearby lead; verify | Not needed |
+| [30-21801 Dewdney Trunk Road](https://www.google.com/maps/search/?api=1&query=30-21801+Dewdney+Trunk+Road%2C+Maple+Ridge%2C+BC%2C+Canada) | [Glenwood Elementary](https://elementary.sd42.ca/glenwood/) → [Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/) | None established | Listing/nearby lead; verify | Not needed |
 
 ## Evidence and unresolved issues
 
@@ -430,3 +433,21 @@ District-confirmed via the SD35 Baragar School Locator for 20582 67 Avenue, chec
 District-confirmed via the SD43 Baragar School Locator for 315 Schoolhouse Street, checked Nov 15, 2026: École Rochester Elementary (K–5), Ecole Maillard Middle (6–8), and Centennial Secondary (9–12) on the regular pathway. The listing lead correctly named École Rochester Elementary but incorrectly named Port Moody Secondary; the locator returns Centennial Secondary instead. The French Immersion track is École Rochester / Ecole Maillard / École Dr. Charles Best Secondary. Locator result is at street-number level (315 Schoolhouse Street as a whole, not unit 25 specifically). SD43 locator data as of Jul 7, 2026. No capacity, before/after care, or school safety conclusion.
 
 [Official district locator/guidance](https://sd43.bc.ca/cross-catchment). [District-confirmed catchment (district school locator)](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=bc43) · [Property advertisement / school leads](https://www.zolo.ca/coquitlam-real-estate/315-schoolhouse-street/25) · [Official school identity: École Rochester Elementary](https://www.sd43.bc.ca/school/rochester/) · [Official school identity: École Maillard Middle School](https://www.sd43.bc.ca/maillard/) · [Official school identity: Centennial Secondary](https://www.sd43.bc.ca/centennial)
+
+### P61 — 19-16789 60 Avenue
+
+Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Surrey Centre Elementary; Lord Tweedsmuir Secondary; A.J. McLellan Elementary also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD36 has no separate middle school (K–7 / 8–12).
+
+[Official district locator/guidance](https://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=BC36). [Property advertisement / school leads](https://www.zolo.ca/surrey-real-estate/16789-60-avenue/19) · [Official school identity: Surrey Centre Elementary](https://studentsuccess.gov.bc.ca/school/03636039) · [Official school identity: Lord Tweedsmuir Secondary](https://surreyschools.ca/tweeds/our-school)
+
+### P62 — 11-11875 210 Street
+
+Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Glenwood Elementary; Westview Secondary; Meadowridge also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD42 has no separate middle school (K–7 / 8–12).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/11875-210-street/11) · [Official school identity: Glenwood Elementary](https://elementary.sd42.ca/glenwood/) · [Official school identity: Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/)
+
+### P63 — 30-21801 Dewdney Trunk Road
+
+Listing/nearby school leads only, from the Zolo.ca listing page for this unit (Glenwood Elementary; Westview Secondary; Alouette and Meadowridge also named nearby). No district-confirmed address result, capacity or school safety conclusion. SD42 has no separate middle school (K–7 / 8–12).
+
+[Official district locator/guidance](https://www.sd42.ca/school-locator/). [Property advertisement / school leads](https://www.zolo.ca/maple-ridge-real-estate/21801-dewdney-trunk-road/30) · [Official school identity: Glenwood Elementary](https://elementary.sd42.ca/glenwood/) · [Official school identity: Westview Secondary](https://www.sd42.ca/secondary-school/westview-secondary/)

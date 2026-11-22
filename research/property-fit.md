@@ -127,7 +127,7 @@ Important notes:
 
 **6.0/10 · Promising if buffered from 208 Street · low confidence**
 
-**Availability update 2026-11-01: relisted** — now under new MLS R3178573 at $786,000 (was R3174076 at $799,900); confirmed active; open house Nov 1, 2:30–4:30 pm.
+**Availability update 2026-11-22: removed** — Zolo shows status Terminated, contract status change 2026-10-26; REALTOR.ca listing page now 404s. No close price shown; removal is not evidence of a sale. Note: the Oct 26 termination date precedes the Nov 1 relist note (new MLS R3178573 at $786,000) — the sequence is unresolved. No longer an active candidate; retain as a Walnut Grove pricing comparable.
 
 Total monthly planning estimate ~$4,443/mo, within the $5,000 total target (mortgage ~$3,042); advertised fenced yard, park access and the strongest elementary academic indicator in this sample (7.3/10). K–7 pathway covers middle-school ages.
 
@@ -471,24 +471,25 @@ Important notes:
 
 **6.0/10 · Promising — walk-out fenced yard, strong elementary lead · low confidence**
 
-**Availability update 2026-11-01: confirmed active** — price reduced to $774,900 (was $799,900).
+**Availability update 2026-11-22: confirmed active** — price reduced to $749,900 (was $774,900; cut $25,000). Open house Nov 22, 2:00–3:30 pm.
 
-Walk-out fenced backyard with a pathway to the complex playground; described as in the quieter part of the 106-unit TIME complex (built 2010); 1,477 sqft; Gordon Greenwood Elementary has a verified Fraser Institute 2023/24 score of 7.3, the strongest elementary lead in this batch; Walnut Grove Community Park (playground, community centre pool) roughly 14-26 min walk; listed Sep 28, 2026, 27 days on market. Total monthly planning estimate ~$4,325/mo at 4.75%/25yr with $250k down — within the $5,000 total target; strata $422.25/mo and tax $3,020.08 (2026) verified Nov 8, 2026.
+Walk-out fenced backyard with a pathway to the complex playground; described as in the quieter part of the 106-unit TIME complex (built 2010); 1,477 sqft; Gordon Greenwood Elementary has a verified Fraser Institute 2023/24 score of 7.3, the strongest elementary lead in this batch; Walnut Grove Community Park (playground, community centre pool) roughly 14-26 min walk; listed Sep 28, 2026. Total monthly planning estimate ~$4,173/mo at 4.75%/25yr with $250k down — within the $5,000 total target; strata $422.25/mo and tax $3,020.08 (2026) verified Nov 8, 2026.
 
-Strata $422.25/mo and tax $3,020.08 (2026) verified for unit 32 Nov 8, 2026; total ~$4,325/mo (mortgage-only ~$2,979/mo); same-complex unit 98 is pending at a $787,500 close price (Oct 7, 2026) — context only; catchment and school safety unverified.
+Strata $422.25/mo and tax $3,020.08 (2026) verified for unit 32 Nov 8, 2026; total ~$4,173/mo (mortgage-only ~$2,837/mo); same-complex unit 98 is pending at a $787,500 close price (Oct 7, 2026) — context only; catchment and school safety unverified.
 
 Important notes:
 
 - Unit 32's own figures ($422.25/mo strata, $3,020.08 tax, 2026) filled from Zolo Nov 8, 2026. Unit 98's fees ($478.40/mo strata, $2,756.31 tax for 2025) belong to a different unit and must not be attributed to unit 32.
+- Floor area conflicts across sources (Redfin 1,294 sqft vs Zolo/vancouvernashdom/EstateBlock 1,477 sqft — record keeps 1,477).
 - Asking price is not a sale price.
 
 ## P29 — 51-4967 220 Street
 
 **6.0/10 · Promising — lowest verified carrying cost, smallest floor area · low confidence**
 
-**Availability update 2026-11-08: confirmed active** — price reduced to $749,900 (was $769,900); open house Nov 8, 1:00–3:00 pm (listing text also says 2–4 pm — times conflict).
+**Availability update 2026-11-22: confirmed active** — price $749,900 (cut $20,000 on Nov 5); open house Nov 22, 2:00–4:00 pm (listing text and Zolo agree; the earlier 1–3pm time appears superseded).
 
-Lowest verified carrying cost in the batch: strata $381.68/mo and tax $2,528.19 (2026); total monthly planning estimate ~$4,092/mo at 4.75%/25yr with $250k down — within the $5,000 total target; price cut $20,000 (Nov 5) to $749,900; fenced yard off the kitchen; playground in the complex; 3 parking spaces (2 covered); east/west-facing layout; open house Nov 8, 1-3 pm (listing text also says 2-4 pm — times conflict); listing updated Nov 5, 2026.
+Lowest verified carrying cost in the batch: strata $381.68/mo and tax $2,528.19 (2026); total monthly planning estimate ~$4,092/mo at 4.75%/25yr with $250k down — within the $5,000 total target; price cut $20,000 (Nov 5) to $749,900; fenced yard off the kitchen; playground in the complex; 3 parking spaces (2 covered); east/west-facing layout; open house Nov 22, 2-4 pm; listing updated Nov 5, 2026.
 
 Smallest floor area in the batch (1,337 sqft; listing text says 1,344 sqft — discrepancy to note); catchment district-confirmed Oct 25, 2026: James Hill Elementary (Fraser 2023/24 score 6.0) → H.D. Stafford Middle → Langley Secondary — Alex Hope is not the catchment elementary and Langley Fundamental is a choice school, not the catchment secondary; 59 days on market; school capacity, before/after care and school safety unverified.
 
@@ -545,14 +546,16 @@ Important notes:
 
 **6.5/10 · Promising — Citadel, low strata · low confidence**
 
+**Availability update 2026-11-22: confirmed active** — price reduced to $870,000 (was $879,000; cut $9,000 on Nov 19, 2026). Open house Nov 22, 2:00–4:00 pm.
+
 Lowest strata in the batch ($295.73/mo); tax $3,199.40 (2025) verified; 2019 build; fenced yard/patio; double garage; Gates Park (playground, sports fields, Traboulay PoCo Trail) roughly 12-20 min walk; WCE/bus transit 55-80 min to Waterfront Station.
 
-Unit position relative to busy Pitt River Road is unresolved — the complex fronts the arterial; total monthly planning estimate ~$4,848/mo at 4.75%/25yr with $250k down — within the $5,000 total target; Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.
+Unit position relative to busy Pitt River Road is unresolved — the complex fronts the arterial; total monthly planning estimate ~$4,793/mo at 4.75%/25yr with $250k down — within the $5,000 total target; Central Community Elementary has a verified Fraser Institute 2023/24 score of 3.9; catchment and school safety unverified.
 
 Important notes:
 
 - Unit position relative to Pitt River Road is unresolved — check on site.
-- Mortgage-only ~$3,569/mo; total monthly planning estimate ~$4,848/mo.
+- Mortgage-only ~$3,518/mo; total monthly planning estimate ~$4,793/mo.
 - Asking price is not a sale price.
 
 ## P34 — 40-1355 Citadel Drive
@@ -615,6 +618,8 @@ Important notes:
 ## P38 — 4-11282 Cottonwood Drive
 
 **6.0/10 · Promising — largest floor area, highest carrying cost · low confidence**
+
+**Availability update 2026-11-22: pending** — Zolo shows status Pending with a $775,000 close price (contract status change Oct 31, 2026). No longer an active listing; retain as a Maple Ridge pricing comparable.
 
 Largest floor area in the batch (2,199 sqft); covered patio and fenced yard with a walk-out lower level; end unit; double garage plus 2 driveway spaces (4 total); strata ($513.28/mo) and tax ($4,599.57, 2025) verified; Kanaka Creek Regional Park roughly 20-28 min walk.
 
@@ -723,6 +728,8 @@ Important notes:
 ## P45 — 4-12070 207a Street
 
 **5.0/10 · Benchmark — 2-bed end-unit comparator · low confidence**
+
+**Availability update 2026-11-22: pending** — Zolo shows status Pending with a $575,000 close price (contract status change Oct 13, 2026). No longer an active listing; retain as a Maple Ridge pricing comparable.
 
 2-bed end-unit townhouse at $599,900; private fenced yard with patio/deck; strata ($400/mo) and tax ($4,191.79, 2025) verified; total monthly planning estimate ~$3,335/mo at 4.75%/25yr with $250k down — within the $5,000 total target; Callaghan Park roughly 14-18 min walk; single carport.
 

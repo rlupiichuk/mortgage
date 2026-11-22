@@ -1217,6 +1217,68 @@
       "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
       "status": "Park lead researched; entrance/access/crossing controls require confirmation",
       "checked_on": "2026-11-15"
+    },
+    "P61": {
+      "name": "Cloverdale Athletic Park",
+      "address": "6330 168 St, Surrey, BC",
+      "url": "https://www.surrey.ca/parks-recreation/parks/cloverdale-athletic-park",
+      "features": [
+        "Playground",
+        "Spray park (seasonal)",
+        "Sports fields",
+        "Tennis courts",
+        "Basketball court",
+        "Bike park",
+        "Picnic shelters",
+        "Washrooms"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        5,
+        10
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-22"
+    },
+    "P62": {
+      "name": "Cook Park",
+      "address": "21150 Cook Ave, Maple Ridge, BC",
+      "url": "https://www.mapleridge.ca/Facilities/Facility/Details/Cook-Park-42",
+      "features": [
+        "Playground",
+        "Basketball court",
+        "Ball hockey nets"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        5,
+        10
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-22"
+    },
+    "P63": {
+      "name": "Kin Park",
+      "address": "21790 121 Ave, Maple Ridge, BC",
+      "url": "https://www.mapleridge.ca/Facilities/Facility/Details/Kin-Park-80",
+      "features": [
+        "Playground",
+        "Tennis courts",
+        "Multi-use sports court"
+      ],
+      "walk_minutes": null,
+      "distance_m": null,
+      "walk_range_minutes": [
+        3,
+        8
+      ],
+      "walk_method": "Rough geocoded proximity estimate at family pace; not a network route",
+      "status": "Park lead researched; entrance/access/crossing controls require confirmation",
+      "checked_on": "2026-11-22"
     }
   },
   "crime_source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006301",
